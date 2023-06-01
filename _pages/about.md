@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Knowledge is infinite."
+title: "Dr. Rui Kong."
 excerpt: "About me"
 author_profile: true
 redirect_from: 

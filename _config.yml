@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rui Kong"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rui Kong"
 description              : &description "personal description"
 url                      : https://rui-kong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
