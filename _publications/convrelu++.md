@@ -9,6 +9,4 @@ citation: 'TODO.'
 ---
 TODO.
 
-[Download paper here](http://rui-kong.github.io/files/convrelu++.pdf)
-
-Recommended citation: TODO
+<!-- [Download paper here](http://rui-kong.github.io/files/convrelu++.pdf) -->
