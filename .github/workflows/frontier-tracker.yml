@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "15 2 * * *"
+    - cron: "15 14 * * *"
 
 permissions:
   contents: write
@@ -31,10 +32,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet; then
+          git add blog
+          if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git add blog
-          git commit -m "Update frontier tracker"
+          git commit -m "Update frontier radar ($(date -u +%F))"
           git push

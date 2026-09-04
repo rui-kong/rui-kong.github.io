@@ -1,0 +1,189 @@
+{
+  "generated_at": "2026-09-04T06:53:04.866188Z",
+  "sources": [
+    {
+      "name": "arXiv",
+      "ok": true,
+      "fetched": 120,
+      "ai_related": 87,
+      "ai_ratio": 0.725,
+      "error": null
+    },
+    {
+      "name": "GitHub",
+      "ok": true,
+      "fetched": 100,
+      "ai_related": 53,
+      "ai_ratio": 0.53,
+      "error": null
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 60,
+      "ai_related": 2,
+      "ai_ratio": 0.033,
+      "error": null
+    },
+    {
+      "name": "HF Daily Papers",
+      "ok": true,
+      "fetched": 40,
+      "ai_related": 33,
+      "ai_ratio": 0.825,
+      "error": null
+    },
+    {
+      "name": "DeepMind Blog",
+      "ok": true,
+      "fetched": 30,
+      "ai_related": 1,
+      "ai_ratio": 0.033,
+      "error": null
+    },
+    {
+      "name": "Google Research",
+      "ok": true,
+      "fetched": 30,
+      "ai_related": 3,
+      "ai_ratio": 0.1,
+      "error": null
+    },
+    {
+      "name": "Hugging Face Blog",
+      "ok": true,
+      "fetched": 30,
+      "ai_related": 17,
+      "ai_ratio": 0.567,
+      "error": null
+    },
+    {
+      "name": "Lil'Log",
+      "ok": true,
+      "fetched": 30,
+      "ai_related": 17,
+      "ai_ratio": 0.567,
+      "error": null
+    },
+    {
+      "name": "OpenAI News",
+      "ok": true,
+      "fetched": 30,
+      "ai_related": 2,
+      "ai_ratio": 0.067,
+      "error": null
+    },
+    {
+      "name": "Sebastian Raschka",
+      "ok": true,
+      "fetched": 30,
+      "ai_related": 19,
+      "ai_ratio": 0.633,
+      "error": null
+    },
+    {
+      "name": "Simon Willison",
+      "ok": true,
+      "fetched": 30,
+      "ai_related": 24,
+      "ai_ratio": 0.8,
+      "error": null
+    },
+    {
+      "name": "Ahead of AI",
+      "ok": true,
+      "fetched": 20,
+      "ai_related": 18,
+      "ai_ratio": 0.9,
+      "error": null
+    },
+    {
+      "name": "Google AI Blog",
+      "ok": true,
+      "fetched": 20,
+      "ai_related": 2,
+      "ai_ratio": 0.1,
+      "error": null
+    },
+    {
+      "name": "TechCrunch AI",
+      "ok": true,
+      "fetched": 19,
+      "ai_related": 2,
+      "ai_ratio": 0.105,
+      "error": null
+    },
+    {
+      "name": "Hugging Face",
+      "ok": true,
+      "fetched": 14,
+      "ai_related": 3,
+      "ai_ratio": 0.214,
+      "error": null
+    },
+    {
+      "name": "GitHub Blog AI",
+      "ok": true,
+      "fetched": 10,
+      "ai_related": 1,
+      "ai_ratio": 0.1,
+      "error": null
+    },
+    {
+      "name": "MarkTechPost",
+      "ok": true,
+      "fetched": 10,
+      "ai_related": 6,
+      "ai_ratio": 0.6,
+      "error": null
+    },
+    {
+      "name": "Microsoft Research",
+      "ok": true,
+      "fetched": 10,
+      "ai_related": 3,
+      "ai_ratio": 0.3,
+      "error": null
+    },
+    {
+      "name": "PyTorch Blog",
+      "ok": true,
+      "fetched": 10,
+      "ai_related": 3,
+      "ai_ratio": 0.3,
+      "error": null
+    },
+    {
+      "name": "The Verge AI",
+      "ok": true,
+      "fetched": 10,
+      "ai_related": 3,
+      "ai_ratio": 0.3,
+      "error": null
+    },
+    {
+      "name": "Meta AI Blog",
+      "ok": true,
+      "fetched": 9,
+      "ai_related": 2,
+      "ai_ratio": 0.222,
+      "error": null
+    },
+    {
+      "name": "BAIR Blog",
+      "ok": false,
+      "fetched": 0,
+      "ai_related": 0,
+      "ai_ratio": 0.0,
+      "error": "URLError: <urlopen error timed out>"
+    },
+    {
+      "name": "Reddit",
+      "ok": false,
+      "fetched": 0,
+      "ai_related": 0,
+      "ai_ratio": 0.0,
+      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+    }
+  ]
+}

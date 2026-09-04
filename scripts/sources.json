@@ -1,0 +1,24 @@
+{
+  "feeds": [
+    { "name": "OpenAI News", "url": "https://openai.com/news/rss.xml", "category": "产品", "weight": 0.98 },
+    { "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "category": "模型", "weight": 0.94 },
+    { "name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/", "category": "产品", "weight": 0.94 },
+    { "name": "Google Research", "url": "https://research.google/blog/rss/", "category": "论文", "weight": 0.94 },
+    { "name": "DeepMind Blog", "url": "https://deepmind.google/blog/rss.xml", "category": "产品", "weight": 0.95 },
+    { "name": "Meta AI Blog", "url": "https://engineering.fb.com/category/ml-applications/feed/", "category": "产品", "weight": 0.9 },
+    { "name": "Microsoft Research", "url": "https://www.microsoft.com/en-us/research/feed/", "category": "论文", "weight": 0.9 },
+    { "name": "PyTorch Blog", "url": "https://pytorch.org/blog/feed/", "category": "开发者", "weight": 0.88 },
+    { "name": "GitHub Blog AI", "url": "https://github.blog/ai-and-ml/feed/", "category": "开发者", "weight": 0.82 },
+    { "name": "Ahead of AI", "url": "https://magazine.sebastianraschka.com/feed", "category": "自媒体", "weight": 0.92 },
+    { "name": "Sebastian Raschka", "url": "https://sebastianraschka.com/rss_feed.xml", "category": "自媒体", "weight": 0.92 },
+    { "name": "Lil'Log", "url": "https://lilianweng.github.io/index.xml", "category": "自媒体", "weight": 0.92 },
+    { "name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "category": "自媒体", "weight": 0.86 },
+    { "name": "BAIR Blog", "url": "https://bair.berkeley.edu/blog/feed.xml", "category": "论文", "weight": 0.88 },
+    { "name": "MarkTechPost", "url": "https://www.marktechpost.com/feed/", "category": "行业", "weight": 0.62 },
+    { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "行业", "weight": 0.6 },
+    { "name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "category": "行业", "weight": 0.6 }
+  ],
+  "arxiv_categories": ["cs.CL", "cs.LG", "cs.AI", "cs.DC"],
+  "reddit_subreddits": ["MachineLearning", "LocalLLaMA", "OpenAI", "singularity"],
+  "github_queries": ["llm", "transformer", "inference engine", "agent framework", "moe"]
+}

@@ -1,10 +1,21 @@
 #!/usr/bin/env python3
-"""Collect frontier-model signals and render a static daily tracker.
+"""Frontier model news radar.
 
-This script is designed to run locally or inside GitHub Actions without any
-third-party Python dependencies. It gathers recent candidates from arXiv,
-Hacker News, Reddit, GitHub, and Hugging Face, scores them, writes JSON
-artifacts, and renders a daily HTML digest.
+Pipeline: collect -> score AI relevance -> merge into stories -> rank -> render.
+
+The shape follows LearnPrompt/ai-news-radar: a stable pipeline that emits static
+JSON, plus a single-layer front end (category tabs x brief/all toggle x
+timeline) that only reads those JSON files. No backend, no API key, no login.
+
+Outputs under blog/data:
+  daily-brief.json      curated items for the latest run
+  latest-24h.json       strong AI signal inside the recent window
+  latest-24h-all.json   broader AI-related pool (relevance >= 0.3)
+  stories-merged.json   full merged story set
+  source-status.json    per-source fetch health and AI ratio
+  merge-log.json        how stories were merged, for auditing
+  index.json            archive manifest
+  daily/<date>.json     per-day snapshot consumed by the web UI
 """
 
 from __future__ import annotations
@@ -16,231 +27,175 @@ import math
 import os
 import re
 import sys
-from collections import Counter, defaultdict
+import time
+from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional, Tuple
+from typing import Any, Callable, Dict, List, Optional, Tuple
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, urlparse
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
-
 ROOT = Path(__file__).resolve().parents[1]
-BLOG_DIR = ROOT / "blog"
-DATA_DIR = BLOG_DIR / "data"
-POSTS_DIR = BLOG_DIR / "posts"
+DEFAULT_BLOG_DIR = ROOT / "blog"
+SOURCES_FILE = Path(__file__).resolve().parent / "sources.json"
 
 NOW = datetime.now(timezone.utc)
 TODAY = NOW.date().isoformat()
-
-USER_AGENT = "rui-kong-frontier-tracker/1.0 (+https://rui-kong.github.io)"
+WINDOW_HOURS = 48
+USER_AGENT = "frontier-tracker/2.0 (+https://rui-kong.github.io/blog/)"
 TIMEOUT = 25
 
-SOURCE_WEIGHTS = {
-    "arXiv": 0.96,
-    "Hugging Face": 0.90,
-    "GitHub": 0.86,
-    "Hacker News": 0.74,
-    "Reddit": 0.66,
+CATEGORIES = ["模型", "产品", "开发者", "行业", "论文", "社区", "自媒体"]
+
+STRONG_TERMS = {
+    "large language model": 0.36,
+    "language model": 0.30,
+    "llm": 0.34,
+    "transformer": 0.30,
+    "gpt": 0.28,
+    "claude": 0.28,
+    "gemini": 0.26,
+    "llama": 0.26,
+    "qwen": 0.26,
+    "deepseek": 0.28,
+    "mixture-of-experts": 0.32,
+    "mixture of experts": 0.32,
+    "moe": 0.26,
+    "pretraining": 0.32,
+    "pre-training": 0.32,
+    "post-training": 0.30,
+    "fine-tuning": 0.24,
+    "reinforcement learning": 0.26,
+    "rlhf": 0.30,
+    "diffusion model": 0.26,
+    "attention": 0.22,
+    "inference": 0.22,
+    "quantization": 0.26,
+    "kv cache": 0.32,
+    "speculative decoding": 0.34,
+    "agent": 0.20,
+    "multimodal": 0.24,
+    "benchmark": 0.18,
+    "reasoning": 0.22,
+    "scaling law": 0.34,
+    "tokenizer": 0.24,
+    "context window": 0.26,
+    "大模型": 0.30,
+    "预训练": 0.32,
+    "推理加速": 0.30,
+    "智能体": 0.24,
+    "长上下文": 0.26,
 }
 
-SOURCE_KIND_WEIGHTS = {
-    "arxiv": 0.96,
-    "huggingface": 0.90,
-    "github": 0.86,
-    "hn": 0.74,
-    "reddit": 0.66,
+WEAK_TERMS = {
+    "artificial intelligence": 0.12,
+    "machine learning": 0.14,
+    "deep learning": 0.16,
+    "neural": 0.12,
+    "dataset": 0.10,
+    "training": 0.12,
+    "open-weight": 0.16,
+    "open source": 0.08,
+    "gpu": 0.12,
+    "cuda": 0.14,
+    "人工智能": 0.12,
+    "模型": 0.10,
 }
 
 TOPIC_RULES = [
-    (
-        "推理与系统",
-        [
-            "inference",
-            "serving",
-            "kv cache",
-            "speculative",
-            "latency",
-            "throughput",
-            "quantization",
-            "compression",
-            "routing",
-            "compiler",
-            "kernel",
-            "decoding",
-            "cache",
-            "memory",
-        ],
-    ),
-    (
-        "训练/预训练",
-        [
-            "pretrain",
-            "training",
-            "pre-training",
-            "optimizer",
-            "scaling",
-            "moe",
-            "transformer",
-            "architecture",
-            "looped",
-            "recurrent",
-        ],
-    ),
-    (
-        "对齐/后训练",
-        [
-            "alignment",
-            "rlhf",
-            "rlaif",
-            "post-training",
-            "dpo",
-            "ppo",
-            "sft",
-            "preference",
-            "reward",
-        ],
-    ),
-    (
-        "Agent/工具",
-        [
-            "agent",
-            "tool use",
-            "tool-use",
-            "workflow",
-            "orchestration",
-            "memory",
-            "browser",
-            "function calling",
-        ],
-    ),
-    (
-        "多模态",
-        [
-            "vision",
-            "image",
-            "video",
-            "audio",
-            "multimodal",
-            "vlm",
-        ],
-    ),
-    (
-        "数据/评测",
-        [
-            "benchmark",
-            "evaluation",
-            "eval",
-            "dataset",
-            "leaderboard",
-            "swebench",
-            "test set",
-            "robustness",
-        ],
-    ),
-    (
-        "开源/发布",
-        [
-            "release",
-            "open source",
-            "open-source",
-            "weights",
-            "checkpoint",
-            "repo",
-            "github",
-            "hugging face",
-            "hf",
-        ],
-    ),
+    ("推理与系统", ["inference", "serving", "kv cache", "speculative", "latency", "throughput",
+                "quantization", "kernel", "cuda", "vllm", "sglang", "decoding", "triton"]),
+    ("训练与架构", ["pretrain", "pre-training", "training", "optimizer", "scaling", "moe",
+                "transformer", "architecture", "looped", "recurrent", "attention", "tokenizer"]),
+    ("对齐与后训练", ["alignment", "rlhf", "rlaif", "post-training", "dpo", "grpo", "ppo",
+                 "sft", "preference", "reward", "distillation"]),
+    ("Agent 与工具", ["agent", "tool use", "tool-use", "workflow", "orchestration", "memory",
+                   "browser", "function calling", "mcp", "coding agent"]),
+    ("多模态", ["vision", "image", "video", "audio", "speech", "multimodal", "vlm", "omni"]),
+    ("数据与评测", ["benchmark", "evaluation", "eval", "dataset", "leaderboard", "swebench",
+                "contamination", "robustness"]),
+    ("发布与生态", ["release", "open source", "open-source", "weights", "checkpoint", "launch",
+                "preview", "api"]),
 ]
 
-NOVELTY_TERMS = {
-    "paper",
-    "preprint",
-    "technical report",
-    "release",
-    "open source",
-    "open-source",
-    "weights",
-    "checkpoint",
-    "benchmark",
-    "dataset",
-    "code",
-    "repository",
-    "model",
-    "new",
-    "first",
-    "launch",
-    "introduce",
-    "introduces",
-    "released",
-}
-
-OFFICIAL_SOURCE_HINTS = {
-    "arxiv",
-    "github",
-    "huggingface",
-    "papers",
-    "openai",
-    "anthropic",
-    "google",
-    "meta",
-    "microsoft",
-    "deepmind",
-    "together",
-    "cohere",
+STOPWORDS = {
+    "the", "a", "an", "of", "for", "and", "to", "in", "on", "with", "by", "via", "from",
+    "is", "are", "we", "our", "that", "this", "using", "towards", "toward", "how", "why",
+    "new", "can", "its", "it", "at", "as", "be", "into", "about", "over", "more",
 }
 
 
-def fetch_text(url: str, headers: Optional[Dict[str, str]] = None) -> str:
-    request_headers = {"User-Agent": USER_AGENT}
-    if headers:
-        request_headers.update(headers)
-    request = Request(url, headers=request_headers)
-    with urlopen(request, timeout=TIMEOUT) as response:
-        return response.read().decode("utf-8", errors="replace")
+def load_sources() -> Dict[str, Any]:
+    if SOURCES_FILE.exists():
+        try:
+            return json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            print(f"[warn] sources.json is invalid: {exc}", file=sys.stderr)
+    return {"feeds": [], "arxiv_categories": ["cs.CL", "cs.LG", "cs.AI"],
+            "reddit_subreddits": ["MachineLearning", "LocalLLaMA"],
+            "github_queries": ["llm", "transformer"]}
+
+
+BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+
+def fetch_text(url: str, headers: Optional[Dict[str, str]] = None, attempts: int = 3) -> str:
+    """Fetch a URL, retrying transient failures and falling back to a browser UA."""
+    last_error: Optional[Exception] = None
+    for attempt in range(attempts):
+        request_headers = {"User-Agent": BROWSER_UA if attempt else USER_AGENT}
+        if headers:
+            request_headers.update(headers)
+        try:
+            with urlopen(Request(url, headers=request_headers), timeout=TIMEOUT) as response:
+                return response.read().decode("utf-8", errors="replace")
+        except (HTTPError, URLError, TimeoutError) as exc:
+            last_error = exc
+            if isinstance(exc, HTTPError) and exc.code in {401, 404, 410}:
+                break
+            time.sleep(1.5 * (attempt + 1))
+    raise last_error if last_error else RuntimeError(f"failed to fetch {url}")
 
 
 def fetch_json(url: str, headers: Optional[Dict[str, str]] = None) -> Any:
     return json.loads(fetch_text(url, headers=headers))
 
 
-def clean_html_text(text: str) -> str:
+def clean_text(text: Optional[str]) -> str:
     if not text:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
     text = html.unescape(text)
-    text = re.sub(r"\s+", " ", text)
-    return text.strip()
+    return re.sub(r"\s+", " ", text).strip()
 
-
-def parse_iso(value: Optional[str]) -> Optional[datetime]:
+def parse_date(value: Optional[str]) -> Optional[datetime]:
     if not value:
         return None
     value = value.strip()
-    if value.endswith("Z"):
-        value = value[:-1] + "+00:00"
+    candidate = value[:-1] + "+00:00" if value.endswith("Z") else value
     try:
-        return datetime.fromisoformat(value)
+        parsed = datetime.fromisoformat(candidate)
     except ValueError:
+        try:
+            parsed = parsedate_to_datetime(value)
+        except (TypeError, ValueError, IndexError):
+            return None
+    if parsed is None:
         return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
 
 
-def format_iso(dt: Optional[datetime]) -> Optional[str]:
-    if dt is None:
+def to_iso(value: Optional[datetime]) -> Optional[str]:
+    if value is None:
         return None
-    return dt.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
-
-
-def normalize_title(title: str) -> str:
-    title = title.lower()
-    title = re.sub(r"https?://\S+", " ", title)
-    title = re.sub(r"[^a-z0-9\u4e00-\u9fff]+", " ", title)
-    title = re.sub(r"\b(the|a|an|of|for|and|to|in|on|with|by|via|from)\b", " ", title)
-    title = re.sub(r"\s+", " ", title)
-    return title.strip()
+    return value.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
 
 
 def canonical_url(url: Optional[str]) -> Optional[str]:
@@ -250,697 +205,485 @@ def canonical_url(url: Optional[str]) -> Optional[str]:
     if not parsed.scheme or not parsed.netloc:
         return url
     path = parsed.path.rstrip("/")
-    query = ""
-    if "github.com" in parsed.netloc:
-        path = re.sub(r"/(?:issues|pulls|pull|discussions)/\d+.*$", "", path)
-    return f"{parsed.scheme}://{parsed.netloc}{path}{query}"
+    if "arxiv.org" in parsed.netloc:
+        path = re.sub(r"^/pdf/", "/abs/", path)
+        path = re.sub(r"v\d+$", "", path)
+    return f"{parsed.scheme}://{parsed.netloc}{path}"
 
 
-def domain_from_url(url: Optional[str]) -> str:
-    if not url:
-        return ""
-    parsed = urlparse(url)
-    return parsed.netloc.lower()
+def title_tokens(title: str) -> set:
+    lowered = title.lower()
+    lowered = re.sub(r"https?://\S+", " ", lowered)
+    raw = re.findall(r"[a-z0-9]+|[\u4e00-\u9fff]{2,}", lowered)
+    return {token for token in raw if len(token) > 2 and token not in STOPWORDS}
 
 
-def topic_for_text(text: str) -> Tuple[str, List[str]]:
-    lowered = text.lower()
-    scores: List[Tuple[int, str]] = []
-    tags: List[str] = []
-    for topic, keywords in TOPIC_RULES:
-        matched = sum(1 for keyword in keywords if keyword in lowered)
-        if matched:
-            scores.append((matched, topic))
-            for keyword in keywords:
-                if keyword in lowered and keyword not in tags:
-                    tags.append(keyword)
-    if scores:
-        scores.sort(key=lambda item: (item[0], len(item[1])), reverse=True)
-        return scores[0][1], tags[:5]
-    return "其他", tags[:5]
-
-
-def engagement_score(candidate: Dict[str, Any]) -> float:
-    raw = candidate.get("engagement") or 0
-    if raw <= 0:
+def jaccard(left: set, right: set) -> float:
+    if not left or not right:
         return 0.0
-    return min(0.12, math.log10(1.0 + float(raw)) / 10.0)
+    return len(left & right) / len(left | right)
 
-
-def recency_score(candidate: Dict[str, Any]) -> float:
-    published = parse_iso(candidate.get("published_at"))
-    if published is None:
-        return 0.45
-    age_hours = max(0.0, (NOW - published).total_seconds() / 3600.0)
-    return max(0.0, 1.0 - min(age_hours, 168.0) / 168.0)
-
-
-def novelty_score(text: str) -> float:
+def ai_relevance(text: str) -> float:
     lowered = text.lower()
     score = 0.0
-    for term in NOVELTY_TERMS:
+    for term, weight in STRONG_TERMS.items():
         if term in lowered:
-            score += 0.08
-    if "technical report" in lowered:
-        score += 0.08
-    return min(score, 0.36)
+            score += weight
+    for term, weight in WEAK_TERMS.items():
+        if term in lowered:
+            score += weight
+    return round(min(1.0, score), 3)
 
 
-def source_weight(candidate: Dict[str, Any]) -> float:
-    if candidate.get("source_kind") in SOURCE_KIND_WEIGHTS:
-        return SOURCE_KIND_WEIGHTS[candidate["source_kind"]]
-    return SOURCE_WEIGHTS.get(candidate.get("source", ""), 0.6)
+def detect_topic(text: str) -> str:
+    lowered = text.lower()
+    best_topic = "其他"
+    best_hits = 0
+    for topic, keywords in TOPIC_RULES:
+        hits = sum(1 for keyword in keywords if keyword in lowered)
+        if hits > best_hits:
+            best_topic, best_hits = topic, hits
+    return best_topic
 
 
-def cluster_bonus(cluster_size: int) -> float:
-    if cluster_size <= 1:
+def recency_weight(published: Optional[datetime]) -> float:
+    if published is None:
+        return 0.4
+    age_hours = max(0.0, (NOW - published).total_seconds() / 3600.0)
+    return max(0.0, 1.0 - min(age_hours, float(WINDOW_HOURS)) / float(WINDOW_HOURS))
+
+
+def engagement_weight(value: int) -> float:
+    if value <= 0:
         return 0.0
-    return min(0.15, 0.05 * (cluster_size - 1))
+    return min(1.0, math.log10(1.0 + float(value)) / 4.0)
 
 
-def official_bonus(candidate: Dict[str, Any]) -> float:
-    source = (candidate.get("source") or "").lower()
-    url = (candidate.get("url") or "").lower()
-    if any(hint in source for hint in OFFICIAL_SOURCE_HINTS):
-        return 0.06
-    if any(hint in url for hint in OFFICIAL_SOURCE_HINTS):
-        return 0.05
-    return 0.0
+def novelty_weight(text: str) -> float:
+    lowered = text.lower()
+    markers = ("release", "released", "introduc", "launch", "technical report", "open-weight",
+               "we present", "open source", "preview", "首发", "发布", "开源")
+    hits = sum(1 for marker in markers if marker in lowered)
+    return min(1.0, 0.25 * hits)
 
-
-def score_candidate(candidate: Dict[str, Any], cluster_size: int) -> Tuple[float, Dict[str, float], List[str]]:
-    title = candidate.get("title", "")
-    text = f"{title} {candidate.get('summary', '')} {candidate.get('tags_text', '')}"
-    topic, _ = topic_for_text(text)
-    candidate["topic"] = topic
-    source_component = source_weight(candidate)
-    recency_component = recency_score(candidate)
-    novelty_component = novelty_score(text)
-    topic_component = 0.0 if topic == "其他" else 0.18
-    engagement_component = engagement_score(candidate)
-    cluster_component = cluster_bonus(cluster_size)
-    official_component = official_bonus(candidate)
-
-    raw_score = (
-        0.34 * source_component
-        + 0.24 * recency_component
-        + 0.16 * novelty_component
-        + 0.12 * topic_component
-        + 0.08 * engagement_component
-        + 0.06 * cluster_component
-        + 0.02 * official_component
-    )
-    score = round(min(1.0, raw_score) * 140.0, 1)
-
-    reasons: List[str] = []
-    if source_component >= 0.9:
-        reasons.append("高可信原始来源")
-    elif source_component >= 0.74:
-        reasons.append("高信号社区来源")
-    if recency_component >= 0.8:
-        reasons.append("发布时间很新")
-    if topic != "其他":
-        reasons.append(f"主题属于{topic}")
-    if novelty_component >= 0.16:
-        reasons.append("带有明确技术增量信号")
-    if cluster_size > 1:
-        reasons.append(f"被{cluster_size}个来源交叉提及")
-    if engagement_component >= 0.05:
-        reasons.append("社区互动较高")
-    if not reasons:
-        reasons.append("综合信号足够强")
-
-    details = {
-        "source": round(source_component * 100.0, 1),
-        "recency": round(recency_component * 100.0, 1),
-        "novelty": round(novelty_component * 100.0, 1),
-        "topic": round(topic_component * 100.0, 1),
-        "engagement": round(engagement_component * 100.0, 1),
-        "cluster": round(cluster_component * 100.0, 1),
-        "official": round(official_component * 100.0, 1),
-    }
-    return score, details, reasons
-
-
-def make_item(
-    *,
-    title: str,
-    url: Optional[str],
-    source: str,
-    source_kind: str,
-    published_at: Optional[str],
-    summary: str = "",
-    authors: Optional[List[str]] = None,
-    tags: Optional[List[str]] = None,
-    engagement: int = 0,
-    extra: Optional[Dict[str, Any]] = None,
-) -> Dict[str, Any]:
-    tags = tags or []
-    summary = clean_html_text(summary)
-    title = clean_html_text(title)
+def make_item(*, title: str, url: Optional[str], source: str, source_kind: str,
+              category: str, published_at: Optional[str], summary: str = "",
+              weight: float = 0.7, engagement: int = 0,
+              tags: Optional[List[str]] = None,
+              extra: Optional[Dict[str, Any]] = None) -> Optional[Dict[str, Any]]:
+    title = clean_text(title)
+    if not title:
+        return None
+    summary = clean_text(summary)
+    tags = [tag for tag in (tags or []) if tag]
     text = f"{title} {summary} {' '.join(tags)}"
-    topic, topic_tags = topic_for_text(text)
-    normalized = normalize_title(title)
+    published = parse_date(published_at)
     return {
-        "id": "",
         "title": title,
         "url": canonical_url(url),
         "source": source,
         "source_kind": source_kind,
-        "published_at": published_at,
-        "summary": summary,
-        "authors": authors or [],
-        "tags": list(dict.fromkeys([tag for tag in tags if tag] + topic_tags)),
-        "tags_text": " ".join(tags + topic_tags),
-        "topic": topic,
-        "engagement": int(engagement),
-        "normalized_title": normalized,
+        "source_weight": weight,
+        "category": category,
+        "published_at": to_iso(published),
+        "summary": summary[:600],
+        "tags": tags[:8],
+        "engagement": int(engagement or 0),
+        "ai_score": ai_relevance(text),
+        "topic": detect_topic(text),
+        "tokens": title_tokens(title),
         "extra": extra or {},
     }
 
 
-def fetch_arxiv_candidates() -> List[Dict[str, Any]]:
-    queries = [
-        ("cs.CL", "cat:cs.CL"),
-        ("cs.LG", "cat:cs.LG"),
-        ("cs.AI", "cat:cs.AI"),
-        ("stat.ML", "cat:stat.ML"),
-    ]
+def score_story(story: Dict[str, Any]) -> Tuple[float, Dict[str, float], str]:
+    published = parse_date(story.get("published_at"))
+    source_component = story["source_weight"]
+    recency_component = recency_weight(published)
+    novelty_component = novelty_weight(f"{story['title']} {story.get('summary', '')}")
+    relevance_component = story["ai_score"]
+    multi_component = min(1.0, 0.5 * (story["cluster_size"] - 1))
+    engagement_component = engagement_weight(story.get("engagement", 0))
+
+    raw = (0.30 * source_component
+           + 0.22 * recency_component
+           + 0.16 * novelty_component
+           + 0.14 * relevance_component
+           + 0.10 * multi_component
+           + 0.08 * engagement_component)
+    score = round(min(100.0, raw * 115.0), 1)
+
+    reasons: List[str] = []
+    if source_component >= 0.9:
+        reasons.append("一手来源")
+    elif source_component >= 0.8:
+        reasons.append("高信号来源")
+    if story["cluster_size"] > 1:
+        reasons.append(f"{story['cluster_size']} 家信源同时报道")
+    if recency_component >= 0.75:
+        reasons.append("刚刚发生")
+    if novelty_component >= 0.25:
+        reasons.append("有明确发布或技术增量")
+    if relevance_component >= 0.7:
+        reasons.append("与大模型技术强相关")
+    if engagement_component >= 0.5:
+        reasons.append("社区讨论热度高")
+    if not reasons:
+        reasons.append("综合信号达到入选线")
+
+    breakdown = {
+        "source": round(source_component * 100, 1),
+        "recency": round(recency_component * 100, 1),
+        "novelty": round(novelty_component * 100, 1),
+        "relevance": round(relevance_component * 100, 1),
+        "multi_source": round(multi_component * 100, 1),
+        "engagement": round(engagement_component * 100, 1),
+    }
+    return score, breakdown, "、".join(reasons)
+
+ATOM_NS = {"atom": "http://www.w3.org/2005/Atom"}
+
+
+def collect_feed(feed: Dict[str, Any]) -> List[Dict[str, Any]]:
+    xml_text = fetch_text(feed["url"], headers={"Accept": "application/rss+xml, application/xml"})
+    root = ET.fromstring(xml_text)
     items: List[Dict[str, Any]] = []
-    for label, query in queries:
-        url = "https://export.arxiv.org/api/query?" + urlencode(
-            {
-                "search_query": query,
-                "sortBy": "submittedDate",
-                "sortOrder": "descending",
-                "start": 0,
-                "max_results": 25,
-            }
-        )
-        try:
-            xml_text = fetch_text(url)
-        except (HTTPError, URLError, TimeoutError):
-            continue
-        root = ET.fromstring(xml_text)
-        ns = {
-            "atom": "http://www.w3.org/2005/Atom",
-            "arxiv": "http://arxiv.org/schemas/atom",
-        }
-        for entry in root.findall("atom:entry", ns):
-            title = (entry.findtext("atom:title", default="", namespaces=ns) or "").strip()
-            summary = (entry.findtext("atom:summary", default="", namespaces=ns) or "").strip()
-            published = entry.findtext("atom:published", default="", namespaces=ns)
-            authors = [
-                (author.findtext("atom:name", default="", namespaces=ns) or "").strip()
-                for author in entry.findall("atom:author", ns)
-            ]
-            links = entry.findall("atom:link", ns)
-            pdf_url = None
-            abs_url = None
-            for link in links:
-                href = link.attrib.get("href")
-                rel = link.attrib.get("rel")
-                title_attr = link.attrib.get("title", "")
-                if rel == "alternate":
-                    abs_url = href
-                if title_attr.lower() == "pdf" or link.attrib.get("type") == "application/pdf":
-                    pdf_url = href
-            tags = [label]
-            categories = [item.attrib.get("term", "") for item in entry.findall("atom:category", ns)]
-            tags.extend([category for category in categories if category])
-            items.append(
-                make_item(
-                    title=title,
-                    url=pdf_url or abs_url,
-                    source="arXiv",
-                    source_kind="arxiv",
-                    published_at=published,
-                    summary=summary,
-                    authors=authors,
-                    tags=tags,
-                    extra={"category": label, "alternate_url": abs_url, "pdf_url": pdf_url},
-                )
-            )
+    nodes = root.findall(".//item") or root.findall(".//atom:entry", ATOM_NS)
+    for node in nodes[:30]:
+        title = node.findtext("title") or node.findtext("atom:title", namespaces=ATOM_NS) or ""
+        link = node.findtext("link") or ""
+        if not link:
+            link_node = node.find("atom:link", ATOM_NS)
+            if link_node is not None:
+                link = link_node.attrib.get("href", "")
+        published = (node.findtext("pubDate")
+                     or node.findtext("atom:published", namespaces=ATOM_NS)
+                     or node.findtext("atom:updated", namespaces=ATOM_NS))
+        summary = (node.findtext("description")
+                   or node.findtext("atom:summary", namespaces=ATOM_NS)
+                   or node.findtext("atom:content", namespaces=ATOM_NS)
+                   or "")
+        item = make_item(title=title, url=link, source=feed["name"], source_kind="feed",
+                         category=feed.get("category", "行业"), published_at=published,
+                         summary=summary, weight=float(feed.get("weight", 0.7)),
+                         tags=[feed.get("category", "行业")])
+        if item:
+            items.append(item)
     return items
 
 
-def fetch_reddit_candidates() -> List[Dict[str, Any]]:
-    subreddits = [
-        "MachineLearning",
-        "LocalLLaMA",
-        "artificial",
-        "singularity",
-        "OpenAI",
-        "LanguageTechnology",
-    ]
-    sorts = [("new", "day"), ("top", "week")]
+def collect_arxiv(categories: List[str]) -> List[Dict[str, Any]]:
     items: List[Dict[str, Any]] = []
-    for subreddit in subreddits:
-        for sort, timeframe in sorts:
-            url = f"https://www.reddit.com/r/{subreddit}/{sort}.json?limit=25&t={timeframe}"
-            try:
-                payload = fetch_json(url, headers={"Accept": "application/json"})
-            except (HTTPError, URLError, TimeoutError, json.JSONDecodeError):
-                continue
-            for child in payload.get("data", {}).get("children", []):
-                data = child.get("data", {})
-                title = data.get("title", "")
-                selftext = data.get("selftext", "")
-                permalink = data.get("permalink", "")
-                created_utc = data.get("created_utc")
-                published_at = (
-                    datetime.fromtimestamp(created_utc, tz=timezone.utc).isoformat().replace("+00:00", "Z")
-                    if created_utc
-                    else None
-                )
-                items.append(
-                    make_item(
-                        title=title,
-                        url=f"https://www.reddit.com{permalink}" if permalink else data.get("url"),
-                        source=f"Reddit/r/{subreddit}",
-                        source_kind="reddit",
-                        published_at=published_at,
-                        summary=selftext[:800],
-                        tags=[subreddit, sort, timeframe],
-                        engagement=int(data.get("score") or 0) + int(data.get("num_comments") or 0),
-                        extra={
-                            "subreddit": subreddit,
-                            "score": data.get("score", 0),
-                            "num_comments": data.get("num_comments", 0),
-                        },
-                    )
-                )
+    for category in categories:
+        url = "https://export.arxiv.org/api/query?" + urlencode({
+            "search_query": f"cat:{category}",
+            "sortBy": "submittedDate",
+            "sortOrder": "descending",
+            "start": 0,
+            "max_results": 30,
+        })
+        root = ET.fromstring(fetch_text(url))
+        for entry in root.findall("atom:entry", ATOM_NS):
+            title = entry.findtext("atom:title", default="", namespaces=ATOM_NS)
+            summary = entry.findtext("atom:summary", default="", namespaces=ATOM_NS)
+            published = entry.findtext("atom:published", default="", namespaces=ATOM_NS)
+            authors = [clean_text(node.findtext("atom:name", default="", namespaces=ATOM_NS))
+                       for node in entry.findall("atom:author", ATOM_NS)]
+            abs_url = ""
+            for link in entry.findall("atom:link", ATOM_NS):
+                if link.attrib.get("rel") == "alternate":
+                    abs_url = link.attrib.get("href", "")
+            item = make_item(title=title, url=abs_url, source="arXiv", source_kind="arxiv",
+                             category="论文", published_at=published, summary=summary,
+                             weight=0.92, tags=[category],
+                             extra={"authors": authors[:8]})
+            if item:
+                items.append(item)
+    return items
+
+def collect_hf_papers() -> List[Dict[str, Any]]:
+    payload = fetch_json("https://huggingface.co/api/daily_papers?limit=40",
+                         headers={"Accept": "application/json"})
+    items: List[Dict[str, Any]] = []
+    for entry in payload:
+        paper = entry.get("paper") or {}
+        paper_id = paper.get("id") or ""
+        item = make_item(title=paper.get("title", ""),
+                         url=f"https://huggingface.co/papers/{paper_id}" if paper_id else None,
+                         source="HF Daily Papers", source_kind="hf-papers", category="论文",
+                         published_at=entry.get("publishedAt") or paper.get("publishedAt"),
+                         summary=paper.get("summary", ""), weight=0.95,
+                         engagement=int(paper.get("upvotes") or 0),
+                         tags=["daily papers"])
+        if item:
+            items.append(item)
     return items
 
 
-def fetch_hn_candidates() -> List[Dict[str, Any]]:
-    try:
-        top_ids = fetch_json("https://hacker-news.firebaseio.com/v0/topstories.json")
-    except (HTTPError, URLError, TimeoutError, json.JSONDecodeError):
-        return []
-    items: List[Dict[str, Any]] = []
-    for item_id in top_ids[:50]:
-        try:
-            item = fetch_json(f"https://hacker-news.firebaseio.com/v0/item/{item_id}.json")
-        except (HTTPError, URLError, TimeoutError, json.JSONDecodeError):
-            continue
-        if not item:
-            continue
-        title = item.get("title", "")
-        url = item.get("url") or f"https://news.ycombinator.com/item?id={item_id}"
-        published_at = (
-            datetime.fromtimestamp(item.get("time", 0), tz=timezone.utc)
-            .isoformat()
-            .replace("+00:00", "Z")
-            if item.get("time")
-            else None
-        )
-        items.append(
-            make_item(
-                title=title,
-                url=url,
-                source="Hacker News",
-                source_kind="hn",
-                published_at=published_at,
-                summary=f"{item.get('descendants', 0)} comments on HN",
-                tags=["Hacker News", "community"],
-                engagement=int(item.get("score") or 0) + int(item.get("descendants") or 0),
-                extra={"hn_id": item_id, "score": item.get("score", 0), "comments": item.get("descendants", 0)},
-            )
-        )
-    return items
+JUNK_MODEL_ID = re.compile(r"(?:[0-9a-f]{12,}|-\d{5,}|checkpoint[-_]?\d+|step[-_]?\d+)", re.I)
 
 
-def fetch_github_candidates() -> List[Dict[str, Any]]:
-    queries = [
-        "llm pushed:>=%s" % (NOW.date() - timedelta(days=3)).isoformat(),
-        "transformer pushed:>=%s" % (NOW.date() - timedelta(days=3)).isoformat(),
-        "agent pushed:>=%s" % (NOW.date() - timedelta(days=3)).isoformat(),
-        "multimodal pushed:>=%s" % (NOW.date() - timedelta(days=3)).isoformat(),
-        "inference pushed:>=%s" % (NOW.date() - timedelta(days=3)).isoformat(),
-    ]
-    items: List[Dict[str, Any]] = []
-    token = os.environ.get("GITHUB_TOKEN", "").strip()
-    headers = {"Accept": "application/vnd.github+json"}
-    if token:
-        headers["Authorization"] = f"Bearer {token}"
-    for query in queries:
-        url = "https://api.github.com/search/repositories?" + urlencode(
-            {"q": query, "sort": "updated", "order": "desc", "per_page": 25}
-        )
-        try:
-            payload = fetch_json(url, headers=headers)
-        except (HTTPError, URLError, TimeoutError, json.JSONDecodeError):
-            continue
-        for repo in payload.get("items", []):
-            items.append(
-                make_item(
-                    title=repo.get("full_name", ""),
-                    url=repo.get("html_url"),
-                    source="GitHub",
-                    source_kind="github",
-                    published_at=repo.get("updated_at") or repo.get("created_at"),
-                    summary=repo.get("description", "") or "",
-                    authors=[repo.get("owner", {}).get("login", "")] if repo.get("owner") else [],
-                    tags=[repo.get("language", "") or "GitHub", "repo"],
-                    engagement=int(repo.get("stargazers_count") or 0) + int(repo.get("forks_count") or 0),
-                    extra={
-                        "stars": repo.get("stargazers_count", 0),
-                        "forks": repo.get("forks_count", 0),
-                        "language": repo.get("language"),
-                    },
-                )
-            )
-    return items
-
-
-def fetch_huggingface_candidates() -> List[Dict[str, Any]]:
+def collect_hf_models() -> List[Dict[str, Any]]:
     url = "https://huggingface.co/api/models?" + urlencode(
-        {"sort": "lastModified", "direction": -1, "limit": 100, "full": "true"}
-    )
-    try:
-        payload = fetch_json(url, headers={"Accept": "application/json"})
-    except (HTTPError, URLError, TimeoutError, json.JSONDecodeError):
-        return []
+        {"sort": "lastModified", "direction": -1, "limit": 120, "full": "true"})
+    payload = fetch_json(url, headers={"Accept": "application/json"})
     items: List[Dict[str, Any]] = []
     for model in payload:
-        tags = [tag for tag in model.get("tags", []) if tag]
+        model_id = model.get("modelId", "")
+        likes = int(model.get("likes") or 0)
+        downloads = int(model.get("downloads") or 0)
+        # Skip private-looking experiment dumps and models nobody has touched yet.
+        if not model_id or JUNK_MODEL_ID.search(model_id):
+            continue
+        if likes < 3 and downloads < 500:
+            continue
+        tags = [tag for tag in (model.get("tags") or []) if tag][:8]
         pipeline_tag = model.get("pipeline_tag")
-        if pipeline_tag:
-            tags.append(pipeline_tag)
-        card_data = model.get("cardData") or {}
-        summary = card_data.get("model_name") or card_data.get("language") or ""
-        if not summary:
-            summary = ", ".join(tags[:4])
-        items.append(
-            make_item(
-                title=model.get("modelId", ""),
-                url=f"https://huggingface.co/{model.get('modelId', '')}",
-                source="Hugging Face",
-                source_kind="huggingface",
-                published_at=model.get("lastModified"),
-                summary=summary,
-                authors=[model.get("author", "")] if model.get("author") else [],
-                tags=tags[:8],
-                engagement=int(model.get("likes") or 0) + int(model.get("downloads") or 0),
-                extra={
-                    "pipeline_tag": pipeline_tag,
-                    "likes": model.get("likes", 0),
-                    "downloads": model.get("downloads", 0),
-                },
-            )
-        )
+        summary = ", ".join(tags[:5]) or (pipeline_tag or "")
+        item = make_item(title=model_id, url=f"https://huggingface.co/{model_id}",
+                         source="Hugging Face", source_kind="hf-models", category="模型",
+                         published_at=model.get("lastModified"), summary=summary, weight=0.82,
+                         engagement=likes * 20 + downloads // 50,
+                         tags=tags + ([pipeline_tag] if pipeline_tag else []))
+        if item:
+            items.append(item)
+    return items
+
+def collect_github(queries: List[str]) -> List[Dict[str, Any]]:
+    since = (NOW.date() - timedelta(days=3)).isoformat()
+    headers = {"Accept": "application/vnd.github+json"}
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    items: List[Dict[str, Any]] = []
+    for query in queries:
+        url = "https://api.github.com/search/repositories?" + urlencode({
+            "q": f"{query} pushed:>={since} stars:>200",
+            "sort": "updated",
+            "order": "desc",
+            "per_page": 20,
+        })
+        payload = fetch_json(url, headers=headers)
+        for repo in payload.get("items", []):
+            item = make_item(title=repo.get("full_name", ""), url=repo.get("html_url"),
+                             source="GitHub", source_kind="github", category="开发者",
+                             published_at=repo.get("pushed_at") or repo.get("updated_at"),
+                             summary=repo.get("description") or "", weight=0.70,
+                             engagement=int(repo.get("stargazers_count") or 0),
+                             tags=[repo.get("language") or "repo"])
+            if item:
+                items.append(item)
     return items
 
 
-def collect_candidates() -> List[Dict[str, Any]]:
-    collectors = [
-        fetch_arxiv_candidates,
-        fetch_reddit_candidates,
-        fetch_hn_candidates,
-        fetch_github_candidates,
-        fetch_huggingface_candidates,
+def collect_hn() -> List[Dict[str, Any]]:
+    url = ("https://hn.algolia.com/api/v1/search_by_date?"
+           + urlencode({"tags": "story", "query": "AI", "hitsPerPage": 60}))
+    payload = fetch_json(url, headers={"Accept": "application/json"})
+    items: List[Dict[str, Any]] = []
+    for hit in payload.get("hits", []):
+        story_id = hit.get("objectID")
+        link = hit.get("url") or f"https://news.ycombinator.com/item?id={story_id}"
+        item = make_item(title=hit.get("title") or hit.get("story_title") or "", url=link,
+                         source="Hacker News", source_kind="hn", category="社区",
+                         published_at=hit.get("created_at"),
+                         summary=f"{hit.get('points') or 0} points, {hit.get('num_comments') or 0} comments",
+                         weight=0.68,
+                         engagement=int(hit.get("points") or 0) + int(hit.get("num_comments") or 0),
+                         tags=["hacker news"],
+                         extra={"hn_url": f"https://news.ycombinator.com/item?id={story_id}"})
+        if item:
+            items.append(item)
+    return items
+
+def collect_reddit(subreddits: List[str]) -> List[Dict[str, Any]]:
+    """Reddit blocks the JSON API from datacenters, so read the public RSS feed."""
+    items: List[Dict[str, Any]] = []
+    for subreddit in subreddits:
+        xml_text = fetch_text(f"https://www.reddit.com/r/{subreddit}/top/.rss?t=day",
+                              headers={"Accept": "application/atom+xml",
+                                       "User-Agent": BROWSER_UA})
+        root = ET.fromstring(xml_text)
+        for entry in root.findall("atom:entry", ATOM_NS)[:25]:
+            link_node = entry.find("atom:link", ATOM_NS)
+            link = link_node.attrib.get("href", "") if link_node is not None else ""
+            item = make_item(title=entry.findtext("atom:title", default="", namespaces=ATOM_NS),
+                             url=link, source=f"r/{subreddit}", source_kind="reddit",
+                             category="社区",
+                             published_at=(entry.findtext("atom:updated", namespaces=ATOM_NS)
+                                           or entry.findtext("atom:published", namespaces=ATOM_NS)),
+                             summary=entry.findtext("atom:content", default="", namespaces=ATOM_NS),
+                             weight=0.62, tags=[subreddit])
+            if item:
+                items.append(item)
+        time.sleep(2.0)
+    return items
+
+
+def build_collectors(config: Dict[str, Any]) -> List[Tuple[str, Callable[[], List[Dict[str, Any]]]]]:
+    collectors: List[Tuple[str, Callable[[], List[Dict[str, Any]]]]] = [
+        ("arXiv", lambda: collect_arxiv(config.get("arxiv_categories", []))),
+        ("HF Daily Papers", collect_hf_papers),
+        ("Hugging Face", collect_hf_models),
+        ("GitHub", lambda: collect_github(config.get("github_queries", []))),
+        ("Hacker News", collect_hn),
+        ("Reddit", lambda: collect_reddit(config.get("reddit_subreddits", []))),
     ]
-    candidates: List[Dict[str, Any]] = []
-    with ThreadPoolExecutor(max_workers=len(collectors)) as pool:
-        futures = [pool.submit(collector) for collector in collectors]
+    for feed in config.get("feeds", []):
+        collectors.append((feed["name"], lambda feed=feed: collect_feed(feed)))
+    return collectors
+
+def collect_all(config: Dict[str, Any]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+    collectors = build_collectors(config)
+    items: List[Dict[str, Any]] = []
+    status: List[Dict[str, Any]] = []
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futures = {pool.submit(collector): name for name, collector in collectors}
         for future in as_completed(futures):
+            name = futures[future]
             try:
-                candidates.extend(future.result())
-            except Exception as exc:  # pragma: no cover - defensive for cron execution
-                print(f"[warn] collector failed: {exc}", file=sys.stderr)
-    return candidates
+                fetched = future.result()
+            except (HTTPError, URLError, TimeoutError, ET.ParseError, json.JSONDecodeError,
+                    ValueError, KeyError) as exc:
+                status.append({"name": name, "ok": False, "fetched": 0, "ai_related": 0,
+                               "ai_ratio": 0.0, "error": f"{type(exc).__name__}: {exc}"[:160]})
+                continue
+            except Exception as exc:  # pragma: no cover - cron safety net
+                status.append({"name": name, "ok": False, "fetched": 0, "ai_related": 0,
+                               "ai_ratio": 0.0, "error": f"{type(exc).__name__}: {exc}"[:160]})
+                continue
+            ai_related = sum(1 for item in fetched if item["ai_score"] >= 0.3)
+            status.append({
+                "name": name,
+                "ok": True,
+                "fetched": len(fetched),
+                "ai_related": ai_related,
+                "ai_ratio": round(ai_related / len(fetched), 3) if fetched else 0.0,
+                "error": None,
+            })
+            items.extend(fetched)
+    status.sort(key=lambda entry: (not entry["ok"], -entry["fetched"], entry["name"]))
+    return items, status
 
 
-def merge_candidates(candidates: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    clusters: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
-    for candidate in candidates:
-        title_key = candidate.get("normalized_title") or normalize_title(candidate.get("title", ""))
-        if not title_key:
+def in_window(item: Dict[str, Any]) -> bool:
+    published = parse_date(item.get("published_at"))
+    if published is None:
+        return False
+    return (NOW - published) <= timedelta(hours=WINDOW_HOURS)
+
+def merge_stories(items: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+    """Group items that describe the same event into a single story."""
+    ordered = sorted(items, key=lambda item: (item["source_weight"], item["ai_score"]), reverse=True)
+    stories: List[Dict[str, Any]] = []
+    by_url: Dict[str, Dict[str, Any]] = {}
+    merge_log: List[Dict[str, Any]] = []
+
+    for item in ordered:
+        target: Optional[Dict[str, Any]] = None
+        reason = ""
+        url = item.get("url")
+        if url and url in by_url:
+            target = by_url[url]
+            reason = "same-url"
+        else:
+            for story in stories:
+                similarity = jaccard(story["tokens"], item["tokens"])
+                if similarity >= 0.55:
+                    target = story
+                    reason = f"title-similarity={similarity:.2f}"
+                    break
+        if target is None:
+            story = dict(item)
+            story["cluster_size"] = 1
+            story["sources"] = [item["source"]]
+            story["variants"] = [{"source": item["source"], "title": item["title"],
+                                  "url": item["url"], "published_at": item["published_at"]}]
+            stories.append(story)
+            if url:
+                by_url[url] = story
             continue
-        clusters[title_key].append(candidate)
+        target["cluster_size"] += 1
+        if item["source"] not in target["sources"]:
+            target["sources"].append(item["source"])
+        target["variants"].append({"source": item["source"], "title": item["title"],
+                                   "url": item["url"], "published_at": item["published_at"]})
+        target["engagement"] = max(target.get("engagement", 0), item.get("engagement", 0))
+        target["ai_score"] = max(target["ai_score"], item["ai_score"])
+        target["tokens"] = target["tokens"] | item["tokens"]
+        if not target.get("summary") and item.get("summary"):
+            target["summary"] = item["summary"]
+        merge_log.append({"into": target["title"], "from": item["title"],
+                          "source": item["source"], "reason": reason})
+    return stories, merge_log
 
-    merged: List[Dict[str, Any]] = []
-    for cluster_key, group in clusters.items():
-        group = [item for item in group if item.get("title")]
-        if not group:
-            continue
-        group.sort(
-            key=lambda item: (
-                source_weight(item),
-                recency_score(item),
-                engagement_score(item),
-            ),
-            reverse=True,
-        )
-        primary = group[0].copy()
-        sources = []
-        source_kinds = []
-        tags = []
-        authors = []
-        summaries = []
-        urls = []
-        published_values = []
-        extra = {}
-        for item in group:
-            sources.append(item.get("source", ""))
-            source_kinds.append(item.get("source_kind", ""))
-            tags.extend(item.get("tags", []))
-            authors.extend(item.get("authors", []))
-            if item.get("summary"):
-                summaries.append(item["summary"])
-            if item.get("url"):
-                urls.append(item["url"])
-            if item.get("published_at"):
-                published_values.append(item["published_at"])
-            extra.setdefault("variants", []).append(
-                {
-                    "source": item.get("source"),
-                    "url": item.get("url"),
-                    "summary": item.get("summary"),
-                }
-            )
-        primary["id"] = cluster_key
-        primary["sources"] = list(dict.fromkeys([source for source in sources if source]))
-        primary["source_kinds"] = list(dict.fromkeys([kind for kind in source_kinds if kind]))
-        primary["authors"] = list(dict.fromkeys([author for author in authors if author]))
-        primary["tags"] = list(dict.fromkeys([tag for tag in tags if tag]))
-        primary["summary"] = summaries[0] if summaries else primary.get("summary", "")
-        primary["url"] = urls[0] if urls else primary.get("url")
-        primary["published_at"] = max(
-            (published_values or [primary.get("published_at")]),
-            key=lambda value: parse_iso(value) or datetime.min.replace(tzinfo=timezone.utc),
-        )
-        primary["cluster_size"] = len(group)
-        primary["extra"] = {
-            **primary.get("extra", {}),
-            **extra,
-            "cluster_key": cluster_key,
-        }
-        score, details, reasons = score_candidate(primary, len(group))
-        primary["score"] = score
-        primary["score_breakdown"] = details
-        primary["why"] = "；".join(reasons)
-        primary["cluster_sources"] = [item.get("source") for item in group if item.get("source")]
-        primary["cluster_urls"] = list(dict.fromkeys([item.get("url") for item in group if item.get("url")]))
-        merged.append(primary)
-
-    merged.sort(
-        key=lambda item: (
-            item.get("score", 0.0),
-            parse_iso(item.get("published_at")) or datetime.min.replace(tzinfo=timezone.utc),
-        ),
-        reverse=True,
-    )
-    return merged
+def finalize_story(story: Dict[str, Any]) -> Dict[str, Any]:
+    score, breakdown, why = score_story(story)
+    published = story.get("published_at")
+    return {
+        "id": re.sub(r"[^a-z0-9]+", "-", " ".join(sorted(story["tokens"]))[:80]).strip("-"),
+        "title": story["title"],
+        "url": story.get("url"),
+        "source": story["source"],
+        "sources": story["sources"],
+        "source_kind": story["source_kind"],
+        "category": story["category"],
+        "topic": story["topic"],
+        "published_at": published,
+        "date": (published or "")[:10],
+        "summary": story.get("summary", "")[:400],
+        "tags": story.get("tags", [])[:8],
+        "engagement": story.get("engagement", 0),
+        "ai_score": story["ai_score"],
+        "cluster_size": story["cluster_size"],
+        "variants": story["variants"][:8],
+        "score": score,
+        "score_breakdown": breakdown,
+        "why": why,
+        "extra": story.get("extra", {}),
+    }
 
 
-def topic_summary(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    counts = Counter(item.get("topic", "其他") for item in items)
-    return [
-        {"name": topic, "count": count}
-        for topic, count in counts.most_common()
-    ]
+def pick_brief(stories: List[Dict[str, Any]], limit: int, threshold: float,
+               per_source_cap: int, per_category_cap: int) -> List[Dict[str, Any]]:
+    """Rank by score with source/category caps so one firehose cannot fill the page.
+
+    Two passes: strict caps first, then relaxed caps (doubled) to fill leftovers.
+    """
+    ranked = sorted(stories, key=lambda story: (story["score"], story["cluster_size"]), reverse=True)
+    selected: List[Dict[str, Any]] = []
+    chosen_ids: set = set()
+    source_counts: Counter = Counter()
+    category_counts: Counter = Counter()
+
+    def sweep(source_cap: int, category_cap: int, min_score: float) -> None:
+        for story in ranked:
+            if len(selected) >= limit:
+                return
+            marker = id(story)
+            if marker in chosen_ids or story["score"] < min_score:
+                continue
+            if source_counts[story["source"]] >= source_cap:
+                continue
+            if category_counts[story["category"]] >= category_cap:
+                continue
+            selected.append(story)
+            chosen_ids.add(marker)
+            source_counts[story["source"]] += 1
+            category_counts[story["category"]] += 1
+
+    sweep(per_source_cap, per_category_cap, threshold)
+    sweep(per_source_cap * 2, per_category_cap * 2, threshold)
+    sweep(limit, limit, 0.0)
+    selected.sort(key=lambda story: story["score"], reverse=True)
+    return selected[:limit]
+
+def count_by(stories: List[Dict[str, Any]], key: str) -> List[Dict[str, Any]]:
+    counts = Counter(story.get(key) or "其他" for story in stories)
+    return [{"name": name, "count": count} for name, count in counts.most_common()]
 
 
-def source_summary(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    counts = Counter(item.get("source", "") for item in items)
-    return [
-        {"name": source, "count": count}
-        for source, count in counts.most_common()
-    ]
-
-
-def selected_items(items: List[Dict[str, Any]], limit: int, threshold: float) -> List[Dict[str, Any]]:
-    filtered = [item for item in items if item.get("score", 0.0) >= threshold]
-    if len(filtered) < limit:
-        filtered = items[:limit]
-    return filtered[:limit]
-
-
-def build_archive_index() -> List[Dict[str, Any]]:
-    archive: List[Dict[str, Any]] = []
-    if not DATA_DIR.exists():
-        return archive
-    for path in sorted(DATA_DIR.glob("*.json"), reverse=True):
-        if path.name in {"latest.json", "index.json"}:
-            continue
-        if not re.match(r"\d{4}-\d{2}-\d{2}\.json$", path.name):
-            continue
-        try:
-            payload = json.loads(path.read_text(encoding="utf-8"))
-        except json.JSONDecodeError:
-            continue
-        archive.append(
-            {
-                "date": payload.get("meta", {}).get("date", path.stem),
-                "candidate_count": payload.get("meta", {}).get("candidate_count", 0),
-                "selected_count": payload.get("meta", {}).get("selected_count", 0),
-                "threshold": payload.get("meta", {}).get("threshold", 0),
-                "json_url": f"data/{path.name}",
-                "post_url": f"posts/{path.stem}.html",
-                "generated_at": payload.get("meta", {}).get("generated_at"),
-            }
-        )
-    archive.sort(key=lambda item: item["date"], reverse=True)
-    return archive
-
-
-def render_daily_html(payload: Dict[str, Any]) -> str:
-    meta = payload["meta"]
-    selected = payload["selected"]
-    candidate_total = meta["candidate_count"]
-    selected_total = meta["selected_count"]
-    archive = payload.get("archive", [])
-    topics = payload.get("topics", [])
-    sources = payload.get("sources", [])
-
-    def render_list(items: List[Dict[str, Any]], empty_text: str) -> str:
-        if not items:
-            return f'<div class="alert alert-light border">{html.escape(empty_text)}</div>'
-        blocks = []
-        for item in items:
-            tags = "".join(
-                f'<span class="badge text-bg-secondary me-1 mb-1">{html.escape(tag)}</span>'
-                for tag in item.get("tags", [])[:6]
-            )
-            sources_text = " / ".join(item.get("sources", [item.get("source", "")]))
-            score = item.get("score", 0.0)
-            published = item.get("published_at") or ""
-            published_text = published[:10] if published else "未知时间"
-            summary = html.escape(item.get("summary", "")[:260])
-            why = html.escape(item.get("why", ""))
-            url = html.escape(item.get("url") or "#")
-            blocks.append(
-                f"""
-                <article class="border rounded-2 p-3 mb-3 bg-white shadow-sm">
-                  <div class="d-flex justify-content-between align-items-start gap-3">
-                    <div class="me-auto">
-                      <h5 class="mb-1">
-                        <a href="{url}" target="_blank" rel="noreferrer">{html.escape(item.get('title', ''))}</a>
-                      </h5>
-                      <div class="text-muted small mb-2">
-                        {html.escape(item.get('source', ''))} · {html.escape(item.get('topic', ''))} · {published_text} · {sources_text}
-                      </div>
-                    </div>
-                    <span class="badge text-bg-primary fs-6">{score:.1f}</span>
-                  </div>
-                  <div class="mb-2">{summary}</div>
-                  <div class="small text-muted mb-2">{why}</div>
-                  <div>{tags}</div>
-                </article>
-                """
-            )
-        return "".join(blocks)
-
-    top_topics = "".join(
-        f'<li class="d-flex justify-content-between"><span>{html.escape(item["name"])}</span><strong>{item["count"]}</strong></li>'
-        for item in topics[:6]
-    ) or '<li class="text-muted">暂无</li>'
-    top_sources = "".join(
-        f'<li class="d-flex justify-content-between"><span>{html.escape(item["name"])}</span><strong>{item["count"]}</strong></li>'
-        for item in sources[:6]
-    ) or '<li class="text-muted">暂无</li>'
-    archive_links = "".join(
-        f'<li><a href="../{html.escape(entry["post_url"])}">{html.escape(entry["date"])}'
-        f' <span class="text-muted">({entry["selected_count"]}/{entry["candidate_count"]})</span></a></li>'
-        for entry in archive[:12]
-    ) or '<li class="text-muted">暂无归档</li>'
-    selected_html = render_list(selected, "今天还没有进入精选的条目。")
-
-    return f"""<!doctype html>
-<html lang="zh-CN">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Frontier Tracker · {html.escape(meta['date'])}</title>
-  <link rel="stylesheet" href="https://bootswatch.com/5/flatly/bootstrap.min.css">
-  <style>
-    body {{ background: #f7f9fb; }}
-    .page-shell {{ max-width: 1180px; }}
-    .section-title {{ font-size: 1.05rem; letter-spacing: 0; }}
-    article a {{ text-decoration: none; }}
-  </style>
-</head>
-<body>
-  <div class="container page-shell py-4">
-    <div class="d-flex flex-wrap align-items-end justify-content-between gap-3 mb-4">
-      <div>
-        <p class="text-uppercase text-muted small mb-1">Frontier Tracker</p>
-        <h1 class="h3 mb-2">每天自动筛选前沿大模型信号</h1>
-        <div class="text-muted">日期：{html.escape(meta['date'])} · 候选 {candidate_total} 条 · 精选 {selected_total} 条 · 阈值 {meta['threshold']:.1f}</div>
-      </div>
-      <div class="text-end">
-        <a class="btn btn-outline-primary btn-sm" href="../../index.html">返回主页</a>
-        <a class="btn btn-primary btn-sm" href="../index.html">打开追踪页</a>
-      </div>
-    </div>
-
-    <div class="row g-3 mb-4">
-      <div class="col-md-4">
-        <div class="border rounded-2 bg-white p-3 h-100">
-          <div class="section-title text-muted mb-2">主题分布</div>
-          <ul class="list-unstyled mb-0">{top_topics}</ul>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="border rounded-2 bg-white p-3 h-100">
-          <div class="section-title text-muted mb-2">来源分布</div>
-          <ul class="list-unstyled mb-0">{top_sources}</ul>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="border rounded-2 bg-white p-3 h-100">
-          <div class="section-title text-muted mb-2">历史归档</div>
-          <ul class="list-unstyled mb-0">{archive_links}</ul>
-        </div>
-      </div>
-    </div>
-
-    <div class="row g-3">
-      <div class="col-lg-8">
-        <h2 class="section-title mb-3">今日精选</h2>
-        {selected_html}
-      </div>
-      <div class="col-lg-4">
-        <div class="border rounded-2 bg-white p-3 sticky-top" style="top: 1rem;">
-          <div class="section-title text-muted mb-2">判断口径</div>
-          <ul class="small mb-0">
-            <li>原始来源优先于二手转述。</li>
-            <li>先按技术增量与可信度打分，再看社区热度。</li>
-            <li>同题多源交叉提及会小幅加分。</li>
-            <li>低分条目仍保留在 JSON 候选池里，便于回溯。</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
-"""
-
-
-def write_json(path: Path, payload: Dict[str, Any]) -> None:
+def write_json(path: Path, payload: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -950,414 +693,264 @@ def write_text(path: Path, text: str) -> None:
     path.write_text(text, encoding="utf-8")
 
 
-def build_payload(candidates: List[Dict[str, Any]], limit: int, threshold: float) -> Dict[str, Any]:
-    merged = merge_candidates(candidates)
-    selected = selected_items(merged, limit=limit, threshold=threshold)
-    payload = {
-        "meta": {
-            "date": TODAY,
-            "generated_at": format_iso(NOW),
-            "candidate_count": len(candidates),
-            "merged_count": len(merged),
-            "selected_count": len(selected),
-            "threshold": threshold,
-            "limit": limit,
-        },
-        "selected": selected,
-        "candidates": merged,
-        "topics": topic_summary(selected),
-        "sources": source_summary(selected),
-    }
-    payload["archive"] = build_archive_index()
-    return payload
+def build_archive(data_dir: Path) -> List[Dict[str, Any]]:
+    archive: List[Dict[str, Any]] = []
+    daily_dir = data_dir / "daily"
+    if not daily_dir.exists():
+        return archive
+    for path in sorted(daily_dir.glob("*.json"), reverse=True):
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", path.name):
+            continue
+        try:
+            meta = json.loads(path.read_text(encoding="utf-8")).get("meta", {})
+        except json.JSONDecodeError:
+            continue
+        archive.append({
+            "date": meta.get("date", path.stem),
+            "candidate_count": meta.get("candidate_count", 0),
+            "story_count": meta.get("story_count", 0),
+            "brief_count": meta.get("brief_count", 0),
+            "generated_at": meta.get("generated_at"),
+            "data_url": f"data/daily/{path.name}",
+            "post_url": f"posts/{path.stem}.html",
+        })
+    archive.sort(key=lambda entry: entry["date"], reverse=True)
+    return archive
 
+def render_card(story: Dict[str, Any]) -> str:
+    tags = "".join(f'<span class="tag">{html.escape(tag)}</span>' for tag in story["tags"][:5])
+    multi = ""
+    if story["cluster_size"] > 1:
+        variants = "".join(
+            f'<li><span class="muted">{html.escape(variant["source"] or "")}</span> '
+            f'<a href="{html.escape(variant["url"] or "#")}" target="_blank" rel="noreferrer">'
+            f'{html.escape(variant["title"] or "")}</a></li>'
+            for variant in story["variants"])
+        multi = (f'<details class="multi"><summary>多源 {story["cluster_size"]}</summary>'
+                 f'<ul>{variants}</ul></details>')
+    return f"""
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="{html.escape(story.get('url') or '#')}" target="_blank" rel="noreferrer">{html.escape(story['title'])}</a>
+            <span class="score">{story['score']:.1f}</span>
+          </div>
+          <div class="meta">
+            <span class="cat">{html.escape(story['category'])}</span>
+            <span>{html.escape(story['source'])}</span>
+            <span>{html.escape(story['topic'])}</span>
+            <span>{html.escape((story.get('published_at') or '')[:16].replace('T', ' '))}</span>
+          </div>
+          <p class="summary">{html.escape(story.get('summary', '')[:260])}</p>
+          <p class="why">为什么值得看：{html.escape(story['why'])}</p>
+          <div class="tags">{tags}</div>
+          {multi}
+        </article>"""
 
-def render_index_page(manifest: Dict[str, Any]) -> str:
-    latest = manifest.get("latest", {})
-    archive = manifest.get("archive", [])
-    latest_date = latest.get("date", TODAY)
-    latest_post = latest.get("post_url", f"posts/{latest_date}.html")
-    archive_links = "".join(
-        f'<li class="mb-1"><a href="./{html.escape(entry["post_url"])}">{html.escape(entry["date"])}</a> '
-        f'<span class="text-muted">({entry["selected_count"]}/{entry["candidate_count"]})</span></li>'
-        for entry in archive[:18]
-    ) or '<li class="text-muted">还没有归档</li>'
+PAGE_CSS = """
+:root { color-scheme: light; --bg:#f6f7f9; --panel:#fff; --line:#e5e7eb; --ink:#111827;
+  --muted:#6b7280; --accent:#2563eb; --accent-soft:#eff6ff; }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.6 -apple-system,
+  BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif; }
+a { color:var(--accent); text-decoration:none; }
+a:hover { text-decoration:underline; }
+.wrap { max-width:1080px; margin:0 auto; padding:28px 20px 64px; }
+.top { display:flex; flex-wrap:wrap; gap:16px; align-items:flex-end; justify-content:space-between;
+  margin-bottom:24px; }
+.kicker { font-size:12px; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); margin:0 0 6px; }
+h1 { font-size:24px; margin:0 0 8px; }
+.lede { color:var(--muted); margin:0; }
+.btn { display:inline-block; border:1px solid var(--line); background:var(--panel); color:var(--ink);
+  border-radius:8px; padding:7px 12px; font-size:13px; }
+.btn.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px; margin-bottom:24px; }
+.stat { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:14px 16px; }
+.stat .k { color:var(--muted); font-size:12px; }
+.stat .v { font-size:22px; font-weight:600; margin-top:2px; }
+.layout { display:grid; grid-template-columns:minmax(0,1fr) 288px; gap:20px; align-items:start; }
+@media (max-width:880px) { .layout { grid-template-columns:minmax(0,1fr); } }
+.panel { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:16px; }
+.panel h2, .panel h3 { margin:0 0 10px; font-size:14px; }
+.rail { display:grid; gap:16px; position:sticky; top:16px; }
+.card { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:16px;
+  margin-bottom:12px; }
+.card-head { display:flex; gap:12px; align-items:flex-start; justify-content:space-between; }
+.card-title { font-size:16px; font-weight:600; line-height:1.45; }
+.score { flex:none; background:var(--accent-soft); color:var(--accent); border-radius:999px;
+  padding:2px 10px; font-size:13px; font-weight:600; }
+.meta { display:flex; flex-wrap:wrap; gap:10px; color:var(--muted); font-size:12px; margin:8px 0; }
+.cat { background:#f3f4f6; border-radius:6px; padding:1px 8px; }
+.summary { margin:8px 0; color:#374151; }
+.why { margin:6px 0 10px; color:var(--muted); font-size:13px; }
+.tags { display:flex; flex-wrap:wrap; gap:6px; }
+.tag { background:#f3f4f6; color:#4b5563; border-radius:6px; padding:1px 8px; font-size:12px; }
+.multi { margin-top:10px; font-size:13px; }
+.multi summary { cursor:pointer; color:var(--accent); }
+.multi ul { margin:8px 0 0; padding-left:18px; }
+.muted { color:var(--muted); }
+.rowlist { list-style:none; margin:0; padding:0; font-size:13px; }
+.rowlist li { display:flex; justify-content:space-between; gap:10px; padding:3px 0; }
+.day { margin:22px 0 10px; font-size:13px; color:var(--muted); font-weight:600; }
+.bad { color:#b91c1c; }
+"""
+
+def render_post(payload: Dict[str, Any], archive: List[Dict[str, Any]]) -> str:
+    meta = payload["meta"]
+    brief_html = "".join(render_card(story) for story in payload["brief"]) or \
+        '<div class="panel">今天没有条目通过筛选。</div>'
+    hot_html = "".join(render_card(story) for story in payload["hot"][:5])
+    hot_block = f'<h2 class="day">当前热点（多信源同时报道）</h2>{hot_html}' if hot_html else ""
+    categories = "".join(
+        f'<li><span>{html.escape(entry["name"])}</span><strong>{entry["count"]}</strong></li>'
+        for entry in payload["categories"]) or '<li class="muted">暂无</li>'
+    topics = "".join(
+        f'<li><span>{html.escape(entry["name"])}</span><strong>{entry["count"]}</strong></li>'
+        for entry in payload["topics"][:8]) or '<li class="muted">暂无</li>'
+    health = "".join(
+        f'<li><span class="{"" if entry["ok"] else "bad"}">{html.escape(entry["name"])}</span>'
+        f'<strong>{entry["fetched"]}</strong></li>'
+        for entry in payload["source_status"][:14]) or '<li class="muted">暂无</li>'
+    archive_html = "".join(
+        f'<li><a href="./{html.escape(entry["date"])}.html">{html.escape(entry["date"])}</a>'
+        f'<span class="muted">{entry["brief_count"]}/{entry["story_count"]}</span></li>'
+        for entry in archive[:12]) or '<li class="muted">暂无归档</li>'
     return f"""<!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Frontier Tracker</title>
-  <link rel="stylesheet" href="https://bootswatch.com/5/flatly/bootstrap.min.css">
-  <style>
-    body {{ background: #f7f9fb; }}
-    .tracker-shell {{ max-width: 1280px; }}
-    .control-bar select, .control-bar input {{ min-width: 140px; }}
-    .item-card {{ border: 1px solid rgba(0,0,0,.1); border-radius: 8px; background: #fff; }}
-    .item-card a {{ text-decoration: none; }}
-    .item-summary {{ white-space: pre-wrap; }}
-    .sticky-panel {{ position: sticky; top: 1rem; }}
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>前沿追踪 · {html.escape(meta['date'])}</title>
+<style>{PAGE_CSS}</style>
 </head>
 <body>
-  <div class="container tracker-shell py-4">
-    <div class="d-flex flex-wrap align-items-end justify-content-between gap-3 mb-4">
-      <div>
-        <p class="text-uppercase text-muted small mb-1">Frontier Tracker</p>
-        <h1 class="h3 mb-2">前沿大模型技术追踪</h1>
-        <div class="text-muted">每天收集 200-500 条候选，自动压到 20 条以内，并生成可筛选的博客归档。</div>
-      </div>
-      <div class="text-end">
-        <a class="btn btn-outline-primary btn-sm me-2" href="../index.html">返回主页</a>
-        <a class="btn btn-primary btn-sm" href="./{html.escape(latest_post)}">打开最新博客</a>
-      </div>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <p class="kicker">Frontier Radar</p>
+      <h1>{html.escape(meta['date'])} 每日精选</h1>
+      <p class="lede">候选 {meta['candidate_count']} 条，合并为 {meta['story_count']} 个事件，精选 {meta['brief_count']} 条。</p>
     </div>
-
-    <div class="row g-3 mb-3 control-bar">
-      <div class="col-lg-8">
-        <div class="border rounded-2 bg-white p-3">
-          <div class="d-flex flex-wrap gap-2 align-items-center">
-            <label class="form-label mb-0">日期</label>
-            <select id="dateSelect" class="form-select form-select-sm w-auto"></select>
-            <label class="form-label mb-0 ms-2">视图</label>
-            <div class="btn-group btn-group-sm" role="group" aria-label="view">
-              <button class="btn btn-outline-primary active" data-view="selected" type="button">精选</button>
-              <button class="btn btn-outline-primary" data-view="all" type="button">候选池</button>
-            </div>
-            <label class="form-label mb-0 ms-2">主题</label>
-            <select id="topicSelect" class="form-select form-select-sm w-auto"></select>
-            <label class="form-label mb-0 ms-2">来源</label>
-            <select id="sourceSelect" class="form-select form-select-sm w-auto"></select>
-            <label class="form-check-label ms-2">
-              <input id="highScoreOnly" class="form-check-input me-1" type="checkbox" checked>只看高分
-            </label>
-            <label class="form-label mb-0 ms-2">最低分</label>
-            <input id="minScore" type="range" class="form-range w-auto" min="0" max="100" step="1" value="75" style="width: 180px;">
-            <span id="minScoreValue" class="text-muted small">75</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <div class="border rounded-2 bg-white p-3 sticky-panel">
-          <div class="d-flex justify-content-between">
-            <div>
-              <div class="text-muted small">最新归档</div>
-              <div class="fw-semibold" id="currentDate">{html.escape(latest_date)}</div>
-            </div>
-            <div class="text-end">
-              <div class="text-muted small">精选 / 候选</div>
-              <div class="fw-semibold"><span id="selectedCount">0</span> / <span id="candidateCount">0</span></div>
-            </div>
-          </div>
-          <div class="mt-2 text-muted small" id="dataMeta">正在加载数据。</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="row g-3">
-      <div class="col-lg-8">
-        <div class="mb-3">
-          <div class="row g-2" id="statsRow"></div>
-        </div>
-        <div id="items"></div>
-      </div>
-      <div class="col-lg-4">
-        <div class="border rounded-2 bg-white p-3 mb-3">
-          <div class="fw-semibold mb-2">归档</div>
-          <ul id="archiveList" class="list-unstyled small mb-0">{archive_links}</ul>
-        </div>
-        <div class="border rounded-2 bg-white p-3">
-          <div class="fw-semibold mb-2">说明</div>
-          <ul class="small mb-0">
-            <li>高分代表“值得优先追踪”，不等于绝对事实判断。</li>
-            <li>“候选池”保留了更广的输入，用于回溯和手工审阅。</li>
-            <li>你可以继续往 `blog/feeds.json` 增加 RSS/Atom 源。</li>
-          </ul>
-        </div>
-      </div>
+    <div>
+      <a class="btn primary" href="../index.html">打开追踪面板</a>
+      <a class="btn" href="../../index.html">返回主页</a>
     </div>
   </div>
-
-  <script>
-    const state = {{
-      view: 'selected',
-      minScore: 75,
-      highScoreOnly: true,
-      topic: '全部',
-      source: '全部',
-      date: null,
-      payload: null,
-      archive: [],
-    }};
-
-    const elements = {{
-      dateSelect: document.getElementById('dateSelect'),
-      topicSelect: document.getElementById('topicSelect'),
-      sourceSelect: document.getElementById('sourceSelect'),
-      highScoreOnly: document.getElementById('highScoreOnly'),
-      minScore: document.getElementById('minScore'),
-      minScoreValue: document.getElementById('minScoreValue'),
-      items: document.getElementById('items'),
-      selectedCount: document.getElementById('selectedCount'),
-      candidateCount: document.getElementById('candidateCount'),
-      dataMeta: document.getElementById('dataMeta'),
-      statsRow: document.getElementById('statsRow'),
-      currentDate: document.getElementById('currentDate'),
-    }};
-
-    function escapeHtml(value) {{
-      return String(value)
-        .replaceAll('&', '&amp;')
-        .replaceAll('<', '&lt;')
-        .replaceAll('>', '&gt;')
-        .replaceAll('"', '&quot;')
-        .replaceAll("'", '&#39;');
-    }}
-
-    function pct(value) {{
-      return `${{Number(value).toFixed(1)}}`;
-    }}
-
-    function sortedUnique(values) {{
-      return Array.from(new Set(values.filter(Boolean))).sort((a, b) => a.localeCompare(b, 'zh-Hans-CN'));
-    }}
-
-    function scoreBadge(score) {{
-      const tone = score >= 85 ? 'primary' : score >= 72 ? 'success' : score >= 60 ? 'warning' : 'secondary';
-      return `<span class="badge text-bg-${{tone}} fs-6">${{pct(score)}}</span>`;
-    }}
-
-    function buildOptionList(values, current) {{
-      return values.map(value => `<option value="${{escapeHtml(value)}}">${{escapeHtml(value)}}</option>`).join('');
-    }}
-
-    function metricCard(title, value, subtitle = '') {{
-      return `
-        <div class="col-md-4">
-          <div class="border rounded-2 bg-white p-3 h-100">
-            <div class="text-muted small">${{escapeHtml(title)}}</div>
-            <div class="h4 mb-1">${{escapeHtml(value)}}</div>
-            <div class="text-muted small">${{escapeHtml(subtitle)}}</div>
-          </div>
-        </div>`;
-    }}
-
-    function itemMatches(item) {{
-      if (state.topic !== '全部' && item.topic !== state.topic) return false;
-      if (state.source !== '全部') {{
-        const sources = item.sources || [item.source];
-        if (!sources.includes(state.source) && item.source !== state.source) return false;
-      }}
-      if (state.highScoreOnly && item.score < state.minScore) return false;
-      return true;
-    }}
-
-    function currentItems() {{
-      const source = state.payload || {{}};
-      const items = state.view === 'selected' ? (source.selected || []) : (source.candidates || []);
-      return items.filter(itemMatches);
-    }}
-
-    function renderStats(items) {{
-      const topTopics = (state.payload?.topics || []).slice(0, 3);
-      const topSources = (state.payload?.sources || []).slice(0, 3);
-      elements.statsRow.innerHTML = [
-        metricCard('当前视图', state.view === 'selected' ? '精选' : '候选池', '过滤结果会随主题与来源联动'),
-        metricCard('当前条目', String(items.length), '满足筛选条件的记录数'),
-        metricCard('高分阈值', state.highScoreOnly ? `≥ ${{state.minScore}}` : '关闭', '分数越高越优先展示'),
-      ].join('');
-      const meta = state.payload?.meta || {{}};
-      elements.dataMeta.textContent = `生成于 ${{meta.generated_at || '未知'}}，聚合后 ${{meta.merged_count || 0}} 条，原始候选 ${{meta.candidate_count || 0}} 条。`;
-      elements.selectedCount.textContent = String(meta.selected_count || 0);
-      elements.candidateCount.textContent = String(meta.candidate_count || 0);
-      elements.currentDate.textContent = meta.date || state.date || '';
-    }}
-
-    function renderItem(item) {{
-      const tags = (item.tags || []).slice(0, 6).map(tag => `<span class="badge text-bg-secondary me-1 mb-1">${{escapeHtml(tag)}}</span>`).join('');
-      const sources = (item.sources || [item.source]).map(escapeHtml).join(' / ');
-      const published = item.published_at ? String(item.published_at).slice(0, 10) : '未知';
-      const score = scoreBadge(item.score || 0);
-      const url = escapeHtml(item.url || '#');
-      return `
-        <article class="item-card p-3 mb-3">
-          <div class="d-flex gap-3 align-items-start">
-            <div class="flex-grow-1">
-              <div class="d-flex align-items-start gap-2">
-                <h3 class="h6 mb-1 flex-grow-1">
-                  <a href="${{url}}" target="_blank" rel="noreferrer">${{escapeHtml(item.title || '')}}</a>
-                </h3>
-                ${{score}}
-              </div>
-              <div class="text-muted small mb-2">
-                ${{escapeHtml(item.source || '')}} · ${{escapeHtml(item.topic || '')}} · ${{published}} · ${{sources}}
-              </div>
-            </div>
-          </div>
-          <div class="item-summary mb-2">${{escapeHtml((item.summary || '').slice(0, 320))}}</div>
-          <div class="small text-muted mb-2">${{escapeHtml(item.why || '')}}</div>
-          <div>${{tags}}</div>
-        </article>`;
-    }}
-
-    function renderItems() {{
-      const items = currentItems();
-      renderStats(items);
-      if (!items.length) {{
-        elements.items.innerHTML = '<div class="alert alert-light border">没有匹配到条目，请放宽筛选条件。</div>';
-        return;
-      }}
-      elements.items.innerHTML = items.map(renderItem).join('');
-    }}
-
-    function rebuildFilters() {{
-      const payload = state.payload || {{}};
-      const allItems = [...(payload.selected || []), ...(payload.candidates || [])];
-      const topics = ['全部', ...sortedUnique(allItems.map(item => item.topic))];
-      const sources = ['全部', ...sortedUnique(allItems.flatMap(item => item.sources && item.sources.length ? item.sources : [item.source]).filter(Boolean))];
-      elements.topicSelect.innerHTML = buildOptionList(topics);
-      elements.sourceSelect.innerHTML = buildOptionList(sources);
-      elements.topicSelect.value = state.topic;
-      elements.sourceSelect.value = state.source;
-    }}
-
-    async function loadPayload(date) {{
-      const response = await fetch(`./data/${{date}}.json`, {{ cache: 'no-store' }});
-      if (!response.ok) throw new Error(`无法加载 ${{date}} 的数据`);
-      return response.json();
-    }}
-
-    async function loadArchive() {{
-      const response = await fetch('./data/index.json', {{ cache: 'no-store' }});
-      if (!response.ok) return [];
-      const payload = await response.json();
-      return payload.archive || [];
-    }}
-
-    async function initialize() {{
-      state.archive = await loadArchive();
-      const dates = state.archive.map(item => item.date);
-      if (!dates.length) dates.push('{TODAY}');
-      elements.dateSelect.innerHTML = dates.map(date => `<option value="${{escapeHtml(date)}}">${{escapeHtml(date)}}</option>`).join('');
-      state.date = dates[0];
-      elements.dateSelect.value = state.date;
-      await refreshData(state.date);
-
-      elements.dateSelect.addEventListener('change', async () => {{
-        await refreshData(elements.dateSelect.value);
-      }});
-
-      document.querySelectorAll('[data-view]').forEach(button => {{
-        button.addEventListener('click', async () => {{
-          document.querySelectorAll('[data-view]').forEach(btn => btn.classList.remove('active'));
-          button.classList.add('active');
-          state.view = button.dataset.view;
-          renderItems();
-        }});
-      }});
-
-      elements.topicSelect.addEventListener('change', () => {{
-        state.topic = elements.topicSelect.value;
-        renderItems();
-      }});
-      elements.sourceSelect.addEventListener('change', () => {{
-        state.source = elements.sourceSelect.value;
-        renderItems();
-      }});
-      elements.highScoreOnly.addEventListener('change', () => {{
-        state.highScoreOnly = elements.highScoreOnly.checked;
-        renderItems();
-      }});
-      elements.minScore.addEventListener('input', () => {{
-        state.minScore = Number(elements.minScore.value);
-        elements.minScoreValue.textContent = String(state.minScore);
-        renderItems();
-      }});
-    }}
-
-    async function refreshData(date) {{
-      state.date = date;
-      elements.currentDate.textContent = date;
-      try {{
-        state.payload = await loadPayload(date);
-        const meta = state.payload.meta || {{}};
-        state.minScore = Math.max(60, Math.min(90, Math.round(meta.threshold || 75)));
-        elements.minScore.value = String(state.minScore);
-        elements.minScoreValue.textContent = String(state.minScore);
-        elements.highScoreOnly.checked = true;
-        state.highScoreOnly = true;
-        rebuildFilters();
-        renderItems();
-      }} catch (error) {{
-        elements.items.innerHTML = `<div class="alert alert-danger">${{escapeHtml(error.message)}}</div>`;
-      }}
-    }}
-
-    initialize();
-  </script>
+  <div class="grid">
+    <div class="stat"><div class="k">原始候选</div><div class="v">{meta['candidate_count']}</div></div>
+    <div class="stat"><div class="k">合并事件</div><div class="v">{meta['story_count']}</div></div>
+    <div class="stat"><div class="k">精选</div><div class="v">{meta['brief_count']}</div></div>
+    <div class="stat"><div class="k">强相关</div><div class="v">{meta['strong_count']}</div></div>
+  </div>
+  <div class="layout">
+    <main>
+      {hot_block}
+      <h2 class="day">每日精选</h2>
+      {brief_html}
+    </main>
+    <aside class="rail">
+      <div class="panel"><h3>栏目分布</h3><ul class="rowlist">{categories}</ul></div>
+      <div class="panel"><h3>主题分布</h3><ul class="rowlist">{topics}</ul></div>
+      <div class="panel"><h3>信源抓取</h3><ul class="rowlist">{health}</ul></div>
+      <div class="panel"><h3>归档</h3><ul class="rowlist">{archive_html}</ul></div>
+    </aside>
+  </div>
+</div>
 </body>
 </html>
 """
 
+def build_payload(args: argparse.Namespace) -> Tuple[Dict[str, Any], List[Dict[str, Any]]]:
+    config = load_sources()
+    raw_items, status = collect_all(config)
+    windowed = [item for item in raw_items if in_window(item)]
+    relevant = [item for item in windowed if item["ai_score"] >= args.min_relevance]
 
-def build_manifest() -> Dict[str, Any]:
-    archive = build_archive_index()
-    latest = archive[0] if archive else {}
-    return {"latest": latest, "archive": archive, "generated_at": format_iso(NOW)}
+    stories_raw, merge_log = merge_stories(relevant)
+    stories = [finalize_story(story) for story in stories_raw]
+    stories.sort(key=lambda story: (story["published_at"] or "", story["score"]), reverse=True)
 
+    strong = [story for story in stories if story["ai_score"] >= 0.55]
+    brief = pick_brief(stories, limit=args.limit, threshold=args.threshold,
+                       per_source_cap=args.per_source_cap,
+                       per_category_cap=args.per_category_cap)
+    hot = sorted([story for story in stories if story["cluster_size"] > 1],
+                 key=lambda story: (story["cluster_size"], story["score"]), reverse=True)
 
-def ensure_placeholder_files() -> None:
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    POSTS_DIR.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "meta": {
+            "date": TODAY,
+            "generated_at": to_iso(NOW),
+            "window_hours": WINDOW_HOURS,
+            "candidate_count": len(raw_items),
+            "in_window_count": len(windowed),
+            "relevant_count": len(relevant),
+            "story_count": len(stories),
+            "strong_count": len(strong),
+            "brief_count": len(brief),
+            "threshold": args.threshold,
+            "limit": args.limit,
+            "min_relevance": args.min_relevance,
+        },
+        "brief": brief,
+        "hot": hot,
+        "strong": strong,
+        "all": stories,
+        "categories": count_by(stories, "category"),
+        "topics": count_by(stories, "topic"),
+        "sources": count_by(stories, "source"),
+        "source_status": status,
+    }
+    return payload, merge_log
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Build the frontier news radar")
+    parser.add_argument("--output-dir", default=str(DEFAULT_BLOG_DIR))
+    parser.add_argument("--limit", type=int, default=20, help="max curated items")
+    parser.add_argument("--threshold", type=float, default=58.0, help="curation score threshold")
+    parser.add_argument("--min-relevance", type=float, default=0.3,
+                        help="minimum AI relevance kept in the broad pool")
+    parser.add_argument("--per-source-cap", type=int, default=3,
+                        help="max curated items from a single source")
+    parser.add_argument("--per-category-cap", type=int, default=5,
+                        help="max curated items from a single category")
+    return parser.parse_args()
 
 
 def main() -> int:
-    global BLOG_DIR, DATA_DIR, POSTS_DIR
-    parser = argparse.ArgumentParser(description="Build the frontier tracker blog")
-    parser.add_argument("--output-dir", default=str(BLOG_DIR), help="Output directory for the blog")
-    parser.add_argument("--selected-limit", type=int, default=20, help="Maximum selected items")
-    parser.add_argument("--threshold", type=float, default=72.0, help="Selection score threshold")
-    parser.add_argument("--write-index-html", action="store_true", help="Rewrite blog/index.html from the manifest")
-    args = parser.parse_args()
-    output_dir = Path(args.output_dir).resolve()
-    BLOG_DIR = output_dir
-    DATA_DIR = BLOG_DIR / "data"
-    POSTS_DIR = BLOG_DIR / "posts"
+    args = parse_args()
+    blog_dir = Path(args.output_dir).resolve()
+    data_dir = blog_dir / "data"
+    posts_dir = blog_dir / "posts"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    posts_dir.mkdir(parents=True, exist_ok=True)
 
-    ensure_placeholder_files()
-    candidates = collect_candidates()
-    payload = build_payload(candidates, limit=args.selected_limit, threshold=args.threshold)
+    payload, merge_log = build_payload(args)
 
-    daily_json = DATA_DIR / f"{TODAY}.json"
-    latest_json = DATA_DIR / "latest.json"
-    post_html = POSTS_DIR / f"{TODAY}.html"
+    write_json(data_dir / "daily" / f"{TODAY}.json", payload)
+    write_json(data_dir / "daily-brief.json", {"meta": payload["meta"], "items": payload["brief"]})
+    write_json(data_dir / "latest-24h.json", {"meta": payload["meta"], "items": payload["strong"]})
+    write_json(data_dir / "latest-24h-all.json", {"meta": payload["meta"], "items": payload["all"]})
+    write_json(data_dir / "stories-merged.json", {"meta": payload["meta"], "items": payload["all"]})
+    write_json(data_dir / "source-status.json",
+               {"generated_at": payload["meta"]["generated_at"], "sources": payload["source_status"]})
+    write_json(data_dir / "merge-log.json",
+               {"generated_at": payload["meta"]["generated_at"], "merges": merge_log})
 
-    write_json(daily_json, payload)
-    write_json(latest_json, payload)
-    archive = build_archive_index()
-    payload["archive"] = archive
-    manifest = {
+    archive = build_archive(data_dir)
+    write_json(data_dir / "index.json", {
+        "generated_at": payload["meta"]["generated_at"],
         "latest": archive[0] if archive else {},
+        "categories": CATEGORIES,
         "archive": archive,
-        "generated_at": format_iso(NOW),
-    }
-    write_json(DATA_DIR / "index.json", manifest)
-    write_text(post_html, render_daily_html(payload))
+    })
+    write_text(posts_dir / f"{TODAY}.html", render_post(payload, archive))
 
-    if args.write_index_html or not (BLOG_DIR / "index.html").exists():
-        write_text(BLOG_DIR / "index.html", render_index_page(manifest))
-
-    print(
-        json.dumps(
-            {
-                "date": TODAY,
-                "candidate_count": payload["meta"]["candidate_count"],
-                "selected_count": payload["meta"]["selected_count"],
-                "output_dir": str(BLOG_DIR),
-            },
-            ensure_ascii=False,
-        )
-    )
+    print(json.dumps({"date": TODAY, "candidates": payload["meta"]["candidate_count"],
+                      "stories": payload["meta"]["story_count"],
+                      "brief": payload["meta"]["brief_count"],
+                      "sources_ok": sum(1 for entry in payload["source_status"] if entry["ok"]),
+                      "sources_failed": sum(1 for entry in payload["source_status"] if not entry["ok"])},
+                     ensure_ascii=False))
     return 0
 
 
