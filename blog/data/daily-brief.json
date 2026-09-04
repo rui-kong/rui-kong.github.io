@@ -1,13 +1,13 @@
 {
   "meta": {
     "date": "2026-09-04",
-    "generated_at": "2026-09-04T06:53:04.866188Z",
+    "generated_at": "2026-09-04T17:34:49.829117Z",
     "window_hours": 48,
     "candidate_count": 662,
-    "in_window_count": 366,
-    "relevant_count": 172,
-    "story_count": 138,
-    "strong_count": 86,
+    "in_window_count": 353,
+    "relevant_count": 175,
+    "story_count": 142,
+    "strong_count": 90,
     "brief_count": 20,
     "threshold": 58.0,
     "limit": 20,
@@ -25,13 +25,13 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-04T06:51:13Z",
+      "published_at": "2026-09-04T17:32:44Z",
       "date": "2026-09-04",
       "summary": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "tags": [
         "Python"
       ],
-      "engagement": 34222,
+      "engagement": 35246,
       "ai_score": 0.9,
       "cluster_size": 3,
       "variants": [
@@ -39,19 +39,19 @@
           "source": "GitHub",
           "title": "sgl-project/sglang",
           "url": "https://github.com/sgl-project/sglang",
-          "published_at": "2026-09-04T06:51:13Z"
+          "published_at": "2026-09-04T17:32:44Z"
         },
         {
           "source": "GitHub",
           "title": "sgl-project/sglang",
           "url": "https://github.com/sgl-project/sglang",
-          "published_at": "2026-09-04T06:51:13Z"
+          "published_at": "2026-09-04T17:32:44Z"
         },
         {
           "source": "GitHub",
           "title": "sgl-project/sglang",
           "url": "https://github.com/sgl-project/sglang",
-          "published_at": "2026-09-04T06:51:13Z"
+          "published_at": "2026-09-04T17:32:44Z"
         }
       ],
       "score": 84.6,
@@ -68,8 +68,8 @@
     },
     {
       "id": "omni-project-vllm",
-      "title": "vllm-project/vllm-omni",
-      "url": "https://github.com/vllm-project/vllm-omni",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
       "source": "GitHub",
       "sources": [
         "GitHub"
@@ -77,51 +77,183 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-04T06:47:28Z",
+      "published_at": "2026-09-04T17:31:55Z",
       "date": "2026-09-04",
-      "summary": "A framework for efficient model inference with omni-modality models",
+      "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "tags": [
         "Python"
       ],
-      "engagement": 90938,
+      "engagement": 90972,
       "ai_score": 0.56,
-      "cluster_size": 4,
+      "cluster_size": 5,
       "variants": [
+        {
+          "source": "GitHub",
+          "title": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "published_at": "2026-09-04T17:31:55Z"
+        },
+        {
+          "source": "GitHub",
+          "title": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "published_at": "2026-09-04T17:31:55Z"
+        },
         {
           "source": "GitHub",
           "title": "vllm-project/vllm-omni",
           "url": "https://github.com/vllm-project/vllm-omni",
-          "published_at": "2026-09-04T06:47:28Z"
+          "published_at": "2026-09-04T17:05:05Z"
         },
         {
           "source": "GitHub",
           "title": "vllm-project/vllm",
           "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-04T06:45:06Z"
+          "published_at": "2026-09-04T17:31:55Z"
         },
         {
           "source": "GitHub",
           "title": "vllm-project/vllm",
           "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-04T06:45:06Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "vllm-project/vllm",
-          "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-04T06:45:06Z"
+          "published_at": "2026-09-04T17:31:55Z"
         }
       ],
       "score": 79.1,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 99.8,
+        "recency": 99.9,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 100.0,
         "engagement": 100.0
       },
-      "why": "4 家信源同时报道、刚刚发生、社区讨论热度高",
+      "why": "5 家信源同时报道、刚刚发生、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "nvidia-transformerengine",
+      "title": "NVIDIA/TransformerEngine",
+      "url": "https://github.com/NVIDIA/TransformerEngine",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "训练与架构",
+      "published_at": "2026-09-04T16:21:15Z",
+      "date": "2026-09-04",
+      "summary": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 3520,
+      "ai_score": 0.76,
+      "cluster_size": 2,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "NVIDIA/TransformerEngine",
+          "url": "https://github.com/NVIDIA/TransformerEngine",
+          "published_at": "2026-09-04T16:21:15Z"
+        },
+        {
+          "source": "GitHub",
+          "title": "NVIDIA/TransformerEngine",
+          "url": "https://github.com/NVIDIA/TransformerEngine",
+          "published_at": "2026-09-04T16:21:15Z"
+        }
+      ],
+      "score": 74.9,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 97.4,
+        "novelty": 0.0,
+        "relevance": 76.0,
+        "multi_source": 50.0,
+        "engagement": 88.7
+      },
+      "why": "2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "llm-nvidia-tensorrt",
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-04T17:14:01Z",
+      "date": "2026-09-04",
+      "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 14547,
+      "ai_score": 1.0,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "NVIDIA/TensorRT-LLM",
+          "url": "https://github.com/NVIDIA/TensorRT-LLM",
+          "published_at": "2026-09-04T17:14:01Z"
+        }
+      ],
+      "score": 74.6,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 99.3,
+        "novelty": 0.0,
+        "relevance": 100.0,
+        "multi_source": 0.0,
+        "engagement": 100.0
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "atomic-atomicbot-chat",
+      "title": "AtomicBot-ai/Atomic-Chat",
+      "url": "https://github.com/AtomicBot-ai/Atomic-Chat",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-04T14:37:48Z",
+      "date": "2026-09-04",
+      "summary": "Local AI app and inference engine for agents. Run open-weight LLMs locally — private, 100% offline on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V",
+      "tags": [
+        "TypeScript"
+      ],
+      "engagement": 1423,
+      "ai_score": 0.92,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "AtomicBot-ai/Atomic-Chat",
+          "url": "https://github.com/AtomicBot-ai/Atomic-Chat",
+          "published_at": "2026-09-04T14:37:48Z"
+        }
+      ],
+      "score": 74.6,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 93.9,
+        "novelty": 25.0,
+        "relevance": 92.0,
+        "multi_source": 0.0,
+        "engagement": 78.8
+      },
+      "why": "刚刚发生、有明确发布或技术增量、与大模型技术强相关、社区讨论热度高",
       "extra": {}
     },
     {
@@ -135,39 +267,80 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "多模态",
-      "published_at": "2026-09-04T04:06:40Z",
+      "published_at": "2026-09-04T17:00:28Z",
       "date": "2026-09-04",
       "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "tags": [
         "Python"
       ],
-      "engagement": 164768,
+      "engagement": 164783,
       "ai_score": 1.0,
-      "cluster_size": 2,
+      "cluster_size": 1,
       "variants": [
         {
           "source": "GitHub",
           "title": "huggingface/transformers",
           "url": "https://github.com/huggingface/transformers",
-          "published_at": "2026-09-04T04:06:40Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "huggingface/transformers.js",
-          "url": "https://github.com/huggingface/transformers.js",
-          "published_at": "2026-09-04T04:10:27Z"
+          "published_at": "2026-09-04T17:00:28Z"
         }
       ],
-      "score": 79.0,
+      "score": 74.4,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 94.2,
+        "recency": 98.8,
         "novelty": 0.0,
         "relevance": 100.0,
-        "multi_source": 50.0,
+        "multi_source": 0.0,
         "engagement": 100.0
       },
-      "why": "2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "35b-a3b-el4-gguf-onyx-ornith",
+      "title": "el4/Ornith-1.5-35B-A3B-ONYX-GGUF",
+      "url": "https://huggingface.co/el4/Ornith-1.5-35B-A3B-ONYX-GGUF",
+      "source": "Hugging Face",
+      "sources": [
+        "Hugging Face"
+      ],
+      "source_kind": "hf-models",
+      "category": "模型",
+      "topic": "训练与架构",
+      "published_at": "2026-09-04T17:27:34Z",
+      "date": "2026-09-04",
+      "summary": "gguf, ollama, llama.cpp, imatrix, moe",
+      "tags": [
+        "gguf",
+        "ollama",
+        "llama.cpp",
+        "imatrix",
+        "moe",
+        "reasoning",
+        "frontier",
+        "qwen3"
+      ],
+      "engagement": 57,
+      "ai_score": 1.0,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "Hugging Face",
+          "title": "el4/Ornith-1.5-35B-A3B-ONYX-GGUF",
+          "url": "https://huggingface.co/el4/Ornith-1.5-35B-A3B-ONYX-GGUF",
+          "published_at": "2026-09-04T17:27:34Z"
+        }
+      ],
+      "score": 73.7,
+      "score_breakdown": {
+        "source": 82.0,
+        "recency": 99.7,
+        "novelty": 0.0,
+        "relevance": 100.0,
+        "multi_source": 0.0,
+        "engagement": 44.1
+      },
+      "why": "高信号来源、刚刚发生、与大模型技术强相关",
       "extra": {}
     },
     {
@@ -210,10 +383,10 @@
           "published_at": "2026-09-03T17:14:27Z"
         }
       ],
-      "score": 77.4,
+      "score": 71.8,
       "score_breakdown": {
         "source": 92.0,
-        "recency": 71.6,
+        "recency": 49.3,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 100.0,
@@ -228,6 +401,111 @@
           "Ping Nie",
           "Chen Zhao",
           "Xi Ye"
+        ]
+      }
+    },
+    {
+      "id": "a40-bootstrap-patdev",
+      "title": "patdev/k3-a40-bootstrap",
+      "url": "https://huggingface.co/patdev/k3-a40-bootstrap",
+      "source": "Hugging Face",
+      "sources": [
+        "Hugging Face"
+      ],
+      "source_kind": "hf-models",
+      "category": "模型",
+      "topic": "推理与系统",
+      "published_at": "2026-09-04T17:32:44Z",
+      "date": "2026-09-04",
+      "summary": "gguf, vllm, runpod, claude-code, anthropic-api",
+      "tags": [
+        "gguf",
+        "vllm",
+        "runpod",
+        "claude-code",
+        "anthropic-api",
+        "kimi",
+        "qwen",
+        "license:other"
+      ],
+      "engagement": 39,
+      "ai_score": 0.88,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "Hugging Face",
+          "title": "patdev/k3-a40-bootstrap",
+          "url": "https://huggingface.co/patdev/k3-a40-bootstrap",
+          "published_at": "2026-09-04T17:32:44Z"
+        }
+      ],
+      "score": 71.4,
+      "score_breakdown": {
+        "source": 82.0,
+        "recency": 99.9,
+        "novelty": 0.0,
+        "relevance": 88.0,
+        "multi_source": 0.0,
+        "engagement": 40.1
+      },
+      "why": "高信号来源、刚刚发生、与大模型技术强相关",
+      "extra": {}
+    },
+    {
+      "id": "diffusion-discrete-llms-lossless-speedups-unlocking",
+      "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "url": "https://arxiv.org/abs/2609.04010",
+      "source": "arXiv",
+      "sources": [
+        "arXiv",
+        "Hacker News"
+      ],
+      "source_kind": "arxiv",
+      "category": "论文",
+      "topic": "推理与系统",
+      "published_at": "2026-09-03T15:48:43Z",
+      "date": "2026-09-03",
+      "summary": "Large Language Models (LLMs) owe much of their success to next-token prediction (NTP), but their autoregressive (AR) structure requires slow, sequential token generation. To overcome this bottleneck, we introduce diffusion-augmented LLMs, a new class of models that defines an AR model distribution while using diffusion to draw multiple tokens in parallel from that distribution. We decouple the par",
+      "tags": [
+        "cs.LG"
+      ],
+      "engagement": 1,
+      "ai_score": 1.0,
+      "cluster_size": 2,
+      "variants": [
+        {
+          "source": "arXiv",
+          "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+          "url": "https://arxiv.org/abs/2609.04010",
+          "published_at": "2026-09-03T15:48:43Z"
+        },
+        {
+          "source": "Hacker News",
+          "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+          "url": "https://github.com/ifm-ai/uno",
+          "published_at": "2026-09-04T14:57:50Z"
+        }
+      ],
+      "score": 70.6,
+      "score_breakdown": {
+        "source": 92.0,
+        "recency": 46.3,
+        "novelty": 25.0,
+        "relevance": 100.0,
+        "multi_source": 50.0,
+        "engagement": 7.5
+      },
+      "why": "一手来源、2 家信源同时报道、有明确发布或技术增量、与大模型技术强相关",
+      "extra": {
+        "authors": [
+          "Subham Sekhar Sahoo",
+          "Lingjie Chen",
+          "Khiem Pham",
+          "Jonathan Geuter",
+          "Chaitanya Dwivedi",
+          "Varad Pimpalkhute",
+          "Yash Akhauri",
+          "Alexander Moreno"
         ]
       }
     },
@@ -265,10 +543,10 @@
           "published_at": "2026-09-03T16:39:55Z"
         }
       ],
-      "score": 76.0,
+      "score": 70.4,
       "score_breakdown": {
         "source": 92.0,
-        "recency": 70.4,
+        "recency": 48.1,
         "novelty": 25.0,
         "relevance": 100.0,
         "multi_source": 50.0,
@@ -316,10 +594,10 @@
           "published_at": "2026-09-03T14:45:47Z"
         }
       ],
-      "score": 75.0,
+      "score": 69.4,
       "score_breakdown": {
         "source": 92.0,
-        "recency": 66.4,
+        "recency": 44.1,
         "novelty": 25.0,
         "relevance": 100.0,
         "multi_source": 50.0,
@@ -334,182 +612,56 @@
       }
     },
     {
-      "id": "nvidia-transformerengine",
-      "title": "NVIDIA/TransformerEngine",
-      "url": "https://github.com/NVIDIA/TransformerEngine",
-      "source": "GitHub",
+      "id": "agent-environments-scalable-terminal-trajectories-turning-universe",
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "url": "https://huggingface.co/papers/2609.04148",
+      "source": "HF Daily Papers",
       "sources": [
-        "GitHub"
+        "HF Daily Papers",
+        "arXiv"
       ],
-      "source_kind": "github",
-      "category": "开发者",
+      "source_kind": "hf-papers",
+      "category": "论文",
       "topic": "训练与架构",
-      "published_at": "2026-09-04T05:08:56Z",
-      "date": "2026-09-04",
-      "summary": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
+      "published_at": "2026-09-02T20:00:00Z",
+      "date": "2026-09-02",
+      "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from s",
       "tags": [
-        "Python"
+        "daily papers"
       ],
-      "engagement": 3520,
-      "ai_score": 0.76,
-      "cluster_size": 2,
+      "engagement": 202,
+      "ai_score": 1.0,
+      "cluster_size": 3,
       "variants": [
         {
-          "source": "GitHub",
-          "title": "NVIDIA/TransformerEngine",
-          "url": "https://github.com/NVIDIA/TransformerEngine",
-          "published_at": "2026-09-04T05:08:56Z"
+          "source": "HF Daily Papers",
+          "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+          "url": "https://huggingface.co/papers/2609.04148",
+          "published_at": "2026-09-02T20:00:00Z"
         },
         {
-          "source": "GitHub",
-          "title": "NVIDIA/TransformerEngine",
-          "url": "https://github.com/NVIDIA/TransformerEngine",
-          "published_at": "2026-09-04T05:08:56Z"
-        }
-      ],
-      "score": 74.7,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 96.4,
-        "novelty": 0.0,
-        "relevance": 76.0,
-        "multi_source": 50.0,
-        "engagement": 88.7
-      },
-      "why": "2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "llm-nvidia-tensorrt",
-      "title": "NVIDIA/TensorRT-LLM",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "推理与系统",
-      "published_at": "2026-09-04T06:40:01Z",
-      "date": "2026-09-04",
-      "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 14546,
-      "ai_score": 1.0,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "NVIDIA/TensorRT-LLM",
-          "url": "https://github.com/NVIDIA/TensorRT-LLM",
-          "published_at": "2026-09-04T06:40:01Z"
-        }
-      ],
-      "score": 74.6,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 99.5,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 0.0,
-        "engagement": 100.0
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "modelscope-swift",
-      "title": "modelscope/ms-swift",
-      "url": "https://github.com/modelscope/ms-swift",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "对齐与后训练",
-      "published_at": "2026-09-04T05:24:58Z",
-      "date": "2026-09-04",
-      "summary": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 15509,
-      "ai_score": 1.0,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "modelscope/ms-swift",
-          "url": "https://github.com/modelscope/ms-swift",
-          "published_at": "2026-09-04T05:24:58Z"
-        }
-      ],
-      "score": 74.0,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 96.9,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 0.0,
-        "engagement": 100.0
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "bf16-flash-glm-org-zai",
-      "title": "zai-org/GLM-5.3-Flash-BF16",
-      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash-BF16",
-      "source": "Hugging Face",
-      "sources": [
-        "Hugging Face"
-      ],
-      "source_kind": "hf-models",
-      "category": "模型",
-      "topic": "训练与架构",
-      "published_at": "2026-09-04T06:45:54Z",
-      "date": "2026-09-04",
-      "summary": "transformers, safetensors, glm5_next, image-text-to-text, conversational",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "glm5_next",
-        "image-text-to-text",
-        "conversational",
-        "en",
-        "zh",
-        "arxiv:2602.15763"
-      ],
-      "engagement": 50818,
-      "ai_score": 0.3,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "Hugging Face",
-          "title": "zai-org/GLM-5.3-Flash-BF16",
-          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash-BF16",
-          "published_at": "2026-09-04T06:45:54Z"
+          "source": "arXiv",
+          "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+          "url": "https://arxiv.org/abs/2609.04148",
+          "published_at": "2026-09-03T17:41:05Z"
         },
         {
-          "source": "Hugging Face",
-          "title": "zai-org/GLM-5.3-Flash",
-          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "published_at": "2026-09-04T06:45:04Z"
+          "source": "arXiv",
+          "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+          "url": "https://arxiv.org/abs/2609.04148",
+          "published_at": "2026-09-03T17:41:05Z"
         }
       ],
-      "score": 73.3,
+      "score": 67.0,
       "score_breakdown": {
-        "source": 82.0,
-        "recency": 99.8,
+        "source": 95.0,
+        "recency": 5.0,
         "novelty": 0.0,
-        "relevance": 30.0,
-        "multi_source": 50.0,
-        "engagement": 100.0
+        "relevance": 100.0,
+        "multi_source": 100.0,
+        "engagement": 57.7
       },
-      "why": "高信号来源、2 家信源同时报道、刚刚发生、社区讨论热度高",
+      "why": "一手来源、3 家信源同时报道、与大模型技术强相关、社区讨论热度高",
       "extra": {}
     },
     {
@@ -540,16 +692,63 @@
           "published_at": "2026-09-04T05:54:40Z"
         }
       ],
-      "score": 72.7,
+      "score": 67.0,
       "score_breakdown": {
         "source": 86.0,
-        "recency": 98.0,
+        "recency": 75.7,
         "novelty": 50.0,
         "relevance": 56.0,
         "multi_source": 0.0,
         "engagement": 0.0
       },
       "why": "高信号来源、刚刚发生、有明确发布或技术增量",
+      "extra": {}
+    },
+    {
+      "id": "chaski-szlholdings",
+      "title": "SZLHOLDINGS/chaski",
+      "url": "https://huggingface.co/SZLHOLDINGS/chaski",
+      "source": "Hugging Face",
+      "sources": [
+        "Hugging Face"
+      ],
+      "source_kind": "hf-models",
+      "category": "模型",
+      "topic": "训练与架构",
+      "published_at": "2026-09-04T17:25:26Z",
+      "date": "2026-09-04",
+      "summary": "transformers, safetensors, qwen3_5, image-text-to-text, szl-holdings",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "szl-holdings",
+        "series-a",
+        "doctrine-v11",
+        "governed-ai"
+      ],
+      "engagement": 57,
+      "ai_score": 0.56,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "Hugging Face",
+          "title": "SZLHOLDINGS/chaski",
+          "url": "https://huggingface.co/SZLHOLDINGS/chaski",
+          "published_at": "2026-09-04T17:25:26Z"
+        }
+      ],
+      "score": 66.6,
+      "score_breakdown": {
+        "source": 82.0,
+        "recency": 99.7,
+        "novelty": 0.0,
+        "relevance": 56.0,
+        "multi_source": 0.0,
+        "engagement": 44.1
+      },
+      "why": "高信号来源、刚刚发生",
       "extra": {}
     },
     {
@@ -586,10 +785,10 @@
           "published_at": "2026-09-03T17:59:37Z"
         }
       ],
-      "score": 72.1,
+      "score": 66.5,
       "score_breakdown": {
         "source": 92.0,
-        "recency": 73.1,
+        "recency": 50.9,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 50.0,
@@ -639,10 +838,10 @@
           "published_at": "2026-09-03T17:57:02Z"
         }
       ],
-      "score": 72.1,
+      "score": 66.4,
       "score_breakdown": {
         "source": 92.0,
-        "recency": 73.1,
+        "recency": 50.8,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 50.0,
@@ -656,58 +855,6 @@
           "Dokyoon Kim",
           "Shu Yang",
           "Li Shen"
-        ]
-      }
-    },
-    {
-      "id": "code-edit-edits-fidelity-minimal-models-much-too-when",
-      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-      "url": "https://arxiv.org/abs/2609.04061",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "source_kind": "arxiv",
-      "category": "论文",
-      "topic": "数据与评测",
-      "published_at": "2026-09-03T16:36:05Z",
-      "date": "2026-09-03",
-      "summary": "Large language models (LLMs) are increasingly used to edit existing code, but correctness alone is not enough: useful repairs should also be minimal, reviewable, and faithful to the original implementation. We study over-editing, the tendency of a model to rewrite code beyond what is required to fix a bug. We construct an evaluation framework from 400 BigCodeBench problems by injecting controlled ",
-      "tags": [
-        "cs.CL"
-      ],
-      "engagement": 0,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "arXiv",
-          "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-          "url": "https://arxiv.org/abs/2609.04061",
-          "published_at": "2026-09-03T16:36:05Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-          "url": "https://arxiv.org/abs/2609.04061",
-          "published_at": "2026-09-03T16:36:05Z"
-        }
-      ],
-      "score": 71.4,
-      "score_breakdown": {
-        "source": 92.0,
-        "recency": 70.2,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 0.0
-      },
-      "why": "一手来源、2 家信源同时报道、与大模型技术强相关",
-      "extra": {
-        "authors": [
-          "Tongyao Zhu",
-          "Wei Hern Lim",
-          "Min-Yen Kan"
         ]
       }
     },
@@ -729,7 +876,7 @@
       "tags": [
         "daily papers"
       ],
-      "engagement": 40,
+      "engagement": 63,
       "ai_score": 1.0,
       "cluster_size": 3,
       "variants": [
@@ -752,170 +899,59 @@
           "published_at": "2026-09-03T17:54:38Z"
         }
       ],
-      "score": 71.0,
+      "score": 65.8,
       "score_breakdown": {
         "source": 95.0,
-        "recency": 27.3,
+        "recency": 5.0,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 100.0,
-        "engagement": 40.3
+        "engagement": 45.2
       },
       "why": "一手来源、3 家信源同时报道、与大模型技术强相关",
       "extra": {}
     },
     {
-      "id": "compositional-core-distillation-embedding-improving-mllm-reasoning-reranker",
-      "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-      "url": "https://huggingface.co/papers/2609.04083",
-      "source": "HF Daily Papers",
+      "id": "after-agent-astra-beats-benchmarks-days-gpt-just-release-search",
+      "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release",
+      "url": "https://findcheap.ai/introducing-findcheap",
+      "source": "Hacker News",
       "sources": [
-        "HF Daily Papers",
-        "arXiv"
+        "Hacker News"
       ],
-      "source_kind": "hf-papers",
-      "category": "论文",
-      "topic": "数据与评测",
-      "published_at": "2026-09-02T20:00:00Z",
-      "date": "2026-09-02",
-      "summary": "MLLM-based embedding models remain limited in compositional retrieval, often failing to distinguish scenes containing the same concepts but different attribute-object bindings. Yet the same backbone can resolve such distinctions when used as a cross-attentive reranker, motivating us to distill its compositional judgments into the embedding model. We propose CORE, which synthesizes candidate lists ",
-      "tags": [
-        "daily papers"
-      ],
-      "engagement": 10,
-      "ai_score": 0.74,
-      "cluster_size": 3,
-      "variants": [
-        {
-          "source": "HF Daily Papers",
-          "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-          "url": "https://huggingface.co/papers/2609.04083",
-          "published_at": "2026-09-02T20:00:00Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-          "url": "https://arxiv.org/abs/2609.04083",
-          "published_at": "2026-09-03T16:50:29Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-          "url": "https://arxiv.org/abs/2609.04083",
-          "published_at": "2026-09-03T16:50:29Z"
-        }
-      ],
-      "score": 70.1,
-      "score_breakdown": {
-        "source": 95.0,
-        "recency": 27.3,
-        "novelty": 25.0,
-        "relevance": 74.0,
-        "multi_source": 100.0,
-        "engagement": 26.0
-      },
-      "why": "一手来源、3 家信源同时报道、有明确发布或技术增量、与大模型技术强相关",
-      "extra": {}
-    },
-    {
-      "id": "agent-environments-scalable-terminal-trajectories-turning-universe",
-      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-      "url": "https://huggingface.co/papers/2609.04148",
-      "source": "HF Daily Papers",
-      "sources": [
-        "HF Daily Papers",
-        "arXiv"
-      ],
-      "source_kind": "hf-papers",
-      "category": "论文",
-      "topic": "训练与架构",
-      "published_at": "2026-09-02T20:00:00Z",
-      "date": "2026-09-02",
-      "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from s",
-      "tags": [
-        "daily papers"
-      ],
-      "engagement": 11,
-      "ai_score": 1.0,
-      "cluster_size": 3,
-      "variants": [
-        {
-          "source": "HF Daily Papers",
-          "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-          "url": "https://huggingface.co/papers/2609.04148",
-          "published_at": "2026-09-02T20:00:00Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-          "url": "https://arxiv.org/abs/2609.04148",
-          "published_at": "2026-09-03T17:41:05Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-          "url": "https://arxiv.org/abs/2609.04148",
-          "published_at": "2026-09-03T17:41:05Z"
-        }
-      ],
-      "score": 69.8,
-      "score_breakdown": {
-        "source": 95.0,
-        "recency": 27.3,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 100.0,
-        "engagement": 27.0
-      },
-      "why": "一手来源、3 家信源同时报道、与大模型技术强相关",
-      "extra": {}
-    },
-    {
-      "id": "nyaya-nyayalabs98",
-      "title": "NyayaLabs98/nyaya-3b-v3",
-      "url": "https://huggingface.co/NyayaLabs98/nyaya-3b-v3",
-      "source": "Hugging Face",
-      "sources": [
-        "Hugging Face"
-      ],
-      "source_kind": "hf-models",
-      "category": "模型",
-      "topic": "训练与架构",
-      "published_at": "2026-09-04T06:45:35Z",
+      "source_kind": "hn",
+      "category": "社区",
+      "topic": "Agent 与工具",
+      "published_at": "2026-09-04T16:08:40Z",
       "date": "2026-09-04",
-      "summary": "transformers, safetensors, qwen2, text-generation, legal",
+      "summary": "2 points, 0 comments",
       "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "legal",
-        "india",
-        "indian-law",
-        "bns"
+        "hacker news"
       ],
-      "engagement": 72,
-      "ai_score": 0.56,
+      "engagement": 2,
+      "ai_score": 0.66,
       "cluster_size": 1,
       "variants": [
         {
-          "source": "Hugging Face",
-          "title": "NyayaLabs98/nyaya-3b-v3",
-          "url": "https://huggingface.co/NyayaLabs98/nyaya-3b-v3",
-          "published_at": "2026-09-04T06:45:35Z"
+          "source": "Hacker News",
+          "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release",
+          "url": "https://findcheap.ai/introducing-findcheap",
+          "published_at": "2026-09-04T16:08:40Z"
         }
       ],
-      "score": 66.8,
+      "score": 64.3,
       "score_breakdown": {
-        "source": 82.0,
-        "recency": 99.7,
-        "novelty": 0.0,
-        "relevance": 56.0,
+        "source": 68.0,
+        "recency": 97.0,
+        "novelty": 25.0,
+        "relevance": 66.0,
         "multi_source": 0.0,
-        "engagement": 46.6
+        "engagement": 11.9
       },
-      "why": "高信号来源、刚刚发生",
-      "extra": {}
+      "why": "刚刚发生、有明确发布或技术增量",
+      "extra": {
+        "hn_url": "https://news.ycombinator.com/item?id=49566574"
+      }
     },
     {
       "id": "astra-gpt",
@@ -945,63 +981,16 @@
           "published_at": "2026-09-03T20:18:41Z"
         }
       ],
-      "score": 65.5,
+      "score": 59.9,
       "score_breakdown": {
         "source": 86.0,
-        "recency": 78.0,
+        "recency": 55.7,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
         "engagement": 0.0
       },
-      "why": "高信号来源、刚刚发生、与大模型技术强相关",
-      "extra": {}
-    },
-    {
-      "id": "27b-bit-deltanet-gated-half-hybrid-llm-nvfp4-quantization-recurrent-survives-w4a",
-      "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
-      "url": "https://huggingface.co/papers/2609.04098",
-      "source": "HF Daily Papers",
-      "sources": [
-        "HF Daily Papers",
-        "arXiv"
-      ],
-      "source_kind": "hf-papers",
-      "category": "论文",
-      "topic": "训练与架构",
-      "published_at": "2026-09-02T20:00:00Z",
-      "date": "2026-09-02",
-      "summary": "Hybrid LLMs pair softmax attention with linear-attention layers such as Gated DeltaNet (GDN), whose recurrent state summarizes the context in fixed size. Early community 4-bit quantizations of Qwen3.8-27B (48 GDN layers, 16 attention layers) left the GDN block in 8- or 16-bit precision -- especially its decay and write-strength gates -- on the intuition that errors in a recurrence accumulate over ",
-      "tags": [
-        "daily papers"
-      ],
-      "engagement": 50,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "HF Daily Papers",
-          "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
-          "url": "https://huggingface.co/papers/2609.04098",
-          "published_at": "2026-09-02T20:00:00Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
-          "url": "https://arxiv.org/abs/2609.04098",
-          "published_at": "2026-09-03T17:04:26Z"
-        }
-      ],
-      "score": 65.5,
-      "score_breakdown": {
-        "source": 95.0,
-        "recency": 27.3,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 42.7
-      },
-      "why": "一手来源、2 家信源同时报道、与大模型技术强相关",
+      "why": "高信号来源、与大模型技术强相关",
       "extra": {}
     }
   ]

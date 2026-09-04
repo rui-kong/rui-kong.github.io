@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T06:53:04.866188Z",
+  "generated_at": "2026-09-04T17:34:49.829117Z",
   "merges": [
     {
       "into": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
@@ -125,7 +125,13 @@
       "into": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
       "from": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
       "source": "arXiv",
-      "reason": "same-url"
+      "reason": "title-similarity=1.00"
+    },
+    {
+      "into": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "from": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
+      "source": "arXiv",
+      "reason": "title-similarity=1.00"
     },
     {
       "into": "Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation",
@@ -137,18 +143,6 @@
       "into": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
       "from": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
       "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "zai-org/GLM-5.3-Flash-BF16",
-      "from": "zai-org/GLM-5.3-Flash",
-      "source": "Hugging Face",
-      "reason": "title-similarity=0.80"
-    },
-    {
-      "into": "pegainfer-project/pegainfer",
-      "from": "pegainfer-project/pegainfer",
-      "source": "GitHub",
       "reason": "same-url"
     },
     {
@@ -170,39 +164,39 @@
       "reason": "same-url"
     },
     {
-      "into": "vllm-project/vllm-omni",
+      "into": "vllm-project/vllm",
       "from": "vllm-project/vllm",
-      "source": "GitHub",
-      "reason": "title-similarity=0.67"
-    },
-    {
-      "into": "vllm-project/vllm-omni",
-      "from": "vllm-project/vllm",
-      "source": "GitHub",
-      "reason": "title-similarity=0.67"
-    },
-    {
-      "into": "alibaba/MNN",
-      "from": "alibaba/MNN",
       "source": "GitHub",
       "reason": "same-url"
     },
     {
-      "into": "vllm-project/vllm-omni",
-      "from": "vllm-project/vllm",
+      "into": "vllm-project/vllm",
+      "from": "vllm-project/vllm-omni",
       "source": "GitHub",
       "reason": "title-similarity=0.67"
     },
     {
-      "into": "Tencent/YOLO-Master",
-      "from": "Tencent/YOLO-Master",
+      "into": "vllm-project/vllm",
+      "from": "vllm-project/vllm",
       "source": "GitHub",
       "reason": "same-url"
     },
     {
-      "into": "huggingface/transformers",
-      "from": "huggingface/transformers.js",
+      "into": "vllm-project/vllm",
+      "from": "vllm-project/vllm",
       "source": "GitHub",
+      "reason": "same-url"
+    },
+    {
+      "into": "aeonfun/aeon",
+      "from": "aeonfun/aeon",
+      "source": "GitHub",
+      "reason": "same-url"
+    },
+    {
+      "into": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "from": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "source": "Hacker News",
       "reason": "title-similarity=1.00"
     }
   ]
