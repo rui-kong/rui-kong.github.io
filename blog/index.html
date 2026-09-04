@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Frontier Tracker</title>
+  <link rel="stylesheet" href="https://bootswatch.com/5/flatly/bootstrap.min.css">
+  <style>
+    body { background: #f7f9fb; }
+    .page-shell { max-width: 1280px; }
+    .panel { border: 1px solid rgba(0, 0, 0, .1); border-radius: 8px; background: #fff; }
+    .panel a { text-decoration: none; }
+    .item-summary { white-space: pre-wrap; }
+    .sticky-panel { position: sticky; top: 1rem; }
+  </style>
+</head>
+<body>
+  <div class="container page-shell py-4">
+    <div class="d-flex flex-wrap align-items-end justify-content-between gap-3 mb-4">
+      <div>
+        <p class="text-uppercase text-muted small mb-1">Frontier Tracker</p>
+        <h1 class="h3 mb-2">前沿大模型技术追踪</h1>
+        <div class="text-muted">每天自动收集 200 到 500 条候选，压缩成 20 条以内，并保留可筛选的博客归档。</div>
+      </div>
+      <div class="text-end">
+        <a class="btn btn-outline-primary btn-sm me-2" href="../index.html">返回主页</a>
+        <a class="btn btn-primary btn-sm" id="latestPostLink" href="./posts/2026-09-04.html">打开最新博客</a>
+      </div>
+    </div>
+
+    <div class="row g-3 mb-3">
+      <div class="col-lg-8">
+        <div class="panel p-3">
+          <div class="d-flex flex-wrap gap-2 align-items-center">
+            <label class="form-label mb-0">日期</label>
+            <select id="dateSelect" class="form-select form-select-sm w-auto"></select>
+            <label class="form-label mb-0 ms-2">视图</label>
+            <div class="btn-group btn-group-sm" role="group">
+              <button class="btn btn-outline-primary active" data-view="selected" type="button">精选</button>
+              <button class="btn btn-outline-primary" data-view="all" type="button">候选池</button>
+            </div>
+            <label class="form-label mb-0 ms-2">主题</label>
+            <select id="topicSelect" class="form-select form-select-sm w-auto"></select>
+            <label class="form-label mb-0 ms-2">来源</label>
+            <select id="sourceSelect" class="form-select form-select-sm w-auto"></select>
+            <label class="form-check-label ms-2">
+              <input id="highScoreOnly" class="form-check-input me-1" type="checkbox" checked>只看高分
+            </label>
+            <label class="form-label mb-0 ms-2">最低分</label>
+            <input id="minScore" type="range" class="form-range w-auto" min="0" max="100" step="1" value="75" style="width: 180px;">
+            <span id="minScoreValue" class="text-muted small">75</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="panel p-3 sticky-panel">
+          <div class="d-flex justify-content-between">
+            <div>
+              <div class="text-muted small">最新归档</div>
+              <div class="fw-semibold" id="currentDate">-</div>
+            </div>
+            <div class="text-end">
+              <div class="text-muted small">精选 / 候选</div>
+              <div class="fw-semibold"><span id="selectedCount">0</span> / <span id="candidateCount">0</span></div>
+            </div>
+          </div>
+          <div class="mt-2 text-muted small" id="dataMeta">正在加载数据。</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row g-3">
+      <div class="col-lg-8">
+        <div class="mb-3">
+          <div class="row g-2" id="statsRow"></div>
+        </div>
+        <div id="items"></div>
+      </div>
+      <div class="col-lg-4">
+        <div class="panel p-3 mb-3">
+          <div class="fw-semibold mb-2">归档</div>
+          <ul id="archiveList" class="list-unstyled small mb-0"></ul>
+        </div>
+        <div class="panel p-3">
+          <div class="fw-semibold mb-2">说明</div>
+          <ul class="small mb-0">
+            <li>高分代表“值得优先追踪”，不等于最终结论。</li>
+            <li>候选池保留更宽的输入，便于回溯和复查。</li>
+            <li>你可以继续在 `data/index.json` 之外接入更多 RSS/Atom 源。</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const state = {
+      view: 'selected',
+      minScore: 75,
+      highScoreOnly: true,
+      topic: '全部',
+      source: '全部',
+      date: null,
+      payload: null,
+      archive: [],
+    };
+
+    const elements = {
+      dateSelect: document.getElementById('dateSelect'),
+      topicSelect: document.getElementById('topicSelect'),
+      sourceSelect: document.getElementById('sourceSelect'),
+      highScoreOnly: document.getElementById('highScoreOnly'),
+      minScore: document.getElementById('minScore'),
+      minScoreValue: document.getElementById('minScoreValue'),
+      items: document.getElementById('items'),
+      selectedCount: document.getElementById('selectedCount'),
+      candidateCount: document.getElementById('candidateCount'),
+      dataMeta: document.getElementById('dataMeta'),
+      statsRow: document.getElementById('statsRow'),
+      currentDate: document.getElementById('currentDate'),
+      latestPostLink: document.getElementById('latestPostLink'),
+      archiveList: document.getElementById('archiveList'),
+    };
+
+    function escapeHtml(value) {
+      return String(value)
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#39;');
+    }
+
+    function sortedUnique(values) {
+      return Array.from(new Set(values.filter(Boolean))).sort((a, b) => a.localeCompare(b, 'zh-Hans-CN'));
+    }
+
+    function scoreBadge(score) {
+      const tone = score >= 85 ? 'primary' : score >= 72 ? 'success' : score >= 60 ? 'warning' : 'secondary';
+      return `<span class="badge text-bg-${tone} fs-6">${Number(score).toFixed(1)}</span>`;
+    }
+
+    function metricCard(title, value, subtitle = '') {
+      return `
+        <div class="col-md-4">
+          <div class="panel p-3 h-100">
+            <div class="text-muted small">${escapeHtml(title)}</div>
+            <div class="h4 mb-1">${escapeHtml(value)}</div>
+            <div class="text-muted small">${escapeHtml(subtitle)}</div>
+          </div>
+        </div>`;
+    }
+
+    function buildOptions(values) {
+      return values.map(value => `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`).join('');
+    }
+
+    function itemMatches(item) {
+      if (state.topic !== '全部' && item.topic !== state.topic) return false;
+      if (state.source !== '全部') {
+        const sources = item.sources || [item.source];
+        if (!sources.includes(state.source) && item.source !== state.source) return false;
+      }
+      if (state.highScoreOnly && item.score < state.minScore) return false;
+      return true;
+    }
+
+    function currentItems() {
+      const payload = state.payload || {};
+      const items = state.view === 'selected' ? (payload.selected || []) : (payload.candidates || []);
+      return items.filter(itemMatches);
+    }
+
+    function renderStats(items) {
+      const meta = state.payload?.meta || {};
+      elements.statsRow.innerHTML = [
+        metricCard('当前视图', state.view === 'selected' ? '精选' : '候选池', '筛选会联动主题、来源和分数'),
+        metricCard('当前条目', String(items.length), '满足当前条件的记录数'),
+        metricCard('高分阈值', state.highScoreOnly ? `≥ ${state.minScore}` : '关闭', '分数越高越优先展示'),
+      ].join('');
+      elements.dataMeta.textContent = `生成于 ${meta.generated_at || '未知'}，聚合后 ${meta.merged_count || 0} 条，原始候选 ${meta.candidate_count || 0} 条。`;
+      elements.selectedCount.textContent = String(meta.selected_count || 0);
+      elements.candidateCount.textContent = String(meta.candidate_count || 0);
+      elements.currentDate.textContent = meta.date || state.date || '-';
+      if (state.payload?.meta?.date) {
+        elements.latestPostLink.href = `./posts/${state.payload.meta.date}.html`;
+      }
+    }
+
+    function renderItem(item) {
+      const tags = (item.tags || []).slice(0, 6).map(tag => `<span class="badge text-bg-secondary me-1 mb-1">${escapeHtml(tag)}</span>`).join('');
+      const sources = (item.sources || [item.source]).map(escapeHtml).join(' / ');
+      const published = item.published_at ? String(item.published_at).slice(0, 10) : '未知';
+      const score = scoreBadge(item.score || 0);
+      const url = escapeHtml(item.url || '#');
+      return `
+        <article class="panel p-3 mb-3">
+          <div class="d-flex gap-3 align-items-start">
+            <div class="flex-grow-1">
+              <div class="d-flex align-items-start gap-2">
+                <h3 class="h6 mb-1 flex-grow-1">
+                  <a href="${url}" target="_blank" rel="noreferrer">${escapeHtml(item.title || '')}</a>
+                </h3>
+                ${score}
+              </div>
+              <div class="text-muted small mb-2">
+                ${escapeHtml(item.source || '')} · ${escapeHtml(item.topic || '')} · ${published} · ${sources}
+              </div>
+            </div>
+          </div>
+          <div class="item-summary mb-2">${escapeHtml((item.summary || '').slice(0, 320))}</div>
+          <div class="small text-muted mb-2">${escapeHtml(item.why || '')}</div>
+          <div>${tags}</div>
+        </article>`;
+    }
+
+    function renderItems() {
+      const items = currentItems();
+      renderStats(items);
+      if (!items.length) {
+        elements.items.innerHTML = '<div class="alert alert-light border">没有匹配到条目，请放宽筛选条件。</div>';
+        return;
+      }
+      elements.items.innerHTML = items.map(renderItem).join('');
+    }
+
+    function rebuildFilters() {
+      const payload = state.payload || {};
+      const allItems = [...(payload.selected || []), ...(payload.candidates || [])];
+      const topics = ['全部', ...sortedUnique(allItems.map(item => item.topic))];
+      const sources = ['全部', ...sortedUnique(allItems.flatMap(item => item.sources && item.sources.length ? item.sources : [item.source]).filter(Boolean))];
+      elements.topicSelect.innerHTML = buildOptions(topics);
+      elements.sourceSelect.innerHTML = buildOptions(sources);
+      elements.topicSelect.value = state.topic;
+      elements.sourceSelect.value = state.source;
+      elements.archiveList.innerHTML = (state.archive || []).slice(0, 18).map(entry =>
+        `<li class="mb-1"><a href="./posts/${escapeHtml(entry.date)}.html">${escapeHtml(entry.date)}</a> <span class="text-muted">(${entry.selected_count}/${entry.candidate_count})</span></li>`
+      ).join('') || '<li class="text-muted">还没有归档</li>';
+    }
+
+    async function loadPayload(date) {
+      const response = await fetch(`./data/${date}.json`, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`无法加载 ${date} 的数据`);
+      return response.json();
+    }
+
+    async function loadArchive() {
+      const response = await fetch('./data/index.json', { cache: 'no-store' });
+      if (!response.ok) return [];
+      const payload = await response.json();
+      return payload.archive || [];
+    }
+
+    async function refreshData(date) {
+      state.date = date;
+      try {
+        state.payload = await loadPayload(date);
+        const meta = state.payload.meta || {};
+        state.minScore = Math.max(60, Math.min(90, Math.round(meta.threshold || 75)));
+        elements.minScore.value = String(state.minScore);
+        elements.minScoreValue.textContent = String(state.minScore);
+        elements.highScoreOnly.checked = true;
+        state.highScoreOnly = true;
+        rebuildFilters();
+        renderItems();
+      } catch (error) {
+        elements.items.innerHTML = `<div class="alert alert-danger">${escapeHtml(error.message)}</div>`;
+      }
+    }
+
+    async function initialize() {
+      state.archive = await loadArchive();
+      const dates = state.archive.map(item => item.date);
+      if (!dates.length) dates.push('2026-09-04');
+      elements.dateSelect.innerHTML = dates.map(date => `<option value="${escapeHtml(date)}">${escapeHtml(date)}</option>`).join('');
+      state.date = dates[0];
+      elements.dateSelect.value = state.date;
+
+      await refreshData(state.date);
+
+      elements.dateSelect.addEventListener('change', async () => {
+        await refreshData(elements.dateSelect.value);
+      });
+
+      document.querySelectorAll('[data-view]').forEach(button => {
+        button.addEventListener('click', () => {
+          document.querySelectorAll('[data-view]').forEach(btn => btn.classList.remove('active'));
+          button.classList.add('active');
+          state.view = button.dataset.view;
+          renderItems();
+        });
+      });
+
+      elements.topicSelect.addEventListener('change', () => {
+        state.topic = elements.topicSelect.value;
+        renderItems();
+      });
+      elements.sourceSelect.addEventListener('change', () => {
+        state.source = elements.sourceSelect.value;
+        renderItems();
+      });
+      elements.highScoreOnly.addEventListener('change', () => {
+        state.highScoreOnly = elements.highScoreOnly.checked;
+        renderItems();
+      });
+      elements.minScore.addEventListener('input', () => {
+        state.minScore = Number(elements.minScore.value);
+        elements.minScoreValue.textContent = String(state.minScore);
+        renderItems();
+      });
+    }
+
+    initialize();
+  </script>
+</body>
+</html>
