@@ -1,18 +1,6 @@
 {
-  "generated_at": "2026-09-04T17:34:49.829117Z",
+  "generated_at": "2026-09-05T06:54:36.722451Z",
   "merges": [
-    {
-      "into": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-      "from": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-      "source": "arXiv",
-      "reason": "title-similarity=1.00"
-    },
-    {
-      "into": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-      "from": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-      "source": "arXiv",
-      "reason": "title-similarity=1.00"
-    },
     {
       "into": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
       "from": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
@@ -53,31 +41,19 @@
       "into": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
       "from": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
       "source": "arXiv",
-      "reason": "title-similarity=1.00"
+      "reason": "same-url"
     },
     {
       "into": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
       "from": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
       "source": "arXiv",
-      "reason": "title-similarity=1.00"
-    },
-    {
-      "into": "Environment Evolution for Terminal Agents",
-      "from": "Environment Evolution for Terminal Agents",
-      "source": "arXiv",
-      "reason": "title-similarity=1.00"
+      "reason": "same-url"
     },
     {
       "into": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
       "from": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
       "source": "arXiv",
       "reason": "same-url"
-    },
-    {
-      "into": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
-      "from": "Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM",
-      "source": "arXiv",
-      "reason": "title-similarity=1.00"
     },
     {
       "into": "Subspace Inference Enables Efficient Active Reward Learning from Preferences",
@@ -107,31 +83,13 @@
       "into": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
       "from": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
       "source": "arXiv",
-      "reason": "title-similarity=1.00"
-    },
-    {
-      "into": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-      "from": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-      "source": "arXiv",
-      "reason": "title-similarity=1.00"
-    },
-    {
-      "into": "Editable Visual Design",
-      "from": "Editable Visual Design",
-      "source": "arXiv",
-      "reason": "title-similarity=1.00"
+      "reason": "same-url"
     },
     {
       "into": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
       "from": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
       "source": "arXiv",
-      "reason": "title-similarity=1.00"
-    },
-    {
-      "into": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
-      "from": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
-      "source": "arXiv",
-      "reason": "title-similarity=1.00"
+      "reason": "same-url"
     },
     {
       "into": "Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation",
@@ -146,8 +104,14 @@
       "reason": "same-url"
     },
     {
-      "into": "sgl-project/sglang",
-      "from": "sgl-project/sglang",
+      "into": "agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16",
+      "from": "agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21groot16",
+      "source": "Hugging Face",
+      "reason": "title-similarity=0.82"
+    },
+    {
+      "into": "pegainfer-project/pegainfer",
+      "from": "pegainfer-project/pegainfer",
       "source": "GitHub",
       "reason": "same-url"
     },
@@ -160,12 +124,6 @@
     {
       "into": "NVIDIA/TransformerEngine",
       "from": "NVIDIA/TransformerEngine",
-      "source": "GitHub",
-      "reason": "same-url"
-    },
-    {
-      "into": "vllm-project/vllm",
-      "from": "vllm-project/vllm",
       "source": "GitHub",
       "reason": "same-url"
     },
@@ -188,16 +146,34 @@
       "reason": "same-url"
     },
     {
-      "into": "aeonfun/aeon",
-      "from": "aeonfun/aeon",
+      "into": "Tencent/YOLO-Master",
+      "from": "Tencent/YOLO-Master",
       "source": "GitHub",
       "reason": "same-url"
     },
     {
-      "into": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
-      "from": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+      "into": "flashinfer-ai/flashinfer",
+      "from": "flashinfer-ai/flashinfer",
+      "source": "GitHub",
+      "reason": "same-url"
+    },
+    {
+      "into": "vllm-project/vllm-ascend",
+      "from": "vllm-project/vllm-ascend",
+      "source": "GitHub",
+      "reason": "same-url"
+    },
+    {
+      "into": "huggingface/transformers",
+      "from": "huggingface/sentence-transformers",
+      "source": "GitHub",
+      "reason": "title-similarity=0.67"
+    },
+    {
+      "into": "Claude Fable 5.1 Benchmark: Draw a Python Reading a Book",
+      "from": "GPT-6 Astra Benchmark: Draw a Python Reading a Book",
       "source": "Hacker News",
-      "reason": "title-similarity=1.00"
+      "reason": "title-similarity=0.56"
     }
   ]
 }

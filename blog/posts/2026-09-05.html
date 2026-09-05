@@ -1,0 +1,489 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>前沿追踪 · 2026-09-05</title>
+<style>
+:root { color-scheme: light; --bg:#f6f7f9; --panel:#fff; --line:#e5e7eb; --ink:#111827;
+  --muted:#6b7280; --accent:#2563eb; --accent-soft:#eff6ff; }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.6 -apple-system,
+  BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif; }
+a { color:var(--accent); text-decoration:none; }
+a:hover { text-decoration:underline; }
+.wrap { max-width:1080px; margin:0 auto; padding:28px 20px 64px; }
+.top { display:flex; flex-wrap:wrap; gap:16px; align-items:flex-end; justify-content:space-between;
+  margin-bottom:24px; }
+.kicker { font-size:12px; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); margin:0 0 6px; }
+h1 { font-size:24px; margin:0 0 8px; }
+.lede { color:var(--muted); margin:0; }
+.btn { display:inline-block; border:1px solid var(--line); background:var(--panel); color:var(--ink);
+  border-radius:8px; padding:7px 12px; font-size:13px; }
+.btn.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px; margin-bottom:24px; }
+.stat { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:14px 16px; }
+.stat .k { color:var(--muted); font-size:12px; }
+.stat .v { font-size:22px; font-weight:600; margin-top:2px; }
+.layout { display:grid; grid-template-columns:minmax(0,1fr) 288px; gap:20px; align-items:start; }
+@media (max-width:880px) { .layout { grid-template-columns:minmax(0,1fr); } }
+.panel { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:16px; }
+.panel h2, .panel h3 { margin:0 0 10px; font-size:14px; }
+.rail { display:grid; gap:16px; position:sticky; top:16px; }
+.card { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:16px;
+  margin-bottom:12px; }
+.card-head { display:flex; gap:12px; align-items:flex-start; justify-content:space-between; }
+.card-title { font-size:16px; font-weight:600; line-height:1.45; }
+.score { flex:none; background:var(--accent-soft); color:var(--accent); border-radius:999px;
+  padding:2px 10px; font-size:13px; font-weight:600; }
+.meta { display:flex; flex-wrap:wrap; gap:10px; color:var(--muted); font-size:12px; margin:8px 0; }
+.cat { background:#f3f4f6; border-radius:6px; padding:1px 8px; }
+.summary { margin:8px 0; color:#374151; }
+.why { margin:6px 0 10px; color:var(--muted); font-size:13px; }
+.tags { display:flex; flex-wrap:wrap; gap:6px; }
+.tag { background:#f3f4f6; color:#4b5563; border-radius:6px; padding:1px 8px; font-size:12px; }
+.multi { margin-top:10px; font-size:13px; }
+.multi summary { cursor:pointer; color:var(--accent); }
+.multi ul { margin:8px 0 0; padding-left:18px; }
+.muted { color:var(--muted); }
+.rowlist { list-style:none; margin:0; padding:0; font-size:13px; }
+.rowlist li { display:flex; justify-content:space-between; gap:10px; padding:3px 0; }
+.day { margin:22px 0 10px; font-size:13px; color:var(--muted); font-weight:600; }
+.bad { color:#b91c1c; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <p class="kicker">Frontier Radar</p>
+      <h1>2026-09-05 每日精选</h1>
+      <p class="lede">候选 655 条，合并为 129 个事件，精选 20 条。</p>
+    </div>
+    <div>
+      <a class="btn primary" href="../index.html">打开追踪面板</a>
+      <a class="btn" href="../../index.html">返回主页</a>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="stat"><div class="k">原始候选</div><div class="v">655</div></div>
+    <div class="stat"><div class="k">合并事件</div><div class="v">129</div></div>
+    <div class="stat"><div class="k">精选</div><div class="v">20</div></div>
+    <div class="stat"><div class="k">强相关</div><div class="v">86</div></div>
+  </div>
+  <div class="layout">
+    <main>
+      <h2 class="day">当前热点（多信源同时报道）</h2>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">vllm-project/vllm</a>
+            <span class="score">79.0</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>推理与系统</span>
+            <span>2026-09-05 06:39</span>
+          </div>
+          <p class="summary">A high-throughput and memory-efficient inference and serving engine for LLMs</p>
+          <p class="why">为什么值得看：4 家信源同时报道、刚刚发生、社区讨论热度高</p>
+          <div class="tags"><span class="tag">Python</span></div>
+          <details class="multi"><summary>多源 4</summary><ul><li><span class="muted">GitHub</span> <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">vllm-project/vllm</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/vllm-project/vllm-omni" target="_blank" rel="noreferrer">vllm-project/vllm-omni</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">vllm-project/vllm</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">vllm-project/vllm</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://arxiv.org/abs/2609.04108" target="_blank" rel="noreferrer">Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</a>
+            <span class="score">64.8</span>
+          </div>
+          <div class="meta">
+            <span class="cat">论文</span>
+            <span>arXiv</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-03 17:14</span>
+          </div>
+          <p class="summary">Reinforcement learning with verifiable rewards (RLVR) and on-policy distillation (OPD) have emerged as two dominant methods for post-training reasoning LLMs. Prior work uses OPD&#x27;s dense token-level supervision to complement the sparse RL reward, fusing the two</p>
+          <p class="why">为什么值得看：一手来源、3 家信源同时报道、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">cs.CL</span></div>
+          <details class="multi"><summary>多源 3</summary><ul><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04108" target="_blank" rel="noreferrer">Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04108" target="_blank" rel="noreferrer">Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04108" target="_blank" rel="noreferrer">Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/huggingface/transformers" target="_blank" rel="noreferrer">huggingface/transformers</a>
+            <span class="score">80.3</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>多模态</span>
+            <span>2026-09-05 06:30</span>
+          </div>
+          <p class="summary">🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</p>
+          <p class="why">为什么值得看：2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">Python</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">GitHub</span> <a href="https://github.com/huggingface/transformers" target="_blank" rel="noreferrer">huggingface/transformers</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/huggingface/sentence-transformers" target="_blank" rel="noreferrer">huggingface/sentence-transformers</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer">sgl-project/sglang</a>
+            <span class="score">78.4</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>推理与系统</span>
+            <span>2026-09-05 06:03</span>
+          </div>
+          <p class="summary">SGLang is a high-performance serving framework for large language models and multimodal models.</p>
+          <p class="why">为什么值得看：2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">Python</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">GitHub</span> <a href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer">sgl-project/sglang</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer">sgl-project/sglang</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16" target="_blank" rel="noreferrer">agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16</a>
+            <span class="score">76.0</span>
+          </div>
+          <div class="meta">
+            <span class="cat">模型</span>
+            <span>Hugging Face</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-05 06:47</span>
+          </div>
+          <p class="summary">transformers, safetensors, qwen3, text-generation, openrlhf</p>
+          <p class="why">为什么值得看：高信号来源、2 家信源同时报道、刚刚发生、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">transformers</span><span class="tag">safetensors</span><span class="tag">qwen3</span><span class="tag">text-generation</span><span class="tag">openrlhf</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">Hugging Face</span> <a href="https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16" target="_blank" rel="noreferrer">agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16</a></li><li><span class="muted">Hugging Face</span> <a href="https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21groot16" target="_blank" rel="noreferrer">agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21groot16</a></li></ul></details>
+        </article>
+      <h2 class="day">每日精选</h2>
+      
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/huggingface/transformers" target="_blank" rel="noreferrer">huggingface/transformers</a>
+            <span class="score">80.3</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>多模态</span>
+            <span>2026-09-05 06:30</span>
+          </div>
+          <p class="summary">🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</p>
+          <p class="why">为什么值得看：2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">Python</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">GitHub</span> <a href="https://github.com/huggingface/transformers" target="_blank" rel="noreferrer">huggingface/transformers</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/huggingface/sentence-transformers" target="_blank" rel="noreferrer">huggingface/sentence-transformers</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">vllm-project/vllm</a>
+            <span class="score">79.0</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>推理与系统</span>
+            <span>2026-09-05 06:39</span>
+          </div>
+          <p class="summary">A high-throughput and memory-efficient inference and serving engine for LLMs</p>
+          <p class="why">为什么值得看：4 家信源同时报道、刚刚发生、社区讨论热度高</p>
+          <div class="tags"><span class="tag">Python</span></div>
+          <details class="multi"><summary>多源 4</summary><ul><li><span class="muted">GitHub</span> <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">vllm-project/vllm</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/vllm-project/vllm-omni" target="_blank" rel="noreferrer">vllm-project/vllm-omni</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">vllm-project/vllm</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/vllm-project/vllm" target="_blank" rel="noreferrer">vllm-project/vllm</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer">sgl-project/sglang</a>
+            <span class="score">78.4</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>推理与系统</span>
+            <span>2026-09-05 06:03</span>
+          </div>
+          <p class="summary">SGLang is a high-performance serving framework for large language models and multimodal models.</p>
+          <p class="why">为什么值得看：2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">Python</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">GitHub</span> <a href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer">sgl-project/sglang</a></li><li><span class="muted">GitHub</span> <a href="https://github.com/sgl-project/sglang" target="_blank" rel="noreferrer">sgl-project/sglang</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16" target="_blank" rel="noreferrer">agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16</a>
+            <span class="score">76.0</span>
+          </div>
+          <div class="meta">
+            <span class="cat">模型</span>
+            <span>Hugging Face</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-05 06:47</span>
+          </div>
+          <p class="summary">transformers, safetensors, qwen3, text-generation, openrlhf</p>
+          <p class="why">为什么值得看：高信号来源、2 家信源同时报道、刚刚发生、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">transformers</span><span class="tag">safetensors</span><span class="tag">qwen3</span><span class="tag">text-generation</span><span class="tag">openrlhf</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">Hugging Face</span> <a href="https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16" target="_blank" rel="noreferrer">agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16</a></li><li><span class="muted">Hugging Face</span> <a href="https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21groot16" target="_blank" rel="noreferrer">agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21groot16</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/modelscope/ms-swift" target="_blank" rel="noreferrer">modelscope/ms-swift</a>
+            <span class="score">74.3</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-05 06:00</span>
+          </div>
+          <p class="summary">Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).</p>
+          <p class="why">为什么值得看：刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">Python</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/open-multi-agent/open-multi-agent" target="_blank" rel="noreferrer">open-multi-agent/open-multi-agent</a>
+            <span class="score">73.6</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-05 05:20</span>
+          </div>
+          <p class="summary">TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every run leaves a verifiable record. Describe the goal, not the graph. 13 built-in providers (Claude, OpenAI, Gemini, DeepSeek and more) plus any O</p>
+          <p class="why">为什么值得看：刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">TypeScript</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/NVIDIA/TensorRT-LLM" target="_blank" rel="noreferrer">NVIDIA/TensorRT-LLM</a>
+            <span class="score">73.6</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>推理与系统</span>
+            <span>2026-09-05 04:42</span>
+          </div>
+          <p class="summary">TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtim</p>
+          <p class="why">为什么值得看：刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">Python</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/dwgx/WindsurfAPI" target="_blank" rel="noreferrer">dwgx/WindsurfAPI</a>
+            <span class="score">73.5</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>发布与生态</span>
+            <span>2026-09-05 06:46</span>
+          </div>
+          <p class="summary">Turn Windsurf / Devin Desktop&#x27;s 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- &amp; Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline &amp; Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。</p>
+          <p class="why">为什么值得看：刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">JavaScript</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://github.com/ztxz16/fastllm" target="_blank" rel="noreferrer">ztxz16/fastllm</a>
+            <span class="score">73.2</span>
+          </div>
+          <div class="meta">
+            <span class="cat">开发者</span>
+            <span>GitHub</span>
+            <span>训练与架构</span>
+            <span>2026-09-05 05:18</span>
+          </div>
+          <p class="summary">fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。</p>
+          <p class="why">为什么值得看：刚刚发生、与大模型技术强相关、社区讨论热度高</p>
+          <div class="tags"><span class="tag">C++</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://huggingface.co/patdev/k3-a40-bootstrap" target="_blank" rel="noreferrer">patdev/k3-a40-bootstrap</a>
+            <span class="score">71.4</span>
+          </div>
+          <div class="meta">
+            <span class="cat">模型</span>
+            <span>Hugging Face</span>
+            <span>推理与系统</span>
+            <span>2026-09-05 06:50</span>
+          </div>
+          <p class="summary">gguf, vllm, runpod, claude-code, anthropic-api</p>
+          <p class="why">为什么值得看：高信号来源、刚刚发生、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">gguf</span><span class="tag">vllm</span><span class="tag">runpod</span><span class="tag">claude-code</span><span class="tag">anthropic-api</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes" target="_blank" rel="noreferrer">NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual Inference Router that Distributes Local AI Requests Across RTX, DGX Spark, and Mac Nodes</a>
+            <span class="score">70.4</span>
+          </div>
+          <div class="meta">
+            <span class="cat">行业</span>
+            <span>MarkTechPost</span>
+            <span>发布与生态</span>
+            <span>2026-09-05 03:52</span>
+          </div>
+          <p class="summary">We look at NVIDIA Personal AI Router (PAIR), an open source virtual inference router that spreads local AI requests across the machines already on a home network. We cover how PAIR proxies existing Ollama and LM Studio endpoints so agent harnesses need no chan</p>
+          <p class="why">为什么值得看：刚刚发生、有明确发布或技术增量、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">行业</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://arxiv.org/abs/2609.04108" target="_blank" rel="noreferrer">Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</a>
+            <span class="score">64.8</span>
+          </div>
+          <div class="meta">
+            <span class="cat">论文</span>
+            <span>arXiv</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-03 17:14</span>
+          </div>
+          <p class="summary">Reinforcement learning with verifiable rewards (RLVR) and on-policy distillation (OPD) have emerged as two dominant methods for post-training reasoning LLMs. Prior work uses OPD&#x27;s dense token-level supervision to complement the sparse RL reward, fusing the two</p>
+          <p class="why">为什么值得看：一手来源、3 家信源同时报道、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">cs.CL</span></div>
+          <details class="multi"><summary>多源 3</summary><ul><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04108" target="_blank" rel="noreferrer">Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04108" target="_blank" rel="noreferrer">Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04108" target="_blank" rel="noreferrer">Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://simonwillison.net/2026/Sep/4/astra-pelicans" target="_blank" rel="noreferrer">The Pelican comparison grid for Astra is pretty interesting</a>
+            <span class="score">64.8</span>
+          </div>
+          <div class="meta">
+            <span class="cat">自媒体</span>
+            <span>Simon Willison</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-04 23:59</span>
+          </div>
+          <p class="summary">I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn&#x27;t support reasoning=none). Then I rendered those pelicans in a comparison grid w</p>
+          <p class="why">为什么值得看：高信号来源、刚刚发生、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">自媒体</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://simonwillison.net/2026/Sep/4/rogue-agent-wikis" target="_blank" rel="noreferrer">OpenAI&#x27;s rogue agents were caught communicating via public wikis</a>
+            <span class="score">64.1</span>
+          </div>
+          <div class="meta">
+            <span class="cat">自媒体</span>
+            <span>Simon Willison</span>
+            <span>发布与生态</span>
+            <span>2026-09-04 17:38</span>
+          </div>
+          <p class="summary">Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was agents engaged in some sort</p>
+          <p class="why">为什么值得看：高信号来源、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">自媒体</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://arxiv.org/abs/2609.04066" target="_blank" rel="noreferrer">Subspace Inference Enables Efficient Active Reward Learning from Preferences</a>
+            <span class="score">63.3</span>
+          </div>
+          <div class="meta">
+            <span class="cat">论文</span>
+            <span>arXiv</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-03 16:39</span>
+          </div>
+          <p class="summary">Reinforcement learning from human feedback (RLHF) has emerged as a powerful yet sample-inefficient approach for learning reward models from human preferences, making active learning a critical component in synthesizing informative preference queries. However, </p>
+          <p class="why">为什么值得看：一手来源、2 家信源同时报道、有明确发布或技术增量、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">cs.LG</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04066" target="_blank" rel="noreferrer">Subspace Inference Enables Efficient Active Reward Learning from Preferences</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04066" target="_blank" rel="noreferrer">Subspace Inference Enables Efficient Active Reward Learning from Preferences</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://arxiv.org/abs/2609.03941" target="_blank" rel="noreferrer">Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO</a>
+            <span class="score">62.3</span>
+          </div>
+          <div class="meta">
+            <span class="cat">论文</span>
+            <span>arXiv</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-03 14:45</span>
+          </div>
+          <p class="summary">RL-based post-training for reasoning models is increasingly bottlenecked by repeated fresh rollout generation, particularly in agentic settings where environment interaction dominates wall-clock cost. Replay can reduce this burden by reusing past trajectories,</p>
+          <p class="why">为什么值得看：一手来源、2 家信源同时报道、有明确发布或技术增量、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">cs.CL</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.03941" target="_blank" rel="noreferrer">Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.03941" target="_blank" rel="noreferrer">Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://simonwillison.net/2026/Sep/4/august-newsletter" target="_blank" rel="noreferrer">August newsletter is out</a>
+            <span class="score">60.0</span>
+          </div>
+          <div class="meta">
+            <span class="cat">自媒体</span>
+            <span>Simon Willison</span>
+            <span>发布与生态</span>
+            <span>2026-09-04 05:54</span>
+          </div>
+          <p class="summary">The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl&#x27;s accidental cyberattacks One-shotting Raccoon Heist games with Fable </p>
+          <p class="why">为什么值得看：高信号来源、有明确发布或技术增量</p>
+          <div class="tags"><span class="tag">自媒体</span></div>
+          
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://arxiv.org/abs/2609.04197" target="_blank" rel="noreferrer">ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize</a>
+            <span class="score">59.4</span>
+          </div>
+          <div class="meta">
+            <span class="cat">论文</span>
+            <span>arXiv</span>
+            <span>训练与架构</span>
+            <span>2026-09-03 17:59</span>
+          </div>
+          <p class="summary">Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search di</p>
+          <p class="why">为什么值得看：一手来源、2 家信源同时报道、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">cs.CL</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04197" target="_blank" rel="noreferrer">ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04197" target="_blank" rel="noreferrer">ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://arxiv.org/abs/2609.04180" target="_blank" rel="noreferrer">Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views</a>
+            <span class="score">59.4</span>
+          </div>
+          <div class="meta">
+            <span class="cat">论文</span>
+            <span>arXiv</span>
+            <span>训练与架构</span>
+            <span>2026-09-03 17:57</span>
+          </div>
+          <p class="summary">Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, </p>
+          <p class="why">为什么值得看：一手来源、2 家信源同时报道、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">cs.CL</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04180" target="_blank" rel="noreferrer">Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04180" target="_blank" rel="noreferrer">Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views</a></li></ul></details>
+        </article>
+        <article class="card">
+          <div class="card-head">
+            <a class="card-title" href="https://arxiv.org/abs/2609.04172" target="_blank" rel="noreferrer">Rethinking On-Policy Distillation of Large Language Models II: One Training Example</a>
+            <span class="score">59.4</span>
+          </div>
+          <div class="meta">
+            <span class="cat">论文</span>
+            <span>arXiv</span>
+            <span>对齐与后训练</span>
+            <span>2026-09-03 17:54</span>
+          </div>
+          <p class="summary">On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal l</p>
+          <p class="why">为什么值得看：一手来源、2 家信源同时报道、与大模型技术强相关</p>
+          <div class="tags"><span class="tag">cs.CL</span></div>
+          <details class="multi"><summary>多源 2</summary><ul><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04172" target="_blank" rel="noreferrer">Rethinking On-Policy Distillation of Large Language Models II: One Training Example</a></li><li><span class="muted">arXiv</span> <a href="https://arxiv.org/abs/2609.04172" target="_blank" rel="noreferrer">Rethinking On-Policy Distillation of Large Language Models II: One Training Example</a></li></ul></details>
+        </article>
+    </main>
+    <aside class="rail">
+      <div class="panel"><h3>栏目分布</h3><ul class="rowlist"><li><span>论文</span><strong>57</strong></li><li><span>开发者</span><strong>53</strong></li><li><span>行业</span><strong>7</strong></li><li><span>社区</span><strong>5</strong></li><li><span>自媒体</span><strong>4</strong></li><li><span>模型</span><strong>3</strong></li></ul></div>
+      <div class="panel"><h3>主题分布</h3><ul class="rowlist"><li><span>推理与系统</span><strong>40</strong></li><li><span>训练与架构</span><strong>22</strong></li><li><span>数据与评测</span><strong>20</strong></li><li><span>对齐与后训练</span><strong>16</strong></li><li><span>Agent 与工具</span><strong>12</strong></li><li><span>发布与生态</span><strong>10</strong></li><li><span>多模态</span><strong>5</strong></li><li><span>其他</span><strong>4</strong></li></ul></div>
+      <div class="panel"><h3>信源抓取</h3><ul class="rowlist"><li><span class="">arXiv</span><strong>120</strong></li><li><span class="">GitHub</span><strong>100</strong></li><li><span class="">Hacker News</span><strong>60</strong></li><li><span class="">HF Daily Papers</span><strong>40</strong></li><li><span class="">DeepMind Blog</span><strong>30</strong></li><li><span class="">Google Research</span><strong>30</strong></li><li><span class="">Hugging Face Blog</span><strong>30</strong></li><li><span class="">Lil&#x27;Log</span><strong>30</strong></li><li><span class="">OpenAI News</span><strong>30</strong></li><li><span class="">Sebastian Raschka</span><strong>30</strong></li><li><span class="">Simon Willison</span><strong>30</strong></li><li><span class="">Ahead of AI</span><strong>20</strong></li><li><span class="">Google AI Blog</span><strong>20</strong></li><li><span class="">TechCrunch AI</span><strong>19</strong></li></ul></div>
+      <div class="panel"><h3>归档</h3><ul class="rowlist"><li><a href="./2026-09-05.html">2026-09-05</a><span class="muted">20/129</span></li><li><a href="./2026-09-04.html">2026-09-04</a><span class="muted">20/142</span></li></ul></div>
+    </aside>
+  </div>
+</div>
+</body>
+</html>
