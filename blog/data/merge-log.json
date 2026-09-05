@@ -1,27 +1,9 @@
 {
-  "generated_at": "2026-09-05T06:54:36.722451Z",
+  "generated_at": "2026-09-05T16:48:32.100571Z",
   "merges": [
     {
       "into": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
       "from": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs",
-      "from": "Two-Stage Reinforcement Learning for Sound and Adversarial Test Generation in Code LLMs",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "VestigeKV: The NoPE-MLA KV Cache Carries Its Own Eviction Signal in a Vestigial Branch",
-      "from": "VestigeKV: The NoPE-MLA KV Cache Carries Its Own Eviction Signal in a Vestigial Branch",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO",
-      "from": "Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO",
       "source": "arXiv",
       "reason": "same-url"
     },
@@ -56,18 +38,6 @@
       "reason": "same-url"
     },
     {
-      "into": "Subspace Inference Enables Efficient Active Reward Learning from Preferences",
-      "from": "Subspace Inference Enables Efficient Active Reward Learning from Preferences",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-      "from": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
       "into": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
       "from": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
       "source": "arXiv",
@@ -92,22 +62,10 @@
       "reason": "same-url"
     },
     {
-      "into": "Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation",
-      "from": "Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
       "into": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
       "from": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
       "source": "arXiv",
       "reason": "same-url"
-    },
-    {
-      "into": "agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16",
-      "from": "agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21groot16",
-      "source": "Hugging Face",
-      "reason": "title-similarity=0.82"
     },
     {
       "into": "pegainfer-project/pegainfer",
@@ -129,6 +87,12 @@
     },
     {
       "into": "vllm-project/vllm",
+      "from": "vllm-project/vllm",
+      "source": "GitHub",
+      "reason": "same-url"
+    },
+    {
+      "into": "vllm-project/vllm",
       "from": "vllm-project/vllm-omni",
       "source": "GitHub",
       "reason": "title-similarity=0.67"
@@ -144,36 +108,6 @@
       "from": "vllm-project/vllm",
       "source": "GitHub",
       "reason": "same-url"
-    },
-    {
-      "into": "Tencent/YOLO-Master",
-      "from": "Tencent/YOLO-Master",
-      "source": "GitHub",
-      "reason": "same-url"
-    },
-    {
-      "into": "flashinfer-ai/flashinfer",
-      "from": "flashinfer-ai/flashinfer",
-      "source": "GitHub",
-      "reason": "same-url"
-    },
-    {
-      "into": "vllm-project/vllm-ascend",
-      "from": "vllm-project/vllm-ascend",
-      "source": "GitHub",
-      "reason": "same-url"
-    },
-    {
-      "into": "huggingface/transformers",
-      "from": "huggingface/sentence-transformers",
-      "source": "GitHub",
-      "reason": "title-similarity=0.67"
-    },
-    {
-      "into": "Claude Fable 5.1 Benchmark: Draw a Python Reading a Book",
-      "from": "GPT-6 Astra Benchmark: Draw a Python Reading a Book",
-      "source": "Hacker News",
-      "reason": "title-similarity=0.56"
     }
   ]
 }

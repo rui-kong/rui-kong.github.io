@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T06:54:36.722451Z",
+  "generated_at": "2026-09-05T16:48:32.100571Z",
   "sources": [
     {
       "name": "arXiv",
@@ -21,8 +21,8 @@
       "name": "Hacker News",
       "ok": true,
       "fetched": 60,
-      "ai_related": 6,
-      "ai_ratio": 0.1,
+      "ai_related": 2,
+      "ai_ratio": 0.033,
       "error": null
     },
     {
@@ -114,6 +114,14 @@
       "error": null
     },
     {
+      "name": "Hugging Face",
+      "ok": true,
+      "fetched": 15,
+      "ai_related": 2,
+      "ai_ratio": 0.133,
+      "error": null
+    },
+    {
       "name": "GitHub Blog AI",
       "ok": true,
       "fetched": 10,
@@ -149,8 +157,8 @@
       "name": "The Verge AI",
       "ok": true,
       "fetched": 10,
-      "ai_related": 1,
-      "ai_ratio": 0.1,
+      "ai_related": 0,
+      "ai_ratio": 0.0,
       "error": null
     },
     {
@@ -159,14 +167,6 @@
       "fetched": 9,
       "ai_related": 2,
       "ai_ratio": 0.222,
-      "error": null
-    },
-    {
-      "name": "Hugging Face",
-      "ok": true,
-      "fetched": 7,
-      "ai_related": 3,
-      "ai_ratio": 0.429,
       "error": null
     },
     {

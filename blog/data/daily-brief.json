@@ -1,65 +1,19 @@
 {
   "meta": {
     "date": "2026-09-05",
-    "generated_at": "2026-09-05T06:54:36.722451Z",
+    "generated_at": "2026-09-05T16:48:32.100571Z",
     "window_hours": 48,
-    "candidate_count": 655,
-    "in_window_count": 313,
-    "relevant_count": 158,
-    "story_count": 129,
-    "strong_count": 86,
+    "candidate_count": 663,
+    "in_window_count": 261,
+    "relevant_count": 110,
+    "story_count": 92,
+    "strong_count": 57,
     "brief_count": 20,
     "threshold": 58.0,
     "limit": 20,
     "min_relevance": 0.3
   },
   "items": [
-    {
-      "id": "huggingface-sentence-transformers",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "多模态",
-      "published_at": "2026-09-05T06:30:55Z",
-      "date": "2026-09-05",
-      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 164802,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "published_at": "2026-09-05T06:30:55Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "huggingface/sentence-transformers",
-          "url": "https://github.com/huggingface/sentence-transformers",
-          "published_at": "2026-09-04T21:38:53Z"
-        }
-      ],
-      "score": 80.3,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 99.2,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 100.0
-      },
-      "why": "2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
     {
       "id": "omni-project-vllm",
       "title": "vllm-project/vllm",
@@ -71,51 +25,57 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-05T06:39:33Z",
+      "published_at": "2026-09-05T16:43:28Z",
       "date": "2026-09-05",
       "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "tags": [
         "Python"
       ],
-      "engagement": 91000,
+      "engagement": 91029,
       "ai_score": 0.56,
-      "cluster_size": 4,
+      "cluster_size": 5,
       "variants": [
         {
           "source": "GitHub",
           "title": "vllm-project/vllm",
           "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-05T06:39:33Z"
+          "published_at": "2026-09-05T16:43:28Z"
+        },
+        {
+          "source": "GitHub",
+          "title": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "published_at": "2026-09-05T16:43:28Z"
         },
         {
           "source": "GitHub",
           "title": "vllm-project/vllm-omni",
           "url": "https://github.com/vllm-project/vllm-omni",
-          "published_at": "2026-09-05T06:49:23Z"
+          "published_at": "2026-09-05T14:22:41Z"
         },
         {
           "source": "GitHub",
           "title": "vllm-project/vllm",
           "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-05T06:39:33Z"
+          "published_at": "2026-09-05T16:43:28Z"
         },
         {
           "source": "GitHub",
           "title": "vllm-project/vllm",
           "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-05T06:39:33Z"
+          "published_at": "2026-09-05T16:43:28Z"
         }
       ],
-      "score": 79.0,
+      "score": 79.1,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 99.5,
+        "recency": 99.8,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 100.0,
         "engagement": 100.0
       },
-      "why": "4 家信源同时报道、刚刚发生、社区讨论热度高",
+      "why": "5 家信源同时报道、刚刚发生、社区讨论热度高",
       "extra": {}
     },
     {
@@ -129,13 +89,13 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-05T06:03:21Z",
+      "published_at": "2026-09-05T16:14:35Z",
       "date": "2026-09-05",
       "summary": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "tags": [
         "Python"
       ],
-      "engagement": 35493,
+      "engagement": 35506,
       "ai_score": 0.9,
       "cluster_size": 2,
       "variants": [
@@ -143,19 +103,19 @@
           "source": "GitHub",
           "title": "sgl-project/sglang",
           "url": "https://github.com/sgl-project/sglang",
-          "published_at": "2026-09-05T06:03:21Z"
+          "published_at": "2026-09-05T16:14:35Z"
         },
         {
           "source": "GitHub",
           "title": "sgl-project/sglang",
           "url": "https://github.com/sgl-project/sglang",
-          "published_at": "2026-09-05T06:03:21Z"
+          "published_at": "2026-09-05T16:14:35Z"
         }
       ],
-      "score": 78.4,
+      "score": 78.6,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 98.2,
+        "recency": 98.8,
         "novelty": 0.0,
         "relevance": 90.0,
         "multi_source": 50.0,
@@ -165,214 +125,41 @@
       "extra": {}
     },
     {
-      "id": "agurung-base-cobalt-ep2-gen4k-nb21groot16-nb21iid16-ncp5-ramp25-seeded-stoppen",
-      "title": "agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16",
-      "url": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16",
-      "source": "Hugging Face",
-      "sources": [
-        "Hugging Face"
-      ],
-      "source_kind": "hf-models",
-      "category": "模型",
-      "topic": "对齐与后训练",
-      "published_at": "2026-09-05T06:47:35Z",
-      "date": "2026-09-05",
-      "summary": "transformers, safetensors, qwen3, text-generation, openrlhf",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "openrlhf",
-        "grpo",
-        "reinforcement-learning",
-        "code-generation"
-      ],
-      "engagement": 16,
-      "ai_score": 0.86,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "Hugging Face",
-          "title": "agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16",
-          "url": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21iid16",
-          "published_at": "2026-09-05T06:47:35Z"
-        },
-        {
-          "source": "Hugging Face",
-          "title": "agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21groot16",
-          "url": "https://huggingface.co/agurung/cobalt-seeded-rl-base-ramp25-stoppen-gen4k-ep2-ncp5-nb21groot16",
-          "published_at": "2026-09-05T06:47:29Z"
-        }
-      ],
-      "score": 76.0,
-      "score_breakdown": {
-        "source": 82.0,
-        "recency": 99.8,
-        "novelty": 0.0,
-        "relevance": 86.0,
-        "multi_source": 50.0,
-        "engagement": 30.8
-      },
-      "why": "高信号来源、2 家信源同时报道、刚刚发生、与大模型技术强相关",
-      "extra": {}
-    },
-    {
-      "id": "modelscope-swift",
-      "title": "modelscope/ms-swift",
-      "url": "https://github.com/modelscope/ms-swift",
+      "id": "promptfoo",
+      "title": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
       "source": "GitHub",
       "sources": [
         "GitHub"
       ],
       "source_kind": "github",
       "category": "开发者",
-      "topic": "对齐与后训练",
-      "published_at": "2026-09-05T06:00:01Z",
+      "topic": "Agent 与工具",
+      "published_at": "2026-09-05T16:43:54Z",
       "date": "2026-09-05",
-      "summary": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 15515,
-      "ai_score": 1.0,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "modelscope/ms-swift",
-          "url": "https://github.com/modelscope/ms-swift",
-          "published_at": "2026-09-05T06:00:01Z"
-        }
-      ],
-      "score": 74.3,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 98.1,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 0.0,
-        "engagement": 100.0
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "agent-multi-open",
-      "title": "open-multi-agent/open-multi-agent",
-      "url": "https://github.com/open-multi-agent/open-multi-agent",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "对齐与后训练",
-      "published_at": "2026-09-05T05:20:56Z",
-      "date": "2026-09-05",
-      "summary": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every run leaves a verifiable record. Describe the goal, not the graph. 13 built-in providers (Claude, OpenAI, Gemini, DeepSeek and more) plus any OpenAI-compatible endpoint, local models included.",
+      "summary": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
       "tags": [
         "TypeScript"
       ],
-      "engagement": 6877,
+      "engagement": 24839,
       "ai_score": 1.0,
       "cluster_size": 1,
       "variants": [
         {
           "source": "GitHub",
-          "title": "open-multi-agent/open-multi-agent",
-          "url": "https://github.com/open-multi-agent/open-multi-agent",
-          "published_at": "2026-09-05T05:20:56Z"
+          "title": "promptfoo/promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo",
+          "published_at": "2026-09-05T16:43:54Z"
         }
       ],
-      "score": 73.6,
+      "score": 74.7,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 96.7,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 0.0,
-        "engagement": 95.9
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "llm-nvidia-tensorrt",
-      "title": "NVIDIA/TensorRT-LLM",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "推理与系统",
-      "published_at": "2026-09-05T04:42:24Z",
-      "date": "2026-09-05",
-      "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 14551,
-      "ai_score": 1.0,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "NVIDIA/TensorRT-LLM",
-          "url": "https://github.com/NVIDIA/TensorRT-LLM",
-          "published_at": "2026-09-05T04:42:24Z"
-        }
-      ],
-      "score": 73.6,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 95.4,
+        "recency": 99.8,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
         "engagement": 100.0
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "dwgx-windsurfapi",
-      "title": "dwgx/WindsurfAPI",
-      "url": "https://github.com/dwgx/WindsurfAPI",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "发布与生态",
-      "published_at": "2026-09-05T06:46:51Z",
-      "date": "2026-09-05",
-      "summary": "Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。",
-      "tags": [
-        "JavaScript"
-      ],
-      "engagement": 2964,
-      "ai_score": 1.0,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "dwgx/WindsurfAPI",
-          "url": "https://github.com/dwgx/WindsurfAPI",
-          "published_at": "2026-09-05T06:46:51Z"
-        }
-      ],
-      "score": 73.5,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 99.7,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 0.0,
-        "engagement": 86.8
       },
       "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
       "extra": {}
@@ -388,7 +175,7 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "训练与架构",
-      "published_at": "2026-09-05T05:18:34Z",
+      "published_at": "2026-09-05T16:46:32Z",
       "date": "2026-09-05",
       "summary": "fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。",
       "tags": [
@@ -402,17 +189,263 @@
           "source": "GitHub",
           "title": "ztxz16/fastllm",
           "url": "https://github.com/ztxz16/fastllm",
-          "published_at": "2026-09-05T05:18:34Z"
+          "published_at": "2026-09-05T16:46:32Z"
+        }
+      ],
+      "score": 74.0,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 99.9,
+        "novelty": 0.0,
+        "relevance": 100.0,
+        "multi_source": 0.0,
+        "engagement": 92.4
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "huggingface-transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "多模态",
+      "published_at": "2026-09-05T14:58:25Z",
+      "date": "2026-09-05",
+      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 164817,
+      "ai_score": 1.0,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "published_at": "2026-09-05T14:58:25Z"
+        }
+      ],
+      "score": 73.8,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 96.2,
+        "novelty": 0.0,
+        "relevance": 100.0,
+        "multi_source": 0.0,
+        "engagement": 100.0
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "nvidia-transformerengine",
+      "title": "NVIDIA/TransformerEngine",
+      "url": "https://github.com/NVIDIA/TransformerEngine",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "训练与架构",
+      "published_at": "2026-09-05T13:13:46Z",
+      "date": "2026-09-05",
+      "summary": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 3522,
+      "ai_score": 0.76,
+      "cluster_size": 2,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "NVIDIA/TransformerEngine",
+          "url": "https://github.com/NVIDIA/TransformerEngine",
+          "published_at": "2026-09-05T13:13:46Z"
+        },
+        {
+          "source": "GitHub",
+          "title": "NVIDIA/TransformerEngine",
+          "url": "https://github.com/NVIDIA/TransformerEngine",
+          "published_at": "2026-09-05T13:13:46Z"
+        }
+      ],
+      "score": 73.7,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 92.5,
+        "novelty": 0.0,
+        "relevance": 76.0,
+        "multi_source": 50.0,
+        "engagement": 88.7
+      },
+      "why": "2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "mlflow",
+      "title": "mlflow/mlflow",
+      "url": "https://github.com/mlflow/mlflow",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "Agent 与工具",
+      "published_at": "2026-09-05T16:47:09Z",
+      "date": "2026-09-05",
+      "summary": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 27819,
+      "ai_score": 0.62,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "mlflow/mlflow",
+          "url": "https://github.com/mlflow/mlflow",
+          "published_at": "2026-09-05T16:47:09Z"
         }
       ],
       "score": 73.2,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 96.7,
+        "recency": 100.0,
+        "novelty": 25.0,
+        "relevance": 62.0,
+        "multi_source": 0.0,
+        "engagement": 100.0
+      },
+      "why": "刚刚发生、有明确发布或技术增量、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "deep-learningcircuit-local-research",
+      "title": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "对齐与后训练",
+      "published_at": "2026-09-05T16:48:04Z",
+      "date": "2026-09-05",
+      "summary": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 9043,
+      "ai_score": 0.86,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "LearningCircuit/local-deep-research",
+          "url": "https://github.com/LearningCircuit/local-deep-research",
+          "published_at": "2026-09-05T16:48:04Z"
+        }
+      ],
+      "score": 72.4,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 100.0,
+        "novelty": 0.0,
+        "relevance": 86.0,
+        "multi_source": 0.0,
+        "engagement": 98.9
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "llm-nvidia-tensorrt",
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-05T12:23:01Z",
+      "date": "2026-09-05",
+      "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 14552,
+      "ai_score": 1.0,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "NVIDIA/TensorRT-LLM",
+          "url": "https://github.com/NVIDIA/TensorRT-LLM",
+          "published_at": "2026-09-05T12:23:01Z"
+        }
+      ],
+      "score": 72.4,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 90.8,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
-        "engagement": 92.4
+        "engagement": 100.0
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "sharpai-swiftlm",
+      "title": "SharpAI/SwiftLM",
+      "url": "https://github.com/SharpAI/SwiftLM",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-05T16:15:24Z",
+      "date": "2026-09-05",
+      "summary": "⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.",
+      "tags": [
+        "Swift"
+      ],
+      "engagement": 759,
+      "ai_score": 1.0,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "SharpAI/SwiftLM",
+          "url": "https://github.com/SharpAI/SwiftLM",
+          "published_at": "2026-09-05T16:15:24Z"
+        }
+      ],
+      "score": 71.9,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 98.8,
+        "novelty": 0.0,
+        "relevance": 100.0,
+        "multi_source": 0.0,
+        "engagement": 72.0
       },
       "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
       "extra": {}
@@ -428,7 +461,7 @@
       "source_kind": "hf-models",
       "category": "模型",
       "topic": "推理与系统",
-      "published_at": "2026-09-05T06:50:29Z",
+      "published_at": "2026-09-05T16:47:21Z",
       "date": "2026-09-05",
       "summary": "gguf, vllm, runpod, claude-code, anthropic-api",
       "tags": [
@@ -449,17 +482,177 @@
           "source": "Hugging Face",
           "title": "patdev/k3-a40-bootstrap",
           "url": "https://huggingface.co/patdev/k3-a40-bootstrap",
-          "published_at": "2026-09-05T06:50:29Z"
+          "published_at": "2026-09-05T16:47:21Z"
         }
       ],
       "score": 71.4,
       "score_breakdown": {
         "source": 82.0,
-        "recency": 99.9,
+        "recency": 100.0,
         "novelty": 0.0,
         "relevance": 88.0,
         "multi_source": 0.0,
         "engagement": 40.1
+      },
+      "why": "高信号来源、刚刚发生、与大模型技术强相关",
+      "extra": {}
+    },
+    {
+      "id": "huggingface-trl",
+      "title": "huggingface/trl",
+      "url": "https://github.com/huggingface/trl",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "训练与架构",
+      "published_at": "2026-09-05T14:47:17Z",
+      "date": "2026-09-05",
+      "summary": "Train transformer language models with reinforcement learning.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 19225,
+      "ai_score": 0.86,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "huggingface/trl",
+          "url": "https://github.com/huggingface/trl",
+          "published_at": "2026-09-05T14:47:17Z"
+        }
+      ],
+      "score": 71.4,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 95.8,
+        "novelty": 0.0,
+        "relevance": 86.0,
+        "multi_source": 0.0,
+        "engagement": 100.0
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "forecast-solar-toorox-zara",
+      "title": "Zara-Toorox/Solar-Forecast-ML",
+      "url": "https://github.com/Zara-Toorox/Solar-Forecast-ML",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "训练与架构",
+      "published_at": "2026-09-05T15:50:31Z",
+      "date": "2026-09-05",
+      "summary": "SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatGPT, Gemini, or Grok — required. Runs entirely on your device for complete privacy.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 272,
+      "ai_score": 1.0,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "Zara-Toorox/Solar-Forecast-ML",
+          "url": "https://github.com/Zara-Toorox/Solar-Forecast-ML",
+          "published_at": "2026-09-05T15:50:31Z"
+        }
+      ],
+      "score": 70.6,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 98.0,
+        "novelty": 0.0,
+        "relevance": 100.0,
+        "multi_source": 0.0,
+        "engagement": 60.9
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "mlx-rapid-raullenchai",
+      "title": "raullenchai/Rapid-MLX",
+      "url": "https://github.com/raullenchai/Rapid-MLX",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "发布与生态",
+      "published_at": "2026-09-05T16:48:31Z",
+      "date": "2026-09-05",
+      "summary": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 3666,
+      "ai_score": 0.76,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "raullenchai/Rapid-MLX",
+          "url": "https://github.com/raullenchai/Rapid-MLX",
+          "published_at": "2026-09-05T16:48:31Z"
+        }
+      ],
+      "score": 69.9,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 100.0,
+        "novelty": 0.0,
+        "relevance": 76.0,
+        "multi_source": 0.0,
+        "engagement": 89.1
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "agents-blender-coding-macos",
+      "title": "Using Blender with coding agents on macOS",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+      "source": "Simon Willison",
+      "sources": [
+        "Simon Willison"
+      ],
+      "source_kind": "feed",
+      "category": "自媒体",
+      "topic": "Agent 与工具",
+      "published_at": "2026-09-05T15:51:09Z",
+      "date": "2026-09-05",
+      "summary": "TIL: Using Blender with coding agents on macOS I've been having fun with Blender in ChatGPT Codex on my Mac recently. Getting it to work with coding agents is really easy: install the full Mac application from blender.org and run a prompt like this: Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle In this case I followed that up with these two prompts: ",
+      "tags": [
+        "自媒体"
+      ],
+      "engagement": 0,
+      "ai_score": 0.82,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "Simon Willison",
+          "title": "Using Blender with coding agents on macOS",
+          "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+          "published_at": "2026-09-05T15:51:09Z"
+        }
+      ],
+      "score": 67.7,
+      "score_breakdown": {
+        "source": 86.0,
+        "recency": 98.0,
+        "novelty": 0.0,
+        "relevance": 82.0,
+        "multi_source": 0.0,
+        "engagement": 0.0
       },
       "why": "高信号来源、刚刚发生、与大模型技术强相关",
       "extra": {}
@@ -492,16 +685,63 @@
           "published_at": "2026-09-05T03:52:23Z"
         }
       ],
-      "score": 70.4,
+      "score": 65.2,
       "score_breakdown": {
         "source": 62.0,
-        "recency": 93.7,
+        "recency": 73.1,
         "novelty": 50.0,
         "relevance": 100.0,
         "multi_source": 0.0,
         "engagement": 0.0
       },
-      "why": "刚刚发生、有明确发布或技术增量、与大模型技术强相关",
+      "why": "有明确发布或技术增量、与大模型技术强相关",
+      "extra": {}
+    },
+    {
+      "id": "snkii-sori",
+      "title": "snkii/Sori-1B",
+      "url": "https://huggingface.co/snkii/Sori-1B",
+      "source": "Hugging Face",
+      "sources": [
+        "Hugging Face"
+      ],
+      "source_kind": "hf-models",
+      "category": "模型",
+      "topic": "训练与架构",
+      "published_at": "2026-09-05T16:41:18Z",
+      "date": "2026-09-05",
+      "summary": "transformers, safetensors, sorilm, text-generation, audio",
+      "tags": [
+        "transformers",
+        "safetensors",
+        "sorilm",
+        "text-generation",
+        "audio",
+        "audio-language-model",
+        "audio-understanding",
+        "python-interpreter"
+      ],
+      "engagement": 326,
+      "ai_score": 0.3,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "Hugging Face",
+          "title": "snkii/Sori-1B",
+          "url": "https://huggingface.co/snkii/Sori-1B",
+          "published_at": "2026-09-05T16:41:18Z"
+        }
+      ],
+      "score": 64.1,
+      "score_breakdown": {
+        "source": 82.0,
+        "recency": 99.7,
+        "novelty": 0.0,
+        "relevance": 30.0,
+        "multi_source": 0.0,
+        "engagement": 62.9
+      },
+      "why": "高信号来源、刚刚发生、社区讨论热度高",
       "extra": {}
     },
     {
@@ -544,10 +784,10 @@
           "published_at": "2026-09-03T17:14:27Z"
         }
       ],
-      "score": 64.8,
+      "score": 59.6,
       "score_breakdown": {
         "source": 92.0,
-        "recency": 21.5,
+        "recency": 0.9,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 100.0,
@@ -593,16 +833,16 @@
           "published_at": "2026-09-04T23:59:05Z"
         }
       ],
-      "score": 64.8,
+      "score": 59.6,
       "score_breakdown": {
         "source": 86.0,
-        "recency": 85.6,
+        "recency": 64.9,
         "novelty": 0.0,
         "relevance": 84.0,
         "multi_source": 0.0,
         "engagement": 0.0
       },
-      "why": "高信号来源、刚刚发生、与大模型技术强相关",
+      "why": "高信号来源、与大模型技术强相关",
       "extra": {}
     },
     {
@@ -633,10 +873,10 @@
           "published_at": "2026-09-04T17:38:48Z"
         }
       ],
-      "score": 64.1,
+      "score": 58.9,
       "score_breakdown": {
         "source": 86.0,
-        "recency": 72.4,
+        "recency": 51.7,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
@@ -644,312 +884,6 @@
       },
       "why": "高信号来源、与大模型技术强相关",
       "extra": {}
-    },
-    {
-      "id": "active-efficient-enables-inference-learning-preferences-reward-subspace",
-      "title": "Subspace Inference Enables Efficient Active Reward Learning from Preferences",
-      "url": "https://arxiv.org/abs/2609.04066",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "source_kind": "arxiv",
-      "category": "论文",
-      "topic": "对齐与后训练",
-      "published_at": "2026-09-03T16:39:55Z",
-      "date": "2026-09-03",
-      "summary": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful yet sample-inefficient approach for learning reward models from human preferences, making active learning a critical component in synthesizing informative preference queries. However, effective uncertainty quantification required for active learning remains a key challenge for large neural network reward models. In this pa",
-      "tags": [
-        "cs.LG"
-      ],
-      "engagement": 0,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "arXiv",
-          "title": "Subspace Inference Enables Efficient Active Reward Learning from Preferences",
-          "url": "https://arxiv.org/abs/2609.04066",
-          "published_at": "2026-09-03T16:39:55Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "Subspace Inference Enables Efficient Active Reward Learning from Preferences",
-          "url": "https://arxiv.org/abs/2609.04066",
-          "published_at": "2026-09-03T16:39:55Z"
-        }
-      ],
-      "score": 63.3,
-      "score_breakdown": {
-        "source": 92.0,
-        "recency": 20.3,
-        "novelty": 25.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 0.0
-      },
-      "why": "一手来源、2 家信源同时报道、有明确发布或技术增量、与大模型技术强相关",
-      "extra": {
-        "authors": [
-          "Yutai Zhou",
-          "Erdem Bıyık"
-        ]
-      }
-    },
-    {
-      "id": "control-drift-grpo-headroom-primitive-principled-replay",
-      "title": "Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO",
-      "url": "https://arxiv.org/abs/2609.03941",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "source_kind": "arxiv",
-      "category": "论文",
-      "topic": "对齐与后训练",
-      "published_at": "2026-09-03T14:45:47Z",
-      "date": "2026-09-03",
-      "summary": "RL-based post-training for reasoning models is increasingly bottlenecked by repeated fresh rollout generation, particularly in agentic settings where environment interaction dominates wall-clock cost. Replay can reduce this burden by reusing past trajectories, but existing methods typically embed it within larger training pipelines involving exploration, experience restructuring, or mixed-policy o",
-      "tags": [
-        "cs.CL"
-      ],
-      "engagement": 0,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "arXiv",
-          "title": "Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO",
-          "url": "https://arxiv.org/abs/2609.03941",
-          "published_at": "2026-09-03T14:45:47Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO",
-          "url": "https://arxiv.org/abs/2609.03941",
-          "published_at": "2026-09-03T14:45:47Z"
-        }
-      ],
-      "score": 62.3,
-      "score_breakdown": {
-        "source": 92.0,
-        "recency": 16.4,
-        "novelty": 25.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 0.0
-      },
-      "why": "一手来源、2 家信源同时报道、有明确发布或技术增量、与大模型技术强相关",
-      "extra": {
-        "authors": [
-          "Hyun Bin Park",
-          "Du-Seong Chang"
-        ]
-      }
-    },
-    {
-      "id": "august-newsletter-out",
-      "title": "August newsletter is out",
-      "url": "https://simonwillison.net/2026/Sep/4/august-newsletter",
-      "source": "Simon Willison",
-      "sources": [
-        "Simon Willison"
-      ],
-      "source_kind": "feed",
-      "category": "自媒体",
-      "topic": "发布与生态",
-      "published_at": "2026-09-04T05:54:40Z",
-      "date": "2026-09-04",
-      "summary": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon Heist games with Fable 5 and Sol 5.6 Claude auto mode Understanding ChatGPT Work Model releases Miscellaneous bits and bobs My projects What I'm using at the momen",
-      "tags": [
-        "自媒体"
-      ],
-      "engagement": 0,
-      "ai_score": 0.56,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "Simon Willison",
-          "title": "August newsletter is out",
-          "url": "https://simonwillison.net/2026/Sep/4/august-newsletter",
-          "published_at": "2026-09-04T05:54:40Z"
-        }
-      ],
-      "score": 60.0,
-      "score_breakdown": {
-        "source": 86.0,
-        "recency": 47.9,
-        "novelty": 50.0,
-        "relevance": 56.0,
-        "multi_source": 0.0,
-        "engagement": 0.0
-      },
-      "why": "高信号来源、有明确发布或技术增量",
-      "extra": {}
-    },
-    {
-      "id": "diagnose-diversify-error-espo-optimization-prompt-stabilize-structured",
-      "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-      "url": "https://arxiv.org/abs/2609.04197",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "source_kind": "arxiv",
-      "category": "论文",
-      "topic": "训练与架构",
-      "published_at": "2026-09-03T17:59:37Z",
-      "date": "2026-09-03",
-      "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three",
-      "tags": [
-        "cs.CL"
-      ],
-      "engagement": 0,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "arXiv",
-          "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-          "url": "https://arxiv.org/abs/2609.04197",
-          "published_at": "2026-09-03T17:59:37Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-          "url": "https://arxiv.org/abs/2609.04197",
-          "published_at": "2026-09-03T17:59:37Z"
-        }
-      ],
-      "score": 59.4,
-      "score_breakdown": {
-        "source": 92.0,
-        "recency": 23.1,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 0.0
-      },
-      "why": "一手来源、2 家信源同时报道、与大模型技术强相关",
-      "extra": {
-        "authors": [
-          "Lihao Liu",
-          "Peng Tang",
-          "Kunwar Yashraj Singh",
-          "Shabnam Ghadar"
-        ]
-      }
-    },
-    {
-      "id": "acquisition-auxiliary-better-during-knowledge-language-large-learn-models-pre-tr",
-      "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-      "url": "https://arxiv.org/abs/2609.04180",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "source_kind": "arxiv",
-      "category": "论文",
-      "topic": "训练与架构",
-      "published_at": "2026-09-03T17:57:02Z",
-      "date": "2026-09-03",
-      "summary": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary for acquisition and clarify that paraphrasing helps only at smaller batch sizes. Second, holding the",
-      "tags": [
-        "cs.CL"
-      ],
-      "engagement": 0,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "arXiv",
-          "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-          "url": "https://arxiv.org/abs/2609.04180",
-          "published_at": "2026-09-03T17:57:02Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-          "url": "https://arxiv.org/abs/2609.04180",
-          "published_at": "2026-09-03T17:57:02Z"
-        }
-      ],
-      "score": 59.4,
-      "score_breakdown": {
-        "source": 92.0,
-        "recency": 23.0,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 0.0
-      },
-      "why": "一手来源、2 家信源同时报道、与大模型技术强相关",
-      "extra": {
-        "authors": [
-          "Joseph Lee",
-          "Yidi Huang",
-          "Dokyoon Kim",
-          "Shu Yang",
-          "Li Shen"
-        ]
-      }
-    },
-    {
-      "id": "distillation-example-language-large-models-one-policy-rethinking-training",
-      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-      "url": "https://arxiv.org/abs/2609.04172",
-      "source": "arXiv",
-      "sources": [
-        "arXiv"
-      ],
-      "source_kind": "arxiv",
-      "category": "论文",
-      "topic": "对齐与后训练",
-      "published_at": "2026-09-03T17:54:38Z",
-      "date": "2026-09-03",
-      "summary": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task",
-      "tags": [
-        "cs.CL"
-      ],
-      "engagement": 0,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "arXiv",
-          "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-          "url": "https://arxiv.org/abs/2609.04172",
-          "published_at": "2026-09-03T17:54:38Z"
-        },
-        {
-          "source": "arXiv",
-          "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-          "url": "https://arxiv.org/abs/2609.04172",
-          "published_at": "2026-09-03T17:54:38Z"
-        }
-      ],
-      "score": 59.4,
-      "score_breakdown": {
-        "source": 92.0,
-        "recency": 22.9,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 0.0
-      },
-      "why": "一手来源、2 家信源同时报道、与大模型技术强相关",
-      "extra": {
-        "authors": [
-          "Zixuan Fu",
-          "Bingxiang He",
-          "Yuxin Zuo",
-          "Haohuan Huang",
-          "Jinqian Zhang",
-          "Ruhang Xiao",
-          "Cheng Qian",
-          "Qinyu Luo"
-        ]
-      }
     }
   ]
 }
