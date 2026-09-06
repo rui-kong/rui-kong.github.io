@@ -1,72 +1,6 @@
 {
-  "generated_at": "2026-09-05T16:48:32.100571Z",
+  "generated_at": "2026-09-06T07:05:54.884943Z",
   "merges": [
-    {
-      "into": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
-      "from": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-      "from": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-      "from": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-      "from": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-      "from": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
-      "from": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
-      "from": "Para-Pipe: Exploiting Hierarchical Operator Parallelism of ML Computational Graphs on SoCs",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
-      "from": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-      "from": "CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
-      "from": "DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
-    {
-      "into": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
-      "from": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
-      "source": "arXiv",
-      "reason": "same-url"
-    },
     {
       "into": "pegainfer-project/pegainfer",
       "from": "pegainfer-project/pegainfer",
@@ -80,8 +14,8 @@
       "reason": "same-url"
     },
     {
-      "into": "NVIDIA/TransformerEngine",
-      "from": "NVIDIA/TransformerEngine",
+      "into": "sgl-project/sglang",
+      "from": "sgl-project/sglang",
       "source": "GitHub",
       "reason": "same-url"
     },
@@ -108,6 +42,18 @@
       "from": "vllm-project/vllm",
       "source": "GitHub",
       "reason": "same-url"
+    },
+    {
+      "into": "wanshuiyin/ARIS-in-AI-Offer",
+      "from": "wanshuiyin/ARIS-in-AI-Offer",
+      "source": "GitHub",
+      "reason": "same-url"
+    },
+    {
+      "into": "huggingface/transformers",
+      "from": "huggingface/transformers.js",
+      "source": "GitHub",
+      "reason": "title-similarity=1.00"
     }
   ]
 }

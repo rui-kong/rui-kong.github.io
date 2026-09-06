@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:48:32.100571Z",
+  "generated_at": "2026-09-06T07:05:54.884943Z",
   "sources": [
     {
       "name": "arXiv",
@@ -13,16 +13,16 @@
       "name": "GitHub",
       "ok": true,
       "fetched": 100,
-      "ai_related": 63,
-      "ai_ratio": 0.63,
+      "ai_related": 65,
+      "ai_ratio": 0.65,
       "error": null
     },
     {
       "name": "Hacker News",
       "ok": true,
       "fetched": 60,
-      "ai_related": 2,
-      "ai_ratio": 0.033,
+      "ai_related": 0,
+      "ai_ratio": 0.0,
       "error": null
     },
     {
@@ -114,27 +114,11 @@
       "error": null
     },
     {
-      "name": "Hugging Face",
-      "ok": true,
-      "fetched": 15,
-      "ai_related": 2,
-      "ai_ratio": 0.133,
-      "error": null
-    },
-    {
       "name": "GitHub Blog AI",
       "ok": true,
       "fetched": 10,
       "ai_related": 1,
       "ai_ratio": 0.1,
-      "error": null
-    },
-    {
-      "name": "MarkTechPost",
-      "ok": true,
-      "fetched": 10,
-      "ai_related": 7,
-      "ai_ratio": 0.7,
       "error": null
     },
     {
@@ -170,12 +154,28 @@
       "error": null
     },
     {
+      "name": "Hugging Face",
+      "ok": true,
+      "fetched": 8,
+      "ai_related": 2,
+      "ai_ratio": 0.25,
+      "error": null
+    },
+    {
       "name": "BAIR Blog",
       "ok": false,
       "fetched": 0,
       "ai_related": 0,
       "ai_ratio": 0.0,
       "error": "URLError: <urlopen error timed out>"
+    },
+    {
+      "name": "MarkTechPost",
+      "ok": false,
+      "fetched": 0,
+      "ai_related": 0,
+      "ai_ratio": 0.0,
+      "error": "ParseError: not well-formed (invalid token): line 1, column 119"
     },
     {
       "name": "Reddit",
