@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-09-06T07:05:54.884943Z",
+  "generated_at": "2026-09-06T16:59:41.612617Z",
   "merges": [
     {
-      "into": "pegainfer-project/pegainfer",
-      "from": "pegainfer-project/pegainfer",
-      "source": "GitHub",
-      "reason": "same-url"
-    },
-    {
       "into": "sgl-project/sglang",
       "from": "sgl-project/sglang",
       "source": "GitHub",
@@ -16,12 +10,6 @@
     {
       "into": "sgl-project/sglang",
       "from": "sgl-project/sglang",
-      "source": "GitHub",
-      "reason": "same-url"
-    },
-    {
-      "into": "vllm-project/vllm",
-      "from": "vllm-project/vllm",
       "source": "GitHub",
       "reason": "same-url"
     },
@@ -44,16 +32,34 @@
       "reason": "same-url"
     },
     {
+      "into": "MervinPraison/PraisonAI",
+      "from": "MervinPraison/PraisonAI",
+      "source": "GitHub",
+      "reason": "same-url"
+    },
+    {
       "into": "wanshuiyin/ARIS-in-AI-Offer",
       "from": "wanshuiyin/ARIS-in-AI-Offer",
       "source": "GitHub",
       "reason": "same-url"
     },
     {
-      "into": "huggingface/transformers",
-      "from": "huggingface/transformers.js",
+      "into": "xbtlin/ai-berkshire",
+      "from": "xbtlin/ai-berkshire",
       "source": "GitHub",
-      "reason": "title-similarity=1.00"
+      "reason": "same-url"
+    },
+    {
+      "into": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
+      "from": "I track LLM API prices daily, found a 33x cost gap in the same model",
+      "source": "Hacker News",
+      "reason": "same-url"
+    },
+    {
+      "into": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
+      "from": "Should I reconsider my decision of self-hosting LLM Gateway?",
+      "source": "Hacker News",
+      "reason": "same-url"
     }
   ]
 }

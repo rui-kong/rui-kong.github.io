@@ -1,13 +1,13 @@
 {
   "meta": {
     "date": "2026-09-06",
-    "generated_at": "2026-09-06T07:05:54.884943Z",
+    "generated_at": "2026-09-06T16:59:41.612617Z",
     "window_hours": 48,
-    "candidate_count": 646,
-    "in_window_count": 194,
-    "relevant_count": 71,
-    "story_count": 62,
-    "strong_count": 40,
+    "candidate_count": 652,
+    "in_window_count": 193,
+    "relevant_count": 77,
+    "story_count": 67,
+    "strong_count": 41,
     "brief_count": 20,
     "threshold": 58.0,
     "limit": 20,
@@ -15,114 +15,83 @@
   },
   "items": [
     {
-      "id": "omni-project-vllm",
-      "title": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
+      "id": "mlx-rapid-raullenchai",
+      "title": "raullenchai/Rapid-MLX",
+      "url": "https://github.com/raullenchai/Rapid-MLX",
       "source": "GitHub",
       "sources": [
         "GitHub"
       ],
       "source_kind": "github",
       "category": "开发者",
-      "topic": "推理与系统",
-      "published_at": "2026-09-06T07:04:19Z",
+      "topic": "发布与生态",
+      "published_at": "2026-09-06T16:58:21Z",
       "date": "2026-09-06",
-      "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "summary": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
       "tags": [
         "Python"
       ],
-      "engagement": 91054,
-      "ai_score": 0.56,
-      "cluster_size": 5,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "vllm-project/vllm",
-          "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-06T07:04:19Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "vllm-project/vllm",
-          "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-06T07:04:19Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "vllm-project/vllm-omni",
-          "url": "https://github.com/vllm-project/vllm-omni",
-          "published_at": "2026-09-06T04:48:38Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "vllm-project/vllm",
-          "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-06T07:04:19Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "vllm-project/vllm",
-          "url": "https://github.com/vllm-project/vllm",
-          "published_at": "2026-09-06T07:04:19Z"
-        }
-      ],
-      "score": 79.2,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 99.9,
-        "novelty": 0.0,
-        "relevance": 56.0,
-        "multi_source": 100.0,
-        "engagement": 100.0
-      },
-      "why": "5 家信源同时报道、刚刚发生、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "35b-8be64d30-a3b-base-merged-qwen3-roseg",
-      "title": "RoseG/Qwen3.5-35B-A3B-Base-8be64d30-Merged",
-      "url": "https://huggingface.co/RoseG/Qwen3.5-35B-A3B-Base-8be64d30-Merged",
-      "source": "Hugging Face",
-      "sources": [
-        "Hugging Face"
-      ],
-      "source_kind": "hf-models",
-      "category": "模型",
-      "topic": "训练与架构",
-      "published_at": "2026-09-06T07:01:57Z",
-      "date": "2026-09-06",
-      "summary": "transformers, safetensors, qwen3_5_moe, image-text-to-text, text-generation",
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5_moe",
-        "image-text-to-text",
-        "text-generation",
-        "conversational",
-        "base_model:Qwen/Qwen3.5-35B-A3B-Base",
-        "base_model:finetune:Qwen/Qwen3.5-35B-A3B-Base"
-      ],
-      "engagement": 30,
-      "ai_score": 0.82,
+      "engagement": 3672,
+      "ai_score": 0.76,
       "cluster_size": 1,
       "variants": [
         {
-          "source": "Hugging Face",
-          "title": "RoseG/Qwen3.5-35B-A3B-Base-8be64d30-Merged",
-          "url": "https://huggingface.co/RoseG/Qwen3.5-35B-A3B-Base-8be64d30-Merged",
-          "published_at": "2026-09-06T07:01:57Z"
+          "source": "GitHub",
+          "title": "raullenchai/Rapid-MLX",
+          "url": "https://github.com/raullenchai/Rapid-MLX",
+          "published_at": "2026-09-06T16:58:21Z"
         }
       ],
-      "score": 70.2,
+      "score": 69.9,
       "score_breakdown": {
-        "source": 82.0,
-        "recency": 99.9,
+        "source": 70.0,
+        "recency": 100.0,
         "novelty": 0.0,
-        "relevance": 82.0,
+        "relevance": 76.0,
         "multi_source": 0.0,
-        "engagement": 37.3
+        "engagement": 89.1
       },
-      "why": "高信号来源、刚刚发生、与大模型技术强相关",
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "akitaonrails-benchmark-coding-llm",
+      "title": "akitaonrails/llm-coding-benchmark",
+      "url": "https://github.com/akitaonrails/llm-coding-benchmark",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "数据与评测",
+      "published_at": "2026-09-06T16:58:08Z",
+      "date": "2026-09-06",
+      "summary": "Simple benchmark to test the most popular open source and commercial LLMs with automated OpenCode",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 304,
+      "ai_score": 0.6,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "akitaonrails/llm-coding-benchmark",
+          "url": "https://github.com/akitaonrails/llm-coding-benchmark",
+          "published_at": "2026-09-06T16:58:08Z"
+        }
+      ],
+      "score": 69.4,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 99.9,
+        "novelty": 25.0,
+        "relevance": 60.0,
+        "multi_source": 0.0,
+        "engagement": 62.1
+      },
+      "why": "刚刚发生、有明确发布或技术增量、社区讨论热度高",
       "extra": {}
     },
     {
@@ -136,13 +105,13 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "其他",
-      "published_at": "2026-09-06T07:01:07Z",
+      "published_at": "2026-09-06T16:55:46Z",
       "date": "2026-09-06",
       "summary": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
       "tags": [
         "TypeScript"
       ],
-      "engagement": 13518,
+      "engagement": 13603,
       "ai_score": 1.0,
       "cluster_size": 1,
       "variants": [
@@ -150,13 +119,13 @@
           "source": "GitHub",
           "title": "lidge-jun/opencodex",
           "url": "https://github.com/lidge-jun/opencodex",
-          "published_at": "2026-09-06T07:01:07Z"
+          "published_at": "2026-09-06T16:55:46Z"
         }
       ],
       "score": 74.7,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 99.8,
+        "recency": 99.9,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
@@ -166,9 +135,9 @@
       "extra": {}
     },
     {
-      "id": "cpp-mudler-vllm",
-      "title": "mudler/vllm.cpp",
-      "url": "https://github.com/mudler/vllm.cpp",
+      "id": "bench-eval-seraphimserapis-tool",
+      "title": "SeraphimSerapis/tool-eval-bench",
+      "url": "https://github.com/SeraphimSerapis/tool-eval-bench",
       "source": "GitHub",
       "sources": [
         "GitHub"
@@ -176,39 +145,39 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-06T07:00:57Z",
+      "published_at": "2026-09-06T16:55:37Z",
       "date": "2026-09-06",
-      "summary": "a community oriented 1:1, vLLM-alike (Continuous batching, paged KV) engine in C++ with additional features (GGUF, RadixAttention, Cache-aware scheduling, ...)",
+      "summary": "Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and structured output. Supports vLLM, SGLang, and llama.cpp.",
       "tags": [
-        "C++"
+        "Python"
       ],
-      "engagement": 389,
-      "ai_score": 0.56,
+      "engagement": 333,
+      "ai_score": 0.78,
       "cluster_size": 1,
       "variants": [
         {
           "source": "GitHub",
-          "title": "mudler/vllm.cpp",
-          "url": "https://github.com/mudler/vllm.cpp",
-          "published_at": "2026-09-06T07:00:57Z"
+          "title": "SeraphimSerapis/tool-eval-bench",
+          "url": "https://github.com/SeraphimSerapis/tool-eval-bench",
+          "published_at": "2026-09-06T16:55:37Z"
         }
       ],
-      "score": 64.4,
+      "score": 67.8,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 99.8,
+        "recency": 99.9,
         "novelty": 0.0,
-        "relevance": 56.0,
+        "relevance": 78.0,
         "multi_source": 0.0,
-        "engagement": 64.8
+        "engagement": 63.1
       },
-      "why": "刚刚发生、社区讨论热度高",
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
       "extra": {}
     },
     {
-      "id": "eric-etos-llm-studio-terminal",
-      "title": "Eric-Terminal/ETOS-LLM-Studio",
-      "url": "https://github.com/Eric-Terminal/ETOS-LLM-Studio",
+      "id": "fastgpt-labring",
+      "title": "labring/FastGPT",
+      "url": "https://github.com/labring/FastGPT",
       "source": "GitHub",
       "sources": [
         "GitHub"
@@ -216,73 +185,160 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "Agent 与工具",
-      "published_at": "2026-09-06T07:00:33Z",
+      "published_at": "2026-09-06T16:55:31Z",
       "date": "2026-09-06",
-      "summary": "A native LLM client for iOS & Apple Watch. Run local GGUF models offline via llama.cpp, or connect to OpenAI/Claude/Gemini. Features local RAG, Model Context Protocol (MCP) tools, Siri Shortcuts, and cross-device sync. Built with Swift.",
+      "summary": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
       "tags": [
-        "Swift"
+        "TypeScript"
       ],
-      "engagement": 201,
+      "engagement": 29590,
+      "ai_score": 0.62,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "labring/FastGPT",
+          "url": "https://github.com/labring/FastGPT",
+          "published_at": "2026-09-06T16:55:31Z"
+        }
+      ],
+      "score": 68.6,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 99.9,
+        "novelty": 0.0,
+        "relevance": 62.0,
+        "multi_source": 0.0,
+        "engagement": 100.0
+      },
+      "why": "刚刚发生、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "gateway-inference",
+      "title": "inference-gateway/inference-gateway",
+      "url": "https://github.com/inference-gateway/inference-gateway",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-06T16:55:20Z",
+      "date": "2026-09-06",
+      "summary": "An open-source, cloud-native, high-performance gateway unifying multiple LLM providers, from local solutions like Ollama to major cloud providers such as OpenAI, Groq, Cohere, Anthropic, Cloudflare and DeepSeek.",
+      "tags": [
+        "Go"
+      ],
+      "engagement": 211,
       "ai_score": 1.0,
       "cluster_size": 1,
       "variants": [
         {
           "source": "GitHub",
-          "title": "Eric-Terminal/ETOS-LLM-Studio",
-          "url": "https://github.com/Eric-Terminal/ETOS-LLM-Studio",
-          "published_at": "2026-09-06T07:00:33Z"
+          "title": "inference-gateway/inference-gateway",
+          "url": "https://github.com/inference-gateway/inference-gateway",
+          "published_at": "2026-09-06T16:55:20Z"
         }
       ],
-      "score": 70.8,
+      "score": 70.9,
       "score_breakdown": {
         "source": 70.0,
         "recency": 99.8,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
-        "engagement": 57.6
+        "engagement": 58.2
       },
       "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
       "extra": {}
     },
     {
-      "id": "mlflow",
-      "title": "mlflow/mlflow",
-      "url": "https://github.com/mlflow/mlflow",
+      "id": "gproxy-leenhawk",
+      "title": "LeenHawk/gproxy",
+      "url": "https://github.com/LeenHawk/gproxy",
       "source": "GitHub",
       "sources": [
         "GitHub"
       ],
       "source_kind": "github",
       "category": "开发者",
-      "topic": "Agent 与工具",
-      "published_at": "2026-09-06T07:00:13Z",
+      "topic": "发布与生态",
+      "published_at": "2026-09-06T16:52:18Z",
       "date": "2026-09-06",
-      "summary": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "summary": "gproxy is a Rust-based multi-channel LLM proxy that exposes OpenAI / Claude / Gemini-style APIs through a unified gateway, with a built-in admin console, user/key management, and request/usage auditing.",
       "tags": [
-        "Python"
+        "Rust"
       ],
-      "engagement": 27824,
-      "ai_score": 0.62,
+      "engagement": 229,
+      "ai_score": 0.88,
       "cluster_size": 1,
       "variants": [
         {
           "source": "GitHub",
-          "title": "mlflow/mlflow",
-          "url": "https://github.com/mlflow/mlflow",
-          "published_at": "2026-09-06T07:00:13Z"
+          "title": "LeenHawk/gproxy",
+          "url": "https://github.com/LeenHawk/gproxy",
+          "published_at": "2026-09-06T16:52:18Z"
         }
       ],
-      "score": 73.2,
+      "score": 69.0,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 99.8,
-        "novelty": 25.0,
-        "relevance": 62.0,
+        "recency": 99.7,
+        "novelty": 0.0,
+        "relevance": 88.0,
         "multi_source": 0.0,
-        "engagement": 100.0
+        "engagement": 59.0
       },
-      "why": "刚刚发生、有明确发布或技术增量、社区讨论热度高",
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "35b-ablit-heretic-hermes-llama-moe-mtp-oktayd-qwen3-uncensor-vision",
+      "title": "oktayd/Qwen3.6-35B-v2-MoE-Ablit-Heretic-Uncensor-Hermes-MTP-Vision-Llama",
+      "url": "https://huggingface.co/oktayd/Qwen3.6-35B-v2-MoE-Ablit-Heretic-Uncensor-Hermes-MTP-Vision-Llama",
+      "source": "Hugging Face",
+      "sources": [
+        "Hugging Face"
+      ],
+      "source_kind": "hf-models",
+      "category": "模型",
+      "topic": "多模态",
+      "published_at": "2026-09-06T16:51:42Z",
+      "date": "2026-09-06",
+      "summary": "gguf, qwen3_5_moe, vision, moe, conversational",
+      "tags": [
+        "gguf",
+        "qwen3_5_moe",
+        "vision",
+        "moe",
+        "conversational",
+        "not-for-all-audiences",
+        "abliterated",
+        "heretic"
+      ],
+      "engagement": 43,
+      "ai_score": 0.78,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "Hugging Face",
+          "title": "oktayd/Qwen3.6-35B-v2-MoE-Ablit-Heretic-Uncensor-Hermes-MTP-Vision-Llama",
+          "url": "https://huggingface.co/oktayd/Qwen3.6-35B-v2-MoE-Ablit-Heretic-Uncensor-Hermes-MTP-Vision-Llama",
+          "published_at": "2026-09-06T16:51:42Z"
+        }
+      ],
+      "score": 69.9,
+      "score_breakdown": {
+        "source": 82.0,
+        "recency": 99.7,
+        "novelty": 0.0,
+        "relevance": 78.0,
+        "multi_source": 0.0,
+        "engagement": 41.1
+      },
+      "why": "高信号来源、刚刚发生、与大模型技术强相关",
       "extra": {}
     },
     {
@@ -296,13 +352,13 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-06T06:55:57Z",
+      "published_at": "2026-09-06T16:50:24Z",
       "date": "2026-09-06",
       "summary": "SGLang is a high-performance serving framework for large language models and multimodal models.",
       "tags": [
         "Python"
       ],
-      "engagement": 35517,
+      "engagement": 35529,
       "ai_score": 0.9,
       "cluster_size": 3,
       "variants": [
@@ -310,19 +366,19 @@
           "source": "GitHub",
           "title": "sgl-project/sglang",
           "url": "https://github.com/sgl-project/sglang",
-          "published_at": "2026-09-06T06:55:57Z"
+          "published_at": "2026-09-06T16:50:24Z"
         },
         {
           "source": "GitHub",
           "title": "sgl-project/sglang",
           "url": "https://github.com/sgl-project/sglang",
-          "published_at": "2026-09-06T06:55:57Z"
+          "published_at": "2026-09-06T16:50:24Z"
         },
         {
           "source": "GitHub",
           "title": "sgl-project/sglang",
           "url": "https://github.com/sgl-project/sglang",
-          "published_at": "2026-09-06T06:55:57Z"
+          "published_at": "2026-09-06T16:50:24Z"
         }
       ],
       "score": 84.6,
@@ -338,46 +394,6 @@
       "extra": {}
     },
     {
-      "id": "mlx-rapid-raullenchai",
-      "title": "raullenchai/Rapid-MLX",
-      "url": "https://github.com/raullenchai/Rapid-MLX",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "发布与生态",
-      "published_at": "2026-09-06T06:54:29Z",
-      "date": "2026-09-06",
-      "summary": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 3667,
-      "ai_score": 0.76,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "raullenchai/Rapid-MLX",
-          "url": "https://github.com/raullenchai/Rapid-MLX",
-          "published_at": "2026-09-06T06:54:29Z"
-        }
-      ],
-      "score": 69.8,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 99.6,
-        "novelty": 0.0,
-        "relevance": 76.0,
-        "multi_source": 0.0,
-        "engagement": 89.1
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
       "id": "spiceai",
       "title": "spiceai/spiceai",
       "url": "https://github.com/spiceai/spiceai",
@@ -388,7 +404,7 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-06T06:54:02Z",
+      "published_at": "2026-09-06T16:30:55Z",
       "date": "2026-09-06",
       "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
@@ -402,17 +418,97 @@
           "source": "GitHub",
           "title": "spiceai/spiceai",
           "url": "https://github.com/spiceai/spiceai",
-          "published_at": "2026-09-06T06:54:02Z"
+          "published_at": "2026-09-06T16:30:55Z"
         }
       ],
-      "score": 69.6,
+      "score": 69.5,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 99.6,
+        "recency": 99.0,
         "novelty": 0.0,
         "relevance": 76.0,
         "multi_source": 0.0,
         "engagement": 87.2
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "openlake-project",
+      "title": "openlake-project/openlake",
+      "url": "https://github.com/openlake-project/openlake",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-06T16:30:06Z",
+      "date": "2026-09-06",
+      "summary": "OpenLake is a high performance storage engine for efficient LLM inference and GPU Training",
+      "tags": [
+        "Rust"
+      ],
+      "engagement": 2420,
+      "ai_score": 0.8,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "openlake-project/openlake",
+          "url": "https://github.com/openlake-project/openlake",
+          "published_at": "2026-09-06T16:30:06Z"
+        }
+      ],
+      "score": 69.9,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 99.0,
+        "novelty": 0.0,
+        "relevance": 80.0,
+        "multi_source": 0.0,
+        "engagement": 84.6
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "llm-nvidia-tensorrt",
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-06T16:11:30Z",
+      "date": "2026-09-06",
+      "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 14557,
+      "ai_score": 1.0,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "NVIDIA/TensorRT-LLM",
+          "url": "https://github.com/NVIDIA/TensorRT-LLM",
+          "published_at": "2026-09-06T16:11:30Z"
+        }
+      ],
+      "score": 74.3,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 98.3,
+        "novelty": 0.0,
+        "relevance": 100.0,
+        "multi_source": 0.0,
+        "engagement": 100.0
       },
       "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
       "extra": {}
@@ -428,7 +524,7 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "训练与架构",
-      "published_at": "2026-09-06T06:42:29Z",
+      "published_at": "2026-09-06T16:07:23Z",
       "date": "2026-09-06",
       "summary": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
       "tags": [
@@ -442,13 +538,13 @@
           "source": "GitHub",
           "title": "carloslfu/slotstream",
           "url": "https://github.com/carloslfu/slotstream",
-          "published_at": "2026-09-06T06:42:29Z"
+          "published_at": "2026-09-06T16:07:23Z"
         }
       ],
-      "score": 67.5,
+      "score": 67.2,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 99.2,
+        "recency": 98.2,
         "novelty": 0.0,
         "relevance": 78.0,
         "multi_source": 0.0,
@@ -458,9 +554,9 @@
       "extra": {}
     },
     {
-      "id": "lightseekorg-tokenspeed",
-      "title": "lightseekorg/tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
+      "id": "project-router-semantic-vllm",
+      "title": "vllm-project/semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
       "source": "GitHub",
       "sources": [
         "GitHub"
@@ -468,31 +564,31 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-06T06:39:21Z",
+      "published_at": "2026-09-06T16:02:37Z",
       "date": "2026-09-06",
-      "summary": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "summary": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "tags": [
-        "Python"
+        "Go"
       ],
-      "engagement": 2097,
+      "engagement": 5615,
       "ai_score": 0.56,
       "cluster_size": 1,
       "variants": [
         {
           "source": "GitHub",
-          "title": "lightseekorg/tokenspeed",
-          "url": "https://github.com/lightseekorg/tokenspeed",
-          "published_at": "2026-09-06T06:39:21Z"
+          "title": "vllm-project/semantic-router",
+          "url": "https://github.com/vllm-project/semantic-router",
+          "published_at": "2026-09-06T16:02:37Z"
         }
       ],
-      "score": 65.9,
+      "score": 66.6,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 99.1,
+        "recency": 98.0,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 0.0,
-        "engagement": 83.0
+        "engagement": 93.7
       },
       "why": "刚刚发生、社区讨论热度高",
       "extra": {}
@@ -508,13 +604,13 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "训练与架构",
-      "published_at": "2026-09-06T05:57:05Z",
+      "published_at": "2026-09-06T16:01:19Z",
       "date": "2026-09-06",
       "summary": "fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。",
       "tags": [
         "C++"
       ],
-      "engagement": 4954,
+      "engagement": 4955,
       "ai_score": 1.0,
       "cluster_size": 1,
       "variants": [
@@ -522,19 +618,357 @@
           "source": "GitHub",
           "title": "ztxz16/fastllm",
           "url": "https://github.com/ztxz16/fastllm",
-          "published_at": "2026-09-06T05:57:05Z"
+          "published_at": "2026-09-06T16:01:19Z"
         }
       ],
-      "score": 73.4,
+      "score": 73.5,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 97.6,
+        "recency": 98.0,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
         "engagement": 92.4
       },
       "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "lightseekorg-tokenspeed",
+      "title": "lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-06T15:27:39Z",
+      "date": "2026-09-06",
+      "summary": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 2099,
+      "ai_score": 0.56,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "lightseekorg/tokenspeed",
+          "url": "https://github.com/lightseekorg/tokenspeed",
+          "published_at": "2026-09-06T15:27:39Z"
+        }
+      ],
+      "score": 65.3,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 96.8,
+        "novelty": 0.0,
+        "relevance": 56.0,
+        "multi_source": 0.0,
+        "engagement": 83.1
+      },
+      "why": "刚刚发生、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "omni-project-vllm",
+      "title": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-06T15:08:13Z",
+      "date": "2026-09-06",
+      "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 91088,
+      "ai_score": 0.56,
+      "cluster_size": 4,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "published_at": "2026-09-06T15:08:13Z"
+        },
+        {
+          "source": "GitHub",
+          "title": "vllm-project/vllm-omni",
+          "url": "https://github.com/vllm-project/vllm-omni",
+          "published_at": "2026-09-06T14:25:35Z"
+        },
+        {
+          "source": "GitHub",
+          "title": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "published_at": "2026-09-06T15:08:13Z"
+        },
+        {
+          "source": "GitHub",
+          "title": "vllm-project/vllm",
+          "url": "https://github.com/vllm-project/vllm",
+          "published_at": "2026-09-06T15:08:13Z"
+        }
+      ],
+      "score": 78.2,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 96.1,
+        "novelty": 0.0,
+        "relevance": 56.0,
+        "multi_source": 100.0,
+        "engagement": 100.0
+      },
+      "why": "4 家信源同时报道、刚刚发生、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "huggingface-transformers",
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "多模态",
+      "published_at": "2026-09-06T14:45:09Z",
+      "date": "2026-09-06",
+      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 164885,
+      "ai_score": 1.0,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "published_at": "2026-09-06T14:45:09Z"
+        }
+      ],
+      "score": 73.6,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 95.3,
+        "novelty": 0.0,
+        "relevance": 100.0,
+        "multi_source": 0.0,
+        "engagement": 100.0
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "ardanlabs-kronk",
+      "title": "ardanlabs/kronk",
+      "url": "https://github.com/ardanlabs/kronk",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "发布与生态",
+      "published_at": "2026-09-06T14:35:53Z",
+      "date": "2026-09-06",
+      "summary": "Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directly integrated into your Go applications. Kronk provides a high-level API and a model server.",
+      "tags": [
+        "Go"
+      ],
+      "engagement": 787,
+      "ai_score": 0.56,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "ardanlabs/kronk",
+          "url": "https://github.com/ardanlabs/kronk",
+          "published_at": "2026-09-06T14:35:53Z"
+        }
+      ],
+      "score": 68.5,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 95.0,
+        "novelty": 25.0,
+        "relevance": 56.0,
+        "multi_source": 0.0,
+        "engagement": 72.4
+      },
+      "why": "刚刚发生、有明确发布或技术增量、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "nobodywho-ooo",
+      "title": "nobodywho-ooo/nobodywho",
+      "url": "https://github.com/nobodywho-ooo/nobodywho",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "推理与系统",
+      "published_at": "2026-09-06T13:39:12Z",
+      "date": "2026-09-06",
+      "summary": "NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.",
+      "tags": [
+        "Rust"
+      ],
+      "engagement": 1095,
+      "ai_score": 0.56,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "nobodywho-ooo/nobodywho",
+          "url": "https://github.com/nobodywho-ooo/nobodywho",
+          "published_at": "2026-09-06T13:39:12Z"
+        }
+      ],
+      "score": 63.7,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 93.0,
+        "novelty": 0.0,
+        "relevance": 56.0,
+        "multi_source": 0.0,
+        "engagement": 76.0
+      },
+      "why": "刚刚发生、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "huggingface-trl",
+      "title": "huggingface/trl",
+      "url": "https://github.com/huggingface/trl",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "训练与架构",
+      "published_at": "2026-09-06T13:31:24Z",
+      "date": "2026-09-06",
+      "summary": "Train transformer language models with reinforcement learning.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 19233,
+      "ai_score": 0.86,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "huggingface/trl",
+          "url": "https://github.com/huggingface/trl",
+          "published_at": "2026-09-06T13:31:24Z"
+        }
+      ],
+      "score": 70.7,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 92.8,
+        "novelty": 0.0,
+        "relevance": 86.0,
+        "multi_source": 0.0,
+        "engagement": 100.0
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "mohitsoni48-turbollm",
+      "title": "mohitsoni48/TurboLLM",
+      "url": "https://github.com/mohitsoni48/TurboLLM",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "发布与生态",
+      "published_at": "2026-09-06T11:56:59Z",
+      "date": "2026-09-06",
+      "summary": "Run any local LLM engine, auto-tuned to your GPU — polished web UI + OpenAI/Anthropic-compatible API. Point Claude Code at your own machine in one command. No Electron, no Python, offline-first.",
+      "tags": [
+        "TypeScript"
+      ],
+      "engagement": 260,
+      "ai_score": 0.74,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "mohitsoni48/TurboLLM",
+          "url": "https://github.com/mohitsoni48/TurboLLM",
+          "published_at": "2026-09-06T11:56:59Z"
+        }
+      ],
+      "score": 64.3,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 89.5,
+        "novelty": 0.0,
+        "relevance": 74.0,
+        "multi_source": 0.0,
+        "engagement": 60.4
+      },
+      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "swanhubx-swanlab",
+      "title": "SwanHubX/SwanLab",
+      "url": "https://github.com/SwanHubX/SwanLab",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "训练与架构",
+      "published_at": "2026-09-06T10:54:20Z",
+      "date": "2026-09-06",
+      "summary": "⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics / MMEngine / Keras etc.",
+      "tags": [
+        "Python"
+      ],
+      "engagement": 4198,
+      "ai_score": 0.68,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "SwanHubX/SwanLab",
+          "url": "https://github.com/SwanHubX/SwanLab",
+          "published_at": "2026-09-06T10:54:20Z"
+        }
+      ],
+      "score": 65.5,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 87.3,
+        "novelty": 0.0,
+        "relevance": 68.0,
+        "multi_source": 0.0,
+        "engagement": 90.6
+      },
+      "why": "刚刚发生、社区讨论热度高",
       "extra": {}
     },
     {
@@ -548,7 +982,7 @@
       "source_kind": "github",
       "category": "开发者",
       "topic": "推理与系统",
-      "published_at": "2026-09-06T05:55:03Z",
+      "published_at": "2026-09-06T10:47:44Z",
       "date": "2026-09-06",
       "summary": "A high-performance inference engine for LLM, VLM, DiT and REC models, optimized for diverse AI accelerators. It is hosted in OpenAtom Foundation.",
       "tags": [
@@ -562,17 +996,57 @@
           "source": "GitHub",
           "title": "xLLM-AI/xllm",
           "url": "https://github.com/xLLM-AI/xllm",
-          "published_at": "2026-09-06T05:55:03Z"
+          "published_at": "2026-09-06T10:47:44Z"
         }
       ],
-      "score": 65.2,
+      "score": 62.5,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 97.5,
+        "recency": 87.1,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 0.0,
         "engagement": 79.8
+      },
+      "why": "刚刚发生、社区讨论热度高",
+      "extra": {}
+    },
+    {
+      "id": "awesome-engineering-prompt-promptslab",
+      "title": "promptslab/Awesome-Prompt-Engineering",
+      "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
+      "source": "GitHub",
+      "sources": [
+        "GitHub"
+      ],
+      "source_kind": "github",
+      "category": "开发者",
+      "topic": "训练与架构",
+      "published_at": "2026-09-06T10:43:36Z",
+      "date": "2026-09-06",
+      "summary": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc",
+      "tags": [
+        "TypeScript"
+      ],
+      "engagement": 6312,
+      "ai_score": 0.58,
+      "cluster_size": 1,
+      "variants": [
+        {
+          "source": "GitHub",
+          "title": "promptslab/Awesome-Prompt-Engineering",
+          "url": "https://github.com/promptslab/Awesome-Prompt-Engineering",
+          "published_at": "2026-09-06T10:43:36Z"
+        }
+      ],
+      "score": 64.2,
+      "score_breakdown": {
+        "source": 70.0,
+        "recency": 86.9,
+        "novelty": 0.0,
+        "relevance": 58.0,
+        "multi_source": 0.0,
+        "engagement": 95.0
       },
       "why": "刚刚发生、社区讨论热度高",
       "extra": {}
@@ -594,7 +1068,7 @@
       "tags": [
         "Python"
       ],
-      "engagement": 6717,
+      "engagement": 6719,
       "ai_score": 1.0,
       "cluster_size": 1,
       "variants": [
@@ -605,174 +1079,14 @@
           "published_at": "2026-09-06T05:53:42Z"
         }
       ],
-      "score": 73.7,
+      "score": 68.5,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 97.5,
+        "recency": 76.9,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
         "engagement": 95.7
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "auto-claude-code-research-sleep-wanshuiyin",
-      "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
-      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "Agent 与工具",
-      "published_at": "2026-09-06T05:47:29Z",
-      "date": "2026-09-06",
-      "summary": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 15765,
-      "ai_score": 0.82,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "wanshuiyin/Auto-claude-code-research-in-sleep",
-          "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
-          "published_at": "2026-09-06T05:47:29Z"
-        }
-      ],
-      "score": 71.2,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 97.3,
-        "novelty": 0.0,
-        "relevance": 82.0,
-        "multi_source": 0.0,
-        "engagement": 100.0
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "align-kernel",
-      "title": "RL-Align/RL-Kernel",
-      "url": "https://github.com/RL-Align/RL-Kernel",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "对齐与后训练",
-      "published_at": "2026-09-06T05:14:46Z",
-      "date": "2026-09-06",
-      "summary": "High-performance RL post-training infrastructure. Designed to achieve bitwise operator-level train-inference consistency across heterogeneous engines and extreme memory efficiency for GRPO, PPO, etc.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 291,
-      "ai_score": 0.64,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "RL-Align/RL-Kernel",
-          "url": "https://github.com/RL-Align/RL-Kernel",
-          "published_at": "2026-09-06T05:14:46Z"
-        }
-      ],
-      "score": 64.4,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 96.1,
-        "novelty": 0.0,
-        "relevance": 64.0,
-        "multi_source": 0.0,
-        "engagement": 61.6
-      },
-      "why": "刚刚发生、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "huggingface-trl",
-      "title": "huggingface/trl",
-      "url": "https://github.com/huggingface/trl",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "训练与架构",
-      "published_at": "2026-09-06T05:14:01Z",
-      "date": "2026-09-06",
-      "summary": "Train transformer language models with reinforcement learning.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 19231,
-      "ai_score": 0.86,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "huggingface/trl",
-          "url": "https://github.com/huggingface/trl",
-          "published_at": "2026-09-06T05:14:01Z"
-        }
-      ],
-      "score": 71.5,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 96.1,
-        "novelty": 0.0,
-        "relevance": 86.0,
-        "multi_source": 0.0,
-        "engagement": 100.0
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "llm-nvidia-tensorrt",
-      "title": "NVIDIA/TensorRT-LLM",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "推理与系统",
-      "published_at": "2026-09-06T04:33:29Z",
-      "date": "2026-09-06",
-      "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 14556,
-      "ai_score": 1.0,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "NVIDIA/TensorRT-LLM",
-          "url": "https://github.com/NVIDIA/TensorRT-LLM",
-          "published_at": "2026-09-06T04:33:29Z"
-        }
-      ],
-      "score": 73.4,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 94.7,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 0.0,
-        "engagement": 100.0
       },
       "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
       "extra": {}
@@ -794,7 +1108,7 @@
       "tags": [
         "C#"
       ],
-      "engagement": 415,
+      "engagement": 417,
       "ai_score": 0.94,
       "cluster_size": 1,
       "variants": [
@@ -805,102 +1119,16 @@
           "published_at": "2026-09-06T04:10:28Z"
         }
       ],
-      "score": 69.1,
+      "score": 63.9,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 93.9,
+        "recency": 73.3,
         "novelty": 0.0,
         "relevance": 94.0,
         "multi_source": 0.0,
         "engagement": 65.5
       },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "project-router-semantic-vllm",
-      "title": "vllm-project/semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "推理与系统",
-      "published_at": "2026-09-06T03:11:29Z",
-      "date": "2026-09-06",
-      "summary": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
-      "tags": [
-        "Go"
-      ],
-      "engagement": 5602,
-      "ai_score": 0.56,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "vllm-project/semantic-router",
-          "url": "https://github.com/vllm-project/semantic-router",
-          "published_at": "2026-09-06T03:11:29Z"
-        }
-      ],
-      "score": 65.0,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 91.9,
-        "novelty": 0.0,
-        "relevance": 56.0,
-        "multi_source": 0.0,
-        "engagement": 93.7
-      },
-      "why": "刚刚发生、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "huggingface-transformers",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "多模态",
-      "published_at": "2026-09-06T02:48:16Z",
-      "date": "2026-09-06",
-      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 164850,
-      "ai_score": 1.0,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "huggingface/transformers",
-          "url": "https://github.com/huggingface/transformers",
-          "published_at": "2026-09-06T02:48:16Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "huggingface/transformers.js",
-          "url": "https://github.com/huggingface/transformers.js",
-          "published_at": "2026-09-05T19:23:38Z"
-        }
-      ],
-      "score": 78.2,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 91.1,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 50.0,
-        "engagement": 100.0
-      },
-      "why": "2 家信源同时报道、刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "why": "与大模型技术强相关、社区讨论热度高",
       "extra": {}
     },
     {
@@ -931,56 +1159,16 @@
           "published_at": "2026-09-06T02:18:58Z"
         }
       ],
-      "score": 63.1,
+      "score": 57.9,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 90.0,
+        "recency": 69.4,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 0.0,
         "engagement": 78.0
       },
-      "why": "刚刚发生、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "ardanlabs-kronk",
-      "title": "ardanlabs/kronk",
-      "url": "https://github.com/ardanlabs/kronk",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "发布与生态",
-      "published_at": "2026-09-05T23:41:32Z",
-      "date": "2026-09-05",
-      "summary": "Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directly integrated into your Go applications. Kronk provides a high-level API and a model server.",
-      "tags": [
-        "Go"
-      ],
-      "engagement": 787,
-      "ai_score": 0.56,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "ardanlabs/kronk",
-          "url": "https://github.com/ardanlabs/kronk",
-          "published_at": "2026-09-05T23:41:32Z"
-        }
-      ],
-      "score": 65.8,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 84.6,
-        "novelty": 25.0,
-        "relevance": 56.0,
-        "multi_source": 0.0,
-        "engagement": 72.4
-      },
-      "why": "刚刚发生、有明确发布或技术增量、社区讨论热度高",
+      "why": "社区讨论热度高",
       "extra": {}
     },
     {
@@ -1011,16 +1199,16 @@
           "published_at": "2026-09-05T23:27:48Z"
         }
       ],
-      "score": 69.1,
+      "score": 63.9,
       "score_breakdown": {
         "source": 86.0,
-        "recency": 84.1,
+        "recency": 63.5,
         "novelty": 25.0,
         "relevance": 84.0,
         "multi_source": 0.0,
         "engagement": 0.0
       },
-      "why": "高信号来源、刚刚发生、有明确发布或技术增量、与大模型技术强相关",
+      "why": "高信号来源、有明确发布或技术增量、与大模型技术强相关",
       "extra": {}
     },
     {
@@ -1040,7 +1228,7 @@
       "tags": [
         "Swift"
       ],
-      "engagement": 759,
+      "engagement": 758,
       "ai_score": 1.0,
       "cluster_size": 1,
       "variants": [
@@ -1051,56 +1239,16 @@
           "published_at": "2026-09-05T23:27:20Z"
         }
       ],
-      "score": 68.1,
+      "score": 62.9,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 84.1,
+        "recency": 63.5,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
         "engagement": 72.0
       },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "forecast-solar-toorox-zara",
-      "title": "Zara-Toorox/Solar-Forecast-ML",
-      "url": "https://github.com/Zara-Toorox/Solar-Forecast-ML",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "训练与架构",
-      "published_at": "2026-09-05T22:22:14Z",
-      "date": "2026-09-05",
-      "summary": "SFML is the first fully local AI solar forecast for Home Assistant, powered by a local Attention Transformer. No external AI — such as ChatGPT, Gemini, or Grok — required. Runs entirely on your device for complete privacy.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 272,
-      "ai_score": 1.0,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "Zara-Toorox/Solar-Forecast-ML",
-          "url": "https://github.com/Zara-Toorox/Solar-Forecast-ML",
-          "published_at": "2026-09-05T22:22:14Z"
-        }
-      ],
-      "score": 66.6,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 81.8,
-        "novelty": 0.0,
-        "relevance": 100.0,
-        "multi_source": 0.0,
-        "engagement": 60.9
-      },
-      "why": "刚刚发生、与大模型技术强相关、社区讨论热度高",
+      "why": "与大模型技术强相关、社区讨论热度高",
       "extra": {}
     },
     {
@@ -1120,7 +1268,7 @@
       "tags": [
         "Python"
       ],
-      "engagement": 515,
+      "engagement": 516,
       "ai_score": 0.56,
       "cluster_size": 1,
       "variants": [
@@ -1131,16 +1279,16 @@
           "published_at": "2026-09-05T22:17:20Z"
         }
       ],
-      "score": 60.1,
+      "score": 54.8,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 81.6,
+        "recency": 61.0,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 0.0,
         "engagement": 67.8
       },
-      "why": "刚刚发生、社区讨论热度高",
+      "why": "社区讨论热度高",
       "extra": {}
     },
     {
@@ -1160,7 +1308,7 @@
       "tags": [
         "Rust"
       ],
-      "engagement": 605,
+      "engagement": 606,
       "ai_score": 0.56,
       "cluster_size": 1,
       "variants": [
@@ -1171,16 +1319,16 @@
           "published_at": "2026-09-05T21:31:17Z"
         }
       ],
-      "score": 59.8,
+      "score": 54.6,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 80.0,
+        "recency": 59.4,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 0.0,
         "engagement": 69.6
       },
-      "why": "刚刚发生、社区讨论热度高",
+      "why": "社区讨论热度高",
       "extra": {}
     },
     {
@@ -1211,16 +1359,16 @@
           "published_at": "2026-09-05T19:44:45Z"
         }
       ],
-      "score": 60.0,
+      "score": 54.8,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 76.3,
+        "recency": 55.7,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 0.0,
         "engagement": 81.7
       },
-      "why": "刚刚发生、社区讨论热度高",
+      "why": "社区讨论热度高",
       "extra": {}
     },
     {
@@ -1240,7 +1388,7 @@
       "tags": [
         "C"
       ],
-      "engagement": 22096,
+      "engagement": 22107,
       "ai_score": 0.64,
       "cluster_size": 1,
       "variants": [
@@ -1251,10 +1399,10 @@
           "published_at": "2026-09-05T18:57:12Z"
         }
       ],
-      "score": 62.6,
+      "score": 57.3,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 74.7,
+        "recency": 54.1,
         "novelty": 0.0,
         "relevance": 64.0,
         "multi_source": 0.0,
@@ -1280,73 +1428,27 @@
       "tags": [
         "Rust"
       ],
-      "engagement": 673,
+      "engagement": 675,
       "ai_score": 0.96,
-      "cluster_size": 2,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "pegainfer-project/pegainfer",
-          "url": "https://github.com/pegainfer-project/pegainfer",
-          "published_at": "2026-09-05T18:12:49Z"
-        },
-        {
-          "source": "GitHub",
-          "title": "pegainfer-project/pegainfer",
-          "url": "https://github.com/pegainfer-project/pegainfer",
-          "published_at": "2026-09-05T18:12:49Z"
-        }
-      ],
-      "score": 70.4,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 73.2,
-        "novelty": 0.0,
-        "relevance": 96.0,
-        "multi_source": 50.0,
-        "engagement": 70.7
-      },
-      "why": "2 家信源同时报道、与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "compressor-llm-project-vllm",
-      "title": "vllm-project/llm-compressor",
-      "url": "https://github.com/vllm-project/llm-compressor",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "推理与系统",
-      "published_at": "2026-09-05T17:30:57Z",
-      "date": "2026-09-05",
-      "summary": "Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 3761,
-      "ai_score": 0.64,
       "cluster_size": 1,
       "variants": [
         {
           "source": "GitHub",
-          "title": "vllm-project/llm-compressor",
-          "url": "https://github.com/vllm-project/llm-compressor",
-          "published_at": "2026-09-05T17:30:57Z"
+          "title": "pegainfer-project/pegainfer",
+          "url": "https://github.com/pegainfer-project/pegainfer",
+          "published_at": "2026-09-05T18:12:49Z"
         }
       ],
-      "score": 60.8,
+      "score": 59.4,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 71.7,
+        "recency": 52.5,
         "novelty": 0.0,
-        "relevance": 64.0,
+        "relevance": 96.0,
         "multi_source": 0.0,
-        "engagement": 89.4
+        "engagement": 70.7
       },
-      "why": "社区讨论热度高",
+      "why": "与大模型技术强相关、社区讨论热度高",
       "extra": {}
     },
     {
@@ -1377,96 +1479,16 @@
           "published_at": "2026-09-05T15:51:09Z"
         }
       ],
-      "score": 60.1,
+      "score": 54.9,
       "score_breakdown": {
         "source": 86.0,
-        "recency": 68.2,
+        "recency": 47.6,
         "novelty": 0.0,
         "relevance": 82.0,
         "multi_source": 0.0,
         "engagement": 0.0
       },
       "why": "高信号来源、与大模型技术强相关",
-      "extra": {}
-    },
-    {
-      "id": "nvidia-transformerengine",
-      "title": "NVIDIA/TransformerEngine",
-      "url": "https://github.com/NVIDIA/TransformerEngine",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "训练与架构",
-      "published_at": "2026-09-05T13:13:46Z",
-      "date": "2026-09-05",
-      "summary": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit and 4-bit floating point (FP8 and FP4) precision on Hopper, Ada and Blackwell GPUs, to provide better performance with lower memory utilization in both training and inference.",
-      "tags": [
-        "Python"
-      ],
-      "engagement": 3522,
-      "ai_score": 0.76,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "NVIDIA/TransformerEngine",
-          "url": "https://github.com/NVIDIA/TransformerEngine",
-          "published_at": "2026-09-05T13:13:46Z"
-        }
-      ],
-      "score": 60.4,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 62.8,
-        "novelty": 0.0,
-        "relevance": 76.0,
-        "multi_source": 0.0,
-        "engagement": 88.7
-      },
-      "why": "与大模型技术强相关、社区讨论热度高",
-      "extra": {}
-    },
-    {
-      "id": "mohitsoni48-turbollm",
-      "title": "mohitsoni48/TurboLLM",
-      "url": "https://github.com/mohitsoni48/TurboLLM",
-      "source": "GitHub",
-      "sources": [
-        "GitHub"
-      ],
-      "source_kind": "github",
-      "category": "开发者",
-      "topic": "发布与生态",
-      "published_at": "2026-09-05T11:36:38Z",
-      "date": "2026-09-05",
-      "summary": "Run any local LLM engine, auto-tuned to your GPU — polished web UI + OpenAI/Anthropic-compatible API. Point Claude Code at your own machine in one command. No Electron, no Python, offline-first.",
-      "tags": [
-        "TypeScript"
-      ],
-      "engagement": 259,
-      "ai_score": 0.74,
-      "cluster_size": 1,
-      "variants": [
-        {
-          "source": "GitHub",
-          "title": "mohitsoni48/TurboLLM",
-          "url": "https://github.com/mohitsoni48/TurboLLM",
-          "published_at": "2026-09-05T11:36:38Z"
-        }
-      ],
-      "score": 56.6,
-      "score_breakdown": {
-        "source": 70.0,
-        "recency": 59.4,
-        "novelty": 0.0,
-        "relevance": 74.0,
-        "multi_source": 0.0,
-        "engagement": 60.4
-      },
-      "why": "与大模型技术强相关、社区讨论热度高",
       "extra": {}
     },
     {
@@ -1486,7 +1508,7 @@
       "tags": [
         "Python"
       ],
-      "engagement": 15522,
+      "engagement": 15525,
       "ai_score": 1.0,
       "cluster_size": 1,
       "variants": [
@@ -1497,10 +1519,10 @@
           "published_at": "2026-09-05T06:58:18Z"
         }
       ],
-      "score": 62.0,
+      "score": 56.8,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 49.7,
+        "recency": 29.1,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
@@ -1537,10 +1559,10 @@
           "published_at": "2026-09-05T02:53:59Z"
         }
       ],
-      "score": 50.5,
+      "score": 45.3,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 41.3,
+        "recency": 20.6,
         "novelty": 0.0,
         "relevance": 60.0,
         "multi_source": 0.0,
@@ -1577,10 +1599,10 @@
           "published_at": "2026-09-05T02:31:44Z"
         }
       ],
-      "score": 50.0,
+      "score": 44.7,
       "score_breakdown": {
         "source": 70.0,
-        "recency": 40.5,
+        "recency": 19.9,
         "novelty": 0.0,
         "relevance": 56.0,
         "multi_source": 0.0,
@@ -1617,10 +1639,10 @@
           "published_at": "2026-09-04T23:59:05Z"
         }
       ],
-      "score": 52.1,
+      "score": 46.9,
       "score_breakdown": {
         "source": 86.0,
-        "recency": 35.2,
+        "recency": 14.6,
         "novelty": 0.0,
         "relevance": 84.0,
         "multi_source": 0.0,
@@ -1657,10 +1679,10 @@
           "published_at": "2026-09-04T17:38:48Z"
         }
       ],
-      "score": 51.3,
+      "score": 46.1,
       "score_breakdown": {
         "source": 86.0,
-        "recency": 22.0,
+        "recency": 1.4,
         "novelty": 0.0,
         "relevance": 100.0,
         "multi_source": 0.0,
