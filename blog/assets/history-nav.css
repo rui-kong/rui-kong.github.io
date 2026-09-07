@@ -1,5 +1,10 @@
-/* 历史归档切换（本仓库新增，非上游文件）。复用上游 .view-switch 的外形，只补下拉框与归档提示条。 */
-.history-switch .history-select {
+/* 历史归档导航（本仓库新增，非上游文件）。复用上游 .view-switch 外形，只补日期控件与提示条。 */
+.history-nav {
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.history-nav .history-date {
   border: 1px solid var(--line, rgba(0, 0, 0, 0.12));
   background: var(--panel, #fff);
   color: inherit;
@@ -7,17 +12,41 @@
   padding: 3px 10px;
   font: inherit;
   font-size: 12px;
-  max-width: 15em;
+  line-height: 1.6;
   cursor: pointer;
 }
 
-.history-switch .history-select:hover {
+.history-nav .history-date:hover {
   border-color: currentColor;
 }
 
-/* 正在看历史归档时，页面顶部留一条明显提示，避免误当成实时数据。 */
+/* ‹ › 步进键做成等宽小圆，方便连点翻天 */
+.history-nav .history-step {
+  min-width: 26px;
+  padding-inline: 8px;
+  font-size: 15px;
+  line-height: 1.2;
+}
+
+.history-nav .view-switch-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.history-nav .view-switch-btn.is-on {
+  border-color: currentColor;
+  font-weight: 600;
+}
+
+.history-nav .history-meta {
+  font-size: 12px;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+
+/* 正在看历史归档时顶部留一条提示，避免误当成实时数据。 */
 html[data-radar-archive] body::before {
-  content: "正在查看 " attr(data-radar-archive) " 的历史归档 · 非实时数据";
+  content: "正在查看历史归档 · 非实时数据 · ← → 翻天，T 回到实时";
   display: block;
   padding: 6px 12px;
   text-align: center;
@@ -26,8 +55,4 @@ html[data-radar-archive] body::before {
   background: #fff4e5;
   color: #8a4b00;
   border-bottom: 1px solid #f0d0a0;
-}
-
-html[data-radar-archive] body::before {
-  content: "正在查看历史归档 · 非实时数据";
 }
