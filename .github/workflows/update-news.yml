@@ -1,0 +1,96 @@
+name: Update AI News Snapshot
+
+# Vendored from LearnPrompt/ai-news-radar (MIT). The upstream pipeline lives in
+# blog/, so every step runs with working-directory: blog and the snapshot is
+# committed under blog/data/.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 1-3,6-9 * * 1-5"
+    - cron: "17 5,11,14,23 * * *"
+    - cron: "17 2,8 * * 6,0"
+    - cron: "17 17,21 * * *"
+
+concurrency:
+  group: update-ai-news-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    timeout-minutes: 40
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: blog
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: "blog/requirements.txt"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Prepare OPML
+        env:
+          FOLLOW_OPML_B64: ${{ secrets.FOLLOW_OPML_B64 }}
+        run: |
+          mkdir -p feeds
+          if [ -n "$FOLLOW_OPML_B64" ]; then
+            echo "$FOLLOW_OPML_B64" | base64 --decode > feeds/follow.opml
+          elif [ -f feeds/follow.example.opml ]; then
+            cp feeds/follow.example.opml feeds/follow.opml
+          fi
+
+      - name: Update data
+        env:
+          RSS_MAX_FEEDS: ${{ vars.RSS_MAX_FEEDS || 10 }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+          TITLE_ENHANCE_MAX_PER_RUN: ${{ vars.TITLE_ENHANCE_MAX_PER_RUN }}
+        run: |
+          if [ -f feeds/follow.opml ]; then
+            python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --rss-opml feeds/follow.opml --rss-max-feeds "${RSS_MAX_FEEDS:-10}"
+          else
+            python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21
+          fi
+
+      - name: Persona scoring
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_API_BASE_URL: ${{ vars.DEEPSEEK_API_BASE_URL }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL }}
+        run: python scripts/persona_score.py --data-dir data
+
+      - name: Generate RSS feed
+        run: python scripts/generate_feed.py --data-dir data
+
+      - name: Commit and push changes
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add blog/data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update ai news snapshot"
+          for attempt in 1 2 3; do
+            git push && exit 0
+            echo "push rejected (attempt $attempt), rebasing onto latest remote..."
+            git pull --rebase origin "${GITHUB_REF_NAME}" || { git rebase --abort || true; exit 1; }
+          done
+          git push

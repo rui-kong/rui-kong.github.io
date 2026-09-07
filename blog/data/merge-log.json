@@ -1,65 +1,70 @@
 {
-  "generated_at": "2026-09-06T16:59:41.612617Z",
-  "merges": [
+  "generated_at": "2026-09-07T03:17:46.734868Z",
+  "merge_strategy": "url_or_title_similarity_v0_6",
+  "total_events": 9,
+  "events": [
     {
-      "into": "sgl-project/sglang",
-      "from": "sgl-project/sglang",
-      "source": "GitHub",
-      "reason": "same-url"
+      "story_id": "story_cc153614bc7c",
+      "item_id": "f5a8de608c35a9e40fd19ca0e5310a1a10493dae",
+      "merged_into": "story_cc153614bc7c",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
-      "into": "sgl-project/sglang",
-      "from": "sgl-project/sglang",
-      "source": "GitHub",
-      "reason": "same-url"
+      "story_id": "story_51d2e18008f8",
+      "item_id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
+      "merged_into": "story_51d2e18008f8",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
-      "into": "vllm-project/vllm",
-      "from": "vllm-project/vllm-omni",
-      "source": "GitHub",
-      "reason": "title-similarity=0.67"
+      "story_id": "story_392c698c960b",
+      "item_id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
+      "merged_into": "story_392c698c960b",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
-      "into": "vllm-project/vllm",
-      "from": "vllm-project/vllm",
-      "source": "GitHub",
-      "reason": "same-url"
+      "story_id": "story_51d2e18008f8",
+      "item_id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
+      "merged_into": "story_51d2e18008f8",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
-      "into": "vllm-project/vllm",
-      "from": "vllm-project/vllm",
-      "source": "GitHub",
-      "reason": "same-url"
+      "story_id": "story_392c698c960b",
+      "item_id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
+      "merged_into": "story_392c698c960b",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
-      "into": "MervinPraison/PraisonAI",
-      "from": "MervinPraison/PraisonAI",
-      "source": "GitHub",
-      "reason": "same-url"
+      "story_id": "story_2e625774c329",
+      "item_id": "d58f06c32b97b48cc942f7a5009f9b278fab7e26",
+      "merged_into": "story_2e625774c329",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
-      "into": "wanshuiyin/ARIS-in-AI-Offer",
-      "from": "wanshuiyin/ARIS-in-AI-Offer",
-      "source": "GitHub",
-      "reason": "same-url"
+      "story_id": "story_612a2e0c0069",
+      "item_id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
+      "merged_into": "story_612a2e0c0069",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
-      "into": "xbtlin/ai-berkshire",
-      "from": "xbtlin/ai-berkshire",
-      "source": "GitHub",
-      "reason": "same-url"
+      "story_id": "story_cc153614bc7c",
+      "item_id": "b09e7b2e17b9cc5b075504ab9a74aef5f86d7f42",
+      "merged_into": "story_cc153614bc7c",
+      "reason": "canonical_url",
+      "similarity": 1.0
     },
     {
-      "into": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
-      "from": "I track LLM API prices daily, found a 33x cost gap in the same model",
-      "source": "Hacker News",
-      "reason": "same-url"
-    },
-    {
-      "into": "Ask HN: (Why) Was the LLM breakthrough useful for images, audio, etc.?",
-      "from": "Should I reconsider my decision of self-hosting LLM Gateway?",
-      "source": "Hacker News",
-      "reason": "same-url"
+      "story_id": "story_f5c486b1ef2a",
+      "item_id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+      "merged_into": "story_f5c486b1ef2a",
+      "reason": "title_similarity",
+      "similarity": 1.0
     }
   ]
 }

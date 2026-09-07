@@ -1,189 +1,387 @@
 {
-  "generated_at": "2026-09-06T16:59:41.612617Z",
-  "sources": [
+  "generated_at": "2026-09-07T03:17:46.734868Z",
+  "sites": [
     {
-      "name": "arXiv",
+      "site_id": "official_ai",
+      "site_name": "Official AI Updates",
       "ok": true,
-      "fetched": 120,
-      "ai_related": 87,
-      "ai_ratio": 0.725,
+      "item_count": 193,
+      "duration_ms": 9527,
       "error": null
     },
     {
-      "name": "GitHub",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
       "ok": true,
-      "fetched": 100,
-      "ai_related": 67,
-      "ai_ratio": 0.67,
+      "item_count": 42,
+      "duration_ms": 15259,
       "error": null
     },
     {
-      "name": "Hacker News",
-      "ok": true,
-      "fetched": 60,
-      "ai_related": 5,
-      "ai_ratio": 0.083,
-      "error": null
-    },
-    {
-      "name": "HF Daily Papers",
-      "ok": true,
-      "fetched": 40,
-      "ai_related": 31,
-      "ai_ratio": 0.775,
-      "error": null
-    },
-    {
-      "name": "DeepMind Blog",
-      "ok": true,
-      "fetched": 30,
-      "ai_related": 1,
-      "ai_ratio": 0.033,
-      "error": null
-    },
-    {
-      "name": "Google Research",
-      "ok": true,
-      "fetched": 30,
-      "ai_related": 3,
-      "ai_ratio": 0.1,
-      "error": null
-    },
-    {
-      "name": "Hugging Face Blog",
-      "ok": true,
-      "fetched": 30,
-      "ai_related": 17,
-      "ai_ratio": 0.567,
-      "error": null
-    },
-    {
-      "name": "Lil'Log",
-      "ok": true,
-      "fetched": 30,
-      "ai_related": 17,
-      "ai_ratio": 0.567,
-      "error": null
-    },
-    {
-      "name": "OpenAI News",
-      "ok": true,
-      "fetched": 30,
-      "ai_related": 2,
-      "ai_ratio": 0.067,
-      "error": null
-    },
-    {
-      "name": "Sebastian Raschka",
-      "ok": true,
-      "fetched": 30,
-      "ai_related": 19,
-      "ai_ratio": 0.633,
-      "error": null
-    },
-    {
-      "name": "Simon Willison",
-      "ok": true,
-      "fetched": 30,
-      "ai_related": 22,
-      "ai_ratio": 0.733,
-      "error": null
-    },
-    {
-      "name": "Ahead of AI",
-      "ok": true,
-      "fetched": 20,
-      "ai_related": 18,
-      "ai_ratio": 0.9,
-      "error": null
-    },
-    {
-      "name": "Google AI Blog",
-      "ok": true,
-      "fetched": 20,
-      "ai_related": 2,
-      "ai_ratio": 0.1,
-      "error": null
-    },
-    {
-      "name": "TechCrunch AI",
-      "ok": true,
-      "fetched": 19,
-      "ai_related": 0,
-      "ai_ratio": 0.0,
-      "error": null
-    },
-    {
-      "name": "Hugging Face",
-      "ok": true,
-      "fetched": 14,
-      "ai_related": 1,
-      "ai_ratio": 0.071,
-      "error": null
-    },
-    {
-      "name": "GitHub Blog AI",
-      "ok": true,
-      "fetched": 10,
-      "ai_related": 1,
-      "ai_ratio": 0.1,
-      "error": null
-    },
-    {
-      "name": "Microsoft Research",
-      "ok": true,
-      "fetched": 10,
-      "ai_related": 3,
-      "ai_ratio": 0.3,
-      "error": null
-    },
-    {
-      "name": "PyTorch Blog",
-      "ok": true,
-      "fetched": 10,
-      "ai_related": 3,
-      "ai_ratio": 0.3,
-      "error": null
-    },
-    {
-      "name": "The Verge AI",
-      "ok": true,
-      "fetched": 10,
-      "ai_related": 0,
-      "ai_ratio": 0.0,
-      "error": null
-    },
-    {
-      "name": "Meta AI Blog",
-      "ok": true,
-      "fetched": 9,
-      "ai_related": 2,
-      "ai_ratio": 0.222,
-      "error": null
-    },
-    {
-      "name": "BAIR Blog",
+      "site_id": "aibreakfast",
+      "site_name": "AI Breakfast",
       "ok": false,
-      "fetched": 0,
-      "ai_related": 0,
-      "ai_ratio": 0.0,
-      "error": "URLError: <urlopen error timed out>"
+      "item_count": 0,
+      "duration_ms": 638,
+      "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
-      "name": "MarkTechPost",
-      "ok": false,
-      "fetched": 0,
-      "ai_related": 0,
-      "ai_ratio": 0.0,
-      "error": "ParseError: not well-formed (invalid token): line 1, column 119"
+      "site_id": "followbuilders",
+      "site_name": "Follow Builders",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 1265,
+      "error": null
     },
     {
-      "name": "Reddit",
-      "ok": false,
-      "fetched": 0,
-      "ai_related": 0,
-      "ai_ratio": 0.0,
-      "error": "HTTPError: HTTP Error 429: Too Many Requests"
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "ok": true,
+      "item_count": 405,
+      "duration_ms": 1848,
+      "error": null
+    },
+    {
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 5203,
+      "error": null
+    },
+    {
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 4258,
+      "error": null
+    },
+    {
+      "site_id": "bestblogs",
+      "site_name": "BestBlogs",
+      "ok": true,
+      "item_count": 1,
+      "duration_ms": 4762,
+      "error": null
+    },
+    {
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "ok": true,
+      "item_count": 54,
+      "duration_ms": 1233,
+      "error": null
+    },
+    {
+      "site_id": "hackernews",
+      "site_name": "Hacker News",
+      "ok": true,
+      "item_count": 2,
+      "duration_ms": 13743,
+      "error": null
+    },
+    {
+      "site_id": "aihubtoday",
+      "site_name": "AI HubToday",
+      "ok": true,
+      "item_count": 31,
+      "duration_ms": 1575,
+      "error": null
+    },
+    {
+      "site_id": "aibase",
+      "site_name": "AIbase",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 896,
+      "error": null
+    },
+    {
+      "site_id": "aihot",
+      "site_name": "AI HOT",
+      "ok": true,
+      "item_count": 87,
+      "duration_ms": 375,
+      "error": null
+    },
+    {
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "ok": true,
+      "item_count": 128,
+      "duration_ms": 2908,
+      "error": null
+    },
+    {
+      "site_id": "waytoagi",
+      "site_name": "WaytoAGI",
+      "ok": true,
+      "item_count": 6,
+      "duration_ms": 3931,
+      "error": null
+    },
+    {
+      "site_id": "opmlrss",
+      "site_name": "OPML RSS",
+      "ok": true,
+      "partial_failures": 0,
+      "item_count": 2371,
+      "duration_ms": 16932,
+      "error": null,
+      "feed_count": 10,
+      "effective_feed_count": 10,
+      "ok_feed_count": 10,
+      "failed_feed_count": 0,
+      "skipped_feed_count": 0,
+      "replaced_feed_count": 0
     }
-  ]
+  ],
+  "successful_sites": 15,
+  "failed_sites": [
+    "aibreakfast"
+  ],
+  "zero_item_sites": [],
+  "empty_advanced_sources": [],
+  "fetched_raw_items": 3451,
+  "items_before_topic_filter": 801,
+  "items_in_24h": 141,
+  "rss_opml": {
+    "enabled": true,
+    "path": "configured",
+    "feed_total": 10,
+    "effective_feed_total": 10,
+    "ok_feeds": 10,
+    "failed_feeds": [],
+    "zero_item_feeds": [],
+    "skipped_feeds": [],
+    "replaced_feeds": [],
+    "feeds": [
+      {
+        "site_id": "opmlrss:c39414c568",
+        "site_name": "OPML RSS",
+        "feed_title": "Google AI Blog",
+        "feed_url": "https://blog.google/technology/ai/rss/",
+        "effective_feed_url": "https://blog.google/technology/ai/rss/",
+        "ok": true,
+        "item_count": 20,
+        "duration_ms": 1665,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:0ea3c11e0b",
+        "site_name": "OPML RSS",
+        "feed_title": "Google DeepMind Blog",
+        "feed_url": "https://deepmind.google/blog/rss.xml",
+        "effective_feed_url": "https://deepmind.google/blog/rss.xml",
+        "ok": true,
+        "item_count": 100,
+        "duration_ms": 1765,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:33e649875b",
+        "site_name": "OPML RSS",
+        "feed_title": "Hugging Face Blog",
+        "feed_url": "https://huggingface.co/blog/feed.xml",
+        "effective_feed_url": "https://huggingface.co/blog/feed.xml",
+        "ok": true,
+        "item_count": 859,
+        "duration_ms": 1809,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:969629fda3",
+        "site_name": "OPML RSS",
+        "feed_title": "InfoQ CN",
+        "feed_url": "https://www.infoq.cn/feed",
+        "effective_feed_url": "https://www.infoq.cn/feed",
+        "ok": true,
+        "item_count": 20,
+        "duration_ms": 193,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:a53c22ca17",
+        "site_name": "OPML RSS",
+        "feed_title": "Microsoft AI Blog",
+        "feed_url": "https://news.microsoft.com/source/topics/ai/feed/",
+        "effective_feed_url": "https://news.microsoft.com/source/topics/ai/feed/",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 1068,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:ebc5cd4677",
+        "site_name": "OPML RSS",
+        "feed_title": "NVIDIA Generative AI Blog",
+        "feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
+        "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
+        "ok": true,
+        "item_count": 100,
+        "duration_ms": 3850,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:3ae57466b5",
+        "site_name": "OPML RSS",
+        "feed_title": "OpenAI News",
+        "feed_url": "https://openai.com/news/rss.xml",
+        "effective_feed_url": "https://openai.com/news/rss.xml",
+        "ok": true,
+        "item_count": 1172,
+        "duration_ms": 2107,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:d1c587ecba",
+        "site_name": "OPML RSS",
+        "feed_title": "Simon Willison",
+        "feed_url": "https://simonwillison.net/atom/everything/",
+        "effective_feed_url": "https://simonwillison.net/atom/everything/",
+        "ok": true,
+        "item_count": 30,
+        "duration_ms": 1692,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:965e5d5db4",
+        "site_name": "OPML RSS",
+        "feed_title": "Wired AI",
+        "feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
+        "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
+        "ok": true,
+        "item_count": 10,
+        "duration_ms": 913,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      },
+      {
+        "site_id": "opmlrss:d9ed8f749d",
+        "site_name": "OPML RSS",
+        "feed_title": "宝玉",
+        "feed_url": "https://baoyu.io/feed.xml",
+        "effective_feed_url": "https://baoyu.io/feed.xml",
+        "ok": true,
+        "item_count": 50,
+        "duration_ms": 1870,
+        "error": null,
+        "skipped": false,
+        "skip_reason": null,
+        "replaced": false,
+        "bridge_type": null
+      }
+    ]
+  },
+  "agentmail": {
+    "enabled": false,
+    "ok": null,
+    "item_count": 0,
+    "privacy": "metadata_only_no_body",
+    "published_by_default": false
+  },
+  "x_api": {
+    "enabled": false,
+    "enable_toggle": true,
+    "api_key_present": false,
+    "ok": null,
+    "item_count": 0,
+    "privacy": "public_posts_metadata_only",
+    "published_by_default": false,
+    "official_free_read_quota": false,
+    "unit_cost_usd_per_post_read": 0.005,
+    "daily_post_limit": 20,
+    "max_results_per_run": 20,
+    "effective_result_cap": 20,
+    "estimated_max_cost_usd_per_run": 0.1,
+    "run_utc_hour": 0,
+    "generated_date_utc": "2026-09-07",
+    "disabled_reason": "no_bearer_token"
+  },
+  "socialdata": {
+    "enabled": false,
+    "enable_toggle": true,
+    "api_key_present": false,
+    "ok": null,
+    "item_count": 0,
+    "privacy": "public_posts_metadata_only",
+    "published_by_default": false,
+    "unit_cost_usd_per_tweet_read": 0.0002,
+    "daily_tweet_limit": 20,
+    "max_results_per_run": 20,
+    "effective_result_cap": 20,
+    "search_result_cap": 20,
+    "list_result_cap": 50,
+    "combined_result_cap": 70,
+    "recency_days": 4,
+    "estimated_max_cost_usd_per_run": 0.014,
+    "run_interval_hours": 12,
+    "run_utc_hour": 0,
+    "run_utc_minute_max": 10,
+    "last_run_at": "2026-09-07T01:01:20.744888Z",
+    "last_success_at": "2026-09-07T01:01:20.744888Z",
+    "generated_date_utc": "2026-09-07",
+    "disabled_reason": "no_api_key"
+  },
+  "tikhub": {
+    "enabled": false,
+    "enable_toggle": true,
+    "api_key_present": false,
+    "enabled_by": "no_api_key",
+    "ok": null,
+    "item_count": 0,
+    "privacy": "public_social_posts_metadata_only",
+    "published_by_default": false,
+    "billing": "tikhub_charged_request",
+    "daily_item_limit": 20,
+    "max_results_per_run": 20,
+    "effective_result_cap": 20,
+    "platforms": [
+      "douyin",
+      "xiaohongshu"
+    ],
+    "run_interval_hours": 24,
+    "run_utc_hour": 0,
+    "run_utc_minute_max": 10,
+    "last_run_at": "2026-09-06T07:07:09.675668Z",
+    "last_success_at": "2026-09-06T07:07:09.675668Z",
+    "generated_date_utc": "2026-09-07",
+    "disabled_reason": "no_api_key"
+  }
 }

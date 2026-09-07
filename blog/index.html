@@ -1,348 +1,209 @@
 <!doctype html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>前沿追踪 · Frontier Radar</title>
-<style>
-:root { color-scheme: light; --bg:#f6f7f9; --panel:#fff; --line:#e5e7eb; --ink:#111827;
-  --muted:#6b7280; --accent:#2563eb; --accent-soft:#eff6ff; }
-* { box-sizing: border-box; }
-body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.6 -apple-system,
-  BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif; }
-a { color:var(--accent); text-decoration:none; }
-a:hover { text-decoration:underline; }
-.wrap { max-width:1160px; margin:0 auto; padding:28px 20px 64px; }
-.top { display:flex; flex-wrap:wrap; gap:16px; align-items:flex-end; justify-content:space-between;
-  margin-bottom:20px; }
-.kicker { font-size:12px; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); margin:0 0 6px; }
-h1 { font-size:24px; margin:0 0 8px; }
-.lede { color:var(--muted); margin:0; }
-.btn { display:inline-block; border:1px solid var(--line); background:var(--panel); color:var(--ink);
-  border-radius:8px; padding:7px 12px; font-size:13px; cursor:pointer; }
-.btn.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
-.tabs { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px; }
-.tab { border:1px solid var(--line); background:var(--panel); border-radius:999px; padding:5px 14px;
-  font-size:13px; cursor:pointer; color:var(--ink); }
-.tab.on { background:var(--accent); border-color:var(--accent); color:#fff; }
-.controls { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:12px 14px;
-  display:flex; flex-wrap:wrap; gap:12px; align-items:center; margin-bottom:16px; font-size:13px; }
-.controls label { color:var(--muted); }
-select, input[type=search] { border:1px solid var(--line); border-radius:8px; padding:5px 8px;
-  font-size:13px; background:#fff; color:var(--ink); }
-.seg { display:inline-flex; border:1px solid var(--line); border-radius:8px; overflow:hidden; }
-.seg button { border:0; background:var(--panel); padding:6px 14px; font-size:13px; cursor:pointer; color:var(--ink); }
-.seg button.on { background:var(--accent); color:#fff; }
-.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr)); gap:12px; margin-bottom:20px; }
-.stat { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:12px 14px; }
-.stat .k { color:var(--muted); font-size:12px; }
-.stat .v { font-size:20px; font-weight:600; margin-top:2px; }
-.layout { display:grid; grid-template-columns:minmax(0,1fr) 292px; gap:20px; align-items:start; }
-@media (max-width:900px) { .layout { grid-template-columns:minmax(0,1fr); } }
-.panel { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:16px; }
-.panel h3 { margin:0 0 10px; font-size:14px; }
-.rail { display:grid; gap:16px; position:sticky; top:16px; }
-.card { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:16px; margin-bottom:12px; }
-.card-head { display:flex; gap:12px; align-items:flex-start; justify-content:space-between; }
-.card-title { font-size:16px; font-weight:600; line-height:1.45; }
-.score { flex:none; background:var(--accent-soft); color:var(--accent); border-radius:999px;
-  padding:2px 10px; font-size:13px; font-weight:600; }
-.meta { display:flex; flex-wrap:wrap; gap:10px; color:var(--muted); font-size:12px; margin:8px 0; }
-.cat { background:#f3f4f6; border-radius:6px; padding:1px 8px; }
-.summary { margin:8px 0; color:#374151; }
-.why { margin:6px 0 10px; color:var(--muted); font-size:13px; }
-.tags { display:flex; flex-wrap:wrap; gap:6px; }
-.tag { background:#f3f4f6; color:#4b5563; border-radius:6px; padding:1px 8px; font-size:12px; }
-.multi { margin-top:10px; font-size:13px; }
-.multi summary { cursor:pointer; color:var(--accent); }
-.multi ul { margin:8px 0 0; padding-left:18px; }
-.muted { color:var(--muted); }
-.rowlist { list-style:none; margin:0; padding:0; font-size:13px; }
-.rowlist li { display:flex; justify-content:space-between; gap:10px; padding:3px 0; }
-.day { margin:22px 0 10px; font-size:13px; color:var(--muted); font-weight:600; }
-.bad { color:#b91c1c; }
-.empty { background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:18px;
-  color:var(--muted); }
-</style>
-</head>
-<body>
-<div class="wrap">
-  <div class="top">
-    <div>
-      <p class="kicker">Frontier Radar</p>
-      <h1>前沿大模型技术追踪</h1>
-      <p class="lede">每天抓取数百条候选，按信源质量、时效、技术增量与多源交叉打分，压到 20 条以内。</p>
-    </div>
-    <div>
-      <a class="btn primary" id="postLink" href="#">今日博客</a>
-      <a class="btn" href="../index.html">返回主页</a>
-    </div>
-  </div>
+<html lang="zh-CN" data-radar-view="mobile">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI News Radar｜24 小时 AI 更新雷达</title>
+    <meta
+      name="description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <link rel="canonical" href="https://rui-kong.github.io/blog/" />
+    <meta property="og:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <meta
+      property="og:description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://rui-kong.github.io/blog/" />
+    <meta property="og:site_name" content="AI News Radar" />
+    <meta property="og:image" content="https://rui-kong.github.io/blog/assets/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="AI News Radar 24 小时 AI 更新雷达" />
+    <meta name="application-name" content="AI News Radar" />
+    <meta name="theme-color" content="#f6f6f2" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="AI News Radar" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="AI News Radar｜24 小时 AI 更新雷达" />
+    <meta
+      name="twitter:description"
+      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
+    />
+    <meta name="twitter:image" content="https://rui-kong.github.io/blog/assets/og.png" />
+    <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
+    <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
+    <link rel="manifest" href="./site.webmanifest" />
+    <script src="./assets/view-mode.js?v=dual-view-0713c" data-root="./"></script>
+    <link rel="stylesheet" href="./assets/styles.css?v=aihot-0715b" />
+    <link rel="stylesheet" href="./assets/view-switch.css?v=dual-view-0713b" />
+  </head>
+  <body>
+    <a class="skip-link" href="#hotBoardWrap">跳到当前热点</a>
+    <main class="shell">
+      <header class="hero">
+        <div class="hero-main">
+          <div class="hero-headline">
+            <img class="hero-logo" src="./assets/logo.svg" alt="AI News Radar Logo" />
+            <div>
+              <h1>AI News Radar</h1>
+              <div class="hero-updated hero-view-row">
+                <span class="updated-label">更新时间</span>
+                <span class="updated" id="updatedAt">加载中...</span>
+                <div class="view-switch" role="group" aria-label="视角切换">
+                  <span class="view-switch-label">视角</span>
+                  <button class="view-switch-btn" type="button" data-radar-view-target="mobile">手机版</button>
+                  <button class="view-switch-btn" type="button" data-radar-view-target="classic">经典版</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="hero-meta">
+          <span class="source-status-pill" id="sourceStatusPill">源状态加载中</span>
+          <div class="hero-links" aria-label="项目入口">
+            <a
+              class="hero-link"
+              href="https://github.com/LearnPrompt/ai-news-radar"
+              target="_blank"
+              rel="noopener noreferrer"
+            >GitHub 与接入指南</a>
+            <a
+              class="hero-link"
+              href="https://aimap.carlwow.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >AI MAP 热点图谱</a>
+            <a
+              class="hero-link"
+              href="https://goodcase.carlwow.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >GoodCase 用例库</a>
+          </div>
+        </div>
 
-  <div class="tabs" id="tabs"></div>
+        <section class="section-nav-wrap" aria-label="内容栏目">
+          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
+          <div class="section-scroll-hint" aria-hidden="true">左右滑动，查看更多栏目 →</div>
+        </section>
+      </header>
 
-  <div class="controls">
-    <div class="seg" id="viewSeg">
-      <button data-view="brief" class="on">精选</button>
-      <button data-view="all">全量</button>
-    </div>
-    <label>日期 <select id="dateSelect"></select></label>
-    <label>主题 <select id="topicSelect"></select></label>
-    <label>来源 <select id="sourceSelect"></select></label>
-    <label><input type="checkbox" id="highOnly" checked> 只看高分</label>
-    <label>最低分 <input type="range" id="minScore" min="0" max="100" step="1" value="60" style="width:150px"></label>
-    <span class="muted" id="minScoreValue">60</span>
-    <label>搜索 <input type="search" id="keyword" placeholder="标题或摘要"></label>
-  </div>
+      <section class="primary-controls">
+        <div class="mode-switch curation-mode-switch" role="group" aria-label="精选/全量切换">
+          <button id="modeSelectedBtn" class="mode-btn active" type="button" aria-pressed="true">
+            <span class="mode-btn-icon" aria-hidden="true">&#10022;</span>精选
+          </button>
+          <button id="modeAllBtn" class="mode-btn" type="button" aria-pressed="false">
+            <span class="mode-btn-icon" aria-hidden="true">&#9776;</span>全量
+          </button>
+        </div>
+        <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" aria-label="搜索 AI 信号或来源" />
+        <div class="mode-hint" id="modeHint">精选加载中</div>
+        <button class="clear-filters-btn" id="clearFiltersBtn" type="button" hidden>清除筛选</button>
+      </section>
 
-  <div class="grid" id="stats"></div>
+      <details class="advanced-panel">
+          <summary>
+            <span>高级筛选</span>
+            <span class="advanced-hint">只看某个来源，或检查各信源采集是否正常</span>
+          </summary>
+          <div class="advanced-content">
+            <div class="advanced-controls">
+              <label class="field">
+                <span>具体来源</span>
+                <select id="siteSelect">
+                  <option value="">全部站点</option>
+                </select>
+              </label>
+            </div>
+            <div class="data-source-indicator" id="dataSourceIndicator" hidden>
+              <span id="dataSourceIndicatorText"></span>
+              <button type="button" id="dataSourceResetBtn" class="data-source-reset-btn">恢复本地</button>
+            </div>
+            <div class="source-health" id="sourceHealth">源状态加载中...</div>
+            <details class="source-detail-panel">
+              <summary>查看源状态详情</summary>
+              <div class="source-health-details" id="sourceHealthDetails"></div>
+              <section class="source-status-table" id="sourceStatusTable" aria-label="源状态详情"></section>
+            </details>
+          </div>
+      </details>
 
-  <div class="layout">
-    <main>
-      <div id="hotBlock"></div>
-      <div id="timeline"></div>
+      <section class="list-wrap hot-board-wrap" id="hotBoardWrap" aria-label="当前热点">
+        <div class="list-head">
+          <h2>当前热点</h2>
+          <span id="hotBoardMeta">按热度排序</span>
+        </div>
+        <div id="hotBoardList" class="hot-board-list"></div>
+      </section>
+
+      <section class="list-wrap top3-board-wrap" id="top3BoardWrap" aria-label="今日 TOP3 · 三口味锐评" hidden>
+        <div class="list-head">
+          <h2>今日 TOP3 · 三口味锐评</h2>
+          <span id="top3BoardMeta"></span>
+        </div>
+        <div id="top3BoardList" class="top3-board-list"></div>
+      </section>
+
+      <section class="waytoagi-wrap">
+        <div class="waytoagi-head">
+          <h2>社区更新 · WaytoAGI</h2>
+          <div class="waytoagi-tools">
+            <div class="waytoagi-switch">
+              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button" aria-pressed="true">最近更新日</button>
+              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button" aria-pressed="false">近7日</button>
+            </div>
+            <span id="waytoagiUpdatedAt">加载中...</span>
+          </div>
+        </div>
+        <div id="waytoagiMeta" class="waytoagi-meta"></div>
+        <div id="waytoagiList" class="waytoagi-list"></div>
+      </section>
+
+      <section class="list-wrap" id="newsListWrap">
+        <div class="list-head">
+          <h2 id="listTitle">精选</h2>
+          <div class="list-head-tools">
+            <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
+              <input id="allDedupeToggle" type="checkbox" checked />
+              <span class="all-dedupe-dot"></span>
+              <span id="allDedupeLabel">去重开</span>
+            </label>
+            <span id="resultCount">0 条</span>
+          </div>
+        </div>
+        <div id="newsList" class="news-list" aria-live="polite"></div>
+      </section>
+
     </main>
-    <aside class="rail">
-      <div class="panel"><h3>信源抓取</h3><ul class="rowlist" id="health"></ul></div>
-      <div class="panel"><h3>栏目分布</h3><ul class="rowlist" id="catDist"></ul></div>
-      <div class="panel"><h3>主题分布</h3><ul class="rowlist" id="topicDist"></ul></div>
-      <div class="panel"><h3>归档</h3><ul class="rowlist" id="archive"></ul></div>
-      <div class="panel"><h3>口径</h3>
-        <ul class="rowlist">
-          <li>原始来源权重高于二手转述</li>
-          <li>同一事件多源报道会合并并加分</li>
-          <li>精选按来源和栏目限流，避免单一信源刷屏</li>
-          <li>全量池保留相关度 0.3 以上的所有条目</li>
-        </ul>
-      </div>
-    </aside>
-  </div>
-</div>
-<script>
-const state = {
-  view: 'brief',
-  category: '全部',
-  topic: '全部',
-  source: '全部',
-  keyword: '',
-  highOnly: true,
-  minScore: 60,
-  date: null,
-  payload: null,
-  archive: [],
-};
 
-const el = (id) => document.getElementById(id);
+    <template id="itemTpl">
+      <article class="news-card">
+        <div class="news-card-body">
+          <div class="meta-row">
+            <span class="curated-badge" hidden>精选</span>
+            <span class="site"></span>
+            <span class="source"></span>
+            <strong class="score-badge" hidden></strong>
+          </div>
+          <a class="title" target="_blank" rel="noopener noreferrer"></a>
+          <p class="news-summary"></p>
+          <div class="why-box" hidden>
+            <span class="why-label">推荐理由：</span>
+            <span class="why-text"></span>
+          </div>
+          <div class="persona-slot"></div>
+        </div>
+      </article>
+    </template>
 
-function esc(value) {
-  return String(value ?? '')
-    .replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;').replaceAll("'", '&#39;');
-}
-
-function uniqueSorted(values) {
-  return Array.from(new Set(values.filter(Boolean))).sort((a, b) => a.localeCompare(b, 'zh-Hans-CN'));
-}
-
-function options(values) {
-  return values.map((value) => `<option value="${esc(value)}">${esc(value)}</option>`).join('');
-}
-
-function rows(entries, limit = 10) {
-  if (!entries || !entries.length) return '<li class="muted">暂无</li>';
-  return entries.slice(0, limit).map((entry) =>
-    `<li><span>${esc(entry.name)}</span><strong>${entry.count}</strong></li>`).join('');
-}
-
-function card(story) {
-  const tags = (story.tags || []).slice(0, 5)
-    .map((tag) => `<span class="tag">${esc(tag)}</span>`).join('');
-  let multi = '';
-  if (story.cluster_size > 1) {
-    const variants = (story.variants || []).map((variant) =>
-      `<li><span class="muted">${esc(variant.source)}</span> ` +
-      `<a href="${esc(variant.url || '#')}" target="_blank" rel="noreferrer">${esc(variant.title)}</a></li>`).join('');
-    multi = `<details class="multi"><summary>多源 ${story.cluster_size}</summary><ul>${variants}</ul></details>`;
-  }
-  const when = (story.published_at || '').slice(0, 16).replace('T', ' ');
-  return `
-    <article class="card">
-      <div class="card-head">
-        <a class="card-title" href="${esc(story.url || '#')}" target="_blank" rel="noreferrer">${esc(story.title)}</a>
-        <span class="score">${Number(story.score).toFixed(1)}</span>
-      </div>
-      <div class="meta">
-        <span class="cat">${esc(story.category)}</span>
-        <span>${esc(story.source)}</span>
-        <span>${esc(story.topic)}</span>
-        <span>${esc(when)}</span>
-        <span>相关度 ${Number(story.ai_score).toFixed(2)}</span>
-      </div>
-      <p class="summary">${esc((story.summary || '').slice(0, 280))}</p>
-      <p class="why">为什么值得看：${esc(story.why || '')}</p>
-      <div class="tags">${tags}</div>
-      ${multi}
-    </article>`;
-}
-
-function matches(story) {
-  if (state.category !== '全部' && story.category !== state.category) return false;
-  if (state.topic !== '全部' && story.topic !== state.topic) return false;
-  if (state.source !== '全部'
-      && story.source !== state.source
-      && !(story.sources || []).includes(state.source)) return false;
-  if (state.highOnly && story.score < state.minScore) return false;
-  if (state.keyword) {
-    const haystack = `${story.title} ${story.summary} ${(story.tags || []).join(' ')}`.toLowerCase();
-    if (!haystack.includes(state.keyword.toLowerCase())) return false;
-  }
-  return true;
-}
-
-function currentList() {
-  const payload = state.payload || {};
-  const pool = state.view === 'brief' ? (payload.brief || []) : (payload.all || []);
-  return pool.filter(matches);
-}
-
-function groupByDate(stories) {
-  const groups = new Map();
-  stories.forEach((story) => {
-    const key = story.date || '未知时间';
-    if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push(story);
-  });
-  return Array.from(groups.entries()).sort((a, b) => b[0].localeCompare(a[0]));
-}
-
-function renderStats(count) {
-  const meta = (state.payload && state.payload.meta) || {};
-  el('stats').innerHTML = [
-    ['原始候选', meta.candidate_count || 0],
-    ['合并事件', meta.story_count || 0],
-    ['精选', meta.brief_count || 0],
-    ['强相关', meta.strong_count || 0],
-    ['当前列表', count],
-  ].map(([k, v]) => `<div class="stat"><div class="k">${esc(k)}</div><div class="v">${v}</div></div>`).join('');
-}
-
-function renderHot() {
-  const hot = ((state.payload && state.payload.hot) || []).filter(matches).slice(0, 5);
-  el('hotBlock').innerHTML = hot.length
-    ? `<h2 class="day">当前热点 · 多信源同时报道</h2>${hot.map(card).join('')}`
-    : '';
-}
-
-function renderTimeline() {
-  const stories = currentList();
-  renderStats(stories.length);
-  renderHot();
-  if (!stories.length) {
-    el('timeline').innerHTML = '<div class="empty">没有匹配的条目，试着切到全量或放宽筛选条件。</div>';
-    return;
-  }
-  el('timeline').innerHTML = groupByDate(stories)
-    .map(([date, items]) => `<h2 class="day">${esc(date)} · ${items.length} 条</h2>${items.map(card).join('')}`)
-    .join('');
-}
-
-function renderRail() {
-  const payload = state.payload || {};
-  el('catDist').innerHTML = rows(payload.categories, 8);
-  el('topicDist').innerHTML = rows(payload.topics, 8);
-  el('health').innerHTML = (payload.source_status || []).slice(0, 16).map((entry) =>
-    `<li><span class="${entry.ok ? '' : 'bad'}">${esc(entry.name)}</span>` +
-    `<strong>${entry.ok ? entry.fetched : '失败'}</strong></li>`).join('') || '<li class="muted">暂无</li>';
-  el('archive').innerHTML = state.archive.slice(0, 12).map((entry) =>
-    `<li><a href="./posts/${esc(entry.date)}.html">${esc(entry.date)}</a>` +
-    `<span class="muted">${entry.brief_count}/${entry.story_count}</span></li>`).join('')
-    || '<li class="muted">暂无归档</li>';
-}
-
-function renderTabs() {
-  const payload = state.payload || {};
-  const present = uniqueSorted((payload.all || []).map((story) => story.category));
-  const tabs = ['全部', ...present];
-  el('tabs').innerHTML = tabs.map((name) =>
-    `<button class="tab ${name === state.category ? 'on' : ''}" data-cat="${esc(name)}">${esc(name)}</button>`).join('');
-  el('tabs').querySelectorAll('[data-cat]').forEach((button) => {
-    button.addEventListener('click', () => {
-      state.category = button.dataset.cat;
-      renderTabs();
-      renderTimeline();
-    });
-  });
-}
-
-function renderFilters() {
-  const payload = state.payload || {};
-  const pool = payload.all || [];
-  el('topicSelect').innerHTML = options(['全部', ...uniqueSorted(pool.map((s) => s.topic))]);
-  el('sourceSelect').innerHTML = options(['全部', ...uniqueSorted(pool.flatMap((s) => s.sources || [s.source]))]);
-  el('topicSelect').value = state.topic;
-  el('sourceSelect').value = state.source;
-}
-
-async function loadDate(date) {
-  const response = await fetch(`./data/daily/${date}.json`, { cache: 'no-store' });
-  if (!response.ok) throw new Error(`无法加载 ${date} 的数据`);
-  state.payload = await response.json();
-  state.date = date;
-  el('postLink').href = `./posts/${date}.html`;
-  const threshold = (state.payload.meta && state.payload.meta.threshold) || 60;
-  state.minScore = Math.round(threshold);
-  el('minScore').value = String(state.minScore);
-  el('minScoreValue').textContent = String(state.minScore);
-  state.topic = '全部';
-  state.source = '全部';
-  renderTabs();
-  renderFilters();
-  renderRail();
-  renderTimeline();
-}
-
-function bindControls() {
-  el('viewSeg').querySelectorAll('button').forEach((button) => {
-    button.addEventListener('click', () => {
-      el('viewSeg').querySelectorAll('button').forEach((b) => b.classList.remove('on'));
-      button.classList.add('on');
-      state.view = button.dataset.view;
-      renderTimeline();
-    });
-  });
-  el('dateSelect').addEventListener('change', () => loadDate(el('dateSelect').value).catch(showError));
-  el('topicSelect').addEventListener('change', () => { state.topic = el('topicSelect').value; renderTimeline(); });
-  el('sourceSelect').addEventListener('change', () => { state.source = el('sourceSelect').value; renderTimeline(); });
-  el('highOnly').addEventListener('change', () => { state.highOnly = el('highOnly').checked; renderTimeline(); });
-  el('minScore').addEventListener('input', () => {
-    state.minScore = Number(el('minScore').value);
-    el('minScoreValue').textContent = String(state.minScore);
-    renderTimeline();
-  });
-  el('keyword').addEventListener('input', () => { state.keyword = el('keyword').value.trim(); renderTimeline(); });
-}
-
-function showError(error) {
-  el('timeline').innerHTML = `<div class="empty">${esc(error.message)}</div>`;
-}
-
-async function init() {
-  bindControls();
-  try {
-    const response = await fetch('./data/index.json', { cache: 'no-store' });
-    const manifest = response.ok ? await response.json() : { archive: [] };
-    state.archive = manifest.archive || [];
-    const dates = state.archive.map((entry) => entry.date);
-    if (!dates.length) throw new Error('还没有生成数据，请先运行 scripts/frontier_tracker.py');
-    el('dateSelect').innerHTML = options(dates);
-    el('dateSelect').value = dates[0];
-    await loadDate(dates[0]);
-  } catch (error) {
-    showError(error);
-  }
-}
-
-init();
-</script>
-</body>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js" integrity="sha384-HOvlOYPIs/zjoIkWUGXkVmXsjr8GuZLV+Q+rcPwmJOVZVpvTSXQChiN4t9Euv9Vc" crossorigin="anonymous" defer></script>
+    <script src="./assets/motion.js?v=aihot-0715b" defer></script>
+    <script src="./assets/app.js?v=aihot-0715b" defer></script>
+  </body>
 </html>
