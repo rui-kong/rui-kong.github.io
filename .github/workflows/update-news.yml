@@ -77,16 +77,16 @@ jobs:
       - name: Generate RSS feed
         run: python scripts/generate_feed.py --data-dir data
 
-      # Custom step (not upstream): fold this run's brief + archive into the
-      # per-date history that blog/history/ browses. Incremental and additive —
+      # Custom step (not upstream): snapshot this run into blog/data/history/<date>/
+      # so the main page's date picker can browse it with the same UI. Additive —
       # it never drops days mined out of the upstream git history.
       - name: Update date history
         working-directory: .
         run: |
           python3 tools/build_history.py \
-            --archive blog/data/archive.json \
-            --live-brief blog/data/daily-brief.json \
-            --out blog/data/history
+            --live-data blog/data \
+            --out blog/data/history \
+            --days 0
 
       - name: Commit and push changes
         working-directory: .

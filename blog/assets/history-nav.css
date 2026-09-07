@@ -1,0 +1,33 @@
+/* 历史归档切换（本仓库新增，非上游文件）。复用上游 .view-switch 的外形，只补下拉框与归档提示条。 */
+.history-switch .history-select {
+  border: 1px solid var(--line, rgba(0, 0, 0, 0.12));
+  background: var(--panel, #fff);
+  color: inherit;
+  border-radius: 999px;
+  padding: 3px 10px;
+  font: inherit;
+  font-size: 12px;
+  max-width: 15em;
+  cursor: pointer;
+}
+
+.history-switch .history-select:hover {
+  border-color: currentColor;
+}
+
+/* 正在看历史归档时，页面顶部留一条明显提示，避免误当成实时数据。 */
+html[data-radar-archive] body::before {
+  content: "正在查看 " attr(data-radar-archive) " 的历史归档 · 非实时数据";
+  display: block;
+  padding: 6px 12px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.5;
+  background: #fff4e5;
+  color: #8a4b00;
+  border-bottom: 1px solid #f0d0a0;
+}
+
+html[data-radar-archive] body::before {
+  content: "正在查看历史归档 · 非实时数据";
+}

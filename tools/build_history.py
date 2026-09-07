@@ -1,19 +1,30 @@
 #!/usr/bin/env python3
-"""Build per-date history snapshots for the vendored AI News Radar.
+"""Build per-date data directories so the main radar page can browse history.
 
-Two input sources:
+The upstream front end funnels every data read through one helper::
 
-1. ``blog/data/archive.json`` — the rolling archive the upstream pipeline keeps
-   (about three weeks). Items carry ``first_seen_at`` / ``last_seen_at``, so they
-   can be regrouped by the day the radar saw them.
-2. ``--brief-dir`` — optional directory of historical ``daily-brief.json``
-   snapshots mined out of the upstream git history by ``tools/mine_upstream_briefs.py``.
-   These give the real curated 20 items per past day, which ``archive.json``
-   cannot reconstruct on its own.
+    function dataUrl(path) { ... return `${base}/${basename(path)}`; }
 
-Output (served as static files, no backend):
-  blog/data/history/<date>.json   one file per day
-  blog/data/history/index.json    manifest consumed by blog/history/index.html
+where ``base`` comes from ``?data=`` or ``localStorage.dataBaseUrl``. So if a
+directory holds the same filenames as ``blog/data/``, the whole upstream UI —
+category tabs, 精选/全量 toggle, 多源 folding, search — works on that snapshot
+with no code changes. This script produces those directories:
+
+    blog/data/history/<date>/daily-brief.json
+                             stories-merged.json
+                             latest-24h.json
+                             latest-24h-all.json
+                             source-status.json      (stub)
+                             top3-personas.json      (stub)
+                             waytoagi-7d.json        (stub)
+    blog/data/history/index.json    date manifest for the picker
+
+Inputs are snapshots mined out of the upstream git history by
+``tools/mine_upstream_briefs.py``, plus today's live files under ``blog/data/``.
+
+Payloads are compacted: fields the front end never reads are dropped, duplicate
+arrays are removed (``items_ai`` shadows ``items``), and per-day item counts are
+capped. Without this a single day costs ~1.4 MB.
 """
 
 from __future__ import annotations
@@ -21,269 +32,356 @@ from __future__ import annotations
 import argparse
 import json
 import re
-from collections import defaultdict
+import shutil
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 REPO = Path(__file__).resolve().parents[1]
 DATE_RE = re.compile(r"\d{4}-\d{2}-\d{2}")
-
+STUB_FILES = ("source-status.json", "top3-personas.json", "waytoagi-7d.json")
 
 def load_json(path: Path) -> Any:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
-def write_json(path: Path, payload: Any) -> None:
+def write_json(path: Path, payload: Any) -> int:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    blob = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
+    path.write_text(blob, encoding="utf-8")
+    return len(blob.encode("utf-8"))
 
 
-def day_of(item: Dict[str, Any]) -> Optional[str]:
-    """The day the radar observed the item, falling back to its publish date."""
-    for field in ("first_seen_at", "last_seen_at", "published_at", "time"):
-        value = item.get(field)
-        if isinstance(value, str) and DATE_RE.match(value[:10]):
-            return value[:10]
-    return None
-
-
-def normalize(item: Dict[str, Any]) -> Dict[str, Any]:
-    return {
-        "id": item.get("id") or item.get("url"),
-        "title": item.get("title") or "",
-        "url": item.get("url"),
-        "source": item.get("source") or item.get("site_name") or "",
-        "site_id": item.get("site_id") or "",
-        "published_at": item.get("published_at"),
-        "first_seen_at": item.get("first_seen_at"),
-        "score": item.get("score"),
-        "topic": item.get("topic") or item.get("category"),
-        "reason": item.get("reason") or item.get("why") or item.get("recommend_reason"),
-        "summary": item.get("summary") or item.get("desc") or "",
-    }
-
-
-def collect_archive(archive_path: Path) -> Dict[str, List[Dict[str, Any]]]:
-    payload = load_json(archive_path)
-    items = payload.get("items", payload) if isinstance(payload, dict) else payload
-    buckets: Dict[str, List[Dict[str, Any]]] = defaultdict(list)
-    for item in items:
-        day = day_of(item)
-        if day:
-            buckets[day].append(normalize(item))
-    return buckets
-
-def normalize_brief(item: Dict[str, Any]) -> Dict[str, Any]:
-    """Keep the fields the upstream daily-brief carries per story."""
-    reasons = item.get("reasons")
-    if isinstance(reasons, list):
-        reason_text = "；".join(str(r) for r in reasons if r)
-    else:
-        reason_text = str(reasons or "")
-    persona = item.get("persona_review")
-    if isinstance(persona, dict):
-        persona = persona.get("text") or persona.get("review") or ""
-    return {
-        "id": item.get("story_id") or item.get("url"),
-        "title": item.get("title") or "",
-        "url": item.get("url") or item.get("primary_url"),
-        "source": item.get("source_name") or item.get("source") or "",
-        "source_names": item.get("source_names") or [],
-        "source_count": item.get("source_count") or 1,
-        "duplicate_count": item.get("duplicate_count") or 0,
-        "category": item.get("category"),
-        "topic": item.get("category"),
-        "score": round(float(item["score"]), 3) if isinstance(item.get("score"), (int, float)) else item.get("score"),
-        "importance": item.get("importance_label") or item.get("importance"),
-        "published_at": item.get("latest_at") or item.get("earliest_at"),
-        "first_seen_at": item.get("earliest_at"),
-        "reason": reason_text,
-        "persona_review": persona or "",
-        "persona_id": item.get("persona_id"),
-        "summary": "",
-    }
-
-
-def brief_items(payload: Any) -> List[Dict[str, Any]]:
+def day_of_snapshot(path: Path, payload: Any) -> Optional[str]:
+    """Snapshot day: prefer the payload's own generated_at, fall back to filename."""
     if isinstance(payload, dict):
-        return payload.get("items") or []
-    return payload if isinstance(payload, list) else []
+        generated = payload.get("generated_at")
+        if isinstance(generated, str) and DATE_RE.match(generated[:10]):
+            return generated[:10]
+    return path.name[:10] if DATE_RE.match(path.name[:10]) else None
 
 
-def collect_briefs(brief_dir: Optional[Path]) -> Dict[str, Dict[str, Any]]:
-    """Group mined daily-brief snapshots by day.
-
-    Each day keeps the last snapshot of that day (the real end-of-day curation)
-    plus the deduplicated union of every snapshot taken during the day.
-    """
-    if not brief_dir or not brief_dir.exists():
+def latest_per_day(directory: Optional[Path]) -> Dict[str, Path]:
+    """Map date -> newest snapshot file for that date."""
+    if not directory or not directory.exists():
         return {}
-    by_day: Dict[str, Dict[str, Any]] = {}
-    for path in sorted(brief_dir.glob("*.json")):
+    chosen: Dict[str, Path] = {}
+    for path in sorted(directory.glob("*.json")):
+        day = path.name[:10]
+        if DATE_RE.fullmatch(day):
+            chosen[day] = path  # sorted ascending, so the last wins
+    return chosen
+
+
+def all_per_day(directory: Optional[Path]) -> Dict[str, List[Path]]:
+    grouped: Dict[str, List[Path]] = {}
+    if not directory or not directory.exists():
+        return grouped
+    for path in sorted(directory.glob("*.json")):
+        day = path.name[:10]
+        if DATE_RE.fullmatch(day):
+            grouped.setdefault(day, []).append(path)
+    return grouped
+
+# Item fields the upstream front end actually reads (see assets/app.js). Anything
+# else — scoring internals, raw signal dumps, translation caches — is dropped:
+# keeping them makes a single archived day cost megabytes.
+ITEM_KEEP = (
+    "id", "url", "primary_url", "title", "title_zh", "title_en", "title_enhanced_zh",
+    "title_original", "source", "source_name", "site_id", "site_name", "source_tier",
+    "source_tier_rank", "ai_label", "ai_score", "ai_is_related", "published_at",
+    "first_seen_at", "last_seen_at", "type", "recommend_reason_zh", "aihot_score",
+)
+
+
+def trim_item(item: Any) -> Any:
+    if not isinstance(item, dict):
+        return item
+    out = {key: item[key] for key in ITEM_KEEP if key in item}
+    signals = item.get("ai_signals")
+    if isinstance(signals, list) and signals:
+        out["ai_signals"] = signals[:3]
+    return out
+
+
+def compact_story(story: Dict[str, Any], max_sources: int) -> Dict[str, Any]:
+    """Keep every field the UI reads; drop the duplicate items array and scoring internals."""
+    out = {key: value for key, value in story.items()
+           if key not in ("items", "importance_breakdown", "sources", "primary_item")}
+    sources = story.get("sources") or story.get("items") or []
+    out["sources"] = [trim_item(src) for src in sources[:max_sources]]
+    if story.get("primary_item"):
+        out["primary_item"] = trim_item(story["primary_item"])
+    return out
+
+
+def compact_stories_payload(payload: Dict[str, Any], cap: int, max_sources: int) -> Dict[str, Any]:
+    stories = payload.get("stories") or []
+    stories = sorted(stories, key=lambda s: s.get("score") or 0, reverse=True)[:cap]
+    out = dict(payload)
+    out["stories"] = [compact_story(story, max_sources) for story in stories]
+    out["total_stories"] = len(out["stories"])
+    return out
+
+
+def compact_news_payload(payload: Dict[str, Any], cap: int) -> Dict[str, Any]:
+    """latest-24h.json: the UI reads items_ai (falling back to items) and
+    creator_items_all (falling back to creator_items_ai), so the duplicates go."""
+    items = payload.get("items_ai") or payload.get("items") or []
+    out = {key: value for key, value in payload.items()
+           if key not in ("items", "items_ai", "creator_items_all")}
+    out["items_ai"] = [trim_item(item) for item in items[:cap]]
+    out["creator_items_ai"] = [trim_item(item) for item in (payload.get("creator_items_ai") or [])[:cap]]
+    out["all_mode_data_url"] = "data/latest-24h-all.json"
+    out["stories_data_url"] = "data/stories-merged.json"
+    return out
+
+
+def compact_all_payload(payload: Dict[str, Any], cap: int) -> Dict[str, Any]:
+    """latest-24h-all.json: items_all_raw falls back to items_all in the UI."""
+    items_all = payload.get("items_all") or payload.get("items_all_raw") or []
+    out = {key: value for key, value in payload.items()
+           if key not in ("items_all", "items_all_raw")}
+    out["items_all"] = [trim_item(item) for item in items_all[:cap]]
+    return out
+
+
+def synth_all_from_news(news: Dict[str, Any], cap: int) -> Dict[str, Any]:
+    """Fallback 全量 pool for days whose latest-24h-all.json was never committed."""
+    items = (news.get("items_ai") or [])[:cap]
+    return {
+        "generated_at": news.get("generated_at"),
+        "window_hours": news.get("window_hours"),
+        "topic_filter": news.get("topic_filter"),
+        "total_items_raw": len(items),
+        "total_items_all_mode": len(items),
+        "items_all": items,
+        "synthesized_from": "latest-24h.json",
+    }
+
+def merge_brief_snapshots(paths: List[Path]) -> Dict[str, Any]:
+    """Last snapshot of the day is the day's final curation; also union all of them."""
+    last: Dict[str, Any] = {}
+    union: Dict[str, Any] = {}
+    count = 0
+    for path in paths:
         try:
             payload = load_json(path)
         except json.JSONDecodeError:
             continue
-        generated = payload.get("generated_at") if isinstance(payload, dict) else None
-        day = (generated or path.name)[:10]
-        if not DATE_RE.fullmatch(day):
+        items = payload.get("items") or []
+        if not items:
             continue
-        items = [normalize_brief(item) for item in brief_items(payload)]
-        entry = by_day.setdefault(day, {"snapshots": 0, "last": [], "union": {}, "generated_at": generated})
-        entry["snapshots"] += 1
-        entry["last"] = items
-        entry["generated_at"] = generated or entry["generated_at"]
+        count += 1
+        last = payload
         for item in items:
-            key = item.get("url") or item.get("id") or item.get("title")
-            if key and key not in entry["union"]:
-                entry["union"][key] = item
-    return by_day
-
-def fold_live_brief(path: Optional[Path], by_day: Dict[str, Dict[str, Any]]) -> None:
-    """Treat the current daily-brief.json as one more snapshot of its own day."""
-    if not path or not path.exists():
-        return
-    try:
-        payload = load_json(path)
-    except json.JSONDecodeError:
-        return
-    generated = payload.get("generated_at") if isinstance(payload, dict) else None
-    day = (generated or "")[:10]
-    if not DATE_RE.fullmatch(day):
-        return
-    items = [normalize_brief(item) for item in brief_items(payload)]
-    if not items:
-        return
-    entry = by_day.setdefault(day, {"snapshots": 0, "last": [], "union": {}, "generated_at": generated})
-    entry["snapshots"] += 1
-    entry["last"] = items
-    entry["generated_at"] = generated or entry["generated_at"]
-    for item in items:
-        key = item.get("url") or item.get("id") or item.get("title")
-        if key and key not in entry["union"]:
-            entry["union"][key] = item
-
-
-def merge_with_existing(path: Path, fresh: Dict[str, Any]) -> Dict[str, Any]:
-    """Never lose data already on disk.
-
-    ``brief`` is replaced only by a newer non-empty curation, ``brief_union`` is
-    unioned, and ``items`` keep the richer of the two lists.
-    """
-    if not path.exists():
-        return fresh
-    try:
-        old = load_json(path)
-    except json.JSONDecodeError:
-        return fresh
-
-    merged = dict(old)
-    merged["date"] = fresh["date"]
-    if fresh.get("brief"):
-        merged["brief"] = fresh["brief"]
-        merged["generated_at"] = fresh.get("generated_at") or old.get("generated_at")
-    merged.setdefault("brief", [])
-    merged["brief_snapshots"] = max(old.get("brief_snapshots") or 0, fresh.get("brief_snapshots") or 0)
-
-    union: Dict[str, Any] = {}
-    for item in (old.get("brief_union") or []) + (fresh.get("brief_union") or []):
-        key = item.get("url") or item.get("id") or item.get("title")
-        if key and key not in union:
-            union[key] = item
-    merged["brief_union"] = list(union.values())
-
-    old_items = old.get("items") or []
-    merged["items"] = fresh["items"] if len(fresh.get("items") or []) >= len(old_items) else old_items
+            key = item.get("url") or item.get("primary_url") or item.get("story_id") or item.get("title")
+            if key and key not in union:
+                union[key] = item
+    if not last:
+        return {}
+    merged = dict(last)
+    merged["snapshot_count"] = count
+    merged["union_items"] = list(union.values())
     return merged
 
 
-def source_counts(items: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    counts: Dict[str, int] = defaultdict(int)
-    for item in items:
-        counts[item.get("source") or "未知"] += 1
-    ranked = sorted(counts.items(), key=lambda pair: pair[1], reverse=True)
-    return [{"name": name, "count": count} for name, count in ranked[:12]]
+def stub_payloads(date: str) -> Dict[str, Any]:
+    """Minimal files so the UI's optional fetches resolve instead of erroring."""
+    return {
+        "source-status.json": {"generated_at": f"{date}T00:00:00Z", "sites": [],
+                               "note": "历史归档不含当日源健康明细"},
+        "top3-personas.json": {"generated_at": f"{date}T00:00:00Z", "items": []},
+        "waytoagi-7d.json": {"generated_at": f"{date}T00:00:00Z", "updates_today": [],
+                             "updates_7d": [], "count_today": 0, "count_7d": 0,
+                             "has_error": False, "error": None},
+    }
 
+def build_day(date: str, out_dir: Path, brief: Dict[str, Any],
+              stories_path: Optional[Path], news_path: Optional[Path],
+              all_path: Optional[Path], args: argparse.Namespace) -> Optional[Dict[str, Any]]:
+    day_dir = out_dir / date
+    written = 0
+    entry = {"date": date, "brief_count": 0, "brief_union_count": 0,
+             "story_count": 0, "item_count": 0, "brief_snapshots": 0, "bytes": 0}
+
+    if brief:
+        payload = dict(brief)
+        payload["items"] = [compact_story(s, args.max_sources)
+                            for s in (brief.get("items") or [])[: args.brief_cap]]
+        # union_items was only used by the standalone archive page; the upstream UI
+        # ignores it and it cost ~150 KB per archived day, so it is not written.
+        payload.pop("union_items", None)
+        payload["total_items"] = len(payload["items"])
+        written += write_json(day_dir / "daily-brief.json", payload)
+        entry["brief_count"] = len(payload["items"])
+        entry["brief_union_count"] = len(brief.get("union_items") or [])
+        entry["brief_snapshots"] = brief.get("snapshot_count", 0)
+
+    news_payload: Optional[Dict[str, Any]] = None
+    if stories_path:
+        stories = compact_stories_payload(load_json(stories_path), args.story_cap, args.max_sources)
+        written += write_json(day_dir / "stories-merged.json", stories)
+        entry["story_count"] = len(stories.get("stories") or [])
+    if news_path:
+        news_payload = compact_news_payload(load_json(news_path), args.item_cap)
+        written += write_json(day_dir / "latest-24h.json", news_payload)
+        entry["item_count"] = len(news_payload.get("items_ai") or [])
+    if all_path:
+        written += write_json(day_dir / "latest-24h-all.json",
+                              compact_all_payload(load_json(all_path), args.all_cap))
+    elif news_payload is not None:
+        written += write_json(day_dir / "latest-24h-all.json",
+                              synth_all_from_news(news_payload, args.all_cap))
+
+    # latest-24h.json is the only hard requirement of the upstream boot sequence.
+    if not (day_dir / "latest-24h.json").exists():
+        if not brief:
+            if day_dir.exists():
+                shutil.rmtree(day_dir)
+            return None
+        fallback = {
+            "generated_at": brief.get("generated_at") or f"{date}T00:00:00Z",
+            "window_hours": brief.get("window_hours") or 24,
+            "total_items": 0,
+            "items_ai": brief.get("union_items") or brief.get("items") or [],
+            "site_stats": [],
+            "creator_items_ai": [],
+            "all_mode_data_url": "data/latest-24h-all.json",
+            "stories_data_url": "data/stories-merged.json",
+            "synthesized_from": "daily-brief.json",
+        }
+        written += write_json(day_dir / "latest-24h.json", fallback)
+        entry["item_count"] = len(fallback["items_ai"])
+        if not (day_dir / "latest-24h-all.json").exists():
+            written += write_json(day_dir / "latest-24h-all.json",
+                                  synth_all_from_news(fallback, args.all_cap))
+
+    for name, payload in stub_payloads(date).items():
+        if not (day_dir / name).exists():
+            written += write_json(day_dir / name, payload)
+
+    entry["bytes"] = written
+    return entry
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description=__doc__,
+                                     formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument("--out", type=Path, default=REPO / "blog/data/history")
+    parser.add_argument("--live-data", type=Path, default=REPO / "blog/data",
+                        help="today's live data directory, folded in as the newest day")
+    parser.add_argument("--brief-dir", type=Path, default=None,
+                        help="mined data/daily-brief.json snapshots (all commits)")
+    parser.add_argument("--stories-dir", type=Path, default=None,
+                        help="mined data/stories-merged.json snapshots (one per day)")
+    parser.add_argument("--news-dir", type=Path, default=None,
+                        help="mined data/latest-24h.json snapshots (one per day)")
+    parser.add_argument("--all-dir", type=Path, default=None,
+                        help="mined data/latest-24h-all.json snapshots (one per day)")
+    parser.add_argument("--days", type=int, default=90,
+                        help="only build the newest N days (0 = all available)")
+    parser.add_argument("--story-cap", type=int, default=150)
+    parser.add_argument("--item-cap", type=int, default=300)
+    parser.add_argument("--all-cap", type=int, default=500)
+    parser.add_argument("--brief-cap", type=int, default=20)
+    parser.add_argument("--max-sources", type=int, default=5)
+    return parser.parse_args()
+
+
+def fold_live_day(args: argparse.Namespace, briefs: Dict[str, List[Path]],
+                  stories: Dict[str, Path], news: Dict[str, Path],
+                  alls: Dict[str, Path]) -> Optional[str]:
+    """Treat blog/data/*.json as the snapshot for its own generated_at day."""
+    live = args.live_data
+    brief_file = live / "daily-brief.json"
+    if not brief_file.exists():
+        return None
+    try:
+        payload = load_json(brief_file)
+    except json.JSONDecodeError:
+        return None
+    day = day_of_snapshot(brief_file, payload)
+    if not day:
+        return None
+    briefs.setdefault(day, [])
+    if brief_file not in briefs[day]:
+        briefs[day].append(brief_file)
+    for name, table in (("stories-merged.json", stories), ("latest-24h.json", news),
+                        ("latest-24h-all.json", alls)):
+        candidate = live / name
+        if candidate.exists():
+            table[day] = candidate
+    return day
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--archive", type=Path, default=REPO / "blog/data/archive.json")
-    parser.add_argument("--brief-dir", type=Path, default=None,
-                        help="directory of mined daily-brief snapshots")
-    parser.add_argument("--live-brief", type=Path, default=REPO / "blog/data/daily-brief.json",
-                        help="current daily-brief.json, folded in as one more snapshot")
-    parser.add_argument("--out", type=Path, default=REPO / "blog/data/history")
-    parser.add_argument("--max-items-per-day", type=int, default=1500)
-    parser.add_argument("--min-items", type=int, default=20,
-                        help="drop days with fewer items and no curated brief "
-                             "(feeds with bogus dates create sparse phantom days)")
-    parser.add_argument("--prune", action="store_true",
-                        help="delete day files that no longer qualify. Off by default so "
-                             "that incremental runs never wipe previously mined history.")
-    args = parser.parse_args()
+    args = parse_args()
 
-    archive_days = collect_archive(args.archive) if args.archive.exists() else {}
-    brief_days = collect_briefs(args.brief_dir)
-    fold_live_brief(args.live_brief, brief_days)
+    briefs = all_per_day(args.brief_dir)
+    stories = latest_per_day(args.stories_dir)
+    news = latest_per_day(args.news_dir)
+    alls = latest_per_day(args.all_dir)
+    live_day = fold_live_day(args, briefs, stories, news, alls)
 
-    existing_days = {path.stem for path in args.out.glob("*.json")
-                     if DATE_RE.fullmatch(path.stem)}
-    fresh_days = {day for day in set(archive_days) | set(brief_days)
-                  if brief_days.get(day, {}).get("snapshots")
-                  or len(archive_days.get(day, [])) >= args.min_items}
-    all_days = sorted(fresh_days | existing_days, reverse=True)
+    # Days already on disk stay in the manifest even when this run has no input
+    # for them, so an incremental CI run never drops mined history.
+    existing = {path.name for path in args.out.glob("*") if path.is_dir()
+                and DATE_RE.fullmatch(path.name)}
+    candidates = sorted(set(briefs) | set(stories) | set(news) | set(alls), reverse=True)
+    if args.days:
+        candidates = candidates[: args.days]
 
-    manifest_days = []
-    for day in all_days:
-        brief_entry = brief_days.get(day, {})
-        brief = brief_entry.get("last") or []
-        brief_union = list(brief_entry.get("union", {}).values())
-        items = archive_days.get(day, [])
-        items.sort(key=lambda item: item.get("first_seen_at") or "", reverse=True)
-        items = items[: args.max_items_per_day]
-        payload = merge_with_existing(args.out / f"{day}.json", {
-            "date": day,
-            "generated_at": brief_entry.get("generated_at"),
-            "brief_snapshots": brief_entry.get("snapshots", 0),
-            "brief": brief,
-            "brief_union": brief_union,
-            "items": items,
-        })
-        payload["counts"] = {"brief": len(payload["brief"]),
-                             "brief_union": len(payload["brief_union"]),
-                             "items": len(payload["items"])}
-        payload["sources"] = source_counts(payload["items"] or payload["brief_union"] or payload["brief"])
-        write_json(args.out / f"{day}.json", payload)
-        manifest_days.append({
-            "date": day,
-            "brief_count": payload["counts"]["brief"],
-            "brief_union_count": payload["counts"]["brief_union"],
-            "item_count": payload["counts"]["items"],
-            "brief_snapshots": payload["brief_snapshots"],
-            "url": f"data/history/{day}.json",
-        })
+    entries: Dict[str, Dict[str, Any]] = {}
+    for date in candidates:
+        entry = build_day(date, args.out, merge_brief_snapshots(briefs.get(date, [])),
+                          stories.get(date), news.get(date), alls.get(date), args)
+        if entry:
+            entries[date] = entry
 
+    for date in sorted(existing - set(entries), reverse=True):
+        day_dir = args.out / date
+        if not (day_dir / "latest-24h.json").exists():
+            continue
+        try:
+            brief_payload = load_json(day_dir / "daily-brief.json")
+        except (FileNotFoundError, json.JSONDecodeError):
+            brief_payload = {}
+        try:
+            stories_payload = load_json(day_dir / "stories-merged.json")
+        except (FileNotFoundError, json.JSONDecodeError):
+            stories_payload = {}
+        try:
+            news_payload = load_json(day_dir / "latest-24h.json")
+        except (FileNotFoundError, json.JSONDecodeError):
+            news_payload = {}
+        entries[date] = {
+            "date": date,
+            "brief_count": len(brief_payload.get("items") or []),
+            "brief_union_count": len(brief_payload.get("union_items") or []),
+            "story_count": len(stories_payload.get("stories") or []),
+            "item_count": len(news_payload.get("items_ai") or []),
+            "brief_snapshots": brief_payload.get("snapshot_count", 0),
+            "bytes": sum(f.stat().st_size for f in day_dir.glob("*.json")),
+        }
+
+    days = [entries[date] for date in sorted(entries, reverse=True)]
+    for entry in days:
+        entry["base"] = f"./data/history/{entry['date']}"
     write_json(args.out / "index.json", {
-        "days": manifest_days,
-        "total_days": len(manifest_days),
-        "source": "LearnPrompt/ai-news-radar git history + local archive.json",
+        "generated_at": (days[0]["date"] if days else None),
+        "live_day": live_day,
+        "total_days": len(days),
+        "days": days,
+        "source": "LearnPrompt/ai-news-radar git history + local data/",
     })
 
-    # Only prune when explicitly asked: a normal incremental run sees just the
-    # last three weeks of archive.json, so pruning would delete older mined days.
-    pruned = 0
-    if args.prune:
-        keep = {f"{entry['date']}.json" for entry in manifest_days} | {"index.json"}
-        for stale in args.out.glob("*.json"):
-            if stale.name not in keep:
-                stale.unlink()
-                pruned += 1
-
-    print(json.dumps({"days": len(manifest_days),
-                      "with_brief": sum(1 for d in manifest_days if d["brief_count"]),
-                      "with_items": sum(1 for d in manifest_days if d["item_count"]),
-                      "pruned": pruned,
-                      "out": str(args.out)}, ensure_ascii=False))
+    total_bytes = sum(entry["bytes"] for entry in days)
+    print(json.dumps({
+        "days": len(days),
+        "live_day": live_day,
+        "with_stories": sum(1 for d in days if d["story_count"]),
+        "with_brief": sum(1 for d in days if d["brief_count"]),
+        "total_mb": round(total_bytes / 1024 / 1024, 1),
+        "out": str(args.out),
+    }, ensure_ascii=False))
     return 0
 
 

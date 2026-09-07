@@ -33,8 +33,8 @@ def git(repo: Path, *args: str, binary: bool = False):
     return result.stdout if binary else result.stdout.decode("utf-8", "replace")
 
 
-def commit_list(repo: Path) -> List[Tuple[str, str]]:
-    out = git(repo, "log", "--format=%H %cI", "--", TARGET)
+def commit_list(repo: Path, target: str) -> List[Tuple[str, str]]:
+    out = git(repo, "log", "--format=%H %cI", "--", target)
     rows = []
     for line in out.splitlines():
         parts = line.split()
@@ -43,18 +43,37 @@ def commit_list(repo: Path) -> List[Tuple[str, str]]:
     return rows
 
 
+def keep_last_per_day(commits: List[Tuple[str, str]]) -> List[Tuple[str, str]]:
+    """git log is newest-first, so the first commit seen for a day is its latest."""
+    seen = set()
+    kept = []
+    for sha, when in commits:
+        day = when[:10]
+        if day in seen:
+            continue
+        seen.add(day)
+        kept.append((sha, when))
+    return kept
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--repo", required=True, type=Path)
     parser.add_argument("--out", required=True, type=Path)
     parser.add_argument("--limit", type=int, default=0, help="only mine the newest N commits")
+    parser.add_argument("--target", default=TARGET,
+                        help="repo-relative file to mine, e.g. data/stories-merged.json")
+    parser.add_argument("--one-per-day", action="store_true",
+                        help="only mine the last commit of each day")
     args = parser.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
-    commits = commit_list(args.repo)
+    commits = commit_list(args.repo, args.target)
+    if args.one_per_day:
+        commits = keep_last_per_day(commits)
     if args.limit:
         commits = commits[: args.limit]
-    print(f"commits touching {TARGET}: {len(commits)}", flush=True)
+    print(f"commits touching {args.target}: {len(commits)}", flush=True)
 
     seen_blobs: dict = {}
     ok = failed = cached = 0
@@ -64,7 +83,7 @@ def main() -> int:
             cached += 1
             continue
         try:
-            blob = git(args.repo, "rev-parse", f"{sha}:{TARGET}").strip()
+            blob = git(args.repo, "rev-parse", f"{sha}:{args.target}").strip()
         except subprocess.CalledProcessError:
             failed += 1
             continue
