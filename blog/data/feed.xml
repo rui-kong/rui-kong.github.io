@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 08 Sep 2026 23:25:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 01:13:58 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem</title>
@@ -72,6 +72,14 @@
 <pubDate>Tue, 08 Sep 2026 18:00:10 +0000</pubDate>
 </item>
 <item>
+<title>Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem</title>
+<link>https://simonwillison.net/2026/Sep/8/on-navier-stokes</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/8/on-navier-stokes</guid>
+<description>OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。（Simon Willison 博客）</description>
+<category>行业动态</category>
+<pubDate>Tue, 08 Sep 2026 23:55:12 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法 / https://x.com/i/article/2095208140753317888</title>
 <link>https://x.com/ClaudeDevs/status/2097369738968195513</link>
 <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2097369738968195513</guid>
@@ -96,6 +104,14 @@
 <pubDate>Tue, 08 Sep 2026 17:35:10 +0000</pubDate>
 </item>
 <item>
+<title>10000 个 AI 智能体跑 88 小时，OpenAI 宣布攻克千禧年大奖难题，陶哲轩既点赞又担忧</title>
+<link>https://www.aibase.com/news/30914</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30914</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 09 Sep 2026 01:13:58 +0000</pubDate>
+</item>
+<item>
 <title>Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…</title>
 <link>https://x.com/polynoamial/status/2097375837670785447</link>
 <guid isPermaLink="true">https://x.com/polynoamial/status/2097375837670785447</guid>
@@ -110,6 +126,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 08 Sep 2026 16:46:05 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6 Astra推理等级怎么选才最省Token</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686094&amp;idx=1&amp;sn=c06c40993f7ab28f2302619e4b89986b</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686094&amp;idx=1&amp;sn=c06c40993f7ab28f2302619e4b89986b</guid>
+<description>卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Wed, 09 Sep 2026 00:09:00 +0000</pubDate>
 </item>
 <item>
 <title>数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过</title>
@@ -136,36 +160,12 @@
 <pubDate>Tue, 08 Sep 2026 18:02:46 +0000</pubDate>
 </item>
 <item>
-<title>Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑 / Introducing Runway for Premiere Pro &amp; After Effects</title>
-<link>https://runwayml.com/news/company-news/runway-for-adobe</link>
-<guid isPermaLink="true">https://runwayml.com/news/company-news/runway-for-adobe</guid>
-<description>Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。（Runway：News（网页））</description>
+<title>Meta 智能体产品 Muse 开放体验，官方回应用户好评 / the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…</title>
+<link>https://x.com/alexandr_wang/status/2097472059077202339</link>
+<guid isPermaLink="true">https://x.com/alexandr_wang/status/2097472059077202339</guid>
+<description>Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。（X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)）</description>
 <category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 21:58:07 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本</title>
-<link>https://www.aibase.com/news/30911</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30911</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 11:21:34 +0000</pubDate>
-</item>
-<item>
-<title>The Work Now Within Reach</title>
-<link>https://openai.com/index/the-work-now-within-reach</link>
-<guid isPermaLink="true">https://openai.com/index/the-work-now-within-reach</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686056&amp;idx=1&amp;sn=c1710404c08cf3201da27f4d53f94940</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686056&amp;idx=1&amp;sn=c1710404c08cf3201da27f4d53f94940</guid>
-<description>作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。（公众号：数字生命卡兹克）</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 00:17:23 +0000</pubDate>
+<pubDate>Tue, 08 Sep 2026 23:48:02 +0000</pubDate>
 </item>
 </channel>
 </rss>
