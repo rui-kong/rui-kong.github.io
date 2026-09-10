@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 09 Sep 2026 19:47:36 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 14:58:23 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
-<link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
+<title>Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow</title>
+<link>https://huggingface.co/blog/gradio-workflow-1111</link>
+<guid isPermaLink="true">https://huggingface.co/blog/gradio-workflow-1111</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Enterprise managed permissions for GitHub Copilot agent operations</title>
+<link>https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 09 Sep 2026 20:08:14 +0000</pubDate>
 </item>
 <item>
 <title>Paul Christiano joins OpenAI Foundation Board</title>
@@ -24,12 +32,12 @@
 <pubDate>Wed, 09 Sep 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Advanced Security expands trial availability</title>
-<link>https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 17:33:34 +0000</pubDate>
+<title>DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse</title>
+<link>https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse</link>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse</guid>
+<description>DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。（MarkTechPost（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 07:31:01 +0000</pubDate>
 </item>
 <item>
 <title>Get ready for the game with new football features in Search</title>
@@ -40,20 +48,60 @@
 <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻 / GPT-6 Astra， looped transformers， and hidden reasoning</title>
-<link>https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</link>
-<guid isPermaLink="true">https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and</guid>
-<description>OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Wed, 09 Sep 2026 17:08:36 +0000</pubDate>
+<title>DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents</title>
+<link>https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents</link>
+<guid isPermaLink="true">https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents</guid>
+<description>DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 12:40:51 +0000</pubDate>
 </item>
 <item>
-<title>Block pull requests with exposed secrets from merging</title>
-<link>https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging</guid>
+<title>IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</title>
+<link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 09 Sep 2026 15:36:24 +0000</pubDate>
+</item>
+<item>
+<title>CodeQL 2.27.0 adds support for Linux ARM64</title>
+<link>https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 17:14:02 +0000</pubDate>
+<pubDate>Wed, 09 Sep 2026 21:45:06 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….</title>
+<link>https://x.com/kimmonismus/status/2097962333767102665</link>
+<guid isPermaLink="true">https://x.com/kimmonismus/status/2097962333767102665</guid>
+<description>DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。（X：Kim (@kimmonismus)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 08:16:13 +0000</pubDate>
+</item>
+<item>
+<title>Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录</title>
+<link>https://cognition.com/blog/factoring-rsa-260</link>
+<guid isPermaLink="true">https://cognition.com/blog/factoring-rsa-260</guid>
+<description>Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 10:50:45 +0000</pubDate>
+</item>
+<item>
+<title>275万网友用阿福减重超500万斤:AI或引爆健康消费  体脂秤血糖</title>
+<link>https://www.aibase.com/news/30971</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30971</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 14:58:23 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 发布 V4.1-Flash，API 价格同步下调</title>
+<link>https://api-docs.deepseek.com/zh-cn/updates</link>
+<guid isPermaLink="true">https://api-docs.deepseek.com/zh-cn/updates</guid>
+<description>DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。（DeepSeek：API 更新日志）</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 05:58:04 +0000</pubDate>
 </item>
 <item>
 <title>Recreating a 70-year love story frame by frame</title>
@@ -72,12 +120,28 @@
 <pubDate>Wed, 09 Sep 2026 17:52:41 +0000</pubDate>
 </item>
 <item>
+<title>DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文 / @deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…</title>
+<link>https://x.com/SiliconFlowAI/status/2098054160176545821</link>
+<guid isPermaLink="true">https://x.com/SiliconFlowAI/status/2098054160176545821</guid>
+<description>硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。（X：硅基流动 SiliconFlow (@SiliconFlowAI)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 14:21:06 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查 / We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…</title>
 <link>https://x.com/AnthropicAI/status/2097762642958135398</link>
 <guid isPermaLink="true">https://x.com/AnthropicAI/status/2097762642958135398</guid>
 <description>Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。（X：Anthropic (@AnthropicAI)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 09 Sep 2026 19:02:43 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…</title>
+<link>https://x.com/kimmonismus/status/2097970735591366804</link>
+<guid isPermaLink="true">https://x.com/kimmonismus/status/2097970735591366804</guid>
+<description>DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。（X：Kim (@kimmonismus)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 10 Sep 2026 08:49:36 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告 / An alignment assessment of recent cybersecurity incidents</title>
@@ -88,84 +152,20 @@
 <pubDate>Wed, 09 Sep 2026 19:28:17 +0000</pubDate>
 </item>
 <item>
-<title>Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验 / Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.</title>
-<link>https://mistral.ai/news/legacy-code-modernization</link>
-<guid isPermaLink="true">https://mistral.ai/news/legacy-code-modernization</guid>
-<description>Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。（Mistral AI：News（网页））</description>
-<category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 18:59:11 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs</title>
-<link>https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs</link>
-<guid isPermaLink="true">https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs</guid>
-<description>数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 10:27:37 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future</title>
-<link>https://www.anthropic.com/institute/econ-scenarios</link>
-<guid isPermaLink="true">https://www.anthropic.com/institute/econ-scenarios</guid>
-<description>Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。（Anthropic：The Institute（旗舰研究长文 · 网页））</description>
-<category>多源热议</category>
-<pubDate>Wed, 09 Sep 2026 16:05:40 +0000</pubDate>
-</item>
-<item>
-<title>纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明</title>
-<link>https://www.ithome.com/1/000/353.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/000/353.htm</guid>
-<description>纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 09:34:47 +0000</pubDate>
-</item>
-<item>
-<title>NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…</title>
-<link>https://x.com/thexpin/status/2097615997616406833</link>
-<guid isPermaLink="true">https://x.com/thexpin/status/2097615997616406833</guid>
-<description>NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。（X：X.PIN (@thexpin)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 09:20:00 +0000</pubDate>
-</item>
-<item>
-<title>美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…</title>
-<link>https://x.com/rohanpaul_ai/status/2097605329123147987</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2097605329123147987</guid>
-<description>NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 08:37:36 +0000</pubDate>
-</item>
-<item>
-<title>Remediate Code Quality findings with agentic autofix</title>
-<link>https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 12:21:01 +0000</pubDate>
-</item>
-<item>
-<title>Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） "solved，" so in the wake of t…</title>
-<link>https://x.com/Thom_Wolf/status/2097615465698713666</link>
-<guid isPermaLink="true">https://x.com/Thom_Wolf/status/2097615465698713666</guid>
-<description>Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。（X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 09:17:53 +0000</pubDate>
-</item>
-<item>
-<title>2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界</title>
-<link>https://www.aibase.com/news/30936</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30936</guid>
+<title>AI新经济，在这里看见丨2026外滩大会首日观察</title>
+<link>https://www.aibase.com/news/30972</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30972</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 15:05:51 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 14:58:23 +0000</pubDate>
 </item>
 <item>
-<title>Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / On the Navier-Stokes Millennium Prize Problem</title>
-<link>https://simonwillison.net/2026/Sep/8/on-navier-stokes</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/8/on-navier-stokes</guid>
-<description>OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。（Simon Willison 博客）</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 23:55:12 +0000</pubDate>
+<title>GitHub Advanced Security expands trial availability</title>
+<link>https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 09 Sep 2026 17:33:34 +0000</pubDate>
 </item>
 </channel>
 </rss>
