@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 11 Sep 2026 19:44:57 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 23:17:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
@@ -16,6 +16,14 @@
 <pubDate>Fri, 11 Sep 2026 18:26:10 +0000</pubDate>
 </item>
 <item>
+<title>Add VS Code Agents to Copilot usage metrics</title>
+<link>https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 11 Sep 2026 21:30:30 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
 <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
@@ -24,44 +32,28 @@
 <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Quick chats with Pets and Appshots on Windows 26.908</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Auto-resolution and analysis updates in Copilot code review</title>
+<link>https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 11 Sep 2026 20:00:07 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data</title>
 <link>https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data</link>
 <guid isPermaLink="true">https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data</guid>
 <description>Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 11 Sep 2026 13:50:28 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7</title>
-<link>https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 22:55:07 +0000</pubDate>
-</item>
-<item>
-<title>适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser</title>
-<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 21:31:19 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek</title>
-<link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek</guid>
-<description>Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。（TechCrunch：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 20:57:30 +0000</pubDate>
-</item>
-<item>
-<title>公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview</title>
-<link>https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 21:27:17 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级</title>
@@ -88,14 +80,6 @@
 <pubDate>Fri, 11 Sep 2026 16:28:11 +0000</pubDate>
 </item>
 <item>
-<title>AI Scan for pull request APIs in public preview</title>
-<link>https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 20:20:58 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试</title>
 <link>https://www.aibase.com/news/30999</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30999</guid>
@@ -112,14 +96,6 @@
 <pubDate>Fri, 11 Sep 2026 14:59:18 +0000</pubDate>
 </item>
 <item>
-<title>告别卡顿与机械感：OpenAI 推出全双工语音模型 GPT-Live-1</title>
-<link>https://www.aibase.com/news/30996</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30996</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 14:58:18 +0000</pubDate>
-</item>
-<item>
 <title>外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”</title>
 <link>https://www.aibase.com/news/31003</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31003</guid>
@@ -128,9 +104,33 @@
 <pubDate>Fri, 11 Sep 2026 14:59:18 +0000</pubDate>
 </item>
 <item>
+<title>Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
+<link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
+</item>
+<item>
 <title>小米开源工业级目标说话人语音识别大模型 CocktailASR-1</title>
 <link>https://www.aibase.com/news/31001</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31001</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 11 Sep 2026 14:59:18 +0000</pubDate>
+</item>
+<item>
+<title>Feeling sad about AI</title>
+<link>https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai</guid>
+<description>Simon Willison</description>
+<category>多源热议</category>
+<pubDate>Fri, 11 Sep 2026 17:48:00 +0000</pubDate>
+</item>
+<item>
+<title>支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营</title>
+<link>https://www.aibase.com/news/31000</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31000</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 11 Sep 2026 14:59:18 +0000</pubDate>
@@ -152,9 +152,9 @@
 <pubDate>Fri, 11 Sep 2026 13:00:35 +0000</pubDate>
 </item>
 <item>
-<title>支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营</title>
-<link>https://www.aibase.com/news/31000</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31000</guid>
+<title>蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至</title>
+<link>https://www.aibase.com/news/30997</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30997</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 11 Sep 2026 14:59:18 +0000</pubDate>
