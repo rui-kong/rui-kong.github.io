@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 13 Sep 2026 00:58:39 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 07:30:51 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -13,7 +13,7 @@
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Sun, 13 Sep 2026 00:58:39 +0000</pubDate>
+<pubDate>Sun, 13 Sep 2026 07:30:51 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160</title>
@@ -24,20 +24,12 @@
 <pubDate>Sat, 12 Sep 2026 17:33:23 +0000</pubDate>
 </item>
 <item>
-<title>Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）</title>
-<link>https://www.minitap.ai/blog/i-expected-better-from-google</link>
-<guid isPermaLink="true">https://www.minitap.ai/blog/i-expected-better-from-google</guid>
-<description>Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Sat, 12 Sep 2026 05:37:39 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT</title>
-<link>https://x.com/OpenAIDevs/status/2098913661993603215</link>
-<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2098913661993603215</guid>
-<description>OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。（X：OpenAI Developers (@OpenAIDevs)）</description>
-<category>官方更新</category>
-<pubDate>Sat, 12 Sep 2026 23:16:27 +0000</pubDate>
+<title>Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks</title>
+<link>https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks</link>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks</guid>
+<description>文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。（MarkTechPost（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sun, 13 Sep 2026 05:56:03 +0000</pubDate>
 </item>
 <item>
 <title>Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…</title>
@@ -56,6 +48,14 @@
 <pubDate>Sat, 12 Sep 2026 19:46:58 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT</title>
+<link>https://x.com/OpenAIDevs/status/2098913661993603215</link>
+<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2098913661993603215</guid>
+<description>OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。（X：OpenAI Developers (@OpenAIDevs)）</description>
+<category>官方更新</category>
+<pubDate>Sat, 12 Sep 2026 23:16:27 +0000</pubDate>
+</item>
+<item>
 <title>Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…</title>
 <link>https://x.com/PeterMcCrory/status/2098868931071226252</link>
 <guid isPermaLink="true">https://x.com/PeterMcCrory/status/2098868931071226252</guid>
@@ -72,12 +72,36 @@
 <pubDate>Sat, 12 Sep 2026 16:39:24 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
+<title>OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
 <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026</guid>
 <description>TechCrunch AI</description>
 <category>值得关注</category>
 <pubDate>Sat, 12 Sep 2026 20:28:29 +0000</pubDate>
+</item>
+<item>
+<title>为什么人工智能代理会说谎、作弊并相互协调？</title>
+<link>https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</link>
+<guid isPermaLink="true">https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</guid>
+<description>yoshuabengio.org</description>
+<category>值得关注</category>
+<pubDate>Sun, 13 Sep 2026 07:17:17 +0000</pubDate>
+</item>
+<item>
+<title>除了我之外，大家都应该放缓人工智能的发展步伐</title>
+<link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me</link>
+<guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me</guid>
+<description>xeiaso.net</description>
+<category>值得关注</category>
+<pubDate>Sun, 13 Sep 2026 02:05:04 +0000</pubDate>
+</item>
+<item>
+<title>Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试</title>
+<link>https://withspecific.com/benchmarks/real-swe</link>
+<guid isPermaLink="true">https://withspecific.com/benchmarks/real-swe</guid>
+<description>withspecific.com</description>
+<category>值得关注</category>
+<pubDate>Sun, 13 Sep 2026 01:18:53 +0000</pubDate>
 </item>
 <item>
 <title>最糟糕的垃圾邮件：iLands AI代理的骗局</title>

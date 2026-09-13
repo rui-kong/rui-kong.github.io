@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T00:58:39.976684Z",
+  "generated_at": "2026-09-13T07:30:51.166576Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T00:58:39.976684Z",
-      "latest_at": "2026-09-13T00:58:39.976684Z",
+      "earliest_at": "2026-09-13T07:30:51.166576Z",
+      "latest_at": "2026-09-13T07:30:51.166576Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8984,
+        "recency": 0.8175,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,148 +165,313 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
-      "story_id": "story_4f105f17bfdc",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "source": "Hacker News：AI 热帖",
+      "story_id": "story_1ab0f86554fa",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "primary_url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "title_zh": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "title_original": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
           "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
+          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_en": null,
-          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
+          "published_at": "2026-09-13T05:56:03Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "www.minitap.ai"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "title_zh": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "title_original": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+          "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
           "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
+          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_en": null,
-          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
+          "published_at": "2026-09-13T05:56:03Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7245,
-        "story_heat": 0.5
+        "recency": 0.9774,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T02:39:39Z",
-      "latest_at": "2026-09-12T05:37:39.339000Z",
+      "earliest_at": "2026-09-13T05:56:03Z",
+      "latest_at": "2026-09-13T05:56:03Z",
       "primary_item": {
-        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+        "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+        "title_zh": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+        "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+        "title_original": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+        "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
         "recommend_reason_zh": null,
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "source": "Hacker News：AI 热帖",
+        "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
+      }
+    },
+    {
+      "story_id": "story_964468d18cc3",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "primary_url": "https://x.com/sama/status/2098811563415150910",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        },
+        {
+          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Sam Altman",
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        },
+        {
+          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8052,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T16:30:45Z",
+      "latest_at": "2026-09-12T16:30:45Z",
+      "primary_item": {
+        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+        "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+        "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T07:31:37.773262Z"
+      }
+    },
+    {
+      "story_id": "story_b87018eebc80",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "primary_url": "https://x.com/trq212/status/2098860941391872132",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        },
+        {
+          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_en": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "title_original": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thariq",
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        },
+        {
+          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_en": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "title_original": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8442,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T19:46:58Z",
+      "latest_at": "2026-09-12T19:46:58Z",
+      "primary_item": {
+        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+        "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/trq212/status/2098860941391872132",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
@@ -354,15 +519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9757,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "official",
@@ -388,171 +553,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
-      }
-    },
-    {
-      "story_id": "story_964468d18cc3",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-      "url": "https://x.com/sama/status/2098811563415150910",
-      "primary_url": "https://x.com/sama/status/2098811563415150910",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8849,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T16:30:45Z",
-      "latest_at": "2026-09-12T16:30:45Z",
-      "primary_item": {
-        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-        "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sama/status/2098811563415150910",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
-      }
-    },
-    {
-      "story_id": "story_b87018eebc80",
-      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-      "url": "https://x.com/trq212/status/2098860941391872132",
-      "primary_url": "https://x.com/trq212/status/2098860941391872132",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/trq212/status/2098860941391872132",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T19:46:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9277,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T19:46:58Z",
-      "latest_at": "2026-09-12T19:46:58Z",
-      "primary_item": {
-        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
-        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-        "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/trq212/status/2098860941391872132",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
@@ -600,15 +601,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9348,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,7 +634,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
@@ -681,15 +682,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7208,
+      "importance": 0.7208,
+      "importance_score": 0.7208,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8868,
+        "recency": 0.8069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,12 +715,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
       "story_id": "story_449833896f65",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
       "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "source": "TechCrunch AI",
@@ -727,8 +728,8 @@
       "sources": [
         {
           "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_zh": null,
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "summary": null,
@@ -741,8 +742,8 @@
         },
         {
           "id": "070e289de347596a4b07184785ff8bb7ea26dc9c",
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_zh": null,
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "summary": null,
@@ -762,8 +763,8 @@
       "items": [
         {
           "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-          "title_zh": null,
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
           "summary": null,
@@ -776,8 +777,8 @@
         },
         {
           "id": "070e289de347596a4b07184785ff8bb7ea26dc9c",
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-          "title_zh": null,
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_original": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "summary": null,
@@ -791,15 +792,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6495,
-      "importance": 0.6495,
-      "importance_score": 0.6495,
+      "score": 0.6344,
+      "importance": 0.6344,
+      "importance_score": 0.6344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.935,
+        "recency": 0.8508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -810,8 +811,8 @@
       "latest_at": "2026-09-12T20:28:29Z",
       "primary_item": {
         "id": "126dd4f2f9cb9d0dc87f8281a71a0e85ec28afcf",
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "title_zh": null,
+        "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
         "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
         "title_original": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
         "summary": null,
@@ -824,7 +825,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
+      }
+    },
+    {
+      "story_id": "story_03d712e5fd13",
+      "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "primary_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "source": "yoshuabengio.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_en": null,
+          "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "yoshuabengio.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T07:17:17.819000Z"
+        },
+        {
+          "id": "9e412ae433e266396fc5173b04c3a06016f71970",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
+          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_en": "Why are AI agents lying, cheating and coordinating?",
+          "title_original": "Why are AI agents lying, cheating and coordinating?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T01:22:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "yoshuabengio.org"
+      ],
+      "items": [
+        {
+          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_en": null,
+          "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "yoshuabengio.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T07:17:17.819000Z"
+        },
+        {
+          "id": "9e412ae433e266396fc5173b04c3a06016f71970",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
+          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_en": "Why are AI agents lying, cheating and coordinating?",
+          "title_original": "Why are AI agents lying, cheating and coordinating?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T01:22:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9967,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T01:22:31Z",
+      "latest_at": "2026-09-13T07:17:17.819000Z",
+      "primary_item": {
+        "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+        "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+        "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+        "title_en": null,
+        "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "source": "yoshuabengio.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T07:31:37.773262Z"
+      }
+    },
+    {
+      "story_id": "story_759bdd7a2753",
+      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "source": "xeiaso.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": null,
+          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T02:05:04.827000Z"
+        },
+        {
+          "id": "218b58b5c323bc49d26551cfd4e640d78aaf8ccb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": "Everyone should slow down AI development except for me",
+          "title_original": "Everyone should slow down AI development except for me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T00:30:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "xeiaso.net"
+      ],
+      "items": [
+        {
+          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": null,
+          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T02:05:04.827000Z"
+        },
+        {
+          "id": "218b58b5c323bc49d26551cfd4e640d78aaf8ccb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": "Everyone should slow down AI development except for me",
+          "title_original": "Everyone should slow down AI development except for me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T00:30:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9246,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T00:30:44Z",
+      "latest_at": "2026-09-13T02:05:04.827000Z",
+      "primary_item": {
+        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "title_en": null,
+        "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+        "source": "xeiaso.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T07:31:37.773262Z"
+      }
+    },
+    {
+      "story_id": "story_4484533bd9b1",
+      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "primary_url": "https://withspecific.com/benchmarks/real-swe",
+      "source": "withspecific.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_en": null,
+          "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "withspecific.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:18:53.561000Z"
+        },
+        {
+          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "title_original": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T20:25:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "withspecific.com"
+      ],
+      "items": [
+        {
+          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_en": null,
+          "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "withspecific.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:18:53.561000Z"
+        },
+        {
+          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "title_original": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T20:25:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9144,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T20:25:48Z",
+      "latest_at": "2026-09-13T01:18:53.561000Z",
+      "primary_item": {
+        "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+        "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "title_en": null,
+        "title_original": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://withspecific.com/benchmarks/real-swe",
+        "source": "withspecific.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
@@ -901,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9036,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,7 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
@@ -1011,15 +1342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.5117,
+      "importance": 0.5117,
+      "importance_score": 0.5117,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8905,
+        "recency": 0.8103,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,7 +1375,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     },
     {
@@ -1070,7 +1401,7 @@
           "published_at": "2026-09-12T16:37:21.932000Z"
         },
         {
-          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
           "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
           "title_zh": "英伟达是人工智能领域的“中央银行”",
           "title_en": "Nvidia is the central bank of AI",
@@ -1078,15 +1409,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-12T15:08:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "www.economist.com"
       ],
       "items": [
@@ -1105,7 +1436,7 @@
           "published_at": "2026-09-12T16:37:21.932000Z"
         },
         {
-          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
           "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
           "title_zh": "英伟达是人工智能领域的“中央银行”",
           "title_en": "Nvidia is the central bank of AI",
@@ -1113,23 +1444,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-12T15:08:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8863,
+        "recency": 0.8065,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1154,7 +1485,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:09:13.074110Z"
+        "scored_at": "2026-09-13T07:31:37.773262Z"
       }
     }
   ]
