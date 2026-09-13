@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T07:30:51.166576Z",
+  "generated_at": "2026-09-13T10:14:35.283095Z",
   "window_hours": 24,
   "total_items": 15,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T07:30:51.166576Z",
-      "latest_at": "2026-09-13T07:30:51.166576Z",
+      "earliest_at": "2026-09-13T10:14:35.283095Z",
+      "latest_at": "2026-09-13T10:14:35.283095Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8175,
+        "recency": 0.7859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,7 +165,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
+      }
+    },
+    {
+      "story_id": "story_910862ed59f6",
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的\"中央银行\"",
+          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
+          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": "Nvidia is the central bank of AI",
+          "title_original": "Nvidia is the central bank of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的\"中央银行\"",
+          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
+          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": "Nvidia is the central bank of AI",
+          "title_original": "Nvidia is the central bank of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7753,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T15:08:27Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "primary_item": {
+        "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+        "title": "英伟达是人工智能领域的\"中央银行\"",
+        "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+        "title_en": null,
+        "title_original": "英伟达是人工智能领域的\"中央银行\"",
+        "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+        "recommend_reason_zh": null,
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -213,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9774,
+        "recency": 0.9397,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -324,15 +465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "recency": 0.7741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -359,7 +500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -436,15 +577,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8442,
+        "recency": 0.8115,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -471,7 +612,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -519,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8878,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -553,7 +694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -601,15 +742,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8506,
+        "recency": 0.8178,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,88 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
-      }
-    },
-    {
-      "story_id": "story_30eddadc9249",
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-      "url": "https://suno.com/blog/introducing-v6",
-      "primary_url": "https://suno.com/blog/introducing-v6",
-      "source": "Suno：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-          "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "title_en": "Introducing v6",
-          "title_original": "Introducing v6",
-          "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-          "recommend_reason_zh": null,
-          "url": "https://suno.com/blog/introducing-v6",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24.855000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Suno：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-          "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "title_en": "Introducing v6",
-          "title_original": "Introducing v6",
-          "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-          "recommend_reason_zh": null,
-          "url": "https://suno.com/blog/introducing-v6",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24.855000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8069,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T16:39:24.855000Z",
-      "latest_at": "2026-09-12T16:39:24.855000Z",
-      "primary_item": {
-        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-        "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-        "title_en": "Introducing v6",
-        "title_original": "Introducing v6",
-        "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-        "recommend_reason_zh": null,
-        "url": "https://suno.com/blog/introducing-v6",
-        "source": "Suno：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -741,7 +801,7 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "070e289de347596a4b07184785ff8bb7ea26dc9c",
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
           "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
@@ -749,15 +809,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "TechCrunch AI"
       ],
       "items": [
@@ -776,7 +836,7 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "070e289de347596a4b07184785ff8bb7ea26dc9c",
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
           "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
@@ -784,23 +844,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6344,
-      "importance": 0.6344,
-      "importance_score": 0.6344,
+      "score": 0.6285,
+      "importance": 0.6285,
+      "importance_score": 0.6285,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8508,
+        "recency": 0.8179,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -825,7 +885,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
+      }
+    },
+    {
+      "story_id": "story_f5e307da9ebe",
+      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "source": "tedium.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": null,
+          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "tedium.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T00:29:40.068000Z"
+        },
+        {
+          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T11:13:38Z"
+        },
+        {
+          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The worst spam emails: iLands AI agent hustle",
+          "title_original": "The worst spam emails: iLands AI agent hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T11:13:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "tedium.co"
+      ],
+      "items": [
+        {
+          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": null,
+          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "tedium.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T00:29:40.068000Z"
+        },
+        {
+          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T11:13:38Z"
+        },
+        {
+          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The worst spam emails: iLands AI agent hustle",
+          "title_original": "The worst spam emails: iLands AI agent hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T11:13:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8687,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T11:13:38Z",
+      "latest_at": "2026-09-13T00:29:40.068000Z",
+      "primary_item": {
+        "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+        "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "title_en": null,
+        "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+        "source": "tedium.co",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T10:25:22.687715Z"
+      }
+    },
+    {
+      "story_id": "story_85eb23d49a16",
+      "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
+          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T08:07:36Z"
+        },
+        {
+          "id": "7a169d441a67991a51904134e1a940d1e441d651",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
+          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T17:28:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News"
+      ],
+      "items": [
+        {
+          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
+          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T08:07:36Z"
+        },
+        {
+          "id": "7a169d441a67991a51904134e1a940d1e441d651",
+          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
+          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T17:28:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9699,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T17:28:53Z",
+      "latest_at": "2026-09-13T08:07:36Z",
+      "primary_item": {
+        "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+        "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
+        "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -902,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9967,
+        "recency": 0.9582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -935,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -1012,15 +1321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9246,
+        "recency": 0.8889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1045,7 +1354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -1071,7 +1380,7 @@
           "published_at": "2026-09-13T01:18:53.561000Z"
         },
         {
-          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "id": "ab73b58de7e6496d28a0dd69e9c7d1ed0f358edd",
           "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
           "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
           "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -1079,15 +1388,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-12T20:25:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "withspecific.com"
       ],
       "items": [
@@ -1106,7 +1415,7 @@
           "published_at": "2026-09-13T01:18:53.561000Z"
         },
         {
-          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "id": "ab73b58de7e6496d28a0dd69e9c7d1ed0f358edd",
           "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
           "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
           "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -1114,23 +1423,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-12T20:25:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9144,
+        "recency": 0.879,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,117 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
-      }
-    },
-    {
-      "story_id": "story_f5e307da9ebe",
-      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-      "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-      "source": "tedium.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": null,
-          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "tedium.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T00:29:40.068000Z"
-        },
-        {
-          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T11:13:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "tedium.co"
-      ],
-      "items": [
-        {
-          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": null,
-          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "tedium.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T00:29:40.068000Z"
-        },
-        {
-          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T11:13:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5284,
-      "importance": 0.5284,
-      "importance_score": 0.5284,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9036,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T11:13:38Z",
-      "latest_at": "2026-09-13T00:29:40.068000Z",
-      "primary_item": {
-        "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-        "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "title_en": null,
-        "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-        "source": "tedium.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     },
     {
@@ -1342,15 +1541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8103,
+        "recency": 0.779,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,117 +1574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
-      }
-    },
-    {
-      "story_id": "story_910862ed59f6",
-      "title": "英伟达是人工智能领域的“中央银行”",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "www.economist.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8065,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:08:27Z",
-      "latest_at": "2026-09-12T16:37:21.932000Z",
-      "primary_item": {
-        "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-        "title": "英伟达是人工智能领域的“中央银行”",
-        "title_zh": "英伟达是人工智能领域的“中央银行”",
-        "title_en": null,
-        "title_original": "英伟达是人工智能领域的“中央银行”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "www.economist.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T07:31:37.773262Z"
+        "scored_at": "2026-09-13T10:25:22.687715Z"
       }
     }
   ]
