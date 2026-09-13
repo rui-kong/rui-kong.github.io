@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T14:55:04.965536Z",
+  "generated_at": "2026-09-13T19:29:12.055742Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T14:55:04.965536Z",
-      "latest_at": "2026-09-13T14:55:04.965536Z",
+      "earliest_at": "2026-09-13T19:29:12.055742Z",
+      "latest_at": "2026-09-13T19:29:12.055742Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,30 +83,142 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
-      "story_id": "story_462f3ecf41bf",
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "story_id": "story_7e7a8cf3aa37",
+      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "primary_url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T14:15:40Z"
+        },
+        {
+          "id": "f4225f36746e9b8dc3591016dc656bc51bd60f48",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T14:15:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+          "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T14:15:40Z"
+        },
+        {
+          "id": "f4225f36746e9b8dc3591016dc656bc51bd60f48",
+          "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+          "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T14:15:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9273,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-13T14:15:40Z",
+      "latest_at": "2026-09-13T14:15:40Z",
+      "primary_item": {
+        "id": "233ba3a473d4d2792fa6ebaf00eff4c46865c136",
+        "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "title_zh": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+        "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "title_original": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
+        "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+        "recommend_reason_zh": null,
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T19:39:24.246520Z"
+      }
+    },
+    {
+      "story_id": "story_b025ab79dc77",
+      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
+      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098913661993603215",
       "source": "X：OpenAI Developers (@OpenAIDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "title_en": "https://x.com/i/article/2098531824528220160",
-          "title_original": "https://x.com/i/article/2098531824528220160",
-          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
+          "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+          "title_en": "📞 1-800-ChatGPT",
+          "title_original": "📞 1-800-ChatGPT",
+          "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
           "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
+          "published_at": "2026-09-12T23:16:27Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +227,31 @@
       ],
       "items": [
         {
-          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "title_en": "https://x.com/i/article/2098531824528220160",
-          "title_original": "https://x.com/i/article/2098531824528220160",
-          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
+          "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+          "title_en": "📞 1-800-ChatGPT",
+          "title_original": "📞 1-800-ChatGPT",
+          "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
           "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
+          "published_at": "2026-09-12T23:16:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7346,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -147,17 +259,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T17:33:23Z",
-      "latest_at": "2026-09-12T17:33:23Z",
+      "earliest_at": "2026-09-12T23:16:27Z",
+      "latest_at": "2026-09-12T23:16:27Z",
       "primary_item": {
-        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
-        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
-        "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-        "title_en": "https://x.com/i/article/2098531824528220160",
-        "title_original": "https://x.com/i/article/2098531824528220160",
-        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+        "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+        "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
+        "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+        "title_en": "📞 1-800-ChatGPT",
+        "title_original": "📞 1-800-ChatGPT",
+        "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       },
@@ -165,148 +277,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
-      }
-    },
-    {
-      "story_id": "story_910862ed59f6",
-      "title": "英伟达是人工智能领域的\"中央银行\"",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-          "title": "英伟达是人工智能领域的\"中央银行\"",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的\"中央银行\"",
-          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-          "title": "英伟达是人工智能领域的\"中央银行\"",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的\"中央银行\"",
-          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7247,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T15:08:27Z",
-      "latest_at": "2026-09-12T16:37:21.932000Z",
-      "primary_item": {
-        "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
-        "title": "英伟达是人工智能领域的\"中央银行\"",
-        "title_zh": "英伟达是人工智能领域的\"中央银行\"",
-        "title_en": null,
-        "title_original": "英伟达是人工智能领域的\"中央银行\"",
-        "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
@@ -354,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,118 +359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
-      }
-    },
-    {
-      "story_id": "story_964468d18cc3",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-      "url": "https://x.com/sama/status/2098811563415150910",
-      "primary_url": "https://x.com/sama/status/2098811563415150910",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        },
-        {
-          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-12T16:30:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        },
-        {
-          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2098811563415150910",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-12T16:30:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7236,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T16:30:45Z",
-      "latest_at": "2026-09-12T16:30:45Z",
-      "primary_item": {
-        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
-        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-        "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sama/status/2098811563415150910",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
@@ -576,15 +436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7586,
+        "recency": 0.7101,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -610,89 +470,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
-      "story_id": "story_b025ab79dc77",
-      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "primary_url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "story_id": "story_e5571e6173d7",
+      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "primary_url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-          "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-          "title_en": "📞 1-800-ChatGPT",
-          "title_original": "📞 1-800-ChatGPT",
-          "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+          "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "title_en": "Two cheers （out of three） for Dario Amodei",
+          "title_original": "Two cheers （out of three） for Dario Amodei",
+          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T23:16:27Z"
+          "published_at": "2026-09-13T18:34:31Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
       ],
       "items": [
         {
-          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-          "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-          "title_en": "📞 1-800-ChatGPT",
-          "title_original": "📞 1-800-ChatGPT",
-          "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+          "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+          "title_en": "Two cheers （out of three） for Dario Amodei",
+          "title_original": "Two cheers （out of three） for Dario Amodei",
+          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-12T23:16:27Z"
+          "published_at": "2026-09-13T18:34:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
-      "importance_label": "官方更新",
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
+        "editorial": 0.62,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7978,
+        "recency": 0.9869,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-12T23:16:27Z",
-      "latest_at": "2026-09-12T23:16:27Z",
+      "earliest_at": "2026-09-13T18:34:31Z",
+      "latest_at": "2026-09-13T18:34:31Z",
       "primary_item": {
-        "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-        "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-        "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-        "title_en": "📞 1-800-ChatGPT",
-        "title_original": "📞 1-800-ChatGPT",
-        "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+        "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
+        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
+        "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+        "title_en": "Two cheers （out of three） for Dario Amodei",
+        "title_original": "Two cheers （out of three） for Dario Amodei",
+        "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
@@ -769,15 +628,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6188,
-      "importance": 0.6188,
-      "importance_score": 0.6188,
+      "score": 0.6101,
+      "importance": 0.6101,
+      "importance_score": 0.6101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7645,
+        "recency": 0.7157,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,117 +661,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
-      "story_id": "story_85eb23d49a16",
-      "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "story_id": "story_a09fc5265239",
+      "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "primary_url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
-          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": null,
+          "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T18:45:18.039000Z"
+        },
+        {
+          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_original": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-13T08:07:36Z"
-        },
-        {
-          "id": "7a169d441a67991a51904134e1a940d1e441d651",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
-          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T17:28:53Z"
+          "published_at": "2026-09-13T16:52:33Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "BBC News",
-        "Hacker News"
+        "Hacker News",
+        "twitter.com"
       ],
       "items": [
         {
-          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
-          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": null,
+          "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T18:45:18.039000Z"
+        },
+        {
+          "id": "b9f13952ff731bc38c11c9cdf065b2837419445b",
+          "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+          "title_en": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "title_original": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-13T08:07:36Z"
-        },
-        {
-          "id": "7a169d441a67991a51904134e1a940d1e441d651",
-          "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
-          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T17:28:53Z"
+          "published_at": "2026-09-13T16:52:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9066,
+        "recency": 0.9895,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-12T17:28:53Z",
-      "latest_at": "2026-09-13T08:07:36Z",
+      "earliest_at": "2026-09-13T16:52:33Z",
+      "latest_at": "2026-09-13T18:45:18.039000Z",
       "primary_item": {
-        "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
-        "title": "硅谷的一些内部人士对人工智能的严重警告没有得到回应 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "title_zh": "硅谷的一些内部人士对人工智能的严重警告没有得到回应",
-        "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "id": "d15c638a4dc2915bc10d14b9449bd4da7f1fbfee",
+        "title": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+        "title_zh": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
+        "title_en": null,
+        "title_original": "大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
+      }
+    },
+    {
+      "story_id": "story_9cf69f2e378a",
+      "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "source": "techcrunch.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": null,
+          "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_original": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": null,
+          "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T17:42:38.853000Z"
+        },
+        {
+          "id": "42c229cea98ed373d88b8ec4bd481d8d0b083ae2",
+          "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+          "title_en": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "title_original": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T15:44:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9747,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T15:44:38Z",
+      "latest_at": "2026-09-13T17:42:38.853000Z",
+      "primary_item": {
+        "id": "00225e52d1622a3cddffe59233fb8639878609ec",
+        "title": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "title_zh": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "title_en": null,
+        "title_original": "加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "source": "techcrunch.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
@@ -989,15 +958,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8957,
+        "recency": 0.8385,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1022,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
@@ -1099,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
+      "score": 0.5058,
+      "importance": 0.5058,
+      "importance_score": 0.5058,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8308,
+        "recency": 0.7778,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1132,7 +1101,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     },
     {
@@ -1209,15 +1178,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8217,
+        "recency": 0.7692,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1242,117 +1211,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
-      }
-    },
-    {
-      "story_id": "story_ed95b5a9cf8e",
-      "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "primary_url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-          "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:56:52Z"
-        },
-        {
-          "id": "6799781635e87dd59afdb1d7924d495d8ba833eb",
-          "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:37:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-          "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T16:56:52Z"
-        },
-        {
-          "id": "6799781635e87dd59afdb1d7924d495d8ba833eb",
-          "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T15:37:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7281,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:37:39Z",
-      "latest_at": "2026-09-12T16:56:52Z",
-      "primary_item": {
-        "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
-        "title": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down",
-        "title_zh": "人类老板 Dario Amodei 呼吁放慢人工智能发展速度",
-        "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:55:44.501402Z"
+        "scored_at": "2026-09-13T19:39:24.246520Z"
       }
     }
   ]
