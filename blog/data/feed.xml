@@ -5,8 +5,40 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 14 Sep 2026 14:05:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 23:53:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org</title>
+<link>https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive</link>
+<guid isPermaLink="true">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive</guid>
+<description>作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Mon, 14 Sep 2026 16:02:42 +0000</pubDate>
+</item>
+<item>
+<title>Configure cost and quality in Copilot auto model selection</title>
+<link>https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 14 Sep 2026 16:05:27 +0000</pubDate>
+</item>
+<item>
+<title>Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 14 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel</guid>
+<description>Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的"卡特尔"。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 22:59:41 +0000</pubDate>
+</item>
 <item>
 <title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
 <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -16,12 +48,36 @@
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic</title>
-<link>https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</link>
-<guid isPermaLink="true">https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</guid>
-<description>Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Mon, 14 Sep 2026 11:00:31 +0000</pubDate>
+<title>DevFest is back</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 14 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗 / GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？</title>
+<link>https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</link>
+<guid isPermaLink="true">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</guid>
+<description>Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 19:56:20 +0000</pubDate>
+</item>
+<item>
+<title>Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线 / Siri AI， a profoundly more capable and personal assistant， is here</title>
+<link>https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here</link>
+<guid isPermaLink="true">https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here</guid>
+<description>Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。（Apple：Newsroom（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 17:09:41 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO</title>
+<link>https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo</link>
+<guid isPermaLink="true">https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo</guid>
+<description>Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 15:46:45 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台</title>
@@ -30,6 +86,30 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…</title>
+<link>https://x.com/arena/status/2099549108013006958</link>
+<guid isPermaLink="true">https://x.com/arena/status/2099549108013006958</guid>
+<description>DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 17:21:29 +0000</pubDate>
+</item>
+<item>
+<title>硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文 / The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…</title>
+<link>https://x.com/SiliconFlowAI/status/2099536759168352634</link>
+<guid isPermaLink="true">https://x.com/SiliconFlowAI/status/2099536759168352634</guid>
+<description>硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。（X：硅基流动 SiliconFlow (@SiliconFlowAI)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 16:32:25 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力 / Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic</title>
+<link>https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic</link>
+<guid isPermaLink="true">https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic</guid>
+<description>Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。（Claude：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 19:15:56 +0000</pubDate>
 </item>
 <item>
 <title>小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先</title>
@@ -83,86 +163,6 @@
 <title>YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力</title>
 <link>https://www.aibase.com/news/31037</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31037</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
-</item>
-<item>
-<title>奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面</title>
-<link>https://www.aibase.com/news/31031</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31031</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
-</item>
-<item>
-<title>克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码</title>
-<link>https://www.vals.ai/blogs/fable-solves-cyphral-distich</link>
-<guid isPermaLink="true">https://www.vals.ai/blogs/fable-solves-cyphral-distich</guid>
-<description>www.vals.ai</description>
-<category>多源热议</category>
-<pubDate>Sun, 13 Sep 2026 22:25:23 +0000</pubDate>
-</item>
-<item>
-<title>开源人工智能与开放模型推荐书单</title>
-<link>https://www.interconnects.ai/p/open-source-ai-reading-list</link>
-<guid isPermaLink="true">https://www.interconnects.ai/p/open-source-ai-reading-list</guid>
-<description>www.interconnects.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 14 Sep 2026 08:25:17 +0000</pubDate>
-</item>
-<item>
-<title>宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元</title>
-<link>https://www.aibase.com/news/31032</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31032</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
-</item>
-<item>
-<title>"Chilling" warning or overreaction? AI bioweapons report divides experts</title>
-<link>https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts</link>
-<guid isPermaLink="true">https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts</guid>
-<description>Hacker News</description>
-<category>值得关注</category>
-<pubDate>Mon, 14 Sep 2026 00:07:09 +0000</pubDate>
-</item>
-<item>
-<title>AI recursive self-improvement might not come so quickly after all</title>
-<link>https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement</link>
-<guid isPermaLink="true">https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Sun, 13 Sep 2026 18:49:44 +0000</pubDate>
-</item>
-<item>
-<title>大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐</title>
-<link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
-<guid isPermaLink="true">https://twitter.com/DavidSacks/status/2098973625252708460</guid>
-<description>twitter.com</description>
-<category>值得关注</category>
-<pubDate>Sun, 13 Sep 2026 18:45:18 +0000</pubDate>
-</item>
-<item>
-<title>加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型</title>
-<link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too</guid>
-<description>techcrunch.com</description>
-<category>值得关注</category>
-<pubDate>Sun, 13 Sep 2026 17:42:38 +0000</pubDate>
-</item>
-<item>
-<title>百图生科牵手华大智造：联合构建专属细胞大模型，押注"设备+模型+智能体"一体化</title>
-<link>https://www.aibase.com/news/31027</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31027</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
-</item>
-<item>
-<title>蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售</title>
-<link>https://www.aibase.com/news/31038</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31038</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
