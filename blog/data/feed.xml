@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 14 Sep 2026 23:53:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 01:26:08 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org</title>
@@ -40,14 +40,6 @@
 <pubDate>Mon, 14 Sep 2026 22:59:41 +0000</pubDate>
 </item>
 <item>
-<title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
-<link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
-<guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>DevFest is back</title>
 <link>https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026</guid>
@@ -60,8 +52,24 @@
 <link>https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</link>
 <guid isPermaLink="true">https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review</guid>
 <description>Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Tue, 15 Sep 2026 00:57:33 +0000</pubDate>
+</item>
+<item>
+<title>Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15 / DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost</title>
+<link>https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra</link>
+<guid isPermaLink="true">https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra</guid>
+<description>Fireworks 发布 DeepSeek-V4.1-Flash 并公布完整基准结果：在 DeepSWE 上以 max 档取得 74.34% pass@1，与 GPT-6 Astra 同一水平，但每任务成本 $0.43，约为 Astra 的 1/15。（Fireworks AI（网页））</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 19:56:20 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 00:36:35 +0000</pubDate>
+</item>
+<item>
+<title>Claude Opus 5.2 在 Claude Code 悄然灰度测试，Anthropic 内部"核武级"模型 2 号浮出水面</title>
+<link>https://www.aibase.com/news/31040</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31040</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 15 Sep 2026 01:26:08 +0000</pubDate>
 </item>
 <item>
 <title>Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线 / Siri AI， a profoundly more capable and personal assistant， is here</title>
@@ -80,12 +88,12 @@
 <pubDate>Mon, 14 Sep 2026 15:46:45 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台</title>
-<link>https://www.aibase.com/news/31029</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31029</guid>
+<title>Claude Opus 5.2 深夜灰度上线：响应更快，还治好了“偷懒病”</title>
+<link>https://www.aibase.com/news/31039</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31039</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 01:26:08 +0000</pubDate>
 </item>
 <item>
 <title>DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名 / Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…</title>
@@ -112,60 +120,52 @@
 <pubDate>Mon, 14 Sep 2026 19:15:56 +0000</pubDate>
 </item>
 <item>
-<title>小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先</title>
-<link>https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&amp;mid=2247496383&amp;idx=1&amp;sn=2db8607f797615a3647d9fec7e54f448</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&amp;mid=2247496383&amp;idx=1&amp;sn=2db8607f797615a3647d9fec7e54f448</guid>
-<description>小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。（公众号：小红书技术（dots.llm））</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 09:59:00 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放</title>
-<link>https://www.aibase.com/news/31028</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31028</guid>
+<title>Instagram AI 修图开始收费：用多了就得订阅 Meta One，否则明天再来</title>
+<link>https://www.aibase.com/news/31045</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31045</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 01:26:08 +0000</pubDate>
 </item>
 <item>
-<title>ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问</title>
-<link>https://www.aibase.com/news/31030</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31030</guid>
+<title>代码挖出猛料：苹果 Siri 可被 Claude 或 ChatGPT 接管，欧盟 DMA 或是推手</title>
+<link>https://www.aibase.com/news/31046</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31046</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 01:26:08 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍</title>
-<link>https://www.aibase.com/news/31035</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31035</guid>
+<title>代码挖出苹果底牌：Siri 可换成 Claude 或 ChatGPT，模型委托与推理提供方两套机制曝光</title>
+<link>https://www.aibase.com/news/31041</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31041</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 01:26:08 +0000</pubDate>
 </item>
 <item>
-<title>Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样</title>
-<link>https://www.aibase.com/news/31033</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31033</guid>
+<title>你的ChatGPT对话可能被真人看过:OpenAI人工审核机制曝光</title>
+<link>https://www.aibase.com/news/31044</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31044</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 01:26:08 +0000</pubDate>
 </item>
 <item>
-<title>WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改</title>
-<link>https://www.aibase.com/news/31036</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31036</guid>
+<title>蚂蚁开源 SingProbe：以轻量探针实现大模型生成风险实时拦截，计算开销不足 0.5%</title>
+<link>https://www.aibase.com/news/31042</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31042</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 01:26:08 +0000</pubDate>
 </item>
 <item>
-<title>YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力</title>
-<link>https://www.aibase.com/news/31037</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31037</guid>
+<title>黄仁勋:反对“放慢”AI发展，美国将继续扩大AI基础设施建设</title>
+<link>https://www.aibase.com/news/31043</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31043</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:09 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 01:26:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
