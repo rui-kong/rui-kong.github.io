@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 16 Sep 2026 23:39:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 01:23:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot</title>
+<link>https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Thu, 17 Sep 2026 00:26:43 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI</title>
 <link>https://openai.com/index/reimagining-advertising-with-ai</link>
@@ -32,28 +40,12 @@
 <pubDate>Wed, 16 Sep 2026 18:28:45 +0000</pubDate>
 </item>
 <item>
-<title>自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys</title>
-<link>https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 16 Sep 2026 20:20:16 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment</title>
 <link>https://openai.com/index/model-misalignment-reporting-framework</link>
 <guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： "You do not answer to corporatio…</title>
-<link>https://x.com/AISafetyMemes/status/2100358777895780704</link>
-<guid isPermaLink="true">https://x.com/AISafetyMemes/status/2100358777895780704</guid>
-<description>OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。（X：AI Safety Memes (@AISafetyMemes)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 22:58:50 +0000</pubDate>
 </item>
 <item>
 <title>SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute</title>
@@ -64,12 +56,44 @@
 <pubDate>Wed, 16 Sep 2026 20:19:58 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： "You do not answer to corporatio…</title>
+<link>https://x.com/AISafetyMemes/status/2100358777895780704</link>
+<guid isPermaLink="true">https://x.com/AISafetyMemes/status/2100358777895780704</guid>
+<description>OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。（X：AI Safety Memes (@AISafetyMemes)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 16 Sep 2026 22:58:50 +0000</pubDate>
+</item>
+<item>
+<title>自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys</title>
+<link>https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 16 Sep 2026 20:20:16 +0000</pubDate>
+</item>
+<item>
 <title>帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life</title>
 <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
 <guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic合并Claude Cowork与Chat，统一AI任务工作空间</title>
+<link>https://www.aibase.com/news/31106</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31106</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 01:23:32 +0000</pubDate>
+</item>
+<item>
+<title>用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686431&amp;idx=1&amp;sn=c1bfba7e0b5b7cf995e444daf79861a4</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686431&amp;idx=1&amp;sn=c1bfba7e0b5b7cf995e444daf79861a4</guid>
+<description>自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 00:09:06 +0000</pubDate>
 </item>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W37</title>
@@ -80,6 +104,14 @@
 <pubDate>Wed, 16 Sep 2026 13:29:54 +0000</pubDate>
 </item>
 <item>
+<title>Mozilla携手Mistral，将AI模型引入Firefox智能窗口</title>
+<link>https://www.aibase.com/news/31108</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31108</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 01:23:32 +0000</pubDate>
+</item>
+<item>
 <title>Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…</title>
 <link>https://x.com/bcherny/status/2100260544087535639</link>
 <guid isPermaLink="true">https://x.com/bcherny/status/2100260544087535639</guid>
@@ -88,15 +120,7 @@
 <pubDate>Wed, 16 Sep 2026 16:28:29 +0000</pubDate>
 </item>
 <item>
-<title>AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手</title>
-<link>https://www.aibase.com/news/31097</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31097</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 09:54:57 +0000</pubDate>
-</item>
-<item>
-<title>How to connect AI usage to business value</title>
+<title>如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value</title>
 <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
 <guid isPermaLink="true">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
 <description>OpenAI News</description>
@@ -120,15 +144,15 @@
 <pubDate>Wed, 16 Sep 2026 13:26:06 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运</title>
-<link>https://www.aibase.com/news/31099</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31099</guid>
+<title>微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！</title>
+<link>https://www.aibase.com/news/31105</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31105</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 09:54:57 +0000</pubDate>
+<pubDate>Thu, 17 Sep 2026 01:23:32 +0000</pubDate>
 </item>
 <item>
-<title>How workers are unlocking new ways of working</title>
+<title>工人如何开启新的工作方式 / How workers are unlocking new ways of working</title>
 <link>https://openai.com/index/unlocking-new-ways-of-working</link>
 <guid isPermaLink="true">https://openai.com/index/unlocking-new-ways-of-working</guid>
 <description>OpenAI News</description>
@@ -136,36 +160,12 @@
 <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通</title>
-<link>https://www.aibase.com/news/31092</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31092</guid>
+<title>百度沈抖：产业智能体正在打通大模型变现的“最后一公里”</title>
+<link>https://www.aibase.com/news/31104</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31104</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 09:54:57 +0000</pubDate>
-</item>
-<item>
-<title>Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练</title>
-<link>https://www.aibase.com/news/31098</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31098</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 09:54:57 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%</title>
-<link>https://www.aibase.com/news/31095</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31095</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 09:54:57 +0000</pubDate>
-</item>
-<item>
-<title>vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型</title>
-<link>https://www.aibase.com/news/31091</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31091</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 09:54:57 +0000</pubDate>
+<pubDate>Thu, 17 Sep 2026 01:23:32 +0000</pubDate>
 </item>
 </channel>
 </rss>
