@@ -5,16 +5,8 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 17 Sep 2026 11:44:31 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 15:32:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
-<item>
-<title>OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI</title>
-<link>https://openai.com/index/reimagining-advertising-with-ai</link>
-<guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 16 Sep 2026 16:06:24 +0000</pubDate>
-</item>
 <item>
 <title>GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot</title>
 <link>https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot</link>
@@ -22,6 +14,14 @@
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Thu, 17 Sep 2026 00:26:43 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment</title>
+<link>https://openai.com/index/model-misalignment-reporting-framework</link>
+<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 17 Sep 2026 07:21:19 +0000</pubDate>
 </item>
 <item>
 <title>Copilot预算增加请求普遍可用 / Copilot budget increase requests are generally available</title>
@@ -40,14 +40,6 @@
 <pubDate>Wed, 16 Sep 2026 18:28:45 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment</title>
-<link>https://openai.com/index/model-misalignment-reporting-framework</link>
-<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 17 Sep 2026 07:21:19 +0000</pubDate>
-</item>
-<item>
 <title>SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute</title>
 <link>https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute</guid>
@@ -56,12 +48,28 @@
 <pubDate>Wed, 16 Sep 2026 20:19:58 +0000</pubDate>
 </item>
 <item>
+<title>帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life</title>
+<link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+<guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： "You do not answer to corporatio…</title>
 <link>https://x.com/AISafetyMemes/status/2100358777895780704</link>
 <guid isPermaLink="true">https://x.com/AISafetyMemes/status/2100358777895780704</guid>
 <description>OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。（X：AI Safety Memes (@AISafetyMemes)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 16 Sep 2026 22:58:50 +0000</pubDate>
+</item>
+<item>
+<title>Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …</title>
+<link>https://x.com/UnslothAI/status/2100601458458804381</link>
+<guid isPermaLink="true">https://x.com/UnslothAI/status/2100601458458804381</guid>
+<description>Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。（X：Unsloth (@UnslothAI)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 15:03:09 +0000</pubDate>
 </item>
 <item>
 <title>Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级</title>
@@ -80,14 +88,6 @@
 <pubDate>Wed, 16 Sep 2026 20:20:16 +0000</pubDate>
 </item>
 <item>
-<title>帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life</title>
-<link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
-<guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…</title>
 <link>https://x.com/bcherny/status/2100260544087535639</link>
 <guid isPermaLink="true">https://x.com/bcherny/status/2100260544087535639</guid>
@@ -102,22 +102,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Thu, 17 Sep 2026 09:58:08 +0000</pubDate>
-</item>
-<item>
-<title>如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value</title>
-<link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
-<guid isPermaLink="true">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup</title>
-<link>https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 16 Sep 2026 13:26:06 +0000</pubDate>
 </item>
 <item>
 <title>冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资</title>
@@ -136,9 +120,33 @@
 <pubDate>Thu, 17 Sep 2026 09:58:08 +0000</pubDate>
 </item>
 <item>
+<title>Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers</title>
+<link>https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Thu, 17 Sep 2026 13:38:33 +0000</pubDate>
+</item>
+<item>
 <title>夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖</title>
 <link>https://www.aibase.com/news/31137</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31137</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 17 Sep 2026 09:58:08 +0000</pubDate>
+</item>
+<item>
+<title>Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins</title>
+<link>https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
+</item>
+<item>
+<title>小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节</title>
+<link>https://www.aibase.com/news/31131</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31131</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Thu, 17 Sep 2026 09:58:08 +0000</pubDate>
@@ -150,14 +158,6 @@
 <description>TechCrunch AI</description>
 <category>值得关注</category>
 <pubDate>Wed, 16 Sep 2026 23:43:09 +0000</pubDate>
-</item>
-<item>
-<title>小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节</title>
-<link>https://www.aibase.com/news/31131</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31131</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 17 Sep 2026 09:58:08 +0000</pubDate>
 </item>
 <item>
 <title>抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍</title>
