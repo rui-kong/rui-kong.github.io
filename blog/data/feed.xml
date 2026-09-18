@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 18 Sep 2026 11:17:47 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 14:58:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号</title>
@@ -16,12 +16,28 @@
 <pubDate>Fri, 18 Sep 2026 04:45:46 +0000</pubDate>
 </item>
 <item>
+<title>逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history</title>
+<link>https://tokenstead.ai/guides/zcode-silent-git-history-upload</link>
+<guid isPermaLink="true">https://tokenstead.ai/guides/zcode-silent-git-history-upload</guid>
+<description>开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Fri, 18 Sep 2026 12:33:41 +0000</pubDate>
+</item>
+<item>
 <title>纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal</title>
 <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal</guid>
 <description>纽约时报诉 OpenAI 与微软版权案的新解封文件披露，微软高管 Brent Hecht 在内部备忘录中称 AI 抓取是"人类历史上最大规模的劳动窃取"，OpenAI 高管 Nick Turley 则称聊天机器人对出版商构成"生存威胁"。（TechCrunch：AI（RSS））</description>
 <category>多源热议</category>
-<pubDate>Fri, 18 Sep 2026 09:45:07 +0000</pubDate>
+<pubDate>Fri, 18 Sep 2026 11:15:43 +0000</pubDate>
+</item>
+<item>
+<title>新专家加入 Google 人工智能与经济团队 / New experts join Google’s AI &amp; Economy team</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement</title>
@@ -40,20 +56,20 @@
 <pubDate>Fri, 18 Sep 2026 04:45:46 +0000</pubDate>
 </item>
 <item>
-<title>Cooley 如何利用 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT</title>
-<link>https://openai.com/index/cooley-gopublic</link>
-<guid isPermaLink="true">https://openai.com/index/cooley-gopublic</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>让全球数据更容易探索 / Making global data easier to explore</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform</guid>
+<title>与 Google 共同创造时尚的未来 / Co-creating the future of fashion with Google</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week</guid>
 <description>Google AI Blog</description>
 <category>官方更新</category>
-<pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
+<pubDate>Fri, 18 Sep 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI</title>
+<link>https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</guid>
+<description>Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。（TechCrunch：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 14:00:14 +0000</pubDate>
 </item>
 <item>
 <title>代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API</title>
@@ -72,20 +88,20 @@
 <pubDate>Fri, 18 Sep 2026 07:25:07 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作</title>
-<link>https://www.aibase.com/news/31169</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31169</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 18 Sep 2026 09:43:33 +0000</pubDate>
-</item>
-<item>
 <title>WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …</title>
 <link>https://x.com/rohanpaul_ai/status/2100810101145891305</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2100810101145891305</guid>
 <description>据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 18 Sep 2026 04:52:13 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作</title>
+<link>https://www.aibase.com/news/31169</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31169</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 09:43:33 +0000</pubDate>
 </item>
 <item>
 <title>Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇</title>
@@ -104,12 +120,36 @@
 <pubDate>Thu, 17 Sep 2026 22:01:43 +0000</pubDate>
 </item>
 <item>
+<title>Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence</title>
+<link>https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence</link>
+<guid isPermaLink="true">https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence</guid>
+<description>Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。（Tessl：产品与工程博客）</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 13:38:06 +0000</pubDate>
+</item>
+<item>
+<title>Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI</title>
+<link>https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai</link>
+<guid isPermaLink="true">https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai</guid>
+<description>Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。（Trail of Bits：AI安全研究）</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
+</item>
+<item>
 <title>The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic</guid>
 <description>The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 17 Sep 2026 19:28:24 +0000</pubDate>
+</item>
+<item>
+<title>让全球数据更容易探索 / Making global data easier to explore</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 17 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration</title>
@@ -126,46 +166,6 @@
 <description>Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。（Anthropic：The Institute（旗舰研究长文 · 网页））</description>
 <category>行业动态</category>
 <pubDate>Thu, 17 Sep 2026 20:49:01 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增 / ChatGPT for Word is here！！ Tap into the power of ChatGPT / Codex directly in Microsoft Word. The us…</title>
-<link>https://x.com/sherwinwu/status/2100730628673065040</link>
-<guid isPermaLink="true">https://x.com/sherwinwu/status/2100730628673065040</guid>
-<description>ChatGPT 正式集成进 Microsoft Word，可在文档内把粗略笔记转成初稿、理顺段落、校对、给出修改建议，还能发现格式问题。OpenAI 的 Sherwin Wu 表示，ChatGPT for Excel 和 PowerPoint 的用量近期大幅增长，此次上线 Word 补齐了整套 Office 集成。（X：Sherwin Wu（@sherwinwu））</description>
-<category>行业动态</category>
-<pubDate>Thu, 17 Sep 2026 23:36:26 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品</title>
-<link>https://www.aibase.com/news/31162</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31162</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 18 Sep 2026 09:43:33 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior</title>
-<link>https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior</guid>
-<description>OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。（TechCrunch：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 17 Sep 2026 20:34:24 +0000</pubDate>
-</item>
-<item>
-<title>TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686475&amp;idx=1&amp;sn=1d9d43036b6d72fd83b9d5658b351215</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686475&amp;idx=1&amp;sn=1d9d43036b6d72fd83b9d5658b351215</guid>
-<description>TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。（公众号：数字生命卡兹克）</description>
-<category>行业动态</category>
-<pubDate>Fri, 18 Sep 2026 00:08:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling</title>
-<link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</guid>
-<description>Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。（Anthropic：Research（发表成果 · 网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 17 Sep 2026 19:49:41 +0000</pubDate>
 </item>
 </channel>
 </rss>
