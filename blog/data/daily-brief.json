@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T05:56:32.714229Z",
+  "generated_at": "2026-09-18T09:43:33.274930Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_ad6315db9660",
+      "story_id": "story_0c1bd57d4904",
       "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
       "url": "https://www.hacktron.ai/blog/hacking-openai",
       "primary_url": "https://www.hacktron.ai/blog/hacking-openai",
@@ -40,6 +40,34 @@
           "published_at": "2026-09-18T04:45:46.237000Z"
         },
         {
+          "id": "fc06b529e408a2880b0e1fe8642be63f6882ebbc",
+          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T02:47:24Z"
+        },
+        {
+          "id": "090b80327fdc32560593d33a0b97ebda2909fffa",
+          "title": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "title_zh": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库",
+          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49749656",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T02:47:24Z"
+        },
+        {
           "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
           "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
@@ -52,12 +80,28 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-09-18T02:47:24Z"
+        },
+        {
+          "id": "cc2f1ceed74f638baa5ff4123b148e3fa7e962f1",
+          "title": "Hacking OpenAI",
+          "title_zh": null,
+          "title_en": "Hacking OpenAI",
+          "title_original": "Hacking OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49749656",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T02:47:24Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 6,
       "source_names": [
         "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
         "www.hacktron.ai"
       ],
       "items": [
@@ -90,6 +134,34 @@
           "published_at": "2026-09-18T04:45:46.237000Z"
         },
         {
+          "id": "fc06b529e408a2880b0e1fe8642be63f6882ebbc",
+          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T02:47:24Z"
+        },
+        {
+          "id": "090b80327fdc32560593d33a0b97ebda2909fffa",
+          "title": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "title_zh": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库",
+          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49749656",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T02:47:24Z"
+        },
+        {
           "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
           "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
@@ -102,20 +174,34 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-09-18T02:47:24Z"
+        },
+        {
+          "id": "cc2f1ceed74f638baa5ff4123b148e3fa7e962f1",
+          "title": "Hacking OpenAI",
+          "title_zh": null,
+          "title_en": "Hacking OpenAI",
+          "title_original": "Hacking OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49749656",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T02:47:24Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.8912,
+      "importance": 0.8912,
+      "importance_score": 0.8912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
-        "story_heat": 0.5
+        "recency": 0.9308,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -141,12 +227,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
       "story_id": "story_6171d00caa9b",
-      "title": "Copilot impact dashboard now shows feature engagement",
+      "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
       "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
       "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
       "source": "GitHub Changelog",
@@ -154,8 +240,8 @@
       "sources": [
         {
           "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot impact dashboard now shows feature engagement",
-          "title_zh": null,
+          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+          "title_zh": "Copilot影响仪表板现在显示功能参与度",
           "title_en": "Copilot impact dashboard now shows feature engagement",
           "title_original": "Copilot impact dashboard now shows feature engagement",
           "summary": null,
@@ -174,8 +260,8 @@
       "items": [
         {
           "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot impact dashboard now shows feature engagement",
-          "title_zh": null,
+          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+          "title_zh": "Copilot影响仪表板现在显示功能参与度",
           "title_en": "Copilot impact dashboard now shows feature engagement",
           "title_original": "Copilot impact dashboard now shows feature engagement",
           "summary": null,
@@ -189,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.889,
+        "recency": 0.8417,
         "story_heat": 0.0
       },
       "category": "official",
@@ -210,8 +296,8 @@
       "latest_at": "2026-09-17T21:47:27Z",
       "primary_item": {
         "id": "f3caaef86269b72461c881b48e4cad194588c253",
-        "title": "Copilot impact dashboard now shows feature engagement",
-        "title_zh": null,
+        "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+        "title_zh": "Copilot影响仪表板现在显示功能参与度",
         "title_en": "Copilot impact dashboard now shows feature engagement",
         "title_original": "Copilot impact dashboard now shows feature engagement",
         "summary": null,
@@ -224,7 +310,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -359,15 +445,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8332,
+        "recency": 0.7889,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -394,7 +480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -442,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8663,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,12 +563,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
       "story_id": "story_d9139340eb5e",
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "title": "Cooley 如何利用 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
       "primary_url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News",
@@ -490,8 +576,8 @@
       "sources": [
         {
           "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-          "title": "How Cooley is accelerating IPO work with ChatGPT",
-          "title_zh": null,
+          "title": "Cooley 如何利用 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT",
+          "title_zh": "Cooley 如何利用 ChatGPT 加速 IPO 工作",
           "title_en": "How Cooley is accelerating IPO work with ChatGPT",
           "title_original": "How Cooley is accelerating IPO work with ChatGPT",
           "summary": null,
@@ -510,8 +596,8 @@
       "items": [
         {
           "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-          "title": "How Cooley is accelerating IPO work with ChatGPT",
-          "title_zh": null,
+          "title": "Cooley 如何利用 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT",
+          "title_zh": "Cooley 如何利用 ChatGPT 加速 IPO 工作",
           "title_en": "How Cooley is accelerating IPO work with ChatGPT",
           "title_original": "How Cooley is accelerating IPO work with ChatGPT",
           "summary": null,
@@ -525,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7717,
+        "recency": 0.7307,
         "story_heat": 0.0
       },
       "category": "official",
@@ -546,8 +632,8 @@
       "latest_at": "2026-09-17T12:00:00Z",
       "primary_item": {
         "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-        "title": "How Cooley is accelerating IPO work with ChatGPT",
-        "title_zh": null,
+        "title": "Cooley 如何利用 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT",
+        "title_zh": "Cooley 如何利用 ChatGPT 加速 IPO 工作",
         "title_en": "How Cooley is accelerating IPO work with ChatGPT",
         "title_original": "How Cooley is accelerating IPO work with ChatGPT",
         "summary": null,
@@ -560,90 +646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
-      }
-    },
-    {
-      "story_id": "story_633c0a236b12",
-      "title": "Agentic CLI customizations now in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-          "title": "Agentic CLI customizations now in the usage metrics API",
-          "title_zh": null,
-          "title_en": "Agentic CLI customizations now in the usage metrics API",
-          "title_original": "Agentic CLI customizations now in the usage metrics API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-          "title": "Agentic CLI customizations now in the usage metrics API",
-          "title_zh": null,
-          "title_en": "Agentic CLI customizations now in the usage metrics API",
-          "title_original": "Agentic CLI customizations now in the usage metrics API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8807,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T21:08:50Z",
-      "latest_at": "2026-09-17T21:08:50Z",
-      "primary_item": {
-        "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-        "title": "Agentic CLI customizations now in the usage metrics API",
-        "title_zh": null,
-        "title_en": "Agentic CLI customizations now in the usage metrics API",
-        "title_original": "Agentic CLI customizations now in the usage metrics API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -681,10 +684,25 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-09-17T19:46:08Z"
+        },
+        {
+          "id": "07d88bec8b04480d277b16a8028de1e06f6a6dcd",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T00:07:08Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News · 24h最热",
         "TechCrunch AI",
         "TechCrunch：AI（RSS）"
       ],
@@ -716,29 +734,43 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-09-17T19:46:08Z"
+        },
+        {
+          "id": "07d88bec8b04480d277b16a8028de1e06f6a6dcd",
+          "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
+          "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T00:07:08Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8634,
-        "story_heat": 0.25
+        "recency": 0.8175,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-09-17T19:46:08Z",
-      "latest_at": "2026-09-17T19:46:08Z",
+      "latest_at": "2026-09-18T00:07:08Z",
       "primary_item": {
         "id": "14511c8b5dd853440e87ab99755ea51b46a6cd25",
         "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取 / Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
@@ -755,7 +787,254 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
+      }
+    },
+    {
+      "story_id": "story_633c0a236b12",
+      "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+          "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
+          "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
+          "title_en": "Agentic CLI customizations now in the usage metrics API",
+          "title_original": "Agentic CLI customizations now in the usage metrics API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:08:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+          "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
+          "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
+          "title_en": "Agentic CLI customizations now in the usage metrics API",
+          "title_original": "Agentic CLI customizations now in the usage metrics API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:08:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8339,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T21:08:50Z",
+      "latest_at": "2026-09-17T21:08:50Z",
+      "primary_item": {
+        "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+        "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
+        "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
+        "title_en": "Agentic CLI customizations now in the usage metrics API",
+        "title_original": "Agentic CLI customizations now in the usage metrics API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T09:44:26.254264Z"
+      }
+    },
+    {
+      "story_id": "story_2ce879cf976f",
+      "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户 / okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+      "url": "https://x.com/haider1/status/2100848578340220987",
+      "primary_url": "https://x.com/haider1/status/2100848578340220987",
+      "source": "X：Haider (@haider1)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f7b34c49943fa49cfbe8d0de303807e421679c05",
+          "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户 / okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+          "title_zh": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
+          "title_en": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+          "title_original": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+          "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/haider1/status/2100848578340220987",
+          "source": "X：Haider (@haider1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T07:25:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Haider (@haider1)"
+      ],
+      "items": [
+        {
+          "id": "f7b34c49943fa49cfbe8d0de303807e421679c05",
+          "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户 / okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+          "title_zh": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
+          "title_en": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+          "title_original": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+          "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/haider1/status/2100848578340220987",
+          "source": "X：Haider (@haider1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T07:25:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9672,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T07:25:07Z",
+      "latest_at": "2026-09-18T07:25:07Z",
+      "primary_item": {
+        "id": "f7b34c49943fa49cfbe8d0de303807e421679c05",
+        "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户 / okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+        "title_zh": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
+        "title_en": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+        "title_original": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+        "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/haider1/status/2100848578340220987",
+        "source": "X：Haider (@haider1)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T09:44:26.254264Z"
+      }
+    },
+    {
+      "story_id": "story_498f79e7b42d",
+      "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+      "url": "https://www.aibase.com/news/31169",
+      "primary_url": "https://www.aibase.com/news/31169",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "994e38441a65fd36c1cbe96f47e7d708751aa006",
+          "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+          "title_zh": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+          "title_en": null,
+          "title_original": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31169",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T09:43:33.274930Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "994e38441a65fd36c1cbe96f47e7d708751aa006",
+          "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+          "title_zh": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+          "title_en": null,
+          "title_original": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31169",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T09:43:33.274930Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T09:43:33.274930Z",
+      "latest_at": "2026-09-18T09:43:33.274930Z",
+      "primary_item": {
+        "id": "994e38441a65fd36c1cbe96f47e7d708751aa006",
+        "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+        "title_zh": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+        "title_en": null,
+        "title_original": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31169",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -803,15 +1082,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
+        "recency": 0.9323,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,7 +1116,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -885,15 +1164,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -919,89 +1198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
-      }
-    },
-    {
-      "story_id": "story_572ac9f647ce",
-      "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-      "url": "https://www.aibase.com/news/31152",
-      "primary_url": "https://www.aibase.com/news/31152",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_en": null,
-          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31152",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:56:32.714229Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_en": null,
-          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31152",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:56:32.714229Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T05:56:32.714229Z",
-      "latest_at": "2026-09-18T05:56:32.714229Z",
-      "primary_item": {
-        "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-        "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-        "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-        "title_en": null,
-        "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31152",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -1049,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8446,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1083,7 +1280,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -1131,15 +1328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1165,12 +1362,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
       "story_id": "story_58ddcdd75710",
-      "title": "Ubuntu 26 generally available and latest migration",
+      "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
       "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
       "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
       "source": "GitHub Changelog",
@@ -1178,8 +1375,8 @@
       "sources": [
         {
           "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 generally available and latest migration",
-          "title_zh": null,
+          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+          "title_zh": "Ubuntu 26 正式发布和最新迁移",
           "title_en": "Ubuntu 26 generally available and latest migration",
           "title_original": "Ubuntu 26 generally available and latest migration",
           "summary": null,
@@ -1198,8 +1395,8 @@
       "items": [
         {
           "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 generally available and latest migration",
-          "title_zh": null,
+          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+          "title_zh": "Ubuntu 26 正式发布和最新迁移",
           "title_en": "Ubuntu 26 generally available and latest migration",
           "title_original": "Ubuntu 26 generally available and latest migration",
           "summary": null,
@@ -1213,15 +1410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.823,
+        "recency": 0.7793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1234,8 +1431,8 @@
       "latest_at": "2026-09-17T16:27:16Z",
       "primary_item": {
         "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-        "title": "Ubuntu 26 generally available and latest migration",
-        "title_zh": null,
+        "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+        "title_zh": "Ubuntu 26 正式发布和最新迁移",
         "title_en": "Ubuntu 26 generally available and latest migration",
         "title_original": "Ubuntu 26 generally available and latest migration",
         "summary": null,
@@ -1248,7 +1445,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
+      }
+    },
+    {
+      "story_id": "story_4e4efe237fdf",
+      "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+      "url": "https://www.aibase.com/news/31162",
+      "primary_url": "https://www.aibase.com/news/31162",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+          "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_en": null,
+          "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31162",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T09:43:33.274930Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+          "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_en": null,
+          "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31162",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T09:43:33.274930Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T09:43:33.274930Z",
+      "latest_at": "2026-09-18T09:43:33.274930Z",
+      "primary_item": {
+        "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+        "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+        "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+        "title_en": null,
+        "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31162",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -1296,15 +1575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9126,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1329,7 +1608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -1377,15 +1656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8765,
+        "recency": 0.8299,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1410,7 +1689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -1458,15 +1737,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8735,
+        "recency": 0.827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1492,7 +1771,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -1540,15 +1819,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9195,
+        "recency": 0.8706,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1573,89 +1852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
-      }
-    },
-    {
-      "story_id": "story_a88f3c82ba1e",
-      "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-      "url": "https://www.aibase.com/news/31145",
-      "primary_url": "https://www.aibase.com/news/31145",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
-          "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "title_en": null,
-          "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31145",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:56:32.714229Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
-          "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "title_en": null,
-          "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31145",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:56:32.714229Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T05:56:32.714229Z",
-      "latest_at": "2026-09-18T05:56:32.714229Z",
-      "primary_item": {
-        "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
-        "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-        "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-        "title_en": null,
-        "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31145",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     },
     {
@@ -1703,15 +1900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.8182,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1736,88 +1933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
-      }
-    },
-    {
-      "story_id": "story_1bd0a7425a3c",
-      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/noam-brown",
-      "primary_url": "https://www.dwarkesh.com/p/noam-brown",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:38:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/noam-brown",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:38:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8134,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T15:38:13Z",
-      "latest_at": "2026-09-17T15:38:13Z",
-      "primary_item": {
-        "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
-        "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-        "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
-        "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-        "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
-        "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/noam-brown",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:31:18.796841Z"
+        "scored_at": "2026-09-18T09:44:26.254264Z"
       }
     }
   ]
