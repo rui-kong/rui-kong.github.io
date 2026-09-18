@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:58:47.338849Z",
+  "generated_at": "2026-09-18T19:39:34.608786Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8789,
-      "importance": 0.8789,
-      "importance_score": 0.8789,
+      "score": 0.8688,
+      "importance": 0.8688,
+      "importance_score": 0.8688,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.8064,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -227,121 +227,121 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
-      "story_id": "story_96a1341fc9d6",
-      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "primary_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "story_id": "story_fc4b3a26f87c",
+      "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "primary_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
       "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
-          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
-          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
+          "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+          "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
+          "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
+          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+          "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
           "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-18T10:35:28Z"
+          "published_at": "2026-09-18T17:28:01Z"
         },
         {
-          "id": "122f082e8323a0950fa23608bf1f059274bd894f",
-          "title": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
-          "title_zh": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "id": "0ea33f912b37b9f311ade659916c1b113c8861c6",
+          "title": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "title_zh": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
           "title_en": null,
-          "title_original": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "title_original": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-          "source": "tokenstead.ai",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "www.cnn.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-18T12:33:41.989000Z"
+          "published_at": "2026-09-18T18:48:49.722000Z"
         },
         {
-          "id": "6f938c17b0d6580eed527768fd38a8db3fa1b744",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "id": "a7cd35ddcee1fa17fab498fce1164576639f9162",
+          "title": "美国军方使用人工智能生成幻觉情报报告后险些丧命 / US Military had close call after using AI for hallucinated intelligence report",
+          "title_zh": "美国军方使用人工智能生成幻觉情报报告后险些丧命",
+          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T10:35:28Z"
+          "url": "https://news.ycombinator.com/item?id=49757520",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T17:28:01Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
         "Hacker News：AI 热帖",
-        "tokenstead.ai"
+        "hackernews",
+        "www.cnn.com"
       ],
       "items": [
         {
-          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
-          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
-          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
+          "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+          "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
+          "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
+          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+          "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
           "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-18T10:35:28Z"
+          "published_at": "2026-09-18T17:28:01Z"
         },
         {
-          "id": "122f082e8323a0950fa23608bf1f059274bd894f",
-          "title": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
-          "title_zh": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "id": "0ea33f912b37b9f311ade659916c1b113c8861c6",
+          "title": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
+          "title_zh": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
           "title_en": null,
-          "title_original": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "title_original": "美军因使用人工智能生成虚假情报报告，险些酿成大祸",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-          "source": "tokenstead.ai",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "www.cnn.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-18T12:33:41.989000Z"
+          "published_at": "2026-09-18T18:48:49.722000Z"
         },
         {
-          "id": "6f938c17b0d6580eed527768fd38a8db3fa1b744",
-          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
-          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "id": "a7cd35ddcee1fa17fab498fce1164576639f9162",
+          "title": "美国军方使用人工智能生成幻觉情报报告后险些丧命 / US Military had close call after using AI for hallucinated intelligence report",
+          "title_zh": "美国军方使用人工智能生成幻觉情报报告后险些丧命",
+          "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+          "title_original": "US Military had close call after using AI for hallucinated intelligence report",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T10:35:28Z"
+          "url": "https://news.ycombinator.com/item?id=49757520",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T17:28:01Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.854,
+      "importance": 0.854,
+      "importance_score": 0.854,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9688,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -350,17 +350,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-18T10:35:28Z",
-      "latest_at": "2026-09-18T12:33:41.989000Z",
+      "earliest_at": "2026-09-18T17:28:01Z",
+      "latest_at": "2026-09-18T18:48:49.722000Z",
       "primary_item": {
-        "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
-        "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-        "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-        "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
-        "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
-        "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
+        "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+        "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
+        "title_zh": "美军因 AI 幻觉情报报告险些拦截中国船只",
+        "title_en": "US Military had close call after using AI for hallucinated intelligence report",
+        "title_original": "US Military had close call after using AI for hallucinated intelligence report",
+        "summary": "据 CNN 报道，今年春天美伊战争期间，一份由特种作战司令部分析师借助聊天机器人生成的情报报告错误称一艘中东中国船只运输核武器部件，美军一度准备武装登船拦截，行动前才发现报告内容完全不实。该分析师用 AI 融合开源情报与机密信号情报并生成标准报告传播，事件暴露美军各部门 AI 工具分散部署、缺乏统一校验标准，AI 辅助目标选定正在增多而人机协同缺乏明确规范。",
         "recommend_reason_zh": null,
-        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       },
@@ -368,7 +368,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
+      }
+    },
+    {
+      "story_id": "story_55ec4d48c198",
+      "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_zh": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？",
+          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_zh": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？",
+          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8403,
+      "importance": 0.8403,
+      "importance_score": 0.8403,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9349,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T15:00:00Z",
+      "latest_at": "2026-09-18T15:00:00Z",
+      "primary_item": {
+        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+        "title": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "title_zh": "你应该读一下代码吗？RAG 死了吗？Skills 杀死了 MCP 吗？",
+        "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -532,15 +615,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8391,
+      "importance": 0.8391,
+      "importance_score": 0.8391,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7577,
+        "recency": 0.7082,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -567,7 +650,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
+      }
+    },
+    {
+      "story_id": "story_38f7cda29bd5",
+      "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+          "title_en": "Stage-only npm tokens for safer automation",
+          "title_original": "Stage-only npm tokens for safer automation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T16:37:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+          "title_en": "Stage-only npm tokens for safer automation",
+          "title_original": "Stage-only npm tokens for safer automation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T16:37:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9572,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T16:37:50Z",
+      "latest_at": "2026-09-18T16:37:50Z",
+      "primary_item": {
+        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
+        "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
+        "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
+        "title_en": "Stage-only npm tokens for safer automation",
+        "title_original": "Stage-only npm tokens for safer automation",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -615,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.986,
+        "recency": 0.9215,
         "story_heat": 0.0
       },
       "category": "official",
@@ -650,234 +816,122 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
-      "story_id": "story_6171d00caa9b",
-      "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-          "title_zh": "Copilot影响仪表板现在显示功能参与度",
-          "title_en": "Copilot impact dashboard now shows feature engagement",
-          "title_original": "Copilot impact dashboard now shows feature engagement",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:47:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f3caaef86269b72461c881b48e4cad194588c253",
-          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-          "title_zh": "Copilot影响仪表板现在显示功能参与度",
-          "title_en": "Copilot impact dashboard now shows feature engagement",
-          "title_original": "Copilot impact dashboard now shows feature engagement",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:47:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7802,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T21:47:27Z",
-      "latest_at": "2026-09-17T21:47:27Z",
-      "primary_item": {
-        "id": "f3caaef86269b72461c881b48e4cad194588c253",
-        "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
-        "title_zh": "Copilot影响仪表板现在显示功能参与度",
-        "title_en": "Copilot impact dashboard now shows feature engagement",
-        "title_original": "Copilot impact dashboard now shows feature engagement",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
-      }
-    },
-    {
-      "story_id": "story_4bc3dd239911",
-      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "primary_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "source": "Qwen：Blog Retrieval（API）",
+      "story_id": "story_96a1341fc9d6",
+      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "primary_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Qwen：Blog Retrieval（API）",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T17:18:08.568000Z"
+          "published_at": "2026-09-18T10:35:28Z"
         },
         {
-          "id": "1fffd1feade9fb636c1acc9d54d20f5cb236ca78",
-          "title": "阿里巴巴发布Qwen 3.8 Omni Flash",
-          "title_zh": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "id": "122f082e8323a0950fa23608bf1f059274bd894f",
+          "title": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "title_zh": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
           "title_en": null,
-          "title_original": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_original": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "qwen.ai",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "tokenstead.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-18T04:45:46.234000Z"
+          "published_at": "2026-09-18T12:33:41.989000Z"
         },
         {
-          "id": "5506e775b22e613d112ed24bedbc02b2de69fa67",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
-          "title_original": "Alibaba releases Qwen 3.8 Omni Flash",
+          "id": "6f938c17b0d6580eed527768fd38a8db3fa1b744",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-17T23:05:48Z"
-        },
-        {
-          "id": "4f1be5c84a80e2ffead5ac3376c67f878048ee28",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen 3.8 Omni Flash",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Qwen 3.8 Omni Flash",
-          "title_original": "Qwen 3.8 Omni Flash",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-17T23:05:48Z"
+          "published_at": "2026-09-18T10:35:28Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Qwen：Blog Retrieval（API）",
-        "qwen.ai"
+        "Hacker News：AI 热帖",
+        "tokenstead.ai"
       ],
       "items": [
         {
-          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Qwen：Blog Retrieval（API）",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T17:18:08.568000Z"
+          "published_at": "2026-09-18T10:35:28Z"
         },
         {
-          "id": "1fffd1feade9fb636c1acc9d54d20f5cb236ca78",
-          "title": "阿里巴巴发布Qwen 3.8 Omni Flash",
-          "title_zh": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "id": "122f082e8323a0950fa23608bf1f059274bd894f",
+          "title": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "title_zh": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
           "title_en": null,
-          "title_original": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_original": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "qwen.ai",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "tokenstead.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-18T04:45:46.234000Z"
+          "published_at": "2026-09-18T12:33:41.989000Z"
         },
         {
-          "id": "5506e775b22e613d112ed24bedbc02b2de69fa67",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
-          "title_original": "Alibaba releases Qwen 3.8 Omni Flash",
+          "id": "6f938c17b0d6580eed527768fd38a8db3fa1b744",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-17T23:05:48Z"
-        },
-        {
-          "id": "4f1be5c84a80e2ffead5ac3376c67f878048ee28",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen 3.8 Omni Flash",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Qwen 3.8 Omni Flash",
-          "title_original": "Qwen 3.8 Omni Flash",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-17T23:05:48Z"
+          "published_at": "2026-09-18T10:35:28Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7312,
-        "story_heat": 0.75
+        "recency": 0.8773,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -885,25 +939,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T17:18:08.568000Z",
-      "latest_at": "2026-09-18T04:45:46.234000Z",
+      "earliest_at": "2026-09-18T10:35:28Z",
+      "latest_at": "2026-09-18T12:33:41.989000Z",
       "primary_item": {
-        "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-        "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-        "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+        "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+        "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+        "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+        "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+        "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+        "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
         "recommend_reason_zh": null,
-        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-        "source": "Qwen：Blog Retrieval（API）",
+        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -951,15 +1005,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9718,
+        "recency": 0.9083,
         "story_heat": 0.0
       },
       "category": "official",
@@ -986,7 +1040,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
+      }
+    },
+    {
+      "story_id": "story_aba82ef73bf1",
+      "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "primary_url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T15:27:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T15:27:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9411,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T15:27:29Z",
+      "latest_at": "2026-09-18T15:27:29Z",
+      "primary_item": {
+        "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+        "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+        "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+        "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T19:40:23.141742Z"
+      }
+    },
+    {
+      "story_id": "story_6171d00caa9b",
+      "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "primary_url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+          "title_zh": "Copilot影响仪表板现在显示功能参与度",
+          "title_en": "Copilot impact dashboard now shows feature engagement",
+          "title_original": "Copilot impact dashboard now shows feature engagement",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f3caaef86269b72461c881b48e4cad194588c253",
+          "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+          "title_zh": "Copilot影响仪表板现在显示功能参与度",
+          "title_en": "Copilot impact dashboard now shows feature engagement",
+          "title_original": "Copilot impact dashboard now shows feature engagement",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T21:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7292,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T21:47:27Z",
+      "latest_at": "2026-09-17T21:47:27Z",
+      "primary_item": {
+        "id": "f3caaef86269b72461c881b48e4cad194588c253",
+        "title": "Copilot影响仪表板现在显示功能参与度 / Copilot impact dashboard now shows feature engagement",
+        "title_zh": "Copilot影响仪表板现在显示功能参与度",
+        "title_en": "Copilot impact dashboard now shows feature engagement",
+        "title_original": "Copilot impact dashboard now shows feature engagement",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -1063,15 +1282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.9216,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1098,90 +1317,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
-      }
-    },
-    {
-      "story_id": "story_633c0a236b12",
-      "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
-      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-          "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
-          "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
-          "title_en": "Agentic CLI customizations now in the usage metrics API",
-          "title_original": "Agentic CLI customizations now in the usage metrics API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-          "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
-          "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
-          "title_en": "Agentic CLI customizations now in the usage metrics API",
-          "title_original": "Agentic CLI customizations now in the usage metrics API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T21:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.773,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T21:08:50Z",
-      "latest_at": "2026-09-17T21:08:50Z",
-      "primary_item": {
-        "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
-        "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
-        "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
-        "title_en": "Agentic CLI customizations now in the usage metrics API",
-        "title_original": "Agentic CLI customizations now in the usage metrics API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -1229,15 +1365,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8966,
+        "recency": 0.838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1263,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -1311,21 +1447,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8642,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T04:52:13Z",
       "latest_at": "2026-09-18T04:52:13Z",
@@ -1345,7 +1480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -1393,21 +1528,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.8664,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T09:43:33.274930Z",
       "latest_at": "2026-09-18T09:43:33.274930Z",
@@ -1427,7 +1561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -1475,21 +1609,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7889,
+        "recency": 0.7373,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T22:33:21Z",
       "latest_at": "2026-09-17T22:33:21Z",
@@ -1509,7 +1642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -1557,15 +1690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7829,
+        "recency": 0.7317,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1590,7 +1723,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
@@ -1638,15 +1771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9808,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1671,275 +1804,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
-      "story_id": "story_a27283891753",
-      "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-      "primary_url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-      "source": "Trail of Bits：AI安全研究",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-          "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-          "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-          "title_en": "Auditing in the age of （good enough） AI",
-          "title_original": "Auditing in the age of （good enough） AI",
-          "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T11:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Trail of Bits：AI安全研究"
-      ],
-      "items": [
-        {
-          "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-          "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-          "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-          "title_en": "Auditing in the age of （good enough） AI",
-          "title_original": "Auditing in the age of （good enough） AI",
-          "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T11:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9441,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T11:00:00Z",
-      "latest_at": "2026-09-18T11:00:00Z",
-      "primary_item": {
-        "id": "1ac31603850f9bcf580631d40b7ca2c62631be3f",
-        "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明 / Auditing in the age of （good enough） AI",
-        "title_zh": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-        "title_en": "Auditing in the age of （good enough） AI",
-        "title_original": "Auditing in the age of （good enough） AI",
-        "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-        "source": "Trail of Bits：AI安全研究",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
-      }
-    },
-    {
-      "story_id": "story_d56b523d3dff",
-      "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
-          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
-          "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
-          "title_en": "The AI Superintelligence Slowdown",
-          "title_original": "The AI Superintelligence Slowdown",
-          "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:28:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
-          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
-          "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
-          "title_en": "The AI Superintelligence Slowdown",
-          "title_original": "The AI Superintelligence Slowdown",
-          "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:28:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7545,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T19:28:24Z",
-      "latest_at": "2026-09-17T19:28:24Z",
-      "primary_item": {
-        "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
-        "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
-        "title_zh": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
-        "title_en": "The AI Superintelligence Slowdown",
-        "title_original": "The AI Superintelligence Slowdown",
-        "summary": "The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
-      }
-    },
-    {
-      "story_id": "story_ae721db060a3",
-      "title": "让全球数据更容易探索 / Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更容易探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更容易探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更容易探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更容易探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7603,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T20:00:00Z",
-      "latest_at": "2026-09-17T20:00:00Z",
-      "primary_item": {
-        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-        "title": "让全球数据更容易探索 / Making global data easier to explore",
-        "title_zh": "让全球数据更容易探索",
-        "title_en": "Making global data easier to explore",
-        "title_original": "Making global data easier to explore",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
-      }
-    },
-    {
-      "story_id": "story_58ddcdd75710",
-      "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-      "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "story_id": "story_633c0a236b12",
+      "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "primary_url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-          "title_zh": "Ubuntu 26 正式发布和最新迁移",
-          "title_en": "Ubuntu 26 generally available and latest migration",
-          "title_original": "Ubuntu 26 generally available and latest migration",
+          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+          "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
+          "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
+          "title_en": "Agentic CLI customizations now in the usage metrics API",
+          "title_original": "Agentic CLI customizations now in the usage metrics API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T16:27:16Z"
+          "published_at": "2026-09-17T21:08:50Z"
         }
       ],
       "source_count": 1,
@@ -1948,18 +1836,18 @@
       ],
       "items": [
         {
-          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-          "title_zh": "Ubuntu 26 正式发布和最新迁移",
-          "title_en": "Ubuntu 26 generally available and latest migration",
-          "title_original": "Ubuntu 26 generally available and latest migration",
+          "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+          "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
+          "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
+          "title_en": "Agentic CLI customizations now in the usage metrics API",
+          "title_original": "Agentic CLI customizations now in the usage metrics API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T16:27:16Z"
+          "published_at": "2026-09-17T21:08:50Z"
         }
       ],
       "item_count": 1,
@@ -1972,7 +1860,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7223,
+        "recency": 0.7225,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1981,17 +1869,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T16:27:16Z",
-      "latest_at": "2026-09-17T16:27:16Z",
+      "earliest_at": "2026-09-17T21:08:50Z",
+      "latest_at": "2026-09-17T21:08:50Z",
       "primary_item": {
-        "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-        "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
-        "title_zh": "Ubuntu 26 正式发布和最新迁移",
-        "title_en": "Ubuntu 26 generally available and latest migration",
-        "title_original": "Ubuntu 26 generally available and latest migration",
+        "id": "ac20b241cea8010c0b1ebfa1cdbd5a710cc14587",
+        "title": "代理 CLI 自定义现在位于使用指标 API 中 / Agentic CLI customizations now in the usage metrics API",
+        "title_zh": "代理 CLI 自定义现在位于使用指标 API 中",
+        "title_en": "Agentic CLI customizations now in the usage metrics API",
+        "title_original": "Agentic CLI customizations now in the usage metrics API",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1999,88 +1887,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     },
     {
-      "story_id": "story_51a62c29e642",
-      "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier",
-      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "primary_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "story_id": "story_7d5f4a120d78",
+      "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang",
+      "url": "https://www.oneusefulthing.org/p/the-overhang",
+      "primary_url": "https://www.oneusefulthing.org/p/the-overhang",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "10ded19a5fde892f939bc5160f728f7ebf4baa4e",
-          "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier",
-          "title_zh": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
-          "title_en": "Illuminating the Frontier",
-          "title_original": "Illuminating the Frontier",
-          "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+          "id": "89c045b893bc93dad861765b5e32082b227147a3",
+          "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang",
+          "title_zh": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽",
+          "title_en": "The Overhang",
+          "title_original": "The Overhang",
+          "summary": "Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。",
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "url": "https://www.oneusefulthing.org/p/the-overhang",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T20:49:01.866000Z"
+          "published_at": "2026-09-18T17:54:32Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Anthropic：The Institute（旗舰研究长文 · 网页）"
+        "Ethan Mollick：One Useful Thing（RSS）"
       ],
       "items": [
         {
-          "id": "10ded19a5fde892f939bc5160f728f7ebf4baa4e",
-          "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier",
-          "title_zh": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
-          "title_en": "Illuminating the Frontier",
-          "title_original": "Illuminating the Frontier",
-          "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+          "id": "89c045b893bc93dad861765b5e32082b227147a3",
+          "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang",
+          "title_zh": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽",
+          "title_en": "The Overhang",
+          "title_original": "The Overhang",
+          "summary": "Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。",
           "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "url": "https://www.oneusefulthing.org/p/the-overhang",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T20:49:01.866000Z"
+          "published_at": "2026-09-18T17:54:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7693,
+        "recency": 0.975,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-17T20:49:01.866000Z",
-      "latest_at": "2026-09-17T20:49:01.866000Z",
+      "earliest_at": "2026-09-18T17:54:32Z",
+      "latest_at": "2026-09-18T17:54:32Z",
       "primary_item": {
-        "id": "10ded19a5fde892f939bc5160f728f7ebf4baa4e",
-        "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier",
-        "title_zh": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
-        "title_en": "Illuminating the Frontier",
-        "title_original": "Illuminating the Frontier",
-        "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+        "id": "89c045b893bc93dad861765b5e32082b227147a3",
+        "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang",
+        "title_zh": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽",
+        "title_en": "The Overhang",
+        "title_original": "The Overhang",
+        "summary": "Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。",
         "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-        "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "url": "https://www.oneusefulthing.org/p/the-overhang",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T14:59:33.814892Z"
+        "scored_at": "2026-09-18T19:40:23.141742Z"
+      }
+    },
+    {
+      "story_id": "story_abd616b30eba",
+      "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+      "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+      "primary_url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
+          "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
+          "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T16:29:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
+          "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
+          "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+          "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T16:29:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9554,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T16:29:57Z",
+      "latest_at": "2026-09-18T16:29:57Z",
+      "primary_item": {
+        "id": "cc1841041930dac7e23fd2f34e3ea0cea4947dc4",
+        "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击 / Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+        "title_zh": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
+        "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+        "title_original": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+        "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T19:40:23.141742Z"
       }
     }
   ]
