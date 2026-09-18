@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 18 Sep 2026 01:16:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 05:56:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号</title>
+<link>https://www.hacktron.ai/blog/hacking-openai</link>
+<guid isPermaLink="true">https://www.hacktron.ai/blog/hacking-openai</guid>
+<description>Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Fri, 18 Sep 2026 04:45:46 +0000</pubDate>
+</item>
 <item>
 <title>Copilot impact dashboard now shows feature engagement</title>
 <link>https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement</link>
@@ -16,7 +24,15 @@
 <pubDate>Thu, 17 Sep 2026 21:47:27 +0000</pubDate>
 </item>
 <item>
-<title>Making global data easier to explore</title>
+<title>Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.</title>
+<link>https://qwen.ai/blog?id=qwen3.8-omni-flash</link>
+<guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-omni-flash</guid>
+<description>Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。（Qwen：Blog Retrieval（API））</description>
+<category>多源热议</category>
+<pubDate>Fri, 18 Sep 2026 04:45:46 +0000</pubDate>
+</item>
+<item>
+<title>让全球数据更容易探索 / Making global data easier to explore</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform</guid>
 <description>Google AI Blog</description>
@@ -48,12 +64,28 @@
 <pubDate>Thu, 17 Sep 2026 19:46:08 +0000</pubDate>
 </item>
 <item>
+<title>WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …</title>
+<link>https://x.com/rohanpaul_ai/status/2100810101145891305</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2100810101145891305</guid>
+<description>据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 04:52:13 +0000</pubDate>
+</item>
+<item>
 <title>Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇</title>
 <link>https://x.com/AIatMeta/status/2100714755568644409</link>
 <guid isPermaLink="true">https://x.com/AIatMeta/status/2100714755568644409</guid>
 <description>Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。（X：AI at Meta (@AIatMeta)）</description>
 <category>官方更新</category>
 <pubDate>Thu, 17 Sep 2026 22:33:21 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款</title>
+<link>https://www.aibase.com/news/31152</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31152</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 05:56:32 +0000</pubDate>
 </item>
 <item>
 <title>纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop / 'Doom Loop'： OpenAI and Microsoft Admits LLMs Are Destroying the Web and Built on Theft</title>
@@ -70,22 +102,6 @@
 <description>The Verge 梳理近期 AI 安全与放缓争论：Anthropic CEO Dario Amodei 发文提出三步走计划，包括引入第三方评估机构（Anthropic 已单方面承诺第一步）、民主国家前沿 AI 公司协调标准，以及政府间全球协调，OpenAI 的 Sam Altman 与 Elon Musk 表示支持。（The Verge：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 17 Sep 2026 19:28:24 +0000</pubDate>
-</item>
-<item>
-<title>AI基础设施需求升温，Crusoe估值10个月增长至300亿美元</title>
-<link>https://www.aibase.com/news/31140</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31140</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 18 Sep 2026 01:16:27 +0000</pubDate>
-</item>
-<item>
-<title>Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.</title>
-<link>https://qwen.ai/blog?id=qwen3.8-omni-flash</link>
-<guid isPermaLink="true">https://qwen.ai/blog?id=qwen3.8-omni-flash</guid>
-<description>Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。（Qwen：Blog Retrieval（API））</description>
-<category>行业动态</category>
-<pubDate>Thu, 17 Sep 2026 17:18:08 +0000</pubDate>
 </item>
 <item>
 <title>Ubuntu 26 generally available and latest migration</title>
@@ -128,6 +144,14 @@
 <pubDate>Fri, 18 Sep 2026 00:08:00 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic重构Claude Code项目功能，多线程并行执行任务</title>
+<link>https://www.aibase.com/news/31145</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31145</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 05:56:32 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling</title>
 <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
 <guid isPermaLink="true">https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</guid>
@@ -142,30 +166,6 @@
 <description>Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。（Dwarkesh Patel：Podcast &amp; Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 17 Sep 2026 15:38:13 +0000</pubDate>
-</item>
-<item>
-<title>DeepMind成立新研究院，四篇文章直面AGI关键问题</title>
-<link>https://www.aibase.com/news/31141</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31141</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 18 Sep 2026 01:16:27 +0000</pubDate>
-</item>
-<item>
-<title>Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale</title>
-<link>https://www.goodfire.com/research/reward-hacking-activation-monitors</link>
-<guid isPermaLink="true">https://www.goodfire.com/research/reward-hacking-activation-monitors</guid>
-<description>Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。（Goodfire Research（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 17 Sep 2026 16:38:32 +0000</pubDate>
-</item>
-<item>
-<title>Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation</title>
-<link>https://claude.com/blog/projects-redesigned</link>
-<guid isPermaLink="true">https://claude.com/blog/projects-redesigned</guid>
-<description>Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。（Claude：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 17 Sep 2026 17:52:08 +0000</pubDate>
 </item>
 </channel>
 </rss>
