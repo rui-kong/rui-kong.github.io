@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 18 Sep 2026 23:19:59 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 01:09:05 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号</title>
@@ -48,14 +48,6 @@
 <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.155.1</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Copilot weekly releases — September 14</title>
 <link>https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14</guid>
@@ -70,6 +62,14 @@
 <description>开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。（Hacker News：AI 热帖）</description>
 <category>多源热议</category>
 <pubDate>Fri, 18 Sep 2026 12:33:41 +0000</pubDate>
+</item>
+<item>
+<title>谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止</title>
+<link>https://www.ithome.com/1/004/355.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/004/355.htm</guid>
+<description>谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的"捕获旗帜"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 23:11:25 +0000</pubDate>
 </item>
 <item>
 <title>与 Google 共同创造时尚的未来 / Co-creating the future of fashion with Google</title>
@@ -88,12 +88,28 @@
 <pubDate>Fri, 18 Sep 2026 14:00:14 +0000</pubDate>
 </item>
 <item>
+<title>FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …</title>
+<link>https://x.com/rohanpaul_ai/status/2101095915654463533</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2101095915654463533</guid>
+<description>FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 23:47:57 +0000</pubDate>
+</item>
+<item>
 <title>Upcoming deprecation of selected GitHub Copilot models in mid-October</title>
 <link>https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 18 Sep 2026 19:00:00 +0000</pubDate>
+</item>
+<item>
+<title>《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it "astonishing theft"</title>
+<link>https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</link>
+<guid isPermaLink="true">https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</guid>
+<description>《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 18 Sep 2026 15:27:29 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元 / Partnering with Accenture on embedded evaluation</title>
@@ -104,12 +120,12 @@
 <pubDate>Fri, 18 Sep 2026 20:21:40 +0000</pubDate>
 </item>
 <item>
-<title>《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it "astonishing theft"</title>
-<link>https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</link>
-<guid isPermaLink="true">https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft</guid>
-<description>《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。（The Decoder：AI News（RSS））</description>
+<title>Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元</title>
+<link>https://www.ithome.com/1/004/369.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/004/369.htm</guid>
+<description>据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。（IT之家（RSS））</description>
 <category>行业动态</category>
-<pubDate>Fri, 18 Sep 2026 15:27:29 +0000</pubDate>
+<pubDate>Sat, 19 Sep 2026 00:07:04 +0000</pubDate>
 </item>
 <item>
 <title>Manage the code coverage ruleset condition with the REST API</title>
@@ -126,14 +142,6 @@
 <description>一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。（X：Haider (@haider1)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 18 Sep 2026 07:25:07 +0000</pubDate>
-</item>
-<item>
-<title>WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …</title>
-<link>https://x.com/rohanpaul_ai/status/2100810101145891305</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2100810101145891305</guid>
-<description>据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 18 Sep 2026 04:52:13 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作</title>
@@ -158,14 +166,6 @@
 <description>Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。（Tessl：产品与工程博客）</description>
 <category>行业动态</category>
 <pubDate>Fri, 18 Sep 2026 13:38:06 +0000</pubDate>
-</item>
-<item>
-<title>Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽 / The Overhang</title>
-<link>https://www.oneusefulthing.org/p/the-overhang</link>
-<guid isPermaLink="true">https://www.oneusefulthing.org/p/the-overhang</guid>
-<description>Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。（Ethan Mollick：One Useful Thing（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 18 Sep 2026 17:54:32 +0000</pubDate>
 </item>
 </channel>
 </rss>
