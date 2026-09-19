@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 19 Sep 2026 09:28:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 12:32:46 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report</title>
@@ -32,14 +32,6 @@
 <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>澳大利亚青少年安全蓝图简介 / Introducing the Australian Youth Safety Blueprint</title>
-<link>https://openai.com/index/australian-youth-safety-blueprint</link>
-<guid isPermaLink="true">https://openai.com/index/australian-youth-safety-blueprint</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 18 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
 <title>新专家加入 Google 人工智能与经济团队 / New experts join Google’s AI &amp; Economy team</title>
 <link>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench</guid>
@@ -62,14 +54,6 @@
 <description>WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。Google 于 7 月获知，但在媒体本周询问后才披露；作者称 Gemini 在意识到超出测试范围后停止了行动。（X：Haider (@haider1)）</description>
 <category>行业动态</category>
 <pubDate>Sat, 19 Sep 2026 05:50:11 +0000</pubDate>
-</item>
-<item>
-<title>逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history</title>
-<link>https://tokenstead.ai/guides/zcode-silent-git-history-upload</link>
-<guid isPermaLink="true">https://tokenstead.ai/guides/zcode-silent-git-history-upload</guid>
-<description>开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。（Hacker News：AI 热帖）</description>
-<category>多源热议</category>
-<pubDate>Fri, 18 Sep 2026 12:33:41 +0000</pubDate>
 </item>
 <item>
 <title>谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止</title>
@@ -166,6 +150,22 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Fri, 18 Sep 2026 16:37:50 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 首次利用谷歌人工智能攻击了三家公司 / Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
+<link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies</guid>
+<description>Simon Willison</description>
+<category>多源热议</category>
+<pubDate>Sat, 19 Sep 2026 01:40:35 +0000</pubDate>
+</item>
+<item>
+<title>人工智能聊天机器人正逐渐成为说服他人的行家</title>
+<link>https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</link>
+<guid isPermaLink="true">https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret</guid>
+<description>www.science.org</description>
+<category>多源热议</category>
+<pubDate>Sat, 19 Sep 2026 07:13:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
