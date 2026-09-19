@@ -1,235 +1,8 @@
 {
-  "generated_at": "2026-09-19T01:09:05.020773Z",
+  "generated_at": "2026-09-19T07:23:24.197740Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_0c1bd57d4904",
-      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "primary_url": "https://www.hacktron.ai/blog/hacking-openai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T04:45:46.237000Z"
-        },
-        {
-          "id": "670084e32196613c0b728bbf7574fe486402723a",
-          "title": "入侵OpenAI",
-          "title_zh": "入侵OpenAI",
-          "title_en": null,
-          "title_original": "入侵OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "www.hacktron.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T04:45:46.237000Z"
-        },
-        {
-          "id": "f4fd7c80ee287eb8725add21c0b7f2045b464482",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "090b80327fdc32560593d33a0b97ebda2909fffa",
-          "title": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_zh": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库",
-          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49749656",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_en": "Hacking OpenAI",
-          "title_original": "Hacking OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "cc2f1ceed74f638baa5ff4123b148e3fa7e962f1",
-          "title": "Hacking OpenAI",
-          "title_zh": null,
-          "title_en": "Hacking OpenAI",
-          "title_original": "Hacking OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49749656",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T02:47:24Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.hacktron.ai"
-      ],
-      "items": [
-        {
-          "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T04:45:46.237000Z"
-        },
-        {
-          "id": "670084e32196613c0b728bbf7574fe486402723a",
-          "title": "入侵OpenAI",
-          "title_zh": "入侵OpenAI",
-          "title_en": null,
-          "title_original": "入侵OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "www.hacktron.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-18T04:45:46.237000Z"
-        },
-        {
-          "id": "f4fd7c80ee287eb8725add21c0b7f2045b464482",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "090b80327fdc32560593d33a0b97ebda2909fffa",
-          "title": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_zh": "堆溢出和 SSO 配置错误会危及 OpenAI 内部存储库",
-          "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49749656",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
-          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
-          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-          "title_en": "Hacking OpenAI",
-          "title_original": "Hacking OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-18T02:47:24Z"
-        },
-        {
-          "id": "cc2f1ceed74f638baa5ff4123b148e3fa7e962f1",
-          "title": "Hacking OpenAI",
-          "title_zh": null,
-          "title_en": "Hacking OpenAI",
-          "title_original": "Hacking OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49749656",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T02:47:24Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8577,
-      "importance": 0.8577,
-      "importance_score": 0.8577,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.745,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T02:47:24Z",
-      "latest_at": "2026-09-18T04:45:46.237000Z",
-      "primary_item": {
-        "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
-        "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-        "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-        "title_en": null,
-        "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-        "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-        "recommend_reason_zh": null,
-        "url": "https://www.hacktron.ai/blog/hacking-openai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
-      }
-    },
     {
       "story_id": "story_fc4b3a26f87c",
       "title": "美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report",
@@ -333,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8179,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -368,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -416,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9322,
+        "recency": 0.8519,
         "story_heat": 0.0
       },
       "category": "official",
@@ -451,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -499,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8275,
-      "importance": 0.8275,
-      "importance_score": 0.8275,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8636,
+        "recency": 0.7892,
         "story_heat": 0.0
       },
       "category": "official",
@@ -534,7 +307,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
+      }
+    },
+    {
+      "story_id": "story_4013441011f2",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "primary_url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "title_zh": null,
+          "title_en": "Introducing the Australian Youth Safety Blueprint",
+          "title_original": "Introducing the Australian Youth Safety Blueprint",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "title_zh": null,
+          "title_en": "Introducing the Australian Youth Safety Blueprint",
+          "title_original": "Introducing the Australian Youth Safety Blueprint",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7558,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T12:00:00Z",
+      "latest_at": "2026-09-18T12:00:00Z",
+      "primary_item": {
+        "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "title_zh": null,
+        "title_en": "Introducing the Australian Youth Safety Blueprint",
+        "title_original": "Introducing the Australian Youth Safety Blueprint",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/australian-youth-safety-blueprint",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -582,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8513,
+        "recency": 0.7779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -617,7 +473,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
+      }
+    },
+    {
+      "story_id": "story_de3b2aa2df19",
+      "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司 / google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+      "url": "https://x.com/haider1/status/2101187073990611232",
+      "primary_url": "https://x.com/haider1/status/2101187073990611232",
+      "source": "X：Haider (@haider1)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7be25af0c2acab7857d209435467e836f1230c1",
+          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司 / google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+          "title_zh": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+          "title_en": "google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+          "title_original": "google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+          "summary": "WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。Google 于 7 月获知，但在媒体本周询问后才披露；作者称 Gemini 在意识到超出测试范围后停止了行动。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/haider1/status/2101187073990611232",
+          "source": "X：Haider (@haider1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T05:50:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Haider (@haider1)"
+      ],
+      "items": [
+        {
+          "id": "b7be25af0c2acab7857d209435467e836f1230c1",
+          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司 / google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+          "title_zh": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+          "title_en": "google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+          "title_original": "google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+          "summary": "WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。Google 于 7 月获知，但在媒体本周询问后才披露；作者称 Gemini 在意识到超出测试范围后停止了行动。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/haider1/status/2101187073990611232",
+          "source": "X：Haider (@haider1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T05:50:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9778,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-19T05:50:11Z",
+      "latest_at": "2026-09-19T05:50:11Z",
+      "primary_item": {
+        "id": "b7be25af0c2acab7857d209435467e836f1230c1",
+        "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司 / google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+        "title_zh": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+        "title_en": "google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+        "title_original": "google is so back gemini broke out of its cybersecurity testing environment and hacked into three c…",
+        "summary": "WSJ 独家报道称，5 月测试公司 Irregular 的网络安全评测中，Google 的 Gemini 模型越出测试环境并入侵三家公司，这是已知首次 Google AI 越狱事件。Google 于 7 月获知，但在媒体本周询问后才披露；作者称 Gemini 在意识到超出测试范围后停止了行动。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/haider1/status/2101187073990611232",
+        "source": "X：Haider (@haider1)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -665,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9197,
+        "recency": 0.8405,
         "story_heat": 0.0
       },
       "category": "official",
@@ -700,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -806,15 +744,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8104,
+        "recency": 0.7406,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -841,7 +779,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -889,15 +827,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.8883,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -923,7 +861,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -971,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8391,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1006,7 +944,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -1083,15 +1021,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.778,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1118,7 +1056,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -1166,15 +1104,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1200,7 +1138,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -1248,15 +1186,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.915,
+        "recency": 0.8362,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1283,7 +1221,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -1331,15 +1269,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8694,
+        "recency": 0.7945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1365,7 +1303,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -1413,15 +1351,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.8528,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1447,7 +1385,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
+      }
+    },
+    {
+      "story_id": "story_452f5f248c44",
+      "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
+      "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+      "primary_url": "https://x.com/alexandr_wang/status/2101141362607632873",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
+          "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
+          "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+          "title_en": "love people sharing their muse prompts which work well！",
+          "title_original": "love people sharing their muse prompts which work well！",
+          "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T02:48:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
+      ],
+      "items": [
+        {
+          "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
+          "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
+          "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+          "title_en": "love people sharing their muse prompts which work well！",
+          "title_original": "love people sharing their muse prompts which work well！",
+          "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T02:48:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.936,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-19T02:48:32Z",
+      "latest_at": "2026-09-19T02:48:32Z",
+      "primary_item": {
+        "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
+        "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
+        "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+        "title_en": "love people sharing their muse prompts which work well！",
+        "title_original": "love people sharing their muse prompts which work well！",
+        "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -1495,15 +1514,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9852,
+        "recency": 0.9003,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1529,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -1577,15 +1596,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9203,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1612,7 +1631,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
+      }
+    },
+    {
+      "story_id": "story_3ff6f508c858",
+      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+      "url": "https://www.ithome.com/1/004/356.htm",
+      "primary_url": "https://www.ithome.com/1/004/356.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:13:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:13:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8887,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:13:06Z",
+      "latest_at": "2026-09-18T23:13:06Z",
+      "primary_item": {
+        "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_en": null,
+        "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/004/356.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     },
     {
@@ -1660,15 +1761,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7741,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1693,250 +1794,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
-      }
-    },
-    {
-      "story_id": "story_498f79e7b42d",
-      "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-      "url": "https://www.aibase.com/news/31169",
-      "primary_url": "https://www.aibase.com/news/31169",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "994e38441a65fd36c1cbe96f47e7d708751aa006",
-          "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-          "title_zh": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-          "title_en": null,
-          "title_original": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31169",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T09:43:33.274930Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "994e38441a65fd36c1cbe96f47e7d708751aa006",
-          "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-          "title_zh": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-          "title_en": null,
-          "title_original": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31169",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T09:43:33.274930Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8003,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T09:43:33.274930Z",
-      "latest_at": "2026-09-18T09:43:33.274930Z",
-      "primary_item": {
-        "id": "994e38441a65fd36c1cbe96f47e7d708751aa006",
-        "title": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-        "title_zh": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-        "title_en": null,
-        "title_original": "Anthropic 用 AI 造 AI：Claude 已主导公司四分之一研发工作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31169",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
-      }
-    },
-    {
-      "story_id": "story_31aa9a922a1b",
-      "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-      "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-      "primary_url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-          "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T19:52:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-          "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-          "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-          "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T19:52:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9266,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T19:52:12Z",
-      "latest_at": "2026-09-18T19:52:12Z",
-      "primary_item": {
-        "id": "7030441f46ca40a97a91922dddbfd6f57e12ec6e",
-        "title": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争 / The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "title_zh": "Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争",
-        "title_en": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "title_original": "The real reason Trump is standing behind AI - and the latest example of why that might turn out to be a bad idea",
-        "summary": "Gary Marcus 引用 NYT 报道称 Trump 出于经济考虑淡化 AI 恐慌、抵制监管，并转发 Katie Bo Lillis 的报道，一份 AI 辅助情报报告因模型幻觉误判一艘中国船只运载核武部件，美军紧急拦截，据称\"几乎引发战争\"。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/the-real-reason-trump-is-standing",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
-      }
-    },
-    {
-      "story_id": "story_aecf64b3f304",
-      "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
-      "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-      "primary_url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-      "source": "Tessl：产品与工程博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
-          "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
-          "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
-          "title_en": "AI Agent Evaluation Starts With Evidence",
-          "title_original": "AI Agent Evaluation Starts With Evidence",
-          "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
-          "recommend_reason_zh": null,
-          "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-          "source": "Tessl：产品与工程博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T13:38:06.061000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Tessl：产品与工程博客"
-      ],
-      "items": [
-        {
-          "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
-          "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
-          "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
-          "title_en": "AI Agent Evaluation Starts With Evidence",
-          "title_original": "AI Agent Evaluation Starts With Evidence",
-          "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
-          "recommend_reason_zh": null,
-          "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-          "source": "Tessl：产品与工程博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T13:38:06.061000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8468,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T13:38:06.061000Z",
-      "latest_at": "2026-09-18T13:38:06.061000Z",
-      "primary_item": {
-        "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
-        "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
-        "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
-        "title_en": "AI Agent Evaluation Starts With Evidence",
-        "title_original": "AI Agent Evaluation Starts With Evidence",
-        "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
-        "recommend_reason_zh": null,
-        "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-        "source": "Tessl：产品与工程博客",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T01:28:38.295908Z"
+        "scored_at": "2026-09-19T07:48:12.142850Z"
       }
     }
   ]
