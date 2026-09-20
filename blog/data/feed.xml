@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 20 Sep 2026 09:47:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 13:05:05 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用</title>
@@ -14,6 +14,14 @@
 <description>纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是"人类历史上最大规模的劳动力盗用"，OpenAI ChatGPT 负责人称其对出版商是"生存威胁"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Sat, 19 Sep 2026 23:58:19 +0000</pubDate>
+</item>
+<item>
+<title>Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation</title>
+<link>https://qwen.ai/blog?id=qwen-image-2.1</link>
+<guid isPermaLink="true">https://qwen.ai/blog?id=qwen-image-2.1</guid>
+<description>Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。（Qwen：Blog Retrieval（API））</description>
+<category>行业动态</category>
+<pubDate>Sun, 20 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
 <title>一颗 260 克的"鸡蛋关节"：稚晖君发布启元 Q1、T1 人形机器人</title>
@@ -64,20 +72,20 @@
 <pubDate>Sun, 20 Sep 2026 09:47:32 +0000</pubDate>
 </item>
 <item>
-<title>特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先</title>
-<link>https://www.aibase.com/news/31203</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31203</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 20 Sep 2026 09:47:32 +0000</pubDate>
-</item>
-<item>
 <title>特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force</title>
 <link>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force</guid>
 <description>TechCrunch AI</description>
 <category>值得关注</category>
 <pubDate>Sat, 19 Sep 2026 19:57:47 +0000</pubDate>
+</item>
+<item>
+<title>特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先</title>
+<link>https://www.aibase.com/news/31203</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31203</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sun, 20 Sep 2026 09:47:32 +0000</pubDate>
 </item>
 <item>
 <title>几乎不要使用人工智能来撰写任何有实质内容的文章</title>
@@ -96,6 +104,14 @@
 <pubDate>Sun, 20 Sep 2026 07:47:12 +0000</pubDate>
 </item>
 <item>
+<title>人工智能与“知识共享”的瓦解</title>
+<link>https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons</link>
+<guid isPermaLink="true">https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons</guid>
+<description>www.chesterwisniewski.com</description>
+<category>多源热议</category>
+<pubDate>Sun, 20 Sep 2026 12:50:12 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争</title>
 <link>https://www.aibase.com/news/31180</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31180</guid>
@@ -104,12 +120,12 @@
 <pubDate>Sun, 20 Sep 2026 07:47:12 +0000</pubDate>
 </item>
 <item>
-<title>KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal</title>
-<link>https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282</link>
-<guid isPermaLink="true">https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282</guid>
+<title>如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right</title>
+<link>https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code</link>
+<guid isPermaLink="true">https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code</guid>
 <description>Hacker News</description>
 <category>值得关注</category>
-<pubDate>Sun, 20 Sep 2026 07:38:37 +0000</pubDate>
+<pubDate>Sun, 20 Sep 2026 11:37:10 +0000</pubDate>
 </item>
 <item>
 <title>编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern</title>
@@ -128,41 +144,25 @@
 <pubDate>Sun, 20 Sep 2026 07:47:12 +0000</pubDate>
 </item>
 <item>
-<title>B站上线"AI 无限竞技场"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅</title>
-<link>https://www.aibase.com/news/31192</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31192</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 20 Sep 2026 07:47:12 +0000</pubDate>
-</item>
-<item>
-<title>Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform</title>
-<link>https://github.com/theguysudo/ENZO</link>
-<guid isPermaLink="true">https://github.com/theguysudo/ENZO</guid>
-<description>Hacker News</description>
-<category>值得关注</category>
-<pubDate>Sat, 19 Sep 2026 23:47:35 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀</title>
-<link>https://www.aibase.com/news/31184</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31184</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sun, 20 Sep 2026 07:47:12 +0000</pubDate>
-</item>
-<item>
 <title>你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?</title>
 <link>https://slop-sense.labtoagi.com/games/is-this-image-ai</link>
 <guid isPermaLink="true">https://slop-sense.labtoagi.com/games/is-this-image-ai</guid>
-<description>Hacker News</description>
+<description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Sat, 19 Sep 2026 23:02:34 +0000</pubDate>
 </item>
 <item>
-<title>DeepSeek明确调休日计费规则，中秋国庆迎来十天"半价窗口"</title>
-<link>https://www.aibase.com/news/31191</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31191</guid>
+<title>KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal</title>
+<link>https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282</link>
+<guid isPermaLink="true">https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282</guid>
+<description>Hacker News</description>
+<category>值得关注</category>
+<pubDate>Sun, 20 Sep 2026 07:38:37 +0000</pubDate>
+</item>
+<item>
+<title>B站上线"AI 无限竞技场"测评榜：上百模型同场厮杀，GPT-6 暂坐头把交椅</title>
+<link>https://www.aibase.com/news/31192</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31192</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sun, 20 Sep 2026 07:47:12 +0000</pubDate>

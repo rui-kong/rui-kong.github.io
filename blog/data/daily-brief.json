@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:47:32.391291Z",
+  "generated_at": "2026-09-20T13:05:05.364610Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8678,
+        "recency": 0.8275,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
+      }
+    },
+    {
+      "story_id": "story_67bbb2f19d0e",
+      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+          "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9845,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T12:00:00Z",
+      "latest_at": "2026-09-20T12:00:00Z",
+      "primary_item": {
+        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
+        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+        "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+        "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+        "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
+        "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+        "recommend_reason_zh": null,
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -218,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,7 +334,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -300,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -334,7 +416,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -382,15 +464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8936,
+        "recency": 0.8521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -415,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -463,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -545,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,7 +661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -627,15 +709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9536,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,89 +743,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
-      }
-    },
-    {
-      "story_id": "story_6bc1ec806a2b",
-      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-      "url": "https://www.aibase.com/news/31203",
-      "primary_url": "https://www.aibase.com/news/31203",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:47:32.391291Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "title_en": null,
-          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T09:47:32.391291Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T09:47:32.391291Z",
-      "latest_at": "2026-09-20T09:47:32.391291Z",
-      "primary_item": {
-        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
-        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "title_en": null,
-        "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31203",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -820,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6162,
-      "importance": 0.6162,
-      "importance_score": 0.6162,
+      "score": 0.6093,
+      "importance": 0.6093,
+      "importance_score": 0.6093,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.819,
+        "recency": 0.7809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -853,7 +853,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
+      }
+    },
+    {
+      "story_id": "story_6bc1ec806a2b",
+      "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+      "url": "https://www.aibase.com/news/31203",
+      "primary_url": "https://www.aibase.com/news/31203",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_en": null,
+          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T09:47:32.391291Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+          "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "title_en": null,
+          "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T09:47:32.391291Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9536,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T09:47:32.391291Z",
+      "latest_at": "2026-09-20T09:47:32.391291Z",
+      "primary_item": {
+        "id": "1402a6e61563686b89d31bcad99e60c2b51f8857",
+        "title": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "title_zh": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "title_en": null,
+        "title_original": "特朗普要给“人工智能”改名：18 万人投票，“卓越智能”暂时领先",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31203",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -1016,15 +1098,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5884,
-      "importance": 0.5884,
-      "importance_score": 0.5884,
+      "score": 0.5816,
+      "importance": 0.5816,
+      "importance_score": 0.5816,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8201,
+        "recency": 0.782,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1049,7 +1131,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -1097,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,7 +1213,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
+      }
+    },
+    {
+      "story_id": "story_59e8eb3eb9e5",
+      "title": "人工智能与“知识共享”的瓦解",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "primary_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+      "source": "www.chesterwisniewski.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+          "title": "人工智能与“知识共享”的瓦解",
+          "title_zh": "人工智能与“知识共享”的瓦解",
+          "title_en": null,
+          "title_original": "人工智能与“知识共享”的瓦解",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "www.chesterwisniewski.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:50:12.972000Z"
+        },
+        {
+          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
+          "title_zh": "人工智能与“知识共享”的瓦解",
+          "title_en": "AI and the Destruction of the Creative Commons",
+          "title_original": "AI and the Destruction of the Creative Commons",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T10:07:51Z"
+        },
+        {
+          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
+          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
+          "title_zh": "人工智能与知识共享的破坏",
+          "title_en": "AI and the Destruction of the Creative Commons",
+          "title_original": "AI and the Destruction of the Creative Commons",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49774329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T10:07:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "www.chesterwisniewski.com"
+      ],
+      "items": [
+        {
+          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+          "title": "人工智能与“知识共享”的瓦解",
+          "title_zh": "人工智能与“知识共享”的瓦解",
+          "title_en": null,
+          "title_original": "人工智能与“知识共享”的瓦解",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "www.chesterwisniewski.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T12:50:12.972000Z"
+        },
+        {
+          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
+          "title_zh": "人工智能与“知识共享”的瓦解",
+          "title_en": "AI and the Destruction of the Creative Commons",
+          "title_original": "AI and the Destruction of the Creative Commons",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T10:07:51Z"
+        },
+        {
+          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
+          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
+          "title_zh": "人工智能与知识共享的破坏",
+          "title_en": "AI and the Destruction of the Creative Commons",
+          "title_original": "AI and the Destruction of the Creative Commons",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49774329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T10:07:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9964,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T10:07:51Z",
+      "latest_at": "2026-09-20T12:50:12.972000Z",
+      "primary_item": {
+        "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
+        "title": "人工智能与“知识共享”的瓦解",
+        "title_zh": "人工智能与“知识共享”的瓦解",
+        "title_en": null,
+        "title_original": "人工智能与“知识共享”的瓦解",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
+        "source": "www.chesterwisniewski.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -1179,15 +1400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,44 +1434,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
-      "story_id": "story_2a34a5394301",
-      "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "primary_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "story_id": "story_d33cb89128f1",
+      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
-          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T07:38:37Z"
+          "published_at": "2026-09-20T11:37:10Z"
         },
         {
-          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
-          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
-          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49773439",
+          "url": "https://news.ycombinator.com/item?id=49774795",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T07:38:37Z"
+          "published_at": "2026-09-20T11:37:10Z"
         }
       ],
       "source_count": 2,
@@ -1260,62 +1481,62 @@
       ],
       "items": [
         {
-          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
-          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T07:38:37Z"
+          "published_at": "2026-09-20T11:37:10Z"
         },
         {
-          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
-          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
-          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49773439",
+          "url": "https://news.ycombinator.com/item?id=49774795",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T07:38:37Z"
+          "published_at": "2026-09-20T11:37:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9694,
+        "recency": 0.9791,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T07:38:37Z",
-      "latest_at": "2026-09-20T07:38:37Z",
+      "earliest_at": "2026-09-20T11:37:10Z",
+      "latest_at": "2026-09-20T11:37:10Z",
       "primary_item": {
-        "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-        "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-        "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
-        "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-        "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+        "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+        "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+        "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1323,7 +1544,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -1400,15 +1621,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9436,
+        "recency": 0.8998,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1433,7 +1654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -1481,15 +1702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1515,7 +1736,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
+      }
+    },
+    {
+      "story_id": "story_fc0b2a01d33a",
+      "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T23:02:34Z"
+        },
+        {
+          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49770847",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T23:02:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T23:02:34Z"
+        },
+        {
+          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
+          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+          "title_en": "Can you tell which images are AI-generated?",
+          "title_original": "Can you tell which images are AI-generated?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49770847",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T23:02:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8165,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T23:02:34Z",
+      "latest_at": "2026-09-19T23:02:34Z",
+      "primary_item": {
+        "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
+        "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
+        "title_zh": "你能说出哪些图像是人工智能生成的吗？",
+        "title_en": "Can you tell which images are AI-generated?",
+        "title_original": "Can you tell which images are AI-generated?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T13:05:46.657767Z"
+      }
+    },
+    {
+      "story_id": "story_2a34a5394301",
+      "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "primary_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T07:38:37Z"
+        },
+        {
+          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
+          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49773439",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T07:38:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T07:38:37Z"
+        },
+        {
+          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
+          "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49773439",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T07:38:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9244,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T07:38:37Z",
+      "latest_at": "2026-09-20T07:38:37Z",
+      "primary_item": {
+        "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+        "title": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "title_zh": "KDE 迎来 30 周年，有人提出了 AI 原生桌面提案",
+        "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     },
     {
@@ -1563,15 +2004,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1597,391 +2038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
-      }
-    },
-    {
-      "story_id": "story_adc7678cfd9c",
-      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-      "url": "https://github.com/theguysudo/ENZO",
-      "primary_url": "https://github.com/theguysudo/ENZO",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
-        },
-        {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
-        },
-        {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8655,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:47:35Z",
-      "latest_at": "2026-09-19T23:47:35Z",
-      "primary_item": {
-        "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-        "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-        "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-        "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-        "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/theguysudo/ENZO",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
-      }
-    },
-    {
-      "story_id": "story_2cfaa4801b8e",
-      "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-      "url": "https://www.aibase.com/news/31184",
-      "primary_url": "https://www.aibase.com/news/31184",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_en": null,
-          "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:12.278668Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-          "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "title_en": null,
-          "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:12.278668Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:47:12.278668Z",
-      "latest_at": "2026-09-20T07:47:12.278668Z",
-      "primary_item": {
-        "id": "d90342d5cace8758cb65582174d867ec5a6896f2",
-        "title": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "title_zh": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "title_en": null,
-        "title_original": "ChatGPT 正式入驻 Word：免费用户也能用，办公文档里三套 AI 同台厮杀",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31184",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
-      }
-    },
-    {
-      "story_id": "story_fc0b2a01d33a",
-      "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-      "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "01123abf2193f80954e3b75ef7c7a9c0c60c8104",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:02:34Z"
-        },
-        {
-          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770847",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:02:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "01123abf2193f80954e3b75ef7c7a9c0c60c8104",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:02:34Z"
-        },
-        {
-          "id": "31ce996fefc7b9388c866d8a7b7e3142648ee1ad",
-          "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-          "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-          "title_en": "Can you tell which images are AI-generated?",
-          "title_original": "Can you tell which images are AI-generated?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770847",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:02:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8562,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:02:34Z",
-      "latest_at": "2026-09-19T23:02:34Z",
-      "primary_item": {
-        "id": "01123abf2193f80954e3b75ef7c7a9c0c60c8104",
-        "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
-        "title_zh": "你能说出哪些图像是人工智能生成的吗？",
-        "title_en": "Can you tell which images are AI-generated?",
-        "title_original": "Can you tell which images are AI-generated?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
-      }
-    },
-    {
-      "story_id": "story_919e226efbae",
-      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-      "url": "https://www.aibase.com/news/31191",
-      "primary_url": "https://www.aibase.com/news/31191",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_en": null,
-          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31191",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:12.278668Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_en": null,
-          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31191",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:12.278668Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:47:12.278668Z",
-      "latest_at": "2026-09-20T07:47:12.278668Z",
-      "primary_item": {
-        "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-        "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "title_en": null,
-        "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31191",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T09:48:11.971980Z"
+        "scored_at": "2026-09-20T13:05:46.657767Z"
       }
     }
   ]
