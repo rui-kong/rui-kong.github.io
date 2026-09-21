@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:11:35.898519Z",
+  "generated_at": "2026-09-21T17:01:31.059082Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8668,
-      "importance": 0.8668,
-      "importance_score": 0.8668,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9935,
+        "recency": 0.9537,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
+      }
+    },
+    {
+      "story_id": "story_3f10cf90ec97",
+      "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.7 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.7 is now available in GitHub Copilot",
+          "title_original": "Grok 4.7 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+          "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.7 现已在 GitHub Copilot 中提供",
+          "title_en": "Grok 4.7 is now available in GitHub Copilot",
+          "title_original": "Grok 4.7 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T14:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9698,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T14:54:12Z",
+      "latest_at": "2026-09-21T14:54:12Z",
+      "primary_item": {
+        "id": "e32a2ae445e870d2c4e40b4cf02c3ec07327390d",
+        "title": "Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot",
+        "title_zh": "Grok 4.7 现已在 GitHub Copilot 中提供",
+        "title_en": "Grok 4.7 is now available in GitHub Copilot",
+        "title_original": "Grok 4.7 is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8147,
+        "recency": 0.782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,177 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
-      }
-    },
-    {
-      "story_id": "story_a682219ecb2e",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.buchodi.com"
-      ],
-      "items": [
-        {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7481,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
-      "primary_item": {
-        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_en": null,
-        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-        "recommend_reason_zh": null,
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -384,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8147,
+        "recency": 0.782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +332,313 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
+      }
+    },
+    {
+      "story_id": "story_2b0462064d4e",
+      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+      "url": "https://www.ithome.com/1/005/418.htm",
+      "primary_url": "https://www.ithome.com/1/005/418.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_en": null,
+          "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/005/418.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_en": null,
+          "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/005/418.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9284,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T11:52:52Z",
+      "latest_at": "2026-09-21T11:52:52Z",
+      "primary_item": {
+        "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+        "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "title_en": null,
+        "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/005/418.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T17:02:16.159980Z"
+      }
+    },
+    {
+      "story_id": "story_5593750731a9",
+      "title": "xAI 发布 Grok 4.7，主打编码与知识工作 / Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+      "url": "https://x.ai/news/grok-4-7",
+      "primary_url": "https://x.ai/news/grok-4-7",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cad8e581e48683e85a011f828dc5fcda016dafb0",
+          "title": "xAI 发布 Grok 4.7，主打编码与知识工作 / Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+          "title_zh": "xAI 发布 Grok 4.7，主打编码与知识工作",
+          "title_en": "Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+          "title_original": "Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+          "summary": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/grok-4-7",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T00:00:00Z"
+        },
+        {
+          "id": "b4a95b78e33021e47a1ed5583afc887f265ee328",
+          "title": "Grok 4.7",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "Grok 4.7",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/grok-4-7",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T15:50:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "xAI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "cad8e581e48683e85a011f828dc5fcda016dafb0",
+          "title": "xAI 发布 Grok 4.7，主打编码与知识工作 / Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+          "title_zh": "xAI 发布 Grok 4.7，主打编码与知识工作",
+          "title_en": "Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+          "title_original": "Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+          "summary": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/grok-4-7",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T00:00:00Z"
+        },
+        {
+          "id": "b4a95b78e33021e47a1ed5583afc887f265ee328",
+          "title": "Grok 4.7",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "Grok 4.7",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.ai/news/grok-4-7",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-21T15:50:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.782,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T00:00:00Z",
+      "latest_at": "2026-09-21T15:50:15Z",
+      "primary_item": {
+        "id": "cad8e581e48683e85a011f828dc5fcda016dafb0",
+        "title": "xAI 发布 Grok 4.7，主打编码与知识工作 / Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+        "title_zh": "xAI 发布 Grok 4.7，主打编码与知识工作",
+        "title_en": "Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+        "title_original": "Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+        "summary": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
+        "recommend_reason_zh": null,
+        "url": "https://x.ai/news/grok-4-7",
+        "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T17:02:16.159980Z"
+      }
+    },
+    {
+      "story_id": "story_ea2fc58d2431",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.buchodi.com"
+      ],
+      "items": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7181,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T18:05:38.317000Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "primary_item": {
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_en": null,
+        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+        "recommend_reason_zh": null,
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -467,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +720,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
+      }
+    },
+    {
+      "story_id": "story_db3fc7d3a025",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56 / Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+      "url": "https://x.com/ArtificialAnlys/status/2102074898327932987",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2102074898327932987",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "397e584e49e2023e90d5cff2f164faf899c31b35",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56 / Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+          "title_en": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+          "title_original": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+          "summary": "Artificial Analysis 发布 Grok 4.7 评测，其在 Artificial Analysis Intelligence Index 得分 46，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四大 AI 实验室。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2102074898327932987",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T16:38:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "397e584e49e2023e90d5cff2f164faf899c31b35",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56 / Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+          "title_en": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+          "title_original": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+          "summary": "Artificial Analysis 发布 Grok 4.7 评测，其在 Artificial Analysis Intelligence Index 得分 46，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四大 AI 实验室。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2102074898327932987",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T16:38:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T16:38:05Z",
+      "latest_at": "2026-09-21T16:38:05Z",
+      "primary_item": {
+        "id": "397e584e49e2023e90d5cff2f164faf899c31b35",
+        "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56 / Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+        "title_zh": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+        "title_en": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+        "title_original": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+        "summary": "Artificial Analysis 发布 Grok 4.7 评测，其在 Artificial Analysis Intelligence Index 得分 46，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四大 AI 实验室。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ArtificialAnlys/status/2102074898327932987",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -549,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.8767,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,7 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -630,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7728,
+        "recency": 0.7419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -711,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8488,
+        "recency": 0.8148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -792,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,88 +1126,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
-      }
-    },
-    {
-      "story_id": "story_7b14ecd6d515",
-      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "title_en": null,
-          "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "title_en": null,
-          "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-          "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T01:52:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8371,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T01:52:57Z",
-      "latest_at": "2026-09-21T01:52:57Z",
-      "primary_item": {
-        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
-        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "title_zh": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "title_en": null,
-        "title_original": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-        "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -955,15 +1174,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -989,7 +1208,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -1037,15 +1256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,7 +1290,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -1119,15 +1338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,7 +1372,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -1201,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1235,7 +1454,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -1399,15 +1618,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6018,
-      "importance": 0.6018,
-      "importance_score": 0.6018,
+      "score": 0.5953,
+      "importance": 0.5953,
+      "importance_score": 0.5953,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8943,
+        "recency": 0.8584,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1432,7 +1651,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -1480,15 +1699,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1514,7 +1733,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     },
     {
@@ -1590,15 +1809,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5716,
-      "importance": 0.5716,
-      "importance_score": 0.5716,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7562,
+        "recency": 0.7259,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1623,338 +1842,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
-      }
-    },
-    {
-      "story_id": "story_0478652bad4f",
-      "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "primary_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f608c37b98dbd621517d0a6d66dee557e67cbc73",
-          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_en": null,
-          "title_original": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T09:51:28.311000Z"
-        },
-        {
-          "id": "cdd0499ca68d385c0c20019c6f4dbb9c9e3eb953",
-          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T04:28:44Z"
-        },
-        {
-          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49783062",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T04:28:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "f608c37b98dbd621517d0a6d66dee557e67cbc73",
-          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_en": null,
-          "title_original": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T09:51:28.311000Z"
-        },
-        {
-          "id": "cdd0499ca68d385c0c20019c6f4dbb9c9e3eb953",
-          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T04:28:44Z"
-        },
-        {
-          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49783062",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T04:28:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5599,
-      "importance": 0.5599,
-      "importance_score": 0.5599,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9393,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T04:28:44Z",
-      "latest_at": "2026-09-21T09:51:28.311000Z",
-      "primary_item": {
-        "id": "f608c37b98dbd621517d0a6d66dee557e67cbc73",
-        "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-        "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-        "title_en": null,
-        "title_original": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
-      }
-    },
-    {
-      "story_id": "story_c3b75295ed35",
-      "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-      "url": "https://www.aibase.com/news/31238",
-      "primary_url": "https://www.aibase.com/news/31238",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "title_en": null,
-          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31238",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:40:37.083433Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "title_en": null,
-          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31238",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:40:37.083433Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9505,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T10:40:37.083433Z",
-      "latest_at": "2026-09-21T10:40:37.083433Z",
-      "primary_item": {
-        "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-        "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-        "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-        "title_en": null,
-        "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31238",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
-      }
-    },
-    {
-      "story_id": "story_b8cc99bd2cbc",
-      "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-      "url": "https://github.com/aru-labs/lossless-memory",
-      "primary_url": "https://github.com/aru-labs/lossless-memory",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "5c3c5e0de0c22e1f8ef119509306f5892abdba45",
-          "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "title_zh": "Show HN：无损记忆——永不总结的个人人工智能记忆",
-          "title_en": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "title_original": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/aru-labs/lossless-memory",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T12:28:17Z"
-        },
-        {
-          "id": "cc71221b224965dc74790655bba58405044334c3",
-          "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "title_zh": "Show HN：无损记忆——永不总结的个人人工智能记忆",
-          "title_en": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "title_original": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49786419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T12:28:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5c3c5e0de0c22e1f8ef119509306f5892abdba45",
-          "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "title_zh": "Show HN：无损记忆——永不总结的个人人工智能记忆",
-          "title_en": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "title_original": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/aru-labs/lossless-memory",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T12:28:17Z"
-        },
-        {
-          "id": "cc71221b224965dc74790655bba58405044334c3",
-          "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "title_zh": "Show HN：无损记忆——永不总结的个人人工智能记忆",
-          "title_en": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "title_original": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49786419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T12:28:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9754,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T12:28:17Z",
-      "latest_at": "2026-09-21T12:28:17Z",
-      "primary_item": {
-        "id": "5c3c5e0de0c22e1f8ef119509306f5892abdba45",
-        "title": "Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes",
-        "title_zh": "Show HN：无损记忆——永不总结的个人人工智能记忆",
-        "title_en": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-        "title_original": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/aru-labs/lossless-memory",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:16:32.720620Z"
+        "scored_at": "2026-09-21T17:02:16.159980Z"
       }
     }
   ]

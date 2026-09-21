@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 21 Sep 2026 14:11:35 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 17:01:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
@@ -16,20 +16,20 @@
 <pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
 </item>
 <item>
+<title>Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 21 Sep 2026 14:54:12 +0000</pubDate>
+</item>
+<item>
 <title>V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory</title>
 <link>https://openai.com/index/v7</link>
 <guid isPermaLink="true">https://openai.com/index/v7</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号</title>
-<link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</link>
-<guid isPermaLink="true">https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</guid>
-<description>作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Sun, 20 Sep 2026 18:05:38 +0000</pubDate>
 </item>
 <item>
 <title>tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured</title>
@@ -40,12 +40,44 @@
 <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级</title>
+<link>https://www.ithome.com/1/005/418.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/005/418.htm</guid>
+<description>亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 21 Sep 2026 11:52:52 +0000</pubDate>
+</item>
+<item>
+<title>xAI 发布 Grok 4.7，主打编码与知识工作 / Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More</title>
+<link>https://x.ai/news/grok-4-7</link>
+<guid isPermaLink="true">https://x.ai/news/grok-4-7</guid>
+<description>xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。（xAI：News（网页））</description>
+<category>行业动态</category>
+<pubDate>Mon, 21 Sep 2026 15:50:15 +0000</pubDate>
+</item>
+<item>
+<title>独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号</title>
+<link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</link>
+<guid isPermaLink="true">https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector</guid>
+<description>作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>行业动态</category>
+<pubDate>Sun, 20 Sep 2026 18:05:38 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上</title>
 <link>https://www.aibase.com/news/31241</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31241</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 21 Sep 2026 10:40:37 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56 / Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…</title>
+<link>https://x.com/ArtificialAnlys/status/2102074898327932987</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102074898327932987</guid>
+<description>Artificial Analysis 发布 Grok 4.7 评测，其在 Artificial Analysis Intelligence Index 得分 46，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四大 AI 实验室。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 21 Sep 2026 16:38:05 +0000</pubDate>
 </item>
 <item>
 <title>Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线</title>
@@ -78,14 +110,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 21 Sep 2026 10:40:37 +0000</pubDate>
-</item>
-<item>
-<title>数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686509&amp;idx=1&amp;sn=1b5ee8ab30c5825eaff76083e1f8dbcc</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686509&amp;idx=1&amp;sn=1b5ee8ab30c5825eaff76083e1f8dbcc</guid>
-<description>作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。（公众号：数字生命卡兹克）</description>
-<category>行业动态</category>
-<pubDate>Mon, 21 Sep 2026 01:52:57 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折</title>
@@ -142,30 +166,6 @@
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Sun, 20 Sep 2026 18:50:18 +0000</pubDate>
-</item>
-<item>
-<title>AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案</title>
-<link>https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666</link>
-<guid isPermaLink="true">https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666</guid>
-<description>www.ft.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 21 Sep 2026 09:51:28 +0000</pubDate>
-</item>
-<item>
-<title>法国兴业银行押注 AI：预计最多省下 6 亿欧元成本</title>
-<link>https://www.aibase.com/news/31238</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31238</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 21 Sep 2026 10:40:37 +0000</pubDate>
-</item>
-<item>
-<title>Show HN：无损记忆——永不总结的个人人工智能记忆 / Show HN: Lossless-memory – a personal AI memory that never summarizes</title>
-<link>https://github.com/aru-labs/lossless-memory</link>
-<guid isPermaLink="true">https://github.com/aru-labs/lossless-memory</guid>
-<description>Hacker News</description>
-<category>值得关注</category>
-<pubDate>Mon, 21 Sep 2026 12:28:17 +0000</pubDate>
 </item>
 </channel>
 </rss>
