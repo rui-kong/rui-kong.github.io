@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 22 Sep 2026 09:55:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 11:49:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
-<link>https://huggingface.co/blog/omlx</link>
-<guid isPermaLink="true">https://huggingface.co/blog/omlx</guid>
+<title>transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants</title>
+<link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
+<guid isPermaLink="true">https://huggingface.co/blog/transformers-llama-cpp-quants</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Deprecation notice: All-platform CodeQL bundle</title>
+<link>https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 09:21:03 +0000</pubDate>
 </item>
 <item>
 <title>Advisory Group on Mathematics and Artificial Intelligence</title>
@@ -24,28 +32,20 @@
 <pubDate>Mon, 21 Sep 2026 17:27:49 +0000</pubDate>
 </item>
 <item>
-<title>Refreshed repository pull requests page generally available</title>
+<title>oMLX 创建者和维护者 Jun Kim 加入 Hugging Face 以支持 MLX 社区 / Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community</title>
+<link>https://huggingface.co/blog/omlx</link>
+<guid isPermaLink="true">https://huggingface.co/blog/omlx</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available</title>
 <link>https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 01:25:53 +0000</pubDate>
-</item>
-<item>
-<title>像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
-<link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
-<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
-</item>
-<item>
-<title>Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 14:54:12 +0000</pubDate>
 </item>
 <item>
 <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
@@ -56,12 +56,28 @@
 <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近</title>
-<link>https://www.aibase.com/news/31271</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31271</guid>
+<title>办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元</title>
+<link>https://www.aibase.com/news/31276</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31276</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 09:55:21 +0000</pubDate>
+<pubDate>Tue, 22 Sep 2026 11:49:26 +0000</pubDate>
+</item>
+<item>
+<title>像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem</title>
+<link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
+<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 21 Sep 2026 13:44:34 +0000</pubDate>
+</item>
+<item>
+<title>Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来 / Meet the new Kimi Browser Extension， formerly Kimi WebBridge. From your browser sidebar， you can ch…</title>
+<link>https://x.com/Kimi_Moonshot/status/2102352211988865456</link>
+<guid isPermaLink="true">https://x.com/Kimi_Moonshot/status/2102352211988865456</guid>
+<description>Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。（X：Kimi.ai (@Kimi_Moonshot)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 11:00:01 +0000</pubDate>
 </item>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W38</title>
@@ -72,12 +88,12 @@
 <pubDate>Tue, 22 Sep 2026 07:16:08 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Enterprise adds credential inventory exports</title>
-<link>https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</guid>
+<title>Grok 4.7 现已在 GitHub Copilot 中提供 / Grok 4.7 is now available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 21:13:18 +0000</pubDate>
+<pubDate>Mon, 21 Sep 2026 14:54:12 +0000</pubDate>
 </item>
 <item>
 <title>不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…</title>
@@ -120,28 +136,20 @@
 <pubDate>Mon, 21 Sep 2026 20:51:03 +0000</pubDate>
 </item>
 <item>
-<title>Building standards for the next phase of AI</title>
-<link>https://openai.com/index/building-standards-next-phase-ai</link>
-<guid isPermaLink="true">https://openai.com/index/building-standards-next-phase-ai</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 10:00:00 +0000</pubDate>
-</item>
-<item>
-<title>SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半</title>
-<link>https://www.aibase.com/news/31268</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31268</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 09:55:21 +0000</pubDate>
-</item>
-<item>
 <title>亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级</title>
 <link>https://www.ithome.com/1/005/418.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/005/418.htm</guid>
 <description>亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 21 Sep 2026 11:52:52 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近</title>
+<link>https://www.aibase.com/news/31271</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31271</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 09:55:21 +0000</pubDate>
 </item>
 <item>
 <title>小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数 / Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26</title>
@@ -158,14 +166,6 @@
 <description>Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 01:49:19 +0000</pubDate>
-</item>
-<item>
-<title>小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机</title>
-<link>https://www.aibase.com/news/31272</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31272</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 09:55:21 +0000</pubDate>
 </item>
 </channel>
 </rss>
