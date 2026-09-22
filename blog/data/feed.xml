@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 21 Sep 2026 21:06:08 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 00:08:48 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Advisory Group on Mathematics and Artificial Intelligence</title>
@@ -32,6 +32,14 @@
 <pubDate>Mon, 21 Sep 2026 14:54:12 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Enterprise adds credential inventory exports</title>
+<link>https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 21 Sep 2026 21:13:18 +0000</pubDate>
+</item>
+<item>
 <title>Higgsfield AI ships new video features in a day with GPT-6 Astra</title>
 <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</guid>
@@ -48,20 +56,28 @@
 <pubDate>Mon, 21 Sep 2026 20:11:34 +0000</pubDate>
 </item>
 <item>
-<title>tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured</title>
-<link>https://huggingface.co/blog/tokenizers-v1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/tokenizers-v1</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升</title>
 <link>https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&amp;mid=2247484969&amp;idx=1&amp;sn=76c4757b26a2b646e1b690bf78c386d8</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&amp;mid=2247484969&amp;idx=1&amp;sn=76c4757b26a2b646e1b690bf78c386d8</guid>
 <description>Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。（公众号：小米 MiMo）</description>
 <category>行业动态</category>
 <pubDate>Mon, 21 Sep 2026 20:18:52 +0000</pubDate>
+</item>
+<item>
+<title>小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro &amp; Flash. Frontier intelligence， all the modalities， built in pub…</title>
+<link>https://x.com/XiaomiMiMo/status/2102138559952290106</link>
+<guid isPermaLink="true">https://x.com/XiaomiMiMo/status/2102138559952290106</guid>
+<description>小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。（X：小米 MiMo (@XiaomiMiMo)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 21 Sep 2026 20:51:03 +0000</pubDate>
+</item>
+<item>
+<title>Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up</title>
+<link>https://linear.app/now/ci-bottleneck-reworked</link>
+<guid isPermaLink="true">https://linear.app/now/ci-bottleneck-reworked</guid>
+<description>Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。（Linear：Now（RSS））</description>
+<category>多源热议</category>
+<pubDate>Mon, 21 Sep 2026 23:17:19 +0000</pubDate>
 </item>
 <item>
 <title>Building standards for the next phase of AI</title>
@@ -80,6 +96,22 @@
 <pubDate>Mon, 21 Sep 2026 11:52:52 +0000</pubDate>
 </item>
 <item>
+<title>小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数 / Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26</title>
+<link>https://x.com/ClementDelangue/status/2102141768674222323</link>
+<guid isPermaLink="true">https://x.com/ClementDelangue/status/2102141768674222323</guid>
+<description>小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。（X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 21 Sep 2026 21:03:48 +0000</pubDate>
+</item>
+<item>
+<title>小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…</title>
+<link>https://x.com/arena/status/2102142912943489220</link>
+<guid isPermaLink="true">https://x.com/arena/status/2102142912943489220</guid>
+<description>小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 21 Sep 2026 21:08:21 +0000</pubDate>
+</item>
+<item>
 <title>Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7</title>
 <link>https://artificialanalysis.ai/articles/benchmarking-grok-4-7</link>
 <guid isPermaLink="true">https://artificialanalysis.ai/articles/benchmarking-grok-4-7</guid>
@@ -96,14 +128,6 @@
 <pubDate>Mon, 21 Sep 2026 17:06:20 +0000</pubDate>
 </item>
 <item>
-<title>xAI 发布 Grok 4.7，主打编码与知识工作 / Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More</title>
-<link>https://x.ai/news/grok-4-7</link>
-<guid isPermaLink="true">https://x.ai/news/grok-4-7</guid>
-<description>xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。（xAI：News（网页））</description>
-<category>行业动态</category>
-<pubDate>Mon, 21 Sep 2026 19:49:54 +0000</pubDate>
-</item>
-<item>
 <title>小米 MiMo-V2.6-Pro 发布，登顶 Artificial Analysis 开源权重模型智能指数 / MiMo-V2.6-Pro debuts as the top open weights model on the Artificial Analysis Intelligence Index （46…</title>
 <link>https://x.com/ArtificialAnlys/status/2102128560962187701</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102128560962187701</guid>
@@ -118,14 +142,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 21 Sep 2026 10:40:37 +0000</pubDate>
-</item>
-<item>
-<title>Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟 / AI coding has made CI a bottleneck， so we reworked ours to keep up</title>
-<link>https://linear.app/now/ci-bottleneck-reworked</link>
-<guid isPermaLink="true">https://linear.app/now/ci-bottleneck-reworked</guid>
-<description>Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。（Linear：Now（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 21 Sep 2026 19:23:33 +0000</pubDate>
 </item>
 <item>
 <title>Nathan Lambert 撰文分析开源模型的中美实力格局 / The current balance of power in open models</title>
@@ -150,22 +166,6 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元</title>
-<link>https://www.aibase.com/news/31231</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31231</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 21 Sep 2026 10:40:37 +0000</pubDate>
-</item>
-<item>
-<title>Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56 / Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…</title>
-<link>https://x.com/ArtificialAnlys/status/2102074898327932987</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102074898327932987</guid>
-<description>Artificial Analysis 发布 Grok 4.7 评测，其在 Artificial Analysis Intelligence Index 得分 46，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四大 AI 实验室。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 21 Sep 2026 16:38:05 +0000</pubDate>
 </item>
 </channel>
 </rss>
