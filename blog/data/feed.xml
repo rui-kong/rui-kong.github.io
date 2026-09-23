@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 23 Sep 2026 11:40:02 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 15:26:31 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / Introducing GPT-6 Sol and Luna</title>
@@ -24,6 +24,30 @@
 <pubDate>Tue, 22 Sep 2026 16:53:30 +0000</pubDate>
 </item>
 <item>
+<title>Local sandboxing in the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 15:00:57 +0000</pubDate>
+</item>
+<item>
+<title>**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**</title>
+<link>https://huggingface.co/blog/nvidia/nemotron-diarization</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/nemotron-diarization</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 13:17:01 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 3.8 text-to-speech says hello</title>
+<link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</link>
+<guid isPermaLink="true">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
+</item>
+<item>
 <title>五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一 / Overreliance on AI contributed to missile strike on Iran school - Pentagon</title>
 <link>https://www.bloomberg.com/graphics/2026-iran-school-attack</link>
 <guid isPermaLink="true">https://www.bloomberg.com/graphics/2026-iran-school-attack</guid>
@@ -40,6 +64,14 @@
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Two years of OpenAI Academy</title>
+<link>https://openai.com/index/two-years-of-openai-academy</link>
+<guid isPermaLink="true">https://openai.com/index/two-years-of-openai-academy</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 15:26:31 +0000</pubDate>
+</item>
+<item>
 <title>OpenTelemetry in the GitHub Copilot app</title>
 <link>https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app</guid>
@@ -48,28 +80,12 @@
 <pubDate>Wed, 23 Sep 2026 02:14:54 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6</title>
-<link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
-<guid isPermaLink="true">https://openai.com/index/better-prompt-caching-for-gpt-6</guid>
+<title>OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense</title>
+<link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
+<guid isPermaLink="true">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 21:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse</title>
-<link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</link>
-<guid isPermaLink="true">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</guid>
-<description>Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Tue, 22 Sep 2026 19:29:49 +0000</pubDate>
-</item>
-<item>
-<title>Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains</title>
-<link>https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 00:34:18 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war</title>
@@ -104,14 +120,6 @@
 <pubDate>Wed, 23 Sep 2026 05:18:36 +0000</pubDate>
 </item>
 <item>
-<title>​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态</title>
-<link>https://www.aibase.com/news/31314</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31314</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 11:40:02 +0000</pubDate>
-</item>
-<item>
 <title>五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children</title>
 <link>https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</link>
 <guid isPermaLink="true">https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477</guid>
@@ -120,12 +128,20 @@
 <pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
 </item>
 <item>
-<title>Grab and OpenAI bring practical AI skills to Southeast Asia</title>
-<link>https://openai.com/index/grab-openai-ai-skills-southeast-asia</link>
-<guid isPermaLink="true">https://openai.com/index/grab-openai-ai-skills-southeast-asia</guid>
-<description>OpenAI News</description>
+<title>​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态</title>
+<link>https://www.aibase.com/news/31314</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31314</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 11:40:02 +0000</pubDate>
+</item>
+<item>
+<title>Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains</title>
+<link>https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains</guid>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 00:34:18 +0000</pubDate>
 </item>
 <item>
 <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…</title>
@@ -136,12 +152,12 @@
 <pubDate>Tue, 22 Sep 2026 18:20:06 +0000</pubDate>
 </item>
 <item>
-<title>Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 17:10:23 +0000</pubDate>
+<title>Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse</title>
+<link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</link>
+<guid isPermaLink="true">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day</guid>
+<description>Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>行业动态</category>
+<pubDate>Tue, 22 Sep 2026 19:29:49 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…</title>
@@ -150,22 +166,6 @@
 <description>Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 20:12:31 +0000</pubDate>
-</item>
-<item>
-<title>Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS &amp; Realtime are fully upgraded， joined by two new models： TTS-Next fo…</title>
-<link>https://x.com/Alibaba_Qwen/status/2102687258990026993</link>
-<guid isPermaLink="true">https://x.com/Alibaba_Qwen/status/2102687258990026993</guid>
-<description>Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。（X：通义千问 / Qwen (@Alibaba_Qwen)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 09:11:23 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…</title>
-<link>https://x.com/OpenRouter/status/2102463839283617992</link>
-<guid isPermaLink="true">https://x.com/OpenRouter/status/2102463839283617992</guid>
-<description>OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。（X：OpenRouter (@OpenRouter)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 18:23:35 +0000</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:40:02.786935Z",
+  "generated_at": "2026-09-23T15:26:31.579835Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8695,
-      "importance": 0.8695,
-      "importance_score": 0.8695,
+      "score": 0.8621,
+      "importance": 0.8621,
+      "importance_score": 0.8621,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7748,
+        "recency": 0.7337,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8653,
-      "importance": 0.8653,
-      "importance_score": 0.8653,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7625,
+        "recency": 0.7221,
         "story_heat": 0.5
       },
       "category": "official",
@@ -283,7 +283,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
+      }
+    },
+    {
+      "story_id": "story_4784460ec311",
+      "title": "Local sandboxing in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+          "title": "Local sandboxing in the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "Local sandboxing in the GitHub Copilot app",
+          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:00:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+          "title": "Local sandboxing in the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "Local sandboxing in the GitHub Copilot app",
+          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:00:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8569,
+      "importance": 0.8569,
+      "importance_score": 0.8569,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T15:00:57Z",
+      "latest_at": "2026-09-23T15:00:57Z",
+      "primary_item": {
+        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+        "title": "Local sandboxing in the GitHub Copilot app",
+        "title_zh": null,
+        "title_en": "Local sandboxing in the GitHub Copilot app",
+        "title_original": "Local sandboxing in the GitHub Copilot app",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T16:04:22.580262Z"
+      }
+    },
+    {
+      "story_id": "story_e8d7d86b4448",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_zh": null,
+          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_zh": null,
+          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8545,
+      "importance": 0.8545,
+      "importance_score": 0.8545,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9693,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T13:17:01Z",
+      "latest_at": "2026-09-23T13:17:01Z",
+      "primary_item": {
+        "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+        "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "title_zh": null,
+        "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T16:04:22.580262Z"
+      }
+    },
+    {
+      "story_id": "story_ef9959cf1c4e",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "primary_url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "893ea26945a167f32462040ced977e07c6e6fb19",
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "title_zh": null,
+          "title_en": "Gemini 3.8 text-to-speech says hello",
+          "title_original": "Gemini 3.8 text-to-speech says hello",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:25:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "893ea26945a167f32462040ced977e07c6e6fb19",
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "title_zh": null,
+          "title_en": "Gemini 3.8 text-to-speech says hello",
+          "title_original": "Gemini 3.8 text-to-speech says hello",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:25:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8519,
+      "importance": 0.8519,
+      "importance_score": 0.8519,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9997,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T15:25:14Z",
+      "latest_at": "2026-09-23T15:25:14Z",
+      "primary_item": {
+        "id": "893ea26945a167f32462040ced977e07c6e6fb19",
+        "title": "Gemini 3.8 text-to-speech says hello",
+        "title_zh": null,
+        "title_en": "Gemini 3.8 text-to-speech says hello",
+        "title_original": "Gemini 3.8 text-to-speech says hello",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -418,15 +667,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7868,
+        "recency": 0.745,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -453,7 +702,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -501,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8449,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "category": "official",
@@ -536,7 +785,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
+      }
+    },
+    {
+      "story_id": "story_bcc37401aaaf",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T15:26:31.579835Z",
+      "latest_at": "2026-09-23T15:26:31.579835Z",
+      "primary_item": {
+        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+        "title": "Two years of OpenAI Academy",
+        "title_zh": null,
+        "title_en": "Two years of OpenAI Academy",
+        "title_original": "Two years of OpenAI Academy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -584,15 +916,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8728,
+        "recency": 0.8265,
         "story_heat": 0.0
       },
       "category": "official",
@@ -619,30 +951,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
-      "story_id": "story_a809a02e7e68",
-      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "story_id": "story_ee51f7ca8c9e",
+      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-          "title_en": "Better prompt caching for GPT-6",
-          "title_original": "Better prompt caching for GPT-6",
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
+          "published_at": "2026-09-23T13:00:00Z"
         }
       ],
       "source_count": 1,
@@ -651,31 +983,31 @@
       ],
       "items": [
         {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-          "title_en": "Better prompt caching for GPT-6",
-          "title_original": "Better prompt caching for GPT-6",
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
+          "published_at": "2026-09-23T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8091,
+        "ai_relevance": 0.91,
+        "recency": 0.9653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -684,17 +1016,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T21:00:00Z",
-      "latest_at": "2026-09-22T21:00:00Z",
+      "earliest_at": "2026-09-23T13:00:00Z",
+      "latest_at": "2026-09-23T13:00:00Z",
       "primary_item": {
-        "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-        "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-        "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-        "title_en": "Better prompt caching for GPT-6",
-        "title_original": "Better prompt caching for GPT-6",
+        "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+        "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+        "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+        "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -702,231 +1034,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
-      }
-    },
-    {
-      "story_id": "story_00b9cbed60be",
-      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_en": null,
-          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:29:49.288000Z"
-        },
-        {
-          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "ce25fe2048a7a1532a8143e4e0fba3895e4c7946",
-          "title": "Meta 的特权人工智能助手 Muse 存在严重的 0day / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_zh": "Meta 的特权人工智能助手 Muse 存在严重的 0day",
-          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49802030",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T14:35:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_en": null,
-          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:29:49.288000Z"
-        },
-        {
-          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "ce25fe2048a7a1532a8143e4e0fba3895e4c7946",
-          "title": "Meta 的特权人工智能助手 Muse 存在严重的 0day / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_zh": "Meta 的特权人工智能助手 Muse 存在严重的 0day",
-          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49802030",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T14:35:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7917,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T14:35:15Z",
-      "latest_at": "2026-09-22T19:29:49.288000Z",
-      "primary_item": {
-        "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-        "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-        "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-        "title_en": null,
-        "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-        "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
-      }
-    },
-    {
-      "story_id": "story_59c62b9a8263",
-      "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
-          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
-          "title_zh": "Copilot for JetBrains 的新功能和改进",
-          "title_en": "New features and improvements in Copilot for JetBrains",
-          "title_original": "New features and improvements in Copilot for JetBrains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:34:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
-          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
-          "title_zh": "Copilot for JetBrains 的新功能和改进",
-          "title_en": "New features and improvements in Copilot for JetBrains",
-          "title_original": "New features and improvements in Copilot for JetBrains",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:34:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8519,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T00:34:18Z",
-      "latest_at": "2026-09-23T00:34:18Z",
-      "primary_item": {
-        "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
-        "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
-        "title_zh": "Copilot for JetBrains 的新功能和改进",
-        "title_en": "New features and improvements in Copilot for JetBrains",
-        "title_original": "New features and improvements in Copilot for JetBrains",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -1003,15 +1111,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8422,
+        "recency": 0.7976,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1038,7 +1146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -1115,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7714,
+        "recency": 0.7305,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1150,7 +1258,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -1227,15 +1335,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7597,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1262,7 +1370,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -1310,15 +1418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9123,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1344,89 +1452,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
-      }
-    },
-    {
-      "story_id": "story_691efbf12274",
-      "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-      "url": "https://www.aibase.com/news/31314",
-      "primary_url": "https://www.aibase.com/news/31314",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
-          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "title_en": null,
-          "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T11:40:02.786935Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
-          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "title_en": null,
-          "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T11:40:02.786935Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T11:40:02.786935Z",
-      "latest_at": "2026-09-23T11:40:02.786935Z",
-      "primary_item": {
-        "id": "6f8fa966422cbd923179a995ee86389a3281c571",
-        "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-        "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-        "title_en": null,
-        "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31314",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -1503,15 +1529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7868,
+        "recency": 0.745,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1538,63 +1564,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
-      "story_id": "story_52b87179db37",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "primary_url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_691efbf12274",
+      "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+      "url": "https://www.aibase.com/news/31314",
+      "primary_url": "https://www.aibase.com/news/31314",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_zh": null,
-          "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "title_en": null,
+          "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
+          "url": "https://www.aibase.com/news/31314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T11:40:02.786935Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_zh": null,
-          "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "title_en": null,
+          "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
+          "url": "https://www.aibase.com/news/31314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T11:40:02.786935Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T11:40:02.786935Z",
+      "latest_at": "2026-09-23T11:40:02.786935Z",
+      "primary_item": {
+        "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+        "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+        "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+        "title_en": null,
+        "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31314",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T16:04:22.580262Z"
+      }
+    },
+    {
+      "story_id": "story_59c62b9a8263",
+      "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+          "title_zh": "Copilot for JetBrains 的新功能和改进",
+          "title_en": "New features and improvements in Copilot for JetBrains",
+          "title_original": "New features and improvements in Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:34:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+          "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+          "title_zh": "Copilot for JetBrains 的新功能和改进",
+          "title_en": "New features and improvements in Copilot for JetBrains",
+          "title_original": "New features and improvements in Copilot for JetBrains",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:34:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8449,
+        "recency": 0.8068,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1603,25 +1711,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T00:00:00Z",
-      "latest_at": "2026-09-23T00:00:00Z",
+      "earliest_at": "2026-09-23T00:34:18Z",
+      "latest_at": "2026-09-23T00:34:18Z",
       "primary_item": {
-        "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "title_zh": null,
-        "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "id": "1b42bc87cecf6157669d6957a2452c4f102295c0",
+        "title": "Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains",
+        "title_zh": "Copilot for JetBrains 的新功能和改进",
+        "title_en": "New features and improvements in Copilot for JetBrains",
+        "title_original": "New features and improvements in Copilot for JetBrains",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -1669,15 +1777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7786,
+        "recency": 0.7373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1703,90 +1811,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
-      "story_id": "story_6bb8789d9f07",
-      "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1ac6861cd270",
+      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
-          "title_zh": "Claude Opus 5.5 现已在 GitHub Copilot 中提供",
-          "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
-          "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
-          "summary": null,
+          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_en": null,
+          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T17:10:23Z"
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:29:49.288000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-          "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
-          "title_zh": "Claude Opus 5.5 现已在 GitHub Copilot 中提供",
-          "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
-          "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
-          "summary": null,
+          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_en": null,
+          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T17:10:23Z"
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:29:49.288000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
-      "importance_label": "官方更新",
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7656,
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-22T17:10:23Z",
-      "latest_at": "2026-09-22T17:10:23Z",
+      "earliest_at": "2026-09-22T19:29:49.288000Z",
+      "latest_at": "2026-09-22T19:29:49.288000Z",
       "primary_item": {
-        "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
-        "title": "Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot",
-        "title_zh": "Claude Opus 5.5 现已在 GitHub Copilot 中提供",
-        "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
-        "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
-        "summary": null,
+        "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+        "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "title_en": null,
+        "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     },
     {
@@ -1834,15 +1940,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7999,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1867,169 +1973,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
-      }
-    },
-    {
-      "story_id": "story_2dc81b83678c",
-      "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-      "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
-          "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "title_zh": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-          "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "title_original": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T09:11:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
-          "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "title_zh": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-          "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "title_original": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T09:11:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9649,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-23T09:11:23Z",
-      "latest_at": "2026-09-23T09:11:23Z",
-      "primary_item": {
-        "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
-        "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-        "title_zh": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-        "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-        "title_original": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-        "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
-      }
-    },
-    {
-      "story_id": "story_2281eae9bc24",
-      "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-      "url": "https://x.com/OpenRouter/status/2102463839283617992",
-      "primary_url": "https://x.com/OpenRouter/status/2102463839283617992",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-          "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "title_zh": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-          "title_en": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "title_original": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "summary": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2102463839283617992",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:23:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-          "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "title_zh": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-          "title_en": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "title_original": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "summary": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2102463839283617992",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:23:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7792,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T18:23:35Z",
-      "latest_at": "2026-09-22T18:23:35Z",
-      "primary_item": {
-        "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-        "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-        "title_zh": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-        "title_en": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-        "title_original": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-        "summary": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2102463839283617992",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:04:54.880149Z"
+        "scored_at": "2026-09-23T16:04:22.580262Z"
       }
     }
   ]
