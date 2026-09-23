@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 23 Sep 2026 01:29:29 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 06:00:01 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / Introducing GPT-6 Sol and Luna</title>
@@ -32,12 +32,20 @@
 <pubDate>Tue, 22 Sep 2026 20:00:35 +0000</pubDate>
 </item>
 <item>
-<title>Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains</title>
-<link>https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains</guid>
+<title>Codex CLI 0.156.1</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenTelemetry in the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 00:34:18 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 02:14:54 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6</title>
@@ -56,6 +64,14 @@
 <pubDate>Tue, 22 Sep 2026 19:29:49 +0000</pubDate>
 </item>
 <item>
+<title>Copilot for JetBrains 的新功能和改进 / New features and improvements in Copilot for JetBrains</title>
+<link>https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 00:34:18 +0000</pubDate>
+</item>
+<item>
 <title>Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war</title>
 <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</link>
 <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</guid>
@@ -72,20 +88,20 @@
 <pubDate>Tue, 22 Sep 2026 17:41:36 +0000</pubDate>
 </item>
 <item>
-<title>Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 17:10:23 +0000</pubDate>
-</item>
-<item>
 <title>Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型</title>
 <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.280</link>
 <guid isPermaLink="true">https://github.com/anthropics/claude-code/releases/tag/v2.1.280</guid>
 <description>Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。（Claude Code：GitHub Releases（RSS））</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 16:38:14 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks</title>
+<link>https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</link>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</guid>
+<description>OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。（MarkTechPost（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 05:18:36 +0000</pubDate>
 </item>
 <item>
 <title>五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡 / Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children</title>
@@ -96,14 +112,6 @@
 <pubDate>Tue, 22 Sep 2026 19:03:38 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40% / Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5</title>
-<link>https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release</link>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release</guid>
-<description>Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。（MarkTechPost（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 18:59:35 +0000</pubDate>
-</item>
-<item>
 <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…</title>
 <link>https://x.com/ArtificialAnlys/status/2102462962758033624</link>
 <guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2102462962758033624</guid>
@@ -112,12 +120,20 @@
 <pubDate>Tue, 22 Sep 2026 18:20:06 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 现已上市 / OpenAI’s GPT-6 Sol and GPT-6 Luna now available</title>
-<link>https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available</guid>
+<title>Claude Opus 5.5 现已在 GitHub Copilot 中提供 / Claude Opus 5.5 is now available in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 22 Sep 2026 17:00:14 +0000</pubDate>
+<pubDate>Tue, 22 Sep 2026 17:10:23 +0000</pubDate>
+</item>
+<item>
+<title>AI会自己返工到达标为止?豆包工作上线目标模式，先给计划、确认后才干活</title>
+<link>https://www.aibase.com/news/31298</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31298</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 06:00:01 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为 / Anthropic gave the model simulated credentials to a public package registry during a security exerci…</title>
@@ -128,20 +144,12 @@
 <pubDate>Tue, 22 Sep 2026 20:12:31 +0000</pubDate>
 </item>
 <item>
-<title>Parallel cut research time and cost in half with GPT‑6 Astra</title>
+<title>使用 GPT-6 Astra 并行将研究时间和成本减少一半 / Parallel cut research time and cost in half with GPT‑6 Astra</title>
 <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Tue, 22 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>AI 基建遭反噬：Q2 美国 680 亿美元数据中心项目因公众反对受阻</title>
-<link>https://www.aibase.com/news/31279</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31279</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 01:29:29 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…</title>
@@ -158,14 +166,6 @@
 <description>OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。（X：Sherwin Wu（@sherwinwu））</description>
 <category>行业动态</category>
 <pubDate>Tue, 22 Sep 2026 18:19:24 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …</title>
-<link>https://x.com/ChatGPT/status/2102462020339613966</link>
-<guid isPermaLink="true">https://x.com/ChatGPT/status/2102462020339613966</guid>
-<description>OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。（X：ChatGPT (@ChatGPT)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 18:16:22 +0000</pubDate>
 </item>
 </channel>
 </rss>
