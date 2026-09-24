@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 23 Sep 2026 20:25:39 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 23:44:27 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART / Claude discovers a novel enzyme system with CRISPR-like repeats</title>
@@ -16,7 +16,15 @@
 <pubDate>Wed, 23 Sep 2026 19:28:38 +0000</pubDate>
 </item>
 <item>
-<title>How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
+<title>Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks</title>
+<link>https://claude.dev/blog/how-we-made-claude-ai-faster</link>
+<guid isPermaLink="true">https://claude.dev/blog/how-we-made-claude-ai-faster</guid>
+<description>Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Wed, 23 Sep 2026 21:34:38 +0000</pubDate>
+</item>
+<item>
+<title>如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</title>
 <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
 <guid isPermaLink="true">https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</guid>
 <description>Hugging Face Blog</description>
@@ -24,7 +32,23 @@
 <pubDate>Wed, 23 Sep 2026 18:41:40 +0000</pubDate>
 </item>
 <item>
-<title>Rendering huge pull requests in the GitHub Copilot app</title>
+<title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
+<link>https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
+<guid isPermaLink="true">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</guid>
+<description>澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
+</item>
+<item>
+<title>More ways to request and configure Copilot code reviews</title>
+<link>https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 21:25:58 +0000</pubDate>
+</item>
+<item>
+<title>在 GitHub Copilot 应用程序中呈现巨大的拉取请求 / Rendering huge pull requests in the GitHub Copilot app</title>
 <link>https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app</link>
 <guid isPermaLink="true">https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app</guid>
 <description>GitHub AI &amp; ML</description>
@@ -40,14 +64,6 @@
 <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app</title>
-<link>https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 15:00:57 +0000</pubDate>
-</item>
-<item>
 <title>Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello</title>
 <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</link>
 <guid isPermaLink="true">https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech</guid>
@@ -56,7 +72,7 @@
 <pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
 </item>
 <item>
-<title>Google Beam expands with new regions, partners, and customers</title>
+<title>Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers</title>
 <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion</link>
 <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/research/google-beam-expansion</guid>
 <description>Google AI Blog</description>
@@ -70,6 +86,14 @@
 <description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
 <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 23 Sep 2026 15:00:57 +0000</pubDate>
 </item>
 <item>
 <title>**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**</title>
@@ -112,12 +136,28 @@
 <pubDate>Wed, 23 Sep 2026 18:46:48 +0000</pubDate>
 </item>
 <item>
-<title>OpenTelemetry in the GitHub Copilot app</title>
-<link>https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app</guid>
+<title>Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…</title>
+<link>https://x.com/natolambert/status/2102872133244183038</link>
+<guid isPermaLink="true">https://x.com/natolambert/status/2102872133244183038</guid>
+<description>澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。（X：Nathan Lambert (@natolambert)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 21:26:00 +0000</pubDate>
+</item>
+<item>
+<title>Node 20 is no longer available in GitHub Actions</title>
+<link>https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 02:14:54 +0000</pubDate>
+<pubDate>Wed, 23 Sep 2026 20:46:07 +0000</pubDate>
+</item>
+<item>
+<title>团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…</title>
+<link>https://x.com/ericzakariasson/status/2102853511637774551</link>
+<guid isPermaLink="true">https://x.com/ericzakariasson/status/2102853511637774551</guid>
+<description>一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。（X：Eric Zakariasson (@ericzakariasson)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 23 Sep 2026 20:12:00 +0000</pubDate>
 </item>
 <item>
 <title>invideo 如何使用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra</title>
@@ -126,46 +166,6 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 23 Sep 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：</title>
-<link>https://x.com/gdb/status/2102821706041819401</link>
-<guid isPermaLink="true">https://x.com/gdb/status/2102821706041819401</guid>
-<description>GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。（X：Greg Brockman (@gdb)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 18:05:37 +0000</pubDate>
-</item>
-<item>
-<title>Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war</title>
-<link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna</guid>
-<description>Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。（Simon Willison 博客）</description>
-<category>行业动态</category>
-<pubDate>Tue, 22 Sep 2026 23:46:41 +0000</pubDate>
-</item>
-<item>
-<title>Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…</title>
-<link>https://x.com/arena/status/2102806554340974612</link>
-<guid isPermaLink="true">https://x.com/arena/status/2102806554340974612</guid>
-<description>Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 17:05:25 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…</title>
-<link>https://x.com/thsottiaux/status/2102814202117411196</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2102814202117411196</guid>
-<description>OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。（X：Tibo (@thsottiaux)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 17:35:48 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks</title>
-<link>https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</link>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks</guid>
-<description>OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。（MarkTechPost（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 05:18:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
