@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 24 Sep 2026 23:53:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 01:28:02 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark</title>
@@ -80,20 +80,20 @@
 <pubDate>Thu, 24 Sep 2026 09:32:14 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
-<link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
-<guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
-<description>Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。（Claude：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 16:38:37 +0000</pubDate>
-</item>
-<item>
 <title>Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…</title>
 <link>https://x.com/ClaudeDevs/status/2102940480736821610</link>
 <guid isPermaLink="true">https://x.com/ClaudeDevs/status/2102940480736821610</guid>
 <description>Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。（X：Claude Devs (@ClaudeDevs)）</description>
 <category>官方更新</category>
 <pubDate>Thu, 24 Sep 2026 01:57:36 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
+<link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
+<description>Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。（Claude：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 16:38:37 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…</title>
@@ -112,28 +112,12 @@
 <pubDate>Thu, 24 Sep 2026 11:48:43 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 称与苹果的 ChatGPT 合作表现远低于预期</title>
-<link>https://www.ithome.com/1/006/548.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/006/548.htm</guid>
-<description>OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 01:12:13 +0000</pubDate>
-</item>
-<item>
 <title>Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / "I think the answer is we have to shut the labs down" - Jensen Huang</title>
 <link>https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</link>
 <guid isPermaLink="true">https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to</guid>
 <description>Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 24 Sep 2026 12:27:50 +0000</pubDate>
-</item>
-<item>
-<title>OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It</title>
-<link>https://openrouter.ai/blog/insights/kimi-k3-open-source</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/insights/kimi-k3-open-source</guid>
-<description>OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件</title>
@@ -166,6 +150,22 @@
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Thu, 24 Sep 2026 19:59:26 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对"全球治理"</title>
+<link>https://www.aibase.com/news/31353</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31353</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 09:58:36 +0000</pubDate>
+</item>
+<item>
+<title>​华为官宣小艺 Work 正式上线，首发 31 天限时免费畅享 1000 AI 点</title>
+<link>https://www.aibase.com/news/31352</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31352</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 09:58:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
