@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 24 Sep 2026 20:31:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 23:53:46 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark</title>
@@ -22,6 +22,14 @@
 <description>安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>多源热议</category>
 <pubDate>Thu, 24 Sep 2026 17:19:34 +0000</pubDate>
+</item>
+<item>
+<title>Require proof of presence for high-impact actions</title>
+<link>https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 24 Sep 2026 20:28:33 +0000</pubDate>
 </item>
 <item>
 <title>当聊天是错误的 UI 时 / When chat is the wrong UI</title>
@@ -48,14 +56,6 @@
 <pubDate>Thu, 24 Sep 2026 18:26:12 +0000</pubDate>
 </item>
 <item>
-<title>请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews</title>
-<link>https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 21:25:58 +0000</pubDate>
-</item>
-<item>
 <title>澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law</title>
 <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law</guid>
@@ -78,22 +78,6 @@
 <description>Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。（X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 24 Sep 2026 09:32:14 +0000</pubDate>
-</item>
-<item>
-<title>阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</title>
-<link>https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</link>
-<guid isPermaLink="true">https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html</guid>
-<description>澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Wed, 23 Sep 2026 22:54:29 +0000</pubDate>
-</item>
-<item>
-<title>Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions</title>
-<link>https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 20:46:07 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
@@ -152,20 +136,36 @@
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…</title>
-<link>https://x.com/natolambert/status/2102872133244183038</link>
-<guid isPermaLink="true">https://x.com/natolambert/status/2102872133244183038</guid>
-<description>澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。（X：Nathan Lambert (@natolambert)）</description>
+<title>ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件</title>
+<link>https://www.aibase.com/news/31347</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31347</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 23 Sep 2026 21:26:00 +0000</pubDate>
+<pubDate>Thu, 24 Sep 2026 09:58:36 +0000</pubDate>
 </item>
 <item>
-<title>Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…</title>
-<link>https://x.com/ClaudeDevs/status/2102871550974427462</link>
-<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2102871550974427462</guid>
-<description>Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。（X：Claude Devs (@ClaudeDevs)）</description>
-<category>官方更新</category>
-<pubDate>Wed, 23 Sep 2026 21:23:41 +0000</pubDate>
+<title>Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置</title>
+<link>https://www.aibase.com/news/31348</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31348</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 09:58:36 +0000</pubDate>
+</item>
+<item>
+<title>Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能</title>
+<link>https://www.aibase.com/news/31346</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31346</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 24 Sep 2026 09:58:36 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 3.8 Live with Live Avatar 为谷歌人工智能提供了面孔 / Gemini 3.8 Live with Live Avatar gives Google&amp;#8217;s AI a face</title>
+<link>https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Thu, 24 Sep 2026 19:59:26 +0000</pubDate>
 </item>
 </channel>
 </rss>
