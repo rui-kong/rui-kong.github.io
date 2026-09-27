@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-09-26T23:38:41.957729Z",
+  "generated_at": "2026-09-27T01:24:45.394031Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 16,
   "items": [
-    {
-      "story_id": "story_1b2804dac47a",
-      "title": "Codex CLI 0.157.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-          "title": "Codex CLI 0.157.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.157.1",
-          "title_original": "Codex CLI 0.157.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-26T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-          "title": "Codex CLI 0.157.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.157.1",
-          "title_original": "Codex CLI 0.157.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-26T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7107,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T00:00:00Z",
-      "latest_at": "2026-09-26T00:00:00Z",
-      "primary_item": {
-        "id": "39548bb78c040e0bfe8c437e8dc64a994c49eb73",
-        "title": "Codex CLI 0.157.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.157.1",
-        "title_original": "Codex CLI 0.157.1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
-      }
-    },
     {
       "story_id": "story_a7326ac13231",
       "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
@@ -109,9 +26,23 @@
           "published_at": "2026-09-26T14:03:54Z"
         },
         {
+          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "title_en": null,
+          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T00:34:02.450000Z"
+        },
+        {
           "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": null,
+          "title": "OpenAI 机器人干扰了多个美国政府机构网站 / OpenAI bots meddled with multiple US Government agency sites",
+          "title_zh": "OpenAI 机器人干扰了多个美国政府机构网站",
           "title_en": "OpenAI bots meddled with multiple US Government agency sites",
           "title_original": "OpenAI bots meddled with multiple US Government agency sites",
           "summary": null,
@@ -123,10 +54,11 @@
           "published_at": "2026-09-26T14:03:54Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News：AI 热帖",
-        "hackernews"
+        "hackernews",
+        "www.bbc.com"
       ],
       "items": [
         {
@@ -144,9 +76,23 @@
           "published_at": "2026-09-26T14:03:54Z"
         },
         {
+          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
+          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "title_en": null,
+          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T00:34:02.450000Z"
+        },
+        {
           "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": null,
+          "title": "OpenAI 机器人干扰了多个美国政府机构网站 / OpenAI bots meddled with multiple US Government agency sites",
+          "title_zh": "OpenAI 机器人干扰了多个美国政府机构网站",
           "title_en": "OpenAI bots meddled with multiple US Government agency sites",
           "title_original": "OpenAI bots meddled with multiple US Government agency sites",
           "summary": null,
@@ -158,27 +104,27 @@
           "published_at": "2026-09-26T14:03:54Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
-        "story_heat": 0.25
+        "recency": 0.8489,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-26T14:03:54Z",
+      "latest_at": "2026-09-27T00:34:02.450000Z",
       "primary_item": {
         "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
         "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
@@ -195,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -243,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9938,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +223,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -325,15 +271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8107,
+        "recency": 0.7902,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,119 +305,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
-      }
-    },
-    {
-      "story_id": "story_21d746909977",
-      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "swarmtraces.org"
-      ],
-      "items": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7107,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T23:59:47.248000Z",
-      "latest_at": "2026-09-25T23:59:47.248000Z",
-      "primary_item": {
-        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_en": null,
-        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-        "recommend_reason_zh": null,
-        "url": "https://swarmtraces.org",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -519,15 +353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9091,
+        "recency": 0.8862,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -553,7 +387,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
+      }
+    },
+    {
+      "story_id": "story_5bb17e238644",
+      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
+      "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "primary_url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
+          "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+          "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
+          "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
+          "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:55:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
+          "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+          "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
+          "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
+          "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
+          "recommend_reason_zh": null,
+          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T23:55:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9788,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-26T23:55:49Z",
+      "latest_at": "2026-09-26T23:55:49Z",
+      "primary_item": {
+        "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
+        "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
+        "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+        "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
+        "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
+        "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
+        "recommend_reason_zh": null,
+        "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -601,15 +516,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7629,
+        "recency": 0.7436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,7 +549,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -682,15 +597,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8921,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -716,7 +631,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
+      }
+    },
+    {
+      "story_id": "story_a21828da2aae",
+      "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+          "title_en": "OpenAI pauses training of its ‘most capable models’",
+          "title_original": "OpenAI pauses training of its ‘most capable models’",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T16:34:59Z"
+        },
+        {
+          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+          "title_en": "OpenAI pauses training of its 'most capable models'",
+          "title_original": "OpenAI pauses training of its 'most capable models'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T21:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+          "title_en": "OpenAI pauses training of its ‘most capable models’",
+          "title_original": "OpenAI pauses training of its ‘most capable models’",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-26T16:34:59Z"
+        },
+        {
+          "id": "c75717ba5e7647b2749d121860a7c5057ddcbdd7",
+          "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its 'most capable models'",
+          "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+          "title_en": "OpenAI pauses training of its 'most capable models'",
+          "title_original": "OpenAI pauses training of its 'most capable models'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T21:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6064,
+      "importance": 0.6064,
+      "importance_score": 0.6064,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.8803,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T16:34:59Z",
+      "latest_at": "2026-09-26T21:07:08Z",
+      "primary_item": {
+        "id": "ee910dc9f9121d6deb3d0ef28105e83e88a21a55",
+        "title": "OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’",
+        "title_zh": "OpenAI 暂停对其“最有能力的模型”的训练",
+        "title_en": "OpenAI pauses training of its ‘most capable models’",
+        "title_original": "OpenAI pauses training of its ‘most capable models’",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -757,8 +782,8 @@
         },
         {
           "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "title_zh": null,
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
           "title_en": "DeepSeek Elastic Compute (DSec)",
           "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
@@ -807,8 +832,8 @@
         },
         {
           "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "title_zh": null,
+          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
+          "title_zh": "DeepSeek 弹性计算 (DSec)",
           "title_en": "DeepSeek Elastic Compute (DSec)",
           "title_original": "DeepSeek Elastic Compute (DSec)",
           "summary": null,
@@ -822,15 +847,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9903,
+        "recency": 0.9654,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -855,7 +880,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -881,7 +906,7 @@
           "published_at": "2026-09-26T21:55:10.332000Z"
         },
         {
-          "id": "bee4aff7b9a795df3b737d83c827500f9b398964",
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
           "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
           "title_zh": "Copilot 电脑品牌已不复存在",
           "title_en": "The Copilot+ PC brand is dead",
@@ -889,15 +914,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T09:55:38Z"
         },
         {
           "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
-          "title": "The Copilot+ PC brand is dead",
-          "title_zh": null,
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
           "title_en": "The Copilot+ PC brand is dead",
           "title_original": "The Copilot+ PC brand is dead",
           "summary": null,
@@ -911,7 +936,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.windowscentral.com"
       ],
@@ -931,7 +956,7 @@
           "published_at": "2026-09-26T21:55:10.332000Z"
         },
         {
-          "id": "bee4aff7b9a795df3b737d83c827500f9b398964",
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
           "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
           "title_zh": "Copilot 电脑品牌已不复存在",
           "title_en": "The Copilot+ PC brand is dead",
@@ -939,15 +964,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T09:55:38Z"
         },
         {
           "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
-          "title": "The Copilot+ PC brand is dead",
-          "title_zh": null,
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
           "title_en": "The Copilot+ PC brand is dead",
           "title_original": "The Copilot+ PC brand is dead",
           "summary": null,
@@ -961,15 +986,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5664,
-      "importance": 0.5664,
-      "importance_score": 0.5664,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9754,
+        "recency": 0.9508,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -994,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -1035,8 +1060,8 @@
         },
         {
           "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
-          "title": "How to keep enjoying programming in a world of LLMs",
-          "title_zh": null,
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
           "title_en": "How to keep enjoying programming in a world of LLMs",
           "title_original": "How to keep enjoying programming in a world of LLMs",
           "summary": null,
@@ -1085,8 +1110,8 @@
         },
         {
           "id": "a930782ee90bb6dcb0e88a39ed0039db7883b922",
-          "title": "How to keep enjoying programming in a world of LLMs",
-          "title_zh": null,
+          "title": "如何在LLM的世界里继续享受编程的乐趣 / How to keep enjoying programming in a world of LLMs",
+          "title_zh": "如何在LLM的世界里继续享受编程的乐趣",
           "title_en": "How to keep enjoying programming in a world of LLMs",
           "title_original": "How to keep enjoying programming in a world of LLMs",
           "summary": null,
@@ -1100,15 +1125,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5625,
-      "importance": 0.5625,
-      "importance_score": 0.5625,
+      "score": 0.5582,
+      "importance": 0.5582,
+      "importance_score": 0.5582,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9538,
+        "recency": 0.9297,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1133,7 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -1159,7 +1184,7 @@
           "published_at": "2026-09-26T13:48:03.398000Z"
         },
         {
-          "id": "0f1257162bc0c26c7be23e75058a925a814839cb",
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
           "title": "没有AI的一个月 / One Month Without AI",
           "title_zh": "没有AI的一个月",
           "title_en": "One Month Without AI",
@@ -1167,15 +1192,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T10:08:21Z"
         },
         {
           "id": "02f417bca1ed2898a049c5d0ea70d4a5f63ca4f8",
-          "title": "One Month Without AI",
-          "title_zh": null,
+          "title": "没有人工智能的一个月 / One Month Without AI",
+          "title_zh": "没有人工智能的一个月",
           "title_en": "One Month Without AI",
           "title_original": "One Month Without AI",
           "summary": null,
@@ -1189,7 +1214,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "blog.bustikiller.com",
         "hackernews"
       ],
@@ -1209,7 +1234,7 @@
           "published_at": "2026-09-26T13:48:03.398000Z"
         },
         {
-          "id": "0f1257162bc0c26c7be23e75058a925a814839cb",
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
           "title": "没有AI的一个月 / One Month Without AI",
           "title_zh": "没有AI的一个月",
           "title_en": "One Month Without AI",
@@ -1217,15 +1242,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T10:08:21Z"
         },
         {
           "id": "02f417bca1ed2898a049c5d0ea70d4a5f63ca4f8",
-          "title": "One Month Without AI",
-          "title_zh": null,
+          "title": "没有人工智能的一个月 / One Month Without AI",
+          "title_zh": "没有人工智能的一个月",
           "title_en": "One Month Without AI",
           "title_original": "One Month Without AI",
           "summary": null,
@@ -1239,15 +1264,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5469,
-      "importance": 0.5469,
-      "importance_score": 0.5469,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8675,
+        "recency": 0.8456,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1272,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
@@ -1298,7 +1323,7 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
           "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
           "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
           "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
@@ -1306,15 +1331,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T04:20:58Z"
         },
         {
           "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
-          "title": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": null,
+          "title": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
+          "title_zh": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型",
           "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
           "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
           "summary": null,
@@ -1328,7 +1353,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "allanrbo.blogspot.com",
         "hackernews"
       ],
@@ -1348,7 +1373,7 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
           "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
           "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
           "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
@@ -1356,15 +1381,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T04:20:58Z"
         },
         {
           "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
-          "title": "A single function Jev-like wrapper for LLMs, including vision models",
-          "title_zh": null,
+          "title": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
+          "title_zh": "一个类似于 Jev 的单一功能 LLM 包装器，包括视觉模型",
           "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
           "title_original": "A single function Jev-like wrapper for LLMs, including vision models",
           "summary": null,
@@ -1378,15 +1403,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8578,
+        "recency": 0.8362,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1411,12 +1436,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
       "story_id": "story_a19c19544491",
-      "title": "An OpenAI agent used DNS to reach an external chatbot",
+      "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
       "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
       "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
       "source": "HN Algolia · AI 24h",
@@ -1424,8 +1449,8 @@
       "sources": [
         {
           "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "An OpenAI agent used DNS to reach an external chatbot",
-          "title_zh": null,
+          "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+          "title_zh": "OpenAI 代理使用 DNS 来访问外部聊天机器人",
           "title_en": "An OpenAI agent used DNS to reach an external chatbot",
           "title_original": "An OpenAI agent used DNS to reach an external chatbot",
           "summary": null,
@@ -1438,8 +1463,8 @@
         },
         {
           "id": "c55d937f20afbd34161ed7a3420a89d5a13a2760",
-          "title": "An agent used DNS to reach an external chatbot",
-          "title_zh": null,
+          "title": "代理使用 DNS 来访问外部聊天机器人 / An agent used DNS to reach an external chatbot",
+          "title_zh": "代理使用 DNS 来访问外部聊天机器人",
           "title_en": "An agent used DNS to reach an external chatbot",
           "title_original": "An agent used DNS to reach an external chatbot",
           "summary": null,
@@ -1459,8 +1484,8 @@
       "items": [
         {
           "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "An OpenAI agent used DNS to reach an external chatbot",
-          "title_zh": null,
+          "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+          "title_zh": "OpenAI 代理使用 DNS 来访问外部聊天机器人",
           "title_en": "An OpenAI agent used DNS to reach an external chatbot",
           "title_original": "An OpenAI agent used DNS to reach an external chatbot",
           "summary": null,
@@ -1473,8 +1498,8 @@
         },
         {
           "id": "c55d937f20afbd34161ed7a3420a89d5a13a2760",
-          "title": "An agent used DNS to reach an external chatbot",
-          "title_zh": null,
+          "title": "代理使用 DNS 来访问外部聊天机器人 / An agent used DNS to reach an external chatbot",
+          "title_zh": "代理使用 DNS 来访问外部聊天机器人",
           "title_en": "An agent used DNS to reach an external chatbot",
           "title_original": "An agent used DNS to reach an external chatbot",
           "summary": null,
@@ -1488,15 +1513,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.892,
+        "recency": 0.8695,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1507,8 +1532,8 @@
       "latest_at": "2026-09-26T15:43:46Z",
       "primary_item": {
         "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-        "title": "An OpenAI agent used DNS to reach an external chatbot",
-        "title_zh": null,
+        "title": "OpenAI 代理使用 DNS 来访问外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+        "title_zh": "OpenAI 代理使用 DNS 来访问外部聊天机器人",
         "title_en": "An OpenAI agent used DNS to reach an external chatbot",
         "title_original": "An OpenAI agent used DNS to reach an external chatbot",
         "summary": null,
@@ -1521,12 +1546,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
       "story_id": "story_2d4d3338bea1",
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
       "url": "https://github.com/brumar/chess-postmortem-skills",
       "primary_url": "https://github.com/brumar/chess-postmortem-skills",
       "source": "Hacker News",
@@ -1534,8 +1559,8 @@
       "sources": [
         {
           "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": null,
+          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
           "title_en": "Show HN: A Claude Code skill to analyze your chess games",
           "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
@@ -1548,8 +1573,8 @@
         },
         {
           "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": null,
+          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
           "title_en": "Show HN: A Claude Code skill to analyze your chess games",
           "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
@@ -1569,8 +1594,8 @@
       "items": [
         {
           "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": null,
+          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
           "title_en": "Show HN: A Claude Code skill to analyze your chess games",
           "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
@@ -1583,8 +1608,8 @@
         },
         {
           "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": null,
+          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
           "title_en": "Show HN: A Claude Code skill to analyze your chess games",
           "title_original": "Show HN: A Claude Code skill to analyze your chess games",
           "summary": null,
@@ -1598,15 +1623,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8901,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1617,8 +1642,8 @@
       "latest_at": "2026-09-26T15:34:53Z",
       "primary_item": {
         "id": "16c4c0284c18939d4099ba4b412a3dc10aac3cdd",
-        "title": "Show HN: A Claude Code skill to analyze your chess games",
-        "title_zh": null,
+        "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
+        "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
         "title_en": "Show HN: A Claude Code skill to analyze your chess games",
         "title_original": "Show HN: A Claude Code skill to analyze your chess games",
         "summary": null,
@@ -1631,145 +1656,35 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
-      }
-    },
-    {
-      "story_id": "story_a54801aacaf3",
-      "title": "Generate fonts where every LLM token is the same width",
-      "url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "primary_url": "https://ampdot.mesh.host/token-space-fonts.html",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "39c56b8f7b2d842754afff95e14a0a91c52ae2ee",
-          "title": "Generate fonts where every LLM token is the same width",
-          "title_zh": null,
-          "title_en": "Generate fonts where every LLM token is the same width",
-          "title_original": "Generate fonts where every LLM token is the same width",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ampdot.mesh.host/token-space-fonts.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T00:30:03Z"
-        },
-        {
-          "id": "4cf2a912aeaf98d4aca19990bc475c26370c4d1e",
-          "title": "Generate fonts where every LLM token is the same width",
-          "title_zh": null,
-          "title_en": "Generate fonts where every LLM token is the same width",
-          "title_original": "Generate fonts where every LLM token is the same width",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49851883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T00:30:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "39c56b8f7b2d842754afff95e14a0a91c52ae2ee",
-          "title": "Generate fonts where every LLM token is the same width",
-          "title_zh": null,
-          "title_en": "Generate fonts where every LLM token is the same width",
-          "title_original": "Generate fonts where every LLM token is the same width",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ampdot.mesh.host/token-space-fonts.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T00:30:03Z"
-        },
-        {
-          "id": "4cf2a912aeaf98d4aca19990bc475c26370c4d1e",
-          "title": "Generate fonts where every LLM token is the same width",
-          "title_zh": null,
-          "title_en": "Generate fonts where every LLM token is the same width",
-          "title_original": "Generate fonts where every LLM token is the same width",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49851883",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T00:30:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7159,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T00:30:03Z",
-      "latest_at": "2026-09-26T00:30:03Z",
-      "primary_item": {
-        "id": "39c56b8f7b2d842754afff95e14a0a91c52ae2ee",
-        "title": "Generate fonts where every LLM token is the same width",
-        "title_zh": null,
-        "title_en": "Generate fonts where every LLM token is the same width",
-        "title_original": "Generate fonts where every LLM token is the same width",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://ampdot.mesh.host/token-space-fonts.html",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     },
     {
       "story_id": "story_e5053502e78a",
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
       "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
       "primary_url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_zh": null,
+          "id": "6f355212d4f712f69b5206fe5e870541b63d3f6d",
+          "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
           "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T13:05:36Z"
         },
         {
           "id": "a1b407d175206aca71a67696688a7971ee1649c0",
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_zh": null,
+          "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
           "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "summary": null,
@@ -1783,28 +1698,28 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_zh": null,
+          "id": "6f355212d4f712f69b5206fe5e870541b63d3f6d",
+          "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
           "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T13:05:36Z"
         },
         {
           "id": "a1b407d175206aca71a67696688a7971ee1649c0",
-          "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_zh": null,
+          "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+          "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
           "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
           "summary": null,
@@ -1818,15 +1733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8587,
+        "recency": 0.837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1836,22 +1751,22 @@
       "earliest_at": "2026-09-26T13:05:36Z",
       "latest_at": "2026-09-26T13:05:36Z",
       "primary_item": {
-        "id": "fb35fc0c5b546b958ccc6369f9be941d7f7f692a",
-        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-        "title_zh": null,
+        "id": "6f355212d4f712f69b5206fe5e870541b63d3f6d",
+        "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+        "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
         "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
         "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T23:56:54.595022Z"
+        "scored_at": "2026-09-27T01:25:35.661039Z"
       }
     }
   ]
