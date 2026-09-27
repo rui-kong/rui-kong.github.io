@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 27 Sep 2026 08:17:55 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 10:32:29 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法</title>
+<link>https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal</link>
+<guid isPermaLink="true">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal</guid>
+<description>Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<category>多源热议</category>
+<pubDate>Sun, 27 Sep 2026 09:27:15 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites</title>
 <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
@@ -22,14 +30,6 @@
 <description>据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 26 Sep 2026 23:12:53 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its "most capable models" after agents exploit loopholes and leak data</title>
-<link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</guid>
-<description>OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 26 Sep 2026 09:06:36 +0000</pubDate>
 </item>
 <item>
 <title>Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…</title>
@@ -72,36 +72,20 @@
 <pubDate>Sat, 26 Sep 2026 21:07:08 +0000</pubDate>
 </item>
 <item>
+<title>一位代理通过DNS连接到一个外部聊天机器人</title>
+<link>https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot</link>
+<guid isPermaLink="true">https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot</guid>
+<description>alignment.openai.com</description>
+<category>值得关注</category>
+<pubDate>Sun, 27 Sep 2026 10:14:33 +0000</pubDate>
+</item>
+<item>
 <title>DeepSeek 弹性计算 (DSec)</title>
 <link>https://arxiv.org/abs/2609.22978</link>
 <guid isPermaLink="true">https://arxiv.org/abs/2609.22978</guid>
 <description>arxiv.org</description>
 <category>多源热议</category>
 <pubDate>Sat, 26 Sep 2026 22:58:22 +0000</pubDate>
-</item>
-<item>
-<title>Copilot 电脑品牌已不复存在</title>
-<link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
-<guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
-<description>www.windowscentral.com</description>
-<category>多源热议</category>
-<pubDate>Sat, 26 Sep 2026 21:55:10 +0000</pubDate>
-</item>
-<item>
-<title>在大型语言模型（LLM）盛行的世界里，如何保持对编程的热情</title>
-<link>https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</link>
-<guid isPermaLink="true">https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705</guid>
-<description>discourse.haskell.org</description>
-<category>多源热议</category>
-<pubDate>Sat, 26 Sep 2026 20:22:03 +0000</pubDate>
-</item>
-<item>
-<title>没有AI的一个月</title>
-<link>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</link>
-<guid isPermaLink="true">https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html</guid>
-<description>blog.bustikiller.com</description>
-<category>多源热议</category>
-<pubDate>Sat, 26 Sep 2026 13:48:03 +0000</pubDate>
 </item>
 <item>
 <title>展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games</title>
