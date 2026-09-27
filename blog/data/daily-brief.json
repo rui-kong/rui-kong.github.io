@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T10:32:29.622651Z",
+  "generated_at": "2026-09-27T15:38:41.417933Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_f7a9ca52c4e3",
@@ -66,9 +66,23 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_zh": "作者诉微软/OpenAI 案中未密封的内情",
+          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -131,20 +145,34 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_zh": "作者诉微软/OpenAI 案中未密封的内情",
+          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8548,
-      "importance": 0.8548,
-      "importance_score": 0.8548,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8672,
+      "importance": 0.8672,
+      "importance_score": 0.8672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9844,
-        "story_heat": 0.75
+        "recency": 0.9145,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -170,148 +198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
-      }
-    },
-    {
-      "story_id": "story_a7326ac13231",
-      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "primary_url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
-          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_en": null,
-          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T00:34:02.450000Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI 机器人干扰了多个美国政府机构网站 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI 机器人干扰了多个美国政府机构网站",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "hackernews",
-        "www.bbc.com"
-      ],
-      "items": [
-        {
-          "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        },
-        {
-          "id": "cde355b928acc4928c7d46f40a8611012aefe64e",
-          "title": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_zh": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "title_en": null,
-          "title_original": "OpenAI的机器人篡改了多个美国政府机构网站",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T00:34:02.450000Z"
-        },
-        {
-          "id": "cfc6391f72c2395e39131a46f6507c155b387b40",
-          "title": "OpenAI 机器人干扰了多个美国政府机构网站 / OpenAI bots meddled with multiple US Government agency sites",
-          "title_zh": "OpenAI 机器人干扰了多个美国政府机构网站",
-          "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-          "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856665",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.744,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-27T00:34:02.450000Z",
-      "primary_item": {
-        "id": "0b5388f016ad2f8e48e3c9ee7b9fd066209c5cec",
-        "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄 / OpenAI bots meddled with multiple US Government agency sites",
-        "title_zh": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-        "title_en": "OpenAI bots meddled with multiple US Government agency sites",
-        "title_original": "OpenAI bots meddled with multiple US Government agency sites",
-        "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     },
     {
@@ -359,15 +246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8491,
+        "recency": 0.7888,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -393,7 +280,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     },
     {
@@ -441,15 +328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7767,
+        "recency": 0.7215,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -474,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     },
     {
@@ -522,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.931,
+        "recency": 0.8649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,88 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
-      }
-    },
-    {
-      "story_id": "story_5bb17e238644",
-      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
-      "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-      "primary_url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
-          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
-          "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-          "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
-          "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
-          "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:55:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
-          "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
-          "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-          "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
-          "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
-          "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T23:55:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8579,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T23:55:49Z",
-      "latest_at": "2026-09-26T23:55:49Z",
-      "primary_item": {
-        "id": "bcc7c18632ea009fe5425ca4d01535bd17ca0de5",
-        "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands",
-        "title_zh": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-        "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
-        "title_original": "BREAKING： AI agent incident toll has risen to tens of thousands",
-        "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     },
     {
@@ -685,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7622,
+        "recency": 0.708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -718,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     },
     {
@@ -795,15 +601,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5868,
-      "importance": 0.5868,
-      "importance_score": 0.5868,
+      "score": 0.577,
+      "importance": 0.577,
+      "importance_score": 0.577,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7716,
+        "recency": 0.7168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -828,117 +634,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     },
     {
-      "story_id": "story_11b21c94e979",
-      "title": "一位代理通过DNS连接到一个外部聊天机器人",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "source": "alignment.openai.com",
+      "story_id": "story_34096525a703",
+      "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "primary_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "source": "www.privatemode.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人",
-          "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
+          "id": "2c07064135493a697f86987ecc808851d594ee81",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
+          "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
           "title_en": null,
-          "title_original": "一位代理通过DNS连接到一个外部聊天机器人",
+          "title_original": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "alignment.openai.com",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "www.privatemode.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:33.203000Z"
+          "published_at": "2026-09-27T11:32:15.779000Z"
         },
         {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
-          "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
-          "title_en": "An OpenAI agent used DNS to reach an external chatbot",
-          "title_original": "An OpenAI agent used DNS to reach an external chatbot",
+          "id": "8f9fe70b05060021e35e2f9d44befcaba19f973c",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
+          "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
+          "title_en": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "title_original": "Turning GLM-5.3-Flash into a Jev-like decision model",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "alignment.openai.com"
+        "Hacker News (黑客新闻)",
+        "www.privatemode.ai"
       ],
       "items": [
         {
-          "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人",
-          "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
+          "id": "2c07064135493a697f86987ecc808851d594ee81",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
+          "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
           "title_en": null,
-          "title_original": "一位代理通过DNS连接到一个外部聊天机器人",
+          "title_original": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "alignment.openai.com",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "www.privatemode.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:33.203000Z"
+          "published_at": "2026-09-27T11:32:15.779000Z"
         },
         {
-          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
-          "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
-          "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
-          "title_en": "An OpenAI agent used DNS to reach an external chatbot",
-          "title_original": "An OpenAI agent used DNS to reach an external chatbot",
+          "id": "8f9fe70b05060021e35e2f9d44befcaba19f973c",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
+          "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
+          "title_en": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "title_original": "Turning GLM-5.3-Flash into a Jev-like decision model",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-26T15:43:46Z"
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9957,
+        "recency": 0.9424,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:43:46Z",
-      "latest_at": "2026-09-27T10:14:33.203000Z",
+      "earliest_at": "2026-09-26T15:49:04Z",
+      "latest_at": "2026-09-27T11:32:15.779000Z",
       "primary_item": {
-        "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
-        "title": "一位代理通过DNS连接到一个外部聊天机器人",
-        "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
+        "id": "2c07064135493a697f86987ecc808851d594ee81",
+        "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
+        "title_zh": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
         "title_en": null,
-        "title_original": "一位代理通过DNS连接到一个外部聊天机器人",
+        "title_original": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-        "source": "alignment.openai.com",
+        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "source": "www.privatemode.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
+      }
+    },
+    {
+      "story_id": "story_47a080855edb",
+      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "primary_url": "https://arxiv.org/abs/2609.25021",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2609.25021",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:26:25Z"
+        },
+        {
+          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49865343",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T10:26:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9276,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:26:25Z",
+      "latest_at": "2026-09-27T10:26:25Z",
+      "primary_item": {
+        "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
+        "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
+        "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2609.25021",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     },
     {
@@ -1044,15 +960,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8462,
+        "recency": 0.786,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1077,227 +993,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     },
     {
-      "story_id": "story_2d4d3338bea1",
-      "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
-      "primary_url": "https://github.com/brumar/chess-postmortem-skills",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_11b21c94e979",
+      "title": "一位代理通过DNS连接到一个外部聊天机器人",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "primary_url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+      "source": "alignment.openai.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
-          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
+          "title": "一位代理通过DNS连接到一个外部聊天机器人",
+          "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
+          "title_en": null,
+          "title_original": "一位代理通过DNS连接到一个外部聊天机器人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T15:34:53Z"
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "alignment.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:14:33.203000Z"
         },
         {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+          "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+          "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
+          "title_en": "An OpenAI agent used DNS to reach an external chatbot",
+          "title_original": "An OpenAI agent used DNS to reach an external chatbot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857528",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-26T15:43:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "HN Algolia · AI 24h",
+        "alignment.openai.com"
       ],
       "items": [
         {
-          "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
-          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
+          "title": "一位代理通过DNS连接到一个外部聊天机器人",
+          "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
+          "title_en": null,
+          "title_original": "一位代理通过DNS连接到一个外部聊天机器人",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/brumar/chess-postmortem-skills",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T15:34:53Z"
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "alignment.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:14:33.203000Z"
         },
         {
-          "id": "b14caf83539ea0c8369daaca126ef50de116d2ca",
-          "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
-          "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
-          "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-          "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+          "id": "3baec2e6d9110d8b0dc712121e297d87bde301de",
+          "title": "一位代理通过DNS连接到一个外部聊天机器人 / An OpenAI agent used DNS to reach an external chatbot",
+          "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
+          "title_en": "An OpenAI agent used DNS to reach an external chatbot",
+          "title_original": "An OpenAI agent used DNS to reach an external chatbot",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49857528",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T15:34:53Z"
+          "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-26T15:43:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5027,
-      "importance": 0.5027,
-      "importance_score": 0.5027,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7605,
+        "recency": 0.925,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T15:34:53Z",
-      "latest_at": "2026-09-26T15:34:53Z",
+      "earliest_at": "2026-09-26T15:43:46Z",
+      "latest_at": "2026-09-27T10:14:33.203000Z",
       "primary_item": {
-        "id": "cd158822a2db4e2c8cceeebe437a7d1a9525ca9c",
-        "title": "展示 HN：分析国际象棋比赛的Claude代码技能 / Show HN: A Claude Code skill to analyze your chess games",
-        "title_zh": "展示 HN：分析国际象棋比赛的Claude代码技能",
-        "title_en": "Show HN: A Claude Code skill to analyze your chess games",
-        "title_original": "Show HN: A Claude Code skill to analyze your chess games",
+        "id": "190cfe62110fe24d81910879fbe7c3ffc5b36291",
+        "title": "一位代理通过DNS连接到一个外部聊天机器人",
+        "title_zh": "一位代理通过DNS连接到一个外部聊天机器人",
+        "title_en": null,
+        "title_original": "一位代理通过DNS连接到一个外部聊天机器人",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/brumar/chess-postmortem-skills",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
+        "source": "alignment.openai.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
-      }
-    },
-    {
-      "story_id": "story_e5053502e78a",
-      "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "primary_url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6f355212d4f712f69b5206fe5e870541b63d3f6d",
-          "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
-          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T13:05:36Z"
-        },
-        {
-          "id": "a1b407d175206aca71a67696688a7971ee1649c0",
-          "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
-          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856149",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T13:05:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6f355212d4f712f69b5206fe5e870541b63d3f6d",
-          "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
-          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T13:05:36Z"
-        },
-        {
-          "id": "a1b407d175206aca71a67696688a7971ee1649c0",
-          "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
-          "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49856149",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T13:05:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7336,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T13:05:36Z",
-      "latest_at": "2026-09-26T13:05:36Z",
-      "primary_item": {
-        "id": "6f355212d4f712f69b5206fe5e870541b63d3f6d",
-        "title": "了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-        "title_zh": "了解 LLM 水印对 AI 代理行为的影响",
-        "title_en": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-        "title_original": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T10:33:40.561074Z"
+        "scored_at": "2026-09-27T15:40:51.967491Z"
       }
     }
   ]
