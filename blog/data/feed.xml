@@ -5,8 +5,80 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 28 Sep 2026 06:56:42 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 11:39:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Holo4：为多面手计算机使用代理提供支持 / Holo4: powering generalist computer-use agents</title>
+<link>https://huggingface.co/blog/Hcompany/holo4</link>
+<guid isPermaLink="true">https://huggingface.co/blog/Hcompany/holo4</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+</item>
+<item>
+<title>英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.</title>
+<link>https://x.com/JensenHuang/status/2104499465055023424</link>
+<guid isPermaLink="true">https://x.com/JensenHuang/status/2104499465055023424</guid>
+<description>2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。（X：Jensen Huang (@JensenHuang)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 09:12:26 +0000</pubDate>
+</item>
+<item>
+<title>澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.</title>
+<link>https://x.com/rohanpaul_ai/status/2104465759619715116</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2104465759619715116</guid>
+<description>澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 06:58:30 +0000</pubDate>
+</item>
+<item>
+<title>英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统</title>
+<link>https://www.ithome.com/1/007/937.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/007/937.htm</guid>
+<description>英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 09:33:59 +0000</pubDate>
+</item>
+<item>
+<title>北京或批准部分NVIDIA新款工作站芯片采购，阿里、字节拟购百万颗 / Beijing has signaled it could approve some purchases of Nvidia’s new workstation chips, The Information reports. Officials asked Alibaba ...</title>
+<link>https://x.com/thexpin/status/2104508227451027712</link>
+<guid isPermaLink="true">https://x.com/thexpin/status/2104508227451027712</guid>
+<description>据The Information报道，北京方面已向阿里巴巴和字节跳动询问其计划采购的NVIDIA新款工作站芯片数量及用途。字节跳动正评估采购约100万颗芯片用于AI模型训练；NVIDIA预计12月底开始发货，计划向中国季度供应50万片。目前审批时间与配额尚不明确，美方未公开该芯片出口状态。（X：X.PIN (@thexpin)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 09:47:15 +0000</pubDate>
+</item>
+<item>
+<title>MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures</title>
+<link>https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</link>
+<guid isPermaLink="true">https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928</guid>
+<description>MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。（MIT News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40% / Fireworks AI Releases Ember-1: A Post-Trained Kimi K3 That Uses About 40% Fewer Tokens</title>
+<link>https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens</link>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens</guid>
+<description>Fireworks AI 推出 Ember-1，这是基于 Moonshot AI 开源权重 Kimi K3 进行后训练的专用模型。该模型通过优化内部推理过程，在保持任务准确率的同时将生成的推理 Token 减少了约 40%。与单纯降低推理努力程度不同，Ember-1 保留了有用的自我反思并削减了冗余循环。基准测试显示，其在 Terminal Bench 2.1 和 DeepSWE 1.1 上表现优于 K3 Max，且在生产环境 A/B 测试中实现了显著的成本节约。目前仅通过 Fireworks Serverless API 以研究预览形式提供，未开放权重。（MarkTechPost（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 07:22:33 +0000</pubDate>
+</item>
+<item>
+<title>AIGCPanel v2.5. 0 接入云端双引擎，数字人与直播音色分库各管各的</title>
+<link>https://www.aibase.com/news/31388</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31388</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 11:39:59 +0000</pubDate>
+</item>
+<item>
+<title>NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring</title>
+<link>https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</link>
+<guid isPermaLink="true">https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring</guid>
+<description>NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
+<category>行业动态</category>
+<pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显</title>
 <link>https://www.ithome.com/1/007/767.htm</link>
@@ -14,6 +86,46 @@
 <description>Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 04:31:04 +0000</pubDate>
+</item>
+<item>
+<title>千问App接入夸克网盘，AI直接翻文件成新内容</title>
+<link>https://www.aibase.com/news/31386</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31386</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 11:39:59 +0000</pubDate>
+</item>
+<item>
+<title>NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell</title>
+<link>https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell</link>
+<guid isPermaLink="true">https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell</guid>
+<description>NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。（NVIDIA Technical Blog：Agentic AI / Generative AI）</description>
+<category>行业动态</category>
+<pubDate>Sun, 27 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报</title>
+<link>https://www.aibase.com/news/31387</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31387</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 11:39:59 +0000</pubDate>
+</item>
+<item>
+<title>暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击</title>
+<link>https://www.aibase.com/news/31384</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31384</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 11:39:59 +0000</pubDate>
+</item>
+<item>
+<title>曝 OpenAI 筹备 ChatGPT Pro Max：月费或冲 500~600 美元，成最贵 AI 订阅之一</title>
+<link>https://www.aibase.com/news/31389</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31389</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 28 Sep 2026 11:39:59 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 资深员工悄然购置偏远土地，以防"AI 失控"举家撤离</title>
@@ -24,12 +136,12 @@
 <pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
 </item>
 <item>
-<title>Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法</title>
-<link>https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal</link>
-<guid isPermaLink="true">https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal</guid>
-<description>Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>行业动态</category>
-<pubDate>Sun, 27 Sep 2026 09:27:15 +0000</pubDate>
+<title>人工智能中的“快思”与“慢思”：元认知的作用（2021）</title>
+<link>https://arxiv.org/abs/2110.01834</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2110.01834</guid>
+<description>arxiv.org</description>
+<category>多源热议</category>
+<pubDate>Mon, 28 Sep 2026 10:06:14 +0000</pubDate>
 </item>
 <item>
 <title>Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra</title>
@@ -40,54 +152,6 @@
 <pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
 </item>
 <item>
-<title>Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra</title>
-<link>https://www.aibase.com/news/31372</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31372</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次</title>
-<link>https://www.aibase.com/news/31371</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31371</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 重排 Pro 档位：5x和20x用量承诺下线</title>
-<link>https://www.aibase.com/news/31379</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31379</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型</title>
-<link>https://www.aibase.com/news/31366</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31366</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
-</item>
-<item>
-<title>​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测</title>
-<link>https://www.aibase.com/news/31383</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31383</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
-</item>
-<item>
-<title>Thinking Fast and Slow in AI: The Role of Metacognition</title>
-<link>https://arxiv.org/abs/2110.01834</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2110.01834</guid>
-<description>Hacker News</description>
-<category>多源热议</category>
-<pubDate>Mon, 28 Sep 2026 03:23:53 +0000</pubDate>
-</item>
-<item>
 <title>Show HN: TinyAIArena：观看AI代理之间的激战</title>
 <link>https://tinyaiarena.com</link>
 <guid isPermaLink="true">https://tinyaiarena.com</guid>
@@ -96,73 +160,9 @@
 <pubDate>Mon, 28 Sep 2026 02:12:19 +0000</pubDate>
 </item>
 <item>
-<title>​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利</title>
-<link>https://www.aibase.com/news/31365</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31365</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
-</item>
-<item>
-<title>“作为语言模型”：聊天模板切换了大语言模型的自指代语气</title>
-<link>https://arxiv.org/abs/2609.25021</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2609.25021</guid>
-<description>arxiv.org</description>
-<category>多源热议</category>
-<pubDate>Sun, 27 Sep 2026 23:49:58 +0000</pubDate>
-</item>
-<item>
-<title>随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”</title>
-<link>https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html</guid>
-<description>www.nytimes.com</description>
-<category>值得关注</category>
-<pubDate>Mon, 28 Sep 2026 05:36:13 +0000</pubDate>
-</item>
-<item>
-<title>不存在“失控”的人工智能代理</title>
-<link>https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</link>
-<guid isPermaLink="true">https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents</guid>
-<description>eoinhiggins.substack.com</description>
-<category>多源热议</category>
-<pubDate>Sun, 27 Sep 2026 17:51:03 +0000</pubDate>
-</item>
-<item>
-<title>​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界</title>
-<link>https://www.aibase.com/news/31367</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31367</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
-</item>
-<item>
-<title>《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]</title>
-<link>https://www.youtube.com/watch?v=-Nvne3LzBls</link>
-<guid isPermaLink="true">https://www.youtube.com/watch?v=-Nvne3LzBls</guid>
-<description>www.youtube.com</description>
-<category>值得关注</category>
-<pubDate>Sun, 27 Sep 2026 18:54:12 +0000</pubDate>
-</item>
-<item>
-<title>揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding "Do not guess" cut made-up claims from 71% to 20%</title>
-<link>https://earnanhonestdollar.com/bench</link>
-<guid isPermaLink="true">https://earnanhonestdollar.com/bench</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Sun, 27 Sep 2026 17:24:17 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft drops Copilot+ branding from its new laptops</title>
-<link>https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding</link>
-<guid isPermaLink="true">https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding</guid>
-<description>Hacker News</description>
-<category>值得关注</category>
-<pubDate>Mon, 28 Sep 2026 02:46:27 +0000</pubDate>
-</item>
-<item>
-<title>​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0</title>
-<link>https://www.aibase.com/news/31378</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31378</guid>
+<title>Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra</title>
+<link>https://www.aibase.com/news/31372</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31372</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 28 Sep 2026 06:56:42 +0000</pubDate>
