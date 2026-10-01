@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 07:11:48 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 11:35:59 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -24,15 +24,7 @@
 <pubDate>Wed, 30 Sep 2026 21:03:09 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign</title>
-<link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
-<guid isPermaLink="true">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
-</item>
-<item>
-<title>HydraFusion in VS Code and the GitHub Copilot app</title>
+<title>VS Code 和 GitHub Copilot 应用程序中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app</title>
 <link>https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app</guid>
 <description>GitHub Changelog</description>
@@ -46,14 +38,6 @@
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
-</item>
-<item>
-<title>Helping small businesses put AI to work</title>
-<link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
-<guid isPermaLink="true">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
 <title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
@@ -96,12 +80,28 @@
 <pubDate>Wed, 30 Sep 2026 20:21:32 +0000</pubDate>
 </item>
 <item>
+<title>Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群 / Modal Clusters are generally available</title>
+<link>https://modal.com/blog/modal-clusters-generally-available</link>
+<guid isPermaLink="true">https://modal.com/blog/modal-clusters-generally-available</guid>
+<description>Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。（Modal 官方工程博客（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 11:35:59 +0000</pubDate>
+</item>
+<item>
 <title>Trump 推动二十余家科技公司签署自愿性 AI 安全协议 / Trump plan to combat AI risks hinges on Big Tech pals policing themselves</title>
 <link>https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves</link>
 <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves</guid>
 <description>约二十余家科技公司签署白宫超级智能协议，承诺实施独立安全审计、定期会商并制定共同安全标准，涵盖网络安全、生物安全和化学威胁等风险。协议无法律约束力，Trump 称其具有道德约束力。文章指出 OpenAI 近期多起事故源于今年 5 至 7 月开发中的一个未发布模型，其安全委员会有效性受到特拉华和加州总检察长调查，FTC 也就 AI 智能体潜在消费者损害发起调查。（Ars Technica：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 30 Sep 2026 18:47:01 +0000</pubDate>
+</item>
+<item>
+<title>Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm</title>
+<link>https://www.oneusefulthing.org/p/the-dot-and-the-swarm</link>
+<guid isPermaLink="true">https://www.oneusefulthing.org/p/the-dot-and-the-swarm</guid>
+<description>Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。（Ethan Mollick：One Useful Thing（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 10:54:12 +0000</pubDate>
 </item>
 <item>
 <title>GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team</title>
@@ -112,14 +112,6 @@
 <pubDate>Wed, 30 Sep 2026 16:48:24 +0000</pubDate>
 </item>
 <item>
-<title>OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing</title>
-<link>https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</link>
-<guid isPermaLink="true">https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</guid>
-<description>OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。（OpenRouter：Announcements（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Hugging Face CEO 称收到数千条私信，将花几天逐一处理 / I got thousands of DMs and it looks like @bot can't automatically analyze DMs (when @elonmusk?) so it will take me a few days to go throu...</title>
 <link>https://x.com/ClementDelangue/status/2105276853632094607</link>
 <guid isPermaLink="true">https://x.com/ClementDelangue/status/2105276853632094607</guid>
@@ -128,31 +120,15 @@
 <pubDate>Wed, 30 Sep 2026 12:41:30 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic IPO 文件曝光：向 SpaceX 豪掷 845 亿美元锁定 AI 算力</title>
-<link>https://www.aibase.com/news/31432</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31432</guid>
-<description>AIbase</description>
+<title>OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing</title>
+<link>https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing</guid>
+<description>OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。（OpenRouter：Announcements（RSS））</description>
 <category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 11:09:07 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....</title>
-<link>https://x.com/AravSrinivas/status/2105369479190601754</link>
-<guid isPermaLink="true">https://x.com/AravSrinivas/status/2105369479190601754</guid>
-<description>Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 18:49:34 +0000</pubDate>
-</item>
-<item>
-<title>Jensen Huang 称行业领袖在白宫签署超级智能协定 / Yesterday at the White House, leaders from across our industry came together to sign the White House Accord on Super Intelligence.</title>
-<link>https://x.com/JensenHuang/status/2105348324484342238</link>
-<guid isPermaLink="true">https://x.com/JensenHuang/status/2105348324484342238</guid>
-<description>多家行业公司的领袖在白宫签署 White House Accord on Super Intelligence，约定开发该技术的公司负有安全部署和担责的首要责任。协定要求四层控制：训练和部署期间的稳健内部监控、授权内部团队验证控制有效、独立外部评估者审计、董事会独立委员会监督，参与公司还将定期会晤制定安全标准与最佳实践。（X：Jensen Huang (@JensenHuang)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 17:25:30 +0000</pubDate>
-</item>
-<item>
-<title>X25519-only TLS ends for GHE.com on October 7</title>
+<title>GHE.com 的仅 X25519 TLS 将于 10 月 7 日结束 / X25519-only TLS ends for GHE.com on October 7</title>
 <link>https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15</guid>
 <description>GitHub Changelog</description>
@@ -164,6 +140,30 @@
 <link>https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</link>
 <guid isPermaLink="true">https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models</guid>
 <description>OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。（OpenRouter：Announcements（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...</title>
+<link>https://x.com/arena/status/2105367591174995999</link>
+<guid isPermaLink="true">https://x.com/arena/status/2105367591174995999</guid>
+<description>Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 30 Sep 2026 18:42:04 +0000</pubDate>
+</item>
+<item>
+<title>Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol</title>
+<link>https://x.com/ArtificialAnlys/status/2105449959554441580</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105449959554441580</guid>
+<description>Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 00:09:22 +0000</pubDate>
+</item>
+<item>
+<title>OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request / How to Gate Pull Requests on LLM Evals in CI</title>
+<link>https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</link>
+<guid isPermaLink="true">https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci</guid>
+<description>OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。（OpenRouter：Announcements（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
