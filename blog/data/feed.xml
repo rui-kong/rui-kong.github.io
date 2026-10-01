@@ -5,10 +5,18 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 01 Oct 2026 19:30:59 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 21:50:52 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+<title>GitHub Copilot can now interact with desktop apps with computer use</title>
+<link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 19:11:26 +0000</pubDate>
+</item>
+<item>
+<title>Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
 <link>https://huggingface.co/blog/allenai/olmocore3</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
 <description>Hugging Face Blog</description>
@@ -24,36 +32,28 @@
 <pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Actions retention now covers checks, runs, and statuses</title>
-<link>https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses</guid>
-<description>GitHub Changelog</description>
+<title>Codex CLI 0.160.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 17:59:54 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>How Albertsons Companies is reimagining retail from the inside out</title>
+<title>GitHub Copilot in VS Code, September 2026 releases</title>
+<link>https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 19:09:10 +0000</pubDate>
+</item>
+<item>
+<title>艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out</title>
 <link>https://openai.com/index/albertsons-reimagining-retail</link>
 <guid isPermaLink="true">https://openai.com/index/albertsons-reimagining-retail</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Code coverage uploads no longer fail CI for new branches</title>
-<link>https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 16:49:05 +0000</pubDate>
-</item>
-<item>
-<title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence</title>
-<link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</link>
-<guid isPermaLink="true">https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
 </item>
 <item>
 <title>Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:</title>
@@ -64,12 +64,20 @@
 <pubDate>Thu, 01 Oct 2026 18:08:07 +0000</pubDate>
 </item>
 <item>
-<title>Scheduled code scanning skips inactive repositories</title>
-<link>https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories</guid>
+<title>Rate limits for private vulnerability reports</title>
+<link>https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 16:49:15 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 19:57:39 +0000</pubDate>
+</item>
+<item>
+<title>FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter</title>
+<link>https://x.com/OpenRouter/status/2105759062835220852</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2105759062835220852</guid>
+<description>Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。（X：OpenRouter (@OpenRouter)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 20:37:38 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure</title>
@@ -80,12 +88,36 @@
 <pubDate>Thu, 01 Oct 2026 12:05:49 +0000</pubDate>
 </item>
 <item>
+<title>FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.</title>
+<link>https://x.com/krea_ai/status/2105769469880799716</link>
+<guid isPermaLink="true">https://x.com/krea_ai/status/2105769469880799716</guid>
+<description>Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。（X：Krea AI (@krea_ai)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 21:18:59 +0000</pubDate>
+</item>
+<item>
 <title>Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名 / Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!</title>
 <link>https://x.com/arena/status/2105702037849841954</link>
 <guid isPermaLink="true">https://x.com/arena/status/2105702037849841954</guid>
 <description>Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 16:51:02 +0000</pubDate>
+</item>
+<item>
+<title>通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
+<link>https://openai.com/index/the-den-family-social</link>
+<guid isPermaLink="true">https://openai.com/index/the-den-family-social</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Structured forms for private vulnerability reports</title>
+<link>https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 19:57:28 +0000</pubDate>
 </item>
 <item>
 <title>LangChain 讲解如何在 Agent Harness 中构建模型路由器 / How to Build a Model Router in the Harness</title>
@@ -102,30 +134,6 @@
 <description>ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。（X：Tibo (@thsottiaux)）</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
-</item>
-<item>
-<title>New dashboard experience now the default</title>
-<link>https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 16:14:56 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price</title>
-<link>https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price</link>
-<guid isPermaLink="true">https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price</guid>
-<description>OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。（MarkTechPost（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 21:09:24 +0000</pubDate>
-</item>
-<item>
-<title>Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...</title>
-<link>https://x.com/ArtificialAnlys/status/2105392625788637299</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2105392625788637299</guid>
-<description>Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 30 Sep 2026 20:21:32 +0000</pubDate>
 </item>
 <item>
 <title>Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件 / Getting started with Claude Code mods</title>
@@ -152,20 +160,12 @@
 <pubDate>Thu, 01 Oct 2026 18:57:58 +0000</pubDate>
 </item>
 <item>
-<title>Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm</title>
-<link>https://www.oneusefulthing.org/p/the-dot-and-the-swarm</link>
-<guid isPermaLink="true">https://www.oneusefulthing.org/p/the-dot-and-the-swarm</guid>
-<description>Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。（Ethan Mollick：One Useful Thing（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 10:54:12 +0000</pubDate>
-</item>
-<item>
-<title>GitHub 异步合并 API 正式可用 / GitHub async merge API generally available</title>
-<link>https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available</guid>
+<title>Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app</title>
+<link>https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 14:00:51 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 16:30:10 +0000</pubDate>
 </item>
 </channel>
 </rss>

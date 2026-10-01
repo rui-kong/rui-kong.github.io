@@ -1,11 +1,94 @@
 {
-  "generated_at": "2026-10-01T19:30:59.199971Z",
+  "generated_at": "2026-10-01T21:50:52.077033Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_a8a59d3ec43f",
+      "title": "GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": null,
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": null,
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9624,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:11:26Z",
+      "latest_at": "2026-10-01T19:11:26Z",
+      "primary_item": {
+        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+        "title": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_zh": null,
+        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T21:54:58.649978Z"
+      }
+    },
+    {
       "story_id": "story_a97a1140e735",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
       "url": "https://huggingface.co/blog/allenai/olmocore3",
       "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
       "source": "Hugging Face Blog",
@@ -13,8 +96,8 @@
       "sources": [
         {
           "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": null,
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
           "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
           "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
           "summary": null,
@@ -33,8 +116,8 @@
       "items": [
         {
           "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": null,
+          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
           "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
           "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
           "summary": null,
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9372,
+        "recency": 0.9062,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +152,8 @@
       "latest_at": "2026-10-01T15:01:43Z",
       "primary_item": {
         "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-        "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_zh": null,
+        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
         "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
         "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
         "summary": null,
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8398,
+      "importance": 0.8398,
+      "importance_score": 0.8398,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9643,
+        "recency": 0.9324,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,63 +249,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
-      "story_id": "story_d6a6f0dfce45",
-      "title": "Actions retention now covers checks, runs, and statuses",
-      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "primary_url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "source": "GitHub Changelog",
+      "story_id": "story_e00f099b506f",
+      "title": "Codex CLI 0.160.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions retention now covers checks, runs, and statuses",
+          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
+          "title": "Codex CLI 0.160.0",
           "title_zh": null,
-          "title_en": "Actions retention now covers checks, runs, and statuses",
-          "title_original": "Actions retention now covers checks, runs, and statuses",
+          "title_en": "Codex CLI 0.160.0",
+          "title_original": "Codex CLI 0.160.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
+          "published_at": "2026-10-01T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions retention now covers checks, runs, and statuses",
+          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
+          "title": "Codex CLI 0.160.0",
           "title_zh": null,
-          "title_en": "Actions retention now covers checks, runs, and statuses",
-          "title_original": "Actions retention now covers checks, runs, and statuses",
+          "title_en": "Codex CLI 0.160.0",
+          "title_original": "Codex CLI 0.160.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
+          "published_at": "2026-10-01T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9783,
+        "ai_relevance": 0.98,
+        "recency": 0.7294,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,17 +314,100 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T17:59:54Z",
-      "latest_at": "2026-10-01T17:59:54Z",
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
       "primary_item": {
-        "id": "bd680e642074865eae97e27770212465ae6180e3",
-        "title": "Actions retention now covers checks, runs, and statuses",
+        "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
+        "title": "Codex CLI 0.160.0",
         "title_zh": null,
-        "title_en": "Actions retention now covers checks, runs, and statuses",
-        "title_original": "Actions retention now covers checks, runs, and statuses",
+        "title_en": "Codex CLI 0.160.0",
+        "title_original": "Codex CLI 0.160.0",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T21:54:58.649978Z"
+      }
+    },
+    {
+      "story_id": "story_4360c0773884",
+      "title": "GitHub Copilot in VS Code, September 2026 releases",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:09:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_zh": null,
+          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:09:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8451,
+      "importance": 0.8451,
+      "importance_score": 0.8451,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9618,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:09:10Z",
+      "latest_at": "2026-10-01T19:09:10Z",
+      "primary_item": {
+        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+        "title": "GitHub Copilot in VS Code, September 2026 releases",
+        "title_zh": null,
+        "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+        "title_original": "GitHub Copilot in VS Code, September 2026 releases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -249,12 +415,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
       "story_id": "story_8116becccb3e",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "title": "艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "primary_url": "https://openai.com/index/albertsons-reimagining-retail",
       "source": "OpenAI News",
@@ -262,8 +428,8 @@
       "sources": [
         {
           "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "title_zh": null,
+          "title": "艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out",
+          "title_zh": "艾伯森公司如何从内到外重新构想零售业",
           "title_en": "How Albertsons Companies is reimagining retail from the inside out",
           "title_original": "How Albertsons Companies is reimagining retail from the inside out",
           "summary": null,
@@ -282,8 +448,8 @@
       "items": [
         {
           "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "title_zh": null,
+          "title": "艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out",
+          "title_zh": "艾伯森公司如何从内到外重新构想零售业",
           "title_en": "How Albertsons Companies is reimagining retail from the inside out",
           "title_original": "How Albertsons Companies is reimagining retail from the inside out",
           "summary": null,
@@ -297,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9505,
+        "recency": 0.919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,8 +484,8 @@
       "latest_at": "2026-10-01T16:00:00Z",
       "primary_item": {
         "id": "6e488d0758e975ef29e1b80511a79212fb036e7d",
-        "title": "How Albertsons Companies is reimagining retail from the inside out",
-        "title_zh": null,
+        "title": "艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out",
+        "title_zh": "艾伯森公司如何从内到外重新构想零售业",
         "title_en": "How Albertsons Companies is reimagining retail from the inside out",
         "title_original": "How Albertsons Companies is reimagining retail from the inside out",
         "summary": null,
@@ -332,173 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
-      }
-    },
-    {
-      "story_id": "story_e4ed42a08a07",
-      "title": "Code coverage uploads no longer fail CI for new branches",
-      "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-      "primary_url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-          "title": "Code coverage uploads no longer fail CI for new branches",
-          "title_zh": null,
-          "title_en": "Code coverage uploads no longer fail CI for new branches",
-          "title_original": "Code coverage uploads no longer fail CI for new branches",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-          "title": "Code coverage uploads no longer fail CI for new branches",
-          "title_zh": null,
-          "title_en": "Code coverage uploads no longer fail CI for new branches",
-          "title_original": "Code coverage uploads no longer fail CI for new branches",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9618,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T16:49:05Z",
-      "latest_at": "2026-10-01T16:49:05Z",
-      "primary_item": {
-        "id": "08ac06ec77af73913bce3f0971b90477a877cc42",
-        "title": "Code coverage uploads no longer fail CI for new branches",
-        "title_zh": null,
-        "title_en": "Code coverage uploads no longer fail CI for new branches",
-        "title_original": "Code coverage uploads no longer fail CI for new branches",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-code-coverage-uploads-no-longer-fail-ci-for-new-branches",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
-      }
-    },
-    {
-      "story_id": "story_8db3959cb7d3",
-      "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "primary_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
-          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
-          "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-          "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
-          "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T20:01:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
-          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
-          "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-          "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
-          "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T20:01:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7124,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T20:01:45Z",
-      "latest_at": "2026-09-30T20:01:45Z",
-      "primary_item": {
-        "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
-        "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
-        "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-        "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
-        "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9803,
+        "recency": 0.9478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,30 +580,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
-      "story_id": "story_ca15d7ba627d",
-      "title": "Scheduled code scanning skips inactive repositories",
-      "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
-      "primary_url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+      "story_id": "story_2b054efbb49a",
+      "title": "Rate limits for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-          "title": "Scheduled code scanning skips inactive repositories",
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "Rate limits for private vulnerability reports",
           "title_zh": null,
-          "title_en": "Scheduled code scanning skips inactive repositories",
-          "title_original": "Scheduled code scanning skips inactive repositories",
+          "title_en": "Rate limits for private vulnerability reports",
+          "title_original": "Rate limits for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:15Z"
+          "published_at": "2026-10-01T19:57:39Z"
         }
       ],
       "source_count": 1,
@@ -612,31 +612,31 @@
       ],
       "items": [
         {
-          "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-          "title": "Scheduled code scanning skips inactive repositories",
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "Rate limits for private vulnerability reports",
           "title_zh": null,
-          "title_en": "Scheduled code scanning skips inactive repositories",
-          "title_original": "Scheduled code scanning skips inactive repositories",
+          "title_en": "Rate limits for private vulnerability reports",
+          "title_original": "Rate limits for private vulnerability reports",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:49:15Z"
+          "published_at": "2026-10-01T19:57:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9618,
+        "recency": 0.9731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,17 +645,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T16:49:15Z",
-      "latest_at": "2026-10-01T16:49:15Z",
+      "earliest_at": "2026-10-01T19:57:39Z",
+      "latest_at": "2026-10-01T19:57:39Z",
       "primary_item": {
-        "id": "b7433e3222eaf9c8ec4ba92eaf22f1309d747ca3",
-        "title": "Scheduled code scanning skips inactive repositories",
+        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+        "title": "Rate limits for private vulnerability reports",
         "title_zh": null,
-        "title_en": "Scheduled code scanning skips inactive repositories",
-        "title_original": "Scheduled code scanning skips inactive repositories",
+        "title_en": "Rate limits for private vulnerability reports",
+        "title_original": "Rate limits for private vulnerability reports",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -663,7 +663,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
+      }
+    },
+    {
+      "story_id": "story_e76e1afc67f1",
+      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+      "url": "https://x.com/OpenRouter/status/2105759062835220852",
+      "primary_url": "https://x.com/OpenRouter/status/2105759062835220852",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+          "title_zh": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+          "title_en": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+          "title_original": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+          "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2105759062835220852",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:37:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+          "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+          "title_zh": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+          "title_en": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+          "title_original": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+          "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2105759062835220852",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T20:37:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9825,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T20:37:38Z",
+      "latest_at": "2026-10-01T20:37:38Z",
+      "primary_item": {
+        "id": "6d02910a0b7262c57072a618a4e45ae6373272ea",
+        "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑 / FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+        "title_zh": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+        "title_en": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+        "title_original": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+        "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2105759062835220852",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -711,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8984,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +827,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
+      }
+    },
+    {
+      "story_id": "story_f86658c50b9e",
+      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.",
+      "url": "https://x.com/krea_ai/status/2105769469880799716",
+      "primary_url": "https://x.com/krea_ai/status/2105769469880799716",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.",
+          "title_zh": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+          "title_en": "FLUX 3 Image is now on Krea.",
+          "title_original": "FLUX 3 Image is now on Krea.",
+          "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/krea_ai/status/2105769469880799716",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T21:18:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.",
+          "title_zh": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+          "title_en": "FLUX 3 Image is now on Krea.",
+          "title_original": "FLUX 3 Image is now on Krea.",
+          "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/krea_ai/status/2105769469880799716",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T21:18:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T21:18:59Z",
+      "latest_at": "2026-10-01T21:18:59Z",
+      "primary_item": {
+        "id": "f61f78ecb87af9a364695b370713ab95021622b4",
+        "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.",
+        "title_zh": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+        "title_en": "FLUX 3 Image is now on Krea.",
+        "title_original": "FLUX 3 Image is now on Krea.",
+        "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/krea_ai/status/2105769469880799716",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -793,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9622,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +991,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
+      }
+    },
+    {
+      "story_id": "story_f210109d12e4",
+      "title": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "primary_url": "https://openai.com/index/the-den-family-social",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "578444e4a2df2df57825356e147087c84916b1f5",
+          "title": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "title_zh": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展",
+          "title_en": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "title_original": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-den-family-social",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "578444e4a2df2df57825356e147087c84916b1f5",
+          "title": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "title_zh": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展",
+          "title_en": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "title_original": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-den-family-social",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7294,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
+      "primary_item": {
+        "id": "578444e4a2df2df57825356e147087c84916b1f5",
+        "title": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展 / The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+        "title_zh": "通过 ChatGPT Work，The Den 每周可以腾出 10-15 个小时来发展",
+        "title_en": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+        "title_original": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-den-family-social",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T21:54:58.649978Z"
+      }
+    },
+    {
+      "story_id": "story_025446a84602",
+      "title": "Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "Structured forms for private vulnerability reports",
+          "title_zh": null,
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "Structured forms for private vulnerability reports",
+          "title_zh": null,
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9731,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:57:28Z",
+      "latest_at": "2026-10-01T19:57:28Z",
+      "primary_item": {
+        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+        "title": "Structured forms for private vulnerability reports",
+        "title_zh": null,
+        "title_en": "Structured forms for private vulnerability reports",
+        "title_original": "Structured forms for private vulnerability reports",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -875,21 +1205,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9647,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-01T17:01:32Z",
       "latest_at": "2026-10-01T17:01:32Z",
@@ -909,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -986,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8079,
+        "recency": 0.7811,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1020,252 +1349,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
-      }
-    },
-    {
-      "story_id": "story_714f9dbcfc64",
-      "title": "New dashboard experience now the default",
-      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-      "primary_url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
-          "title": "New dashboard experience now the default",
-          "title_zh": null,
-          "title_en": "New dashboard experience now the default",
-          "title_original": "New dashboard experience now the default",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:14:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
-          "title": "New dashboard experience now the default",
-          "title_zh": null,
-          "title_en": "New dashboard experience now the default",
-          "title_original": "New dashboard experience now the default",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T16:14:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9539,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T16:14:56Z",
-      "latest_at": "2026-10-01T16:14:56Z",
-      "primary_item": {
-        "id": "3a06d051b1edd21d5cccadc28628c789ee5763eb",
-        "title": "New dashboard experience now the default",
-        "title_zh": null,
-        "title_en": "New dashboard experience now the default",
-        "title_original": "New dashboard experience now the default",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
-      }
-    },
-    {
-      "story_id": "story_bb25c57ef66e",
-      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7241,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T21:09:24Z",
-      "latest_at": "2026-09-30T21:09:24Z",
-      "primary_item": {
-        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-        "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
-      }
-    },
-    {
-      "story_id": "story_5d1c15f30792",
-      "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-      "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7158,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T20:21:32Z",
-      "latest_at": "2026-09-30T20:21:32Z",
-      "primary_item": {
-        "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-        "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-        "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -1313,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8971,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1346,7 +1430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -1394,15 +1478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1427,7 +1511,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
@@ -1475,15 +1559,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9921,
+        "recency": 0.9592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1509,111 +1593,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     },
     {
-      "story_id": "story_9db480c23ef4",
-      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "primary_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
-          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
-          "title_zh": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-          "title_en": "The Dot and the Swarm",
-          "title_original": "The Dot and the Swarm",
-          "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-          "source": "Ethan Mollick：One Useful Thing（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T10:54:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ethan Mollick：One Useful Thing（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
-          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
-          "title_zh": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-          "title_en": "The Dot and the Swarm",
-          "title_original": "The Dot and the Swarm",
-          "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
-          "recommend_reason_zh": null,
-          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-          "source": "Ethan Mollick：One Useful Thing（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T10:54:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.883,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T10:54:12Z",
-      "latest_at": "2026-10-01T10:54:12Z",
-      "primary_item": {
-        "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
-        "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
-        "title_zh": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-        "title_en": "The Dot and the Swarm",
-        "title_original": "The Dot and the Swarm",
-        "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
-        "recommend_reason_zh": null,
-        "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
-      }
-    },
-    {
-      "story_id": "story_9cc7967eae69",
-      "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
-      "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+      "story_id": "story_f107a55898ee",
+      "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b634ab68c720406b68a7507a5ef939761ac20704",
-          "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
-          "title_zh": "GitHub 异步合并 API 正式可用",
-          "title_en": "GitHub async merge API generally available",
-          "title_original": "GitHub async merge API generally available",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
+          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T14:00:51Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "source_count": 1,
@@ -1622,31 +1625,31 @@
       ],
       "items": [
         {
-          "id": "b634ab68c720406b68a7507a5ef939761ac20704",
-          "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
-          "title_zh": "GitHub 异步合并 API 正式可用",
-          "title_en": "GitHub async merge API generally available",
-          "title_original": "GitHub async merge API generally available",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
+          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T14:00:51Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9236,
+        "ai_relevance": 0.91,
+        "recency": 0.9257,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1655,17 +1658,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T14:00:51Z",
-      "latest_at": "2026-10-01T14:00:51Z",
+      "earliest_at": "2026-10-01T16:30:10Z",
+      "latest_at": "2026-10-01T16:30:10Z",
       "primary_item": {
-        "id": "b634ab68c720406b68a7507a5ef939761ac20704",
-        "title": "GitHub 异步合并 API 正式可用 / GitHub async merge API generally available",
-        "title_zh": "GitHub 异步合并 API 正式可用",
-        "title_en": "GitHub async merge API generally available",
-        "title_original": "GitHub async merge API generally available",
+        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+        "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
+        "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
+        "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+        "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1673,7 +1676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T19:52:38.243888Z"
+        "scored_at": "2026-10-01T21:54:58.649978Z"
       }
     }
   ]
