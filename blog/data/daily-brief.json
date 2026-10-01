@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:26:11.831666Z",
+  "generated_at": "2026-10-01T07:11:48.580267Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9799,
+        "recency": 0.8511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,12 +83,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
       "story_id": "story_3dc27c9fc0cd",
-      "title": "Opt-in dist-tag permissions for npm trusted publishing",
+      "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
       "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
       "primary_url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
       "source": "GitHub Changelog",
@@ -96,8 +96,8 @@
       "sources": [
         {
           "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "Opt-in dist-tag permissions for npm trusted publishing",
-          "title_zh": null,
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
           "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
           "summary": null,
@@ -116,8 +116,8 @@
       "items": [
         {
           "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-          "title": "Opt-in dist-tag permissions for npm trusted publishing",
-          "title_zh": null,
+          "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+          "title_zh": "选择 npm 可信发布的 dist-tag 权限",
           "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
           "summary": null,
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9945,
+        "recency": 0.8637,
         "story_heat": 0.0
       },
       "category": "official",
@@ -152,8 +152,8 @@
       "latest_at": "2026-09-30T21:03:09Z",
       "primary_item": {
         "id": "08449e4f1bbb9462c8d2e83818728bbe8110bf1a",
-        "title": "Opt-in dist-tag permissions for npm trusted publishing",
-        "title_zh": null,
+        "title": "选择 npm 可信发布的 dist-tag 权限 / Opt-in dist-tag permissions for npm trusted publishing",
+        "title_zh": "选择 npm 可信发布的 dist-tag 权限",
         "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
         "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
         "summary": null,
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8539,
+        "recency": 0.7417,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
-      }
-    },
-    {
-      "story_id": "story_855109885f33",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "primary_url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": null,
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": null,
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7338,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T00:00:00Z",
-      "latest_at": "2026-09-30T00:00:00Z",
-      "primary_item": {
-        "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-        "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_zh": null,
-        "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/open-tts-leaderboard",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -380,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.905,
+        "recency": 0.786,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -463,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9119,
+        "recency": 0.792,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -546,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8478,
+        "recency": 0.7363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +498,201 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
+      }
+    },
+    {
+      "story_id": "story_b3f4baa4cfb3",
+      "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+      "url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "primary_url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        },
+        {
+          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+          "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T04:44:34Z"
+        },
+        {
+          "id": "04c59cc70107ceefff1024d98b4bea4f628f81d7",
+          "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+          "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it with the world. https://t.co/KZwGmxL9ew",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2105519215092584786",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-01T04:44:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9652,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T04:44:34Z",
+      "latest_at": "2026-10-01T04:44:34Z",
+      "primary_item": {
+        "id": "b6532201fdfdcbf237c1dba3b75d48cdae389c43",
+        "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "title_zh": "ChatGPT 现可直接构建并部署 MCP 服务器",
+        "title_en": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "title_original": "One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
+        "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2105519215092584786",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T07:12:42.369936Z"
+      }
+    },
+    {
+      "story_id": "story_543034a71340",
+      "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+      "url": "https://x.com/arena/status/2105411271525052418",
+      "primary_url": "https://x.com/arena/status/2105411271525052418",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+          "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+          "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+          "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2105411271525052418",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:35:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8705,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T21:35:38Z",
+      "latest_at": "2026-09-30T21:35:38Z",
+      "primary_item": {
+        "id": "2c4c2761bad28c9b0f0729a0426cdce23814d35d",
+        "title": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92% / More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "title_zh": "Gemini 4 Argon (High) 登 Arena Agent Arena 第 8 名，净提升 +7.92%",
+        "title_en": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "title_original": "More big news from @GoogleDeepMind: Gemini 4 Argon (High) is #8 in Agent Arena with a +7.92% net improvement score, and has reshaped the ...",
+        "summary": "Arena 公布 Gemini 4 Argon (High) 在 Agent Arena 排名第 8，净提升分 +7.92%，每任务成本 $0.62。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2105411271525052418",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -629,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7879,
-      "importance": 0.7879,
-      "importance_score": 0.7879,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.996,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -663,89 +774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
-      }
-    },
-    {
-      "story_id": "story_5d1c15f30792",
-      "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-      "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:21:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9846,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T20:21:32Z",
-      "latest_at": "2026-09-30T20:21:32Z",
-      "primary_item": {
-        "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
-        "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
-        "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
-        "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -793,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.929,
+        "recency": 0.8068,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +856,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
+      }
+    },
+    {
+      "story_id": "story_5d1c15f30792",
+      "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+      "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
+          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
+          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T20:21:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
+          "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
+          "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+          "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T20:21:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8551,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T20:21:32Z",
+      "latest_at": "2026-09-30T20:21:32Z",
+      "primary_item": {
+        "id": "df8c7a6d1421bcd13035ca2d527f7bc1c3912802",
+        "title": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60% / Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+        "title_zh": "Artificial Analysis 评测 Gemini 4 Argon，智能指数追平 GPT-6 Astra 且成本仅 60%",
+        "title_en": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+        "title_original": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted ...",
+        "summary": "Artificial Analysis 评测 Google DeepMind 新模型 Gemini 4 Argon，在 Artificial Analysis Intelligence Index 得 53 分，追平 GPT-6 Astra (max)，高于 GPT-6.1 Sol (max) 1 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ArtificialAnlys/status/2105392625788637299",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -875,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.8359,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,12 +1020,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
       "story_id": "story_0cb3c1ba901d",
-      "title": "GitHub Advanced Security trials for GitHub Team",
+      "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
       "url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "primary_url": "https://github.blog/changelog/2026-09-30-github-advanced-security-trials-for-github-team",
       "source": "GitHub Changelog",
@@ -922,8 +1033,8 @@
       "sources": [
         {
           "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "title_zh": null,
+          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+          "title_zh": "GitHub 团队的 GitHub 高级安全试用",
           "title_en": "GitHub Advanced Security trials for GitHub Team",
           "title_original": "GitHub Advanced Security trials for GitHub Team",
           "summary": null,
@@ -942,8 +1053,8 @@
       "items": [
         {
           "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-          "title": "GitHub Advanced Security trials for GitHub Team",
-          "title_zh": null,
+          "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+          "title_zh": "GitHub 团队的 GitHub 高级安全试用",
           "title_en": "GitHub Advanced Security trials for GitHub Team",
           "title_original": "GitHub Advanced Security trials for GitHub Team",
           "summary": null,
@@ -957,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9353,
+        "recency": 0.8124,
         "story_heat": 0.0
       },
       "category": "official",
@@ -978,8 +1089,8 @@
       "latest_at": "2026-09-30T16:48:24Z",
       "primary_item": {
         "id": "ec2bff5a72b049f1ed2987ebb95a5c08547c464e",
-        "title": "GitHub Advanced Security trials for GitHub Team",
-        "title_zh": null,
+        "title": "GitHub 团队的 GitHub 高级安全试用 / GitHub Advanced Security trials for GitHub Team",
+        "title_zh": "GitHub 团队的 GitHub 高级安全试用",
         "title_en": "GitHub Advanced Security trials for GitHub Team",
         "title_original": "GitHub Advanced Security trials for GitHub Team",
         "summary": null,
@@ -992,171 +1103,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
-      "story_id": "story_f4351a60220c",
-      "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-      "url": "https://www.ithome.com/1/008/592.htm",
-      "primary_url": "https://www.ithome.com/1/008/592.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_964372c367be",
+      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "primary_url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_en": null,
-          "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "title_en": "Confidence Thresholds for Model Escalation Routing",
+          "title_original": "Confidence Thresholds for Model Escalation Routing",
+          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/008/592.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T01:48:21Z"
+          "published_at": "2026-10-01T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "title_en": null,
-          "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-          "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+          "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+          "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+          "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+          "title_en": "Confidence Thresholds for Model Escalation Routing",
+          "title_original": "Confidence Thresholds for Model Escalation Routing",
+          "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/008/592.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T01:48:21Z"
+          "published_at": "2026-10-01T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.87,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7532,
+        "recency": 0.9013,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-30T01:48:21Z",
-      "latest_at": "2026-09-30T01:48:21Z",
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
       "primary_item": {
-        "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
-        "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "title_en": null,
-        "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
-        "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+        "id": "ce0cca5af452c45ea58c225ad64efde7e4c6ac15",
+        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由 / Confidence Thresholds for Model Escalation Routing",
+        "title_zh": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+        "title_en": "Confidence Thresholds for Model Escalation Routing",
+        "title_original": "Confidence Thresholds for Model Escalation Routing",
+        "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/008/592.htm",
-        "source": "IT之家（RSS）",
+        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
-      }
-    },
-    {
-      "story_id": "story_4b81e15f89c2",
-      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-      "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-      "primary_url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "title_en": "Give your coding agents more room to work.",
-          "title_original": "Give your coding agents more room to work.",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "title_en": "Give your coding agents more room to work.",
-          "title_original": "Give your coding agents more room to work.",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7257,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T23:13:56Z",
-      "latest_at": "2026-09-29T23:13:56Z",
-      "primary_item": {
-        "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-        "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-        "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-        "title_en": "Give your coding agents more room to work.",
-        "title_original": "Give your coding agents more room to work.",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -1204,21 +1232,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8814,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T12:41:30Z",
       "latest_at": "2026-09-30T12:41:30Z",
@@ -1238,251 +1265,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
-      }
-    },
-    {
-      "story_id": "story_9b1abafadbef",
-      "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-      "url": "https://x.com/arena/status/2105367591174995999",
-      "primary_url": "https://x.com/arena/status/2105367591174995999",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9613,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T18:42:04Z",
-      "latest_at": "2026-09-30T18:42:04Z",
-      "primary_item": {
-        "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-        "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-        "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2105367591174995999",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
-      }
-    },
-    {
-      "story_id": "story_5c171bbabcce",
-      "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-      "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "primary_url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_en": null,
-          "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
-          "recommend_reason_zh": null,
-          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T01:40:59.989000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-          "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "title_en": null,
-          "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-          "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
-          "recommend_reason_zh": null,
-          "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T01:40:59.989000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7518,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T01:40:59.989000Z",
-      "latest_at": "2026-09-30T01:40:59.989000Z",
-      "primary_item": {
-        "id": "74bf172644458eba8c5f0c60486b2674b46ae594",
-        "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "title_zh": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "title_en": null,
-        "title_original": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
-        "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
-        "recommend_reason_zh": null,
-        "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
-      }
-    },
-    {
-      "story_id": "story_dd1cd653606b",
-      "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-      "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-      "primary_url": "https://x.com/AravSrinivas/status/2105369479190601754",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:49:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:49:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.963,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T18:49:34Z",
-      "latest_at": "2026-09-30T18:49:34Z",
-      "primary_item": {
-        "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
-        "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-        "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
-        "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -1530,15 +1313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.862,
+        "recency": 0.7487,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1563,7 +1346,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
+      }
+    },
+    {
+      "story_id": "story_dd1cd653606b",
+      "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+      "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+      "primary_url": "https://x.com/AravSrinivas/status/2105369479190601754",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:49:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+          "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+          "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+          "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:49:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8364,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-30T18:49:34Z",
+      "latest_at": "2026-09-30T18:49:34Z",
+      "primary_item": {
+        "id": "febe132a3209dc718e1c77f99658682d4ae7ade8",
+        "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务 / We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "title_zh": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+        "title_en": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "title_original": "We're opening access to anyone (no Perplexity account needed), and we will run all tasks delegated via email for free for a limited time....",
+        "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 [redacted-email] 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     },
     {
@@ -1611,15 +1475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7201,
+      "importance": 0.7201,
+      "importance_score": 0.7201,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.8197,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1644,7 +1508,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T22:05:27.798368Z"
+        "scored_at": "2026-10-01T07:12:42.369936Z"
+      }
+    },
+    {
+      "story_id": "story_a919a86617b9",
+      "title": "X25519-only TLS ends for GHE.com on October 7",
+      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "X25519-only TLS ends for GHE.com on October 7",
+          "title_zh": null,
+          "title_en": "X25519-only TLS ends for GHE.com on October 7",
+          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "X25519-only TLS ends for GHE.com on October 7",
+          "title_zh": null,
+          "title_en": "X25519-only TLS ends for GHE.com on October 7",
+          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7746,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T13:30:24Z",
+      "latest_at": "2026-09-30T13:30:24Z",
+      "primary_item": {
+        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+        "title": "X25519-only TLS ends for GHE.com on October 7",
+        "title_zh": null,
+        "title_en": "X25519-only TLS ends for GHE.com on October 7",
+        "title_original": "X25519-only TLS ends for GHE.com on October 7",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T07:12:42.369936Z"
+      }
+    },
+    {
+      "story_id": "story_f676f1b41629",
+      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models",
+      "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+      "primary_url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
+          "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models",
+          "title_zh": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+          "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
+          "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
+          "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
+          "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models",
+          "title_zh": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+          "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
+          "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
+          "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9013,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-01T00:00:00Z",
+      "primary_item": {
+        "id": "7777094d834b48fa3bf9d55e3e78b3a0a3eed670",
+        "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架 / Cost vs. Quality Tradeoff Framework for Agent Models",
+        "title_zh": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+        "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
+        "title_original": "Cost vs. Quality Tradeoff Framework for Agent Models",
+        "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
+        "recommend_reason_zh": null,
+        "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T07:12:42.369936Z"
       }
     }
   ]
