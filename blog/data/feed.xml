@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 02 Oct 2026 02:13:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 07:01:32 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
+<link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
+</item>
 <item>
 <title>GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use</title>
 <link>https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps</link>
@@ -14,14 +22,6 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 01 Oct 2026 19:11:26 +0000</pubDate>
-</item>
-<item>
-<title>Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
-<link>https://huggingface.co/blog/allenai/olmocore3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
 </item>
 <item>
 <title>The eternal complement</title>
@@ -38,6 +38,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 01 Oct 2026 19:09:10 +0000</pubDate>
+</item>
+<item>
+<title>Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs</title>
+<link>https://huggingface.co/blog/allenai/olmocore3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/olmocore3</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 01 Oct 2026 15:01:43 +0000</pubDate>
 </item>
 <item>
 <title>艾伯森公司如何从内到外重新构想零售业 / How Albertsons Companies is reimagining retail from the inside out</title>
@@ -104,20 +112,20 @@
 <pubDate>Thu, 01 Oct 2026 23:44:13 +0000</pubDate>
 </item>
 <item>
-<title>Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update</title>
-<link>https://suno.com/blog/introducing-speech-beta</link>
-<guid isPermaLink="true">https://suno.com/blog/introducing-speech-beta</guid>
-<description>Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。（Suno：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 20:35:00 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容 / OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure</title>
 <link>https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure</link>
 <guid isPermaLink="true">https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure</guid>
 <description>OpenAI 称 7 月拦截了一起针对其模型推理链的蒸馏窃取活动，7 月 24 至 25 日出现来自超 4000 用户的 16000 次请求，关联账号超 15000 个，OpenAI 将其与 Moonshot AI 相关人员联系起来，并于 7 月 28 日关停。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 12:05:49 +0000</pubDate>
+</item>
+<item>
+<title>Suno 推出 Speech beta：语音与背景音乐一体生成 / Introducing Speech (beta) By Jack Brody, Chief Product Officer·Oct 1, 2026 A new way to express yourself creatively Product Update</title>
+<link>https://suno.com/blog/introducing-speech-beta</link>
+<guid isPermaLink="true">https://suno.com/blog/introducing-speech-beta</guid>
+<description>Suno 推出 Speech beta，称其为首个能把语音与原创背景音乐作为一条完整曲目生成的音频模型。用户输入文字并描述想要的声音和音乐风格即可创作，beta 已向所有用户开放，官方提示仍存在口音漂移、停顿过重等问题并将持续改进。（Suno：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 01 Oct 2026 20:35:00 +0000</pubDate>
 </item>
 <item>
 <title>FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.</title>
@@ -150,14 +158,6 @@
 <description>LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。（LangChain：Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 01 Oct 2026 17:01:32 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...</title>
-<link>https://x.com/thsottiaux/status/2105519215092584786</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2105519215092584786</guid>
-<description>ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。（X：Tibo (@thsottiaux)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 01 Oct 2026 04:44:34 +0000</pubDate>
 </item>
 <item>
 <title>OpenRouter 解析 LangChain 与 CrewAI 编排和 OpenRouter 原生路由的差异 / LangChain vs CrewAI: Orchestration Compared to OpenRouter-Native Routing</title>
