@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 01:55:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 08:14:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -56,20 +56,20 @@
 <pubDate>Fri, 02 Oct 2026 22:18:23 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件</title>
+<link>https://www.ithome.com/1/009/444.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/009/444.htm</guid>
+<description>据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 06:18:38 +0000</pubDate>
+</item>
+<item>
 <title>人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.</title>
 <link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</guid>
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents</title>
-<link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
 </item>
 <item>
 <title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...</title>
@@ -112,30 +112,6 @@
 <pubDate>Fri, 02 Oct 2026 18:07:12 +0000</pubDate>
 </item>
 <item>
-<title>Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.</title>
-<link>https://x.com/rohanpaul_ai/status/2105921530211508488</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2105921530211508488</guid>
-<description>Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 07:23:13 +0000</pubDate>
-</item>
-<item>
-<title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines</title>
-<link>https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota</link>
-<guid isPermaLink="true">https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota</guid>
-<description>Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。（Baseten 工程博客（网页））</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 21:09:34 +0000</pubDate>
-</item>
-<item>
-<title>Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀</title>
-<link>https://x.com/GoogleAI/status/2106049984164463069</link>
-<guid isPermaLink="true">https://x.com/GoogleAI/status/2106049984164463069</guid>
-<description>Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。（X：Google AI (@GoogleAI)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 15:53:39 +0000</pubDate>
-</item>
-<item>
 <title>SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API</title>
 <link>https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api</guid>
@@ -144,28 +120,52 @@
 <pubDate>Fri, 02 Oct 2026 13:18:00 +0000</pubDate>
 </item>
 <item>
-<title>Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models</title>
-<link>https://www.primeintellect.ai/blog/prime-inference</link>
-<guid isPermaLink="true">https://www.primeintellect.ai/blog/prime-inference</guid>
-<description>Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。（Prime Intellect（网页））</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 21:20:28 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI</title>
-<link>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync</link>
-<guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync</guid>
-<description>NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。（NVIDIA Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 13:00:39 +0000</pubDate>
-</item>
-<item>
 <title>Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿 / Claude Sonnet 5.5 by @AnthropicAI just landed at #3 in the Agent Arena. This model has a median cost per task of $2.74, and a +12.5% net ...</title>
 <link>https://x.com/arena/status/2106105400487821764</link>
 <guid isPermaLink="true">https://x.com/arena/status/2106105400487821764</guid>
 <description>Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。（X：Arena (@arena)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 02 Oct 2026 19:33:51 +0000</pubDate>
+</item>
+<item>
+<title>公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview</title>
+<link>https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 13:15:25 +0000</pubDate>
+</item>
+<item>
+<title>关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories</title>
+<link>https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 02 Oct 2026 13:15:40 +0000</pubDate>
+</item>
+<item>
+<title>苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</title>
+<link>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Fri, 02 Oct 2026 19:03:03 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: 开发了一个开源的乐高AI生成器</title>
+<link>https://github.com/anteloc/ldraw-nova</link>
+<guid isPermaLink="true">https://github.com/anteloc/ldraw-nova</guid>
+<description>github.com</description>
+<category>多源热议</category>
+<pubDate>Sat, 03 Oct 2026 06:39:44 +0000</pubDate>
+</item>
+<item>
+<title>来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM</title>
+<link>https://dwarfstar.sh</link>
+<guid isPermaLink="true">https://dwarfstar.sh</guid>
+<description>dwarfstar.sh</description>
+<category>多源热议</category>
+<pubDate>Fri, 02 Oct 2026 22:49:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
