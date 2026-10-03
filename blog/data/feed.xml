@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 13:29:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 15:08:21 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
@@ -32,20 +32,12 @@
 <pubDate>Fri, 02 Oct 2026 19:13:50 +0000</pubDate>
 </item>
 <item>
-<title>人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.</title>
-<link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
+<title>OpenAI 发布闭源模型 GPT-6.1 Sol，定价为输入 $2 / 输出 $10 每 1M tokens / GPT-6.1 Sol</title>
+<link>https://epoch.ai/models/gpt-6-1-sol</link>
+<guid isPermaLink="true">https://epoch.ai/models/gpt-6-1-sol</guid>
+<description>Epoch AI 收录 OpenAI 于 2026 年 9 月 29 日发布的闭源模型 GPT-6.1 Sol。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
 </item>
 <item>
 <title>已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated</title>
@@ -64,20 +56,20 @@
 <pubDate>Sat, 03 Oct 2026 06:18:38 +0000</pubDate>
 </item>
 <item>
-<title>人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.</title>
-<link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
 <title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...</title>
 <link>https://x.com/AIatMeta/status/2106099776035152231</link>
 <guid isPermaLink="true">https://x.com/AIatMeta/status/2106099776035152231</guid>
 <description>Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。（X：AI at Meta (@AIatMeta)）</description>
 <category>官方更新</category>
 <pubDate>Fri, 02 Oct 2026 19:11:30 +0000</pubDate>
+</item>
+<item>
+<title>ARC Prize Foundation 推出第二代抽象推理基准 ARC-AGI-2 / ARC-AGI-2</title>
+<link>https://epoch.ai/benchmarks/arc-agi-2</link>
+<guid isPermaLink="true">https://epoch.ai/benchmarks/arc-agi-2</guid>
+<description>ARC Prize Foundation 发布抽象推理语料第二代基准 ARC-AGI-2，共 1,360 个任务，其中 1,000 个训练任务和 360 个评测任务，按 pass@2 评分。基准移除了可被暴力程序搜索破解的任务，新增针对符号解读、组合推理和上下文规则应用的题目；超过 400 人的人类测试显示平均得分 60%，而发布时纯 LLM 得分为 0%，前沿推理模型仅有个位数百分比。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
 </item>
 <item>
 <title>无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out</title>
@@ -104,12 +96,36 @@
 <pubDate>Fri, 02 Oct 2026 19:48:16 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 推出 Finances 财务管理功能 / With Finances in ChatGPT, you can:</title>
-<link>https://x.com/ChatGPT/status/2106083595433791573</link>
-<guid isPermaLink="true">https://x.com/ChatGPT/status/2106083595433791573</guid>
-<description>ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。（X：ChatGPT (@ChatGPT)）</description>
+<title>Google DeepMind 发布 Gemini 3.1 Pro，ECI 得分 155 / Gemini 3.1 Pro</title>
+<link>https://epoch.ai/models/gemini-3-1-pro</link>
+<guid isPermaLink="true">https://epoch.ai/models/gemini-3-1-pro</guid>
+<description>Google DeepMind 于 2026 年 2 月 19 日发布闭源模型 Gemini 3.1 Pro，ECI 得分 155，发布时在 187 个被追踪模型中排第 4。（Epoch AI：研究、数据与评测）</description>
 <category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 18:07:12 +0000</pubDate>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-5.5 Pro，ECI 得分 162 / GPT-5.5 Pro</title>
+<link>https://epoch.ai/models/gpt-5-5-pro</link>
+<guid isPermaLink="true">https://epoch.ai/models/gpt-5-5-pro</guid>
+<description>OpenAI 于 4 月 23 日发布闭源权重模型 GPT-5.5 Pro，ECI 得分 162，当前在 253 个追踪模型中排第 6，发布时在 209 个模型中排第 1。基准上 SimpleBench 82%、ARC-AGI-2 85%、FrontierMath Tier 4 (v2) 78%，输入价格 $30 / 1M tokens，输出价格 $180 / 1M tokens。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布闭源模型 GPT-5.2 Codex / GPT-5.2 Codex</title>
+<link>https://epoch.ai/models/gpt-5-2-codex</link>
+<guid isPermaLink="true">https://epoch.ai/models/gpt-5-2-codex</guid>
+<description>OpenAI 于 12 月 18 日发布闭源权重模型 GPT-5.2 Codex。定价为输入 $1.75 / 1M tokens、输出 $14 / 1M tokens，在 Terminal-Bench 2.0 上得 85%，高于对比的 Gemini 3 Pro（67%）、Claude Opus 4.5（69%）和 Grok 4（63%）。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
+</item>
+<item>
+<title>Epoch AI 收录 GPT-5 评测数据，发布时排名第一</title>
+<link>https://epoch.ai/models/gpt-5</link>
+<guid isPermaLink="true">https://epoch.ai/models/gpt-5</guid>
+<description>Epoch AI 模型页收录 OpenAI 于 2025 年 8 月 7 日发布的闭源模型 GPT-5，ECI 得分 150，发布时在 159 个追踪模型中排名第一，当前在 253 个模型中排名第 51。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
 </item>
 <item>
 <title>苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</title>
@@ -120,52 +136,36 @@
 <pubDate>Fri, 02 Oct 2026 19:03:03 +0000</pubDate>
 </item>
 <item>
+<title>Epoch AI 收录 Grok 4：xAI 2025 年 7 月 9 日发布的闭源模型，ECI 得分 146</title>
+<link>https://epoch.ai/models/grok-4</link>
+<guid isPermaLink="true">https://epoch.ai/models/grok-4</guid>
+<description>xAI 于 2025 年 7 月 9 日发布闭源模型 Grok 4，Epoch AI 给出 ECI 得分 146，发布时在 148 个追踪模型中排第 3，目前在 253 个模型中排第 71。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: 德国的新型主权人工智能模型“Kolibri”</title>
+<link>https://tej.as/blog/aleph-alpha-kolibri</link>
+<guid isPermaLink="true">https://tej.as/blog/aleph-alpha-kolibri</guid>
+<description>tej.as</description>
+<category>多源热议</category>
+<pubDate>Sat, 03 Oct 2026 14:44:01 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 发布 Claude Opus 5.5，ECI 得分 167 排名第一 / Claude Opus 5.5</title>
+<link>https://epoch.ai/models/claude-opus-5-5</link>
+<guid isPermaLink="true">https://epoch.ai/models/claude-opus-5-5</guid>
+<description>Anthropic 于 2026 年 9 月 22 日发布闭源权重模型 Claude Opus 5.5，Epoch AI 追踪的 ECI 得分为 167，在 253 个模型中排名第一。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
+</item>
+<item>
 <title>Show HN: 开发了一个开源的乐高AI生成器</title>
 <link>https://github.com/anteloc/ldraw-nova</link>
 <guid isPermaLink="true">https://github.com/anteloc/ldraw-nova</guid>
 <description>github.com</description>
 <category>多源热议</category>
 <pubDate>Sat, 03 Oct 2026 06:39:44 +0000</pubDate>
-</item>
-<item>
-<title>Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri</title>
-<link>https://tej.as/blog/aleph-alpha-kolibri</link>
-<guid isPermaLink="true">https://tej.as/blog/aleph-alpha-kolibri</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Sat, 03 Oct 2026 10:43:51 +0000</pubDate>
-</item>
-<item>
-<title>来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM</title>
-<link>https://dwarfstar.sh</link>
-<guid isPermaLink="true">https://dwarfstar.sh</guid>
-<description>dwarfstar.sh</description>
-<category>多源热议</category>
-<pubDate>Fri, 02 Oct 2026 22:49:45 +0000</pubDate>
-</item>
-<item>
-<title>由于大部分信息被隐藏，直到现在，“战略棋”（Stratego）这款游戏一直让人工智能束手无策</title>
-<link>https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget</link>
-<guid isPermaLink="true">https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget</guid>
-<description>arstechnica.com</description>
-<category>多源热议</category>
-<pubDate>Fri, 02 Oct 2026 21:14:53 +0000</pubDate>
-</item>
-<item>
-<title>了解前沿人工智能 / Understanding Frontier Artificial Intelligence</title>
-<link>https://casp.ac/reports/intelligence-explosion</link>
-<guid isPermaLink="true">https://casp.ac/reports/intelligence-explosion</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Sat, 03 Oct 2026 07:06:02 +0000</pubDate>
-</item>
-<item>
-<title>Muse 智能设备</title>
-<link>https://gadgets.muse.ai</link>
-<guid isPermaLink="true">https://gadgets.muse.ai</guid>
-<description>gadgets.muse.ai</description>
-<category>值得关注</category>
-<pubDate>Sat, 03 Oct 2026 00:08:54 +0000</pubDate>
 </item>
 </channel>
 </rss>
