@@ -1,195 +1,29 @@
 {
-  "generated_at": "2026-10-03T15:08:21.620877Z",
+  "generated_at": "2026-10-03T19:56:53.328652Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_87eab6a95e56",
-      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "primary_url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-          "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-          "title_en": "A model guide for the GPT-6 family",
-          "title_original": "A model guide for the GPT-6 family",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-          "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-          "title_en": "A model guide for the GPT-6 family",
-          "title_original": "A model guide for the GPT-6 family",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7185,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T16:15:00Z",
-      "latest_at": "2026-10-02T16:15:00Z",
-      "primary_item": {
-        "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-        "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-        "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-        "title_en": "A model guide for the GPT-6 family",
-        "title_original": "A model guide for the GPT-6 family",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/practical-guide-building-gpt-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
-      }
-    },
-    {
-      "story_id": "story_2e2e433e3cb1",
-      "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "primary_url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
-          "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:19:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
-          "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:19:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7091,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T15:19:50Z",
-      "latest_at": "2026-10-02T15:19:50Z",
-      "primary_item": {
-        "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-        "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
-        "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/astabrief",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
-      }
-    },
-    {
-      "story_id": "story_cc4a44476dc4",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "story_id": "story_3f3282702712",
+      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
+          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
+          "title_en": "Stateless GitHub App installation tokens rolled out",
+          "title_original": "Stateless GitHub App installation tokens rolled out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
+          "published_at": "2026-10-02T22:18:23Z"
         }
       ],
       "source_count": 1,
@@ -198,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
+          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
+          "title_en": "Stateless GitHub App installation tokens rolled out",
+          "title_original": "Stateless GitHub App installation tokens rolled out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
+          "published_at": "2026-10-02T22:18:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7501,
+        "ai_relevance": 0.87,
+        "recency": 0.7316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
+      "earliest_at": "2026-10-02T22:18:23Z",
+      "latest_at": "2026-10-02T22:18:23Z",
       "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-        "title_en": "Copilot code review: API support and new default effort level",
-        "title_original": "Copilot code review: API support and new default effort level",
+        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+        "title_zh": "无状态 GitHub 应用程序安装令牌推出",
+        "title_en": "Stateless GitHub App installation tokens rolled out",
+        "title_original": "Stateless GitHub App installation tokens rolled out",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -249,7 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
+      }
+    },
+    {
+      "story_id": "story_52f3cf9a90e0",
+      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "primary_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7654202328494479b00a63601dedf32af4a164cb",
+          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+          "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "7654202328494479b00a63601dedf32af4a164cb",
+          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+          "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+          "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
+          "recommend_reason_zh": null,
+          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T19:56:53.328652Z",
+      "latest_at": "2026-10-03T19:56:53.328652Z",
+      "primary_item": {
+        "id": "7654202328494479b00a63601dedf32af4a164cb",
+        "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+        "title_zh": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+        "title_en": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+        "title_original": "Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+        "summary": "LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。",
+        "recommend_reason_zh": null,
+        "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -297,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,90 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
-      }
-    },
-    {
-      "story_id": "story_aef691a327ab",
-      "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7413,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T18:24:19Z",
-      "latest_at": "2026-10-02T18:24:19Z",
-      "primary_item": {
-        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-        "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
-        "title_zh": "已弃用 GitHub Copilot 中的选定模型",
-        "title_en": "Selected models in GitHub Copilot deprecated",
-        "title_original": "Selected models in GitHub Copilot deprecated",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -462,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,88 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
-      }
-    },
-    {
-      "story_id": "story_6ea06168ae24",
-      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-      "url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "primary_url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7497,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T19:11:30Z",
-      "latest_at": "2026-10-02T19:11:30Z",
-      "primary_item": {
-        "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-        "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AIatMeta/status/2106099776035152231",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -625,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,252 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
-      }
-    },
-    {
-      "story_id": "story_3f3282702712",
-      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-          "title_en": "Stateless GitHub App installation tokens rolled out",
-          "title_original": "Stateless GitHub App installation tokens rolled out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-          "title_en": "Stateless GitHub App installation tokens rolled out",
-          "title_original": "Stateless GitHub App installation tokens rolled out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7842,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T22:18:23Z",
-      "latest_at": "2026-10-02T22:18:23Z",
-      "primary_item": {
-        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-        "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-        "title_en": "Stateless GitHub App installation tokens rolled out",
-        "title_original": "Stateless GitHub App installation tokens rolled out",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
-      }
-    },
-    {
-      "story_id": "story_24541b2d70e1",
-      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "primary_url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7224,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T16:37:30.627379Z",
-      "latest_at": "2026-10-02T16:37:30.627379Z",
-      "primary_item": {
-        "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-        "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-        "recommend_reason_zh": null,
-        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
-      }
-    },
-    {
-      "story_id": "story_cca0a3c50eed",
-      "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-      "url": "https://x.com/arena/status/2106109027923140928",
-      "primary_url": "https://x.com/arena/status/2106109027923140928",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2106109027923140928",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:48:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2106109027923140928",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:48:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7564,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T19:48:16Z",
-      "latest_at": "2026-10-02T19:48:16Z",
-      "primary_item": {
-        "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
-        "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-        "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
-        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
-        "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2106109027923140928",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -952,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -986,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -1034,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1068,7 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -1116,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1150,7 +657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -1198,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,117 +739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
-      }
-    },
-    {
-      "story_id": "story_2b013d60b571",
-      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
-          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T18:11:27Z"
-        },
-        {
-          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
-          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
-          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T19:03:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
-          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T18:11:27Z"
-        },
-        {
-          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
-          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
-          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-02T19:03:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6018,
-      "importance": 0.6018,
-      "importance_score": 0.6018,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.739,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T18:11:27Z",
-      "latest_at": "2026-10-02T19:03:03Z",
-      "primary_item": {
-        "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
-        "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
-        "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -1390,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1424,11 +821,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
-      "story_id": "story_5a076f5d37d8",
+      "story_id": "story_264568180c91",
       "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
       "url": "https://tej.as/blog/aleph-alpha-kolibri",
       "primary_url": "https://tej.as/blog/aleph-alpha-kolibri",
@@ -1450,6 +847,20 @@
           "published_at": "2026-10-03T14:44:01.702000Z"
         },
         {
+          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "title_en": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "title_original": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
           "id": "43d0d8fde5a5cd7e0497e1833d363aee6e5906b6",
           "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Show HN: Germany's new sovereign AI model Kolibri",
           "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
@@ -1462,26 +873,12 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "e5c743595cf257acfe8010606f8a822da65f5b7e",
-          "title": "Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri",
-          "title_zh": "Show HN：德国新的主权人工智能模型Kolibri",
-          "title_en": "Show HN: Germany's new sovereign AI model Kolibri",
-          "title_original": "Show HN: Germany's new sovereign AI model Kolibri",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
+        "Hacker News · 24h最热",
         "tej.as"
       ],
       "items": [
@@ -1500,6 +897,20 @@
           "published_at": "2026-10-03T14:44:01.702000Z"
         },
         {
+          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
+          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
+          "title_en": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "title_original": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T10:43:51Z"
+        },
+        {
           "id": "43d0d8fde5a5cd7e0497e1833d363aee6e5906b6",
           "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Show HN: Germany's new sovereign AI model Kolibri",
           "title_zh": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
@@ -1512,33 +923,19 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "e5c743595cf257acfe8010606f8a822da65f5b7e",
-          "title": "Show HN：德国新的主权人工智能模型Kolibri / Show HN: Germany's new sovereign AI model Kolibri",
-          "title_zh": "Show HN：德国新的主权人工智能模型Kolibri",
-          "title_en": "Show HN: Germany's new sovereign AI model Kolibri",
-          "title_original": "Show HN: Germany's new sovereign AI model Kolibri",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49943034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T10:43:51Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9942,
+        "recency": 0.9275,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1563,7 +960,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -1611,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1645,7 +1042,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
+      }
+    },
+    {
+      "story_id": "story_79411f0d75c6",
+      "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T17:57:03Z"
+        },
+        {
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T17:57:03Z"
+        },
+        {
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9716,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T17:57:03Z",
+      "latest_at": "2026-10-03T17:57:03Z",
+      "primary_item": {
+        "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
+        "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+        "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+        "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+        "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     },
     {
@@ -1751,15 +1258,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5501,
-      "importance": 0.5501,
-      "importance_score": 0.5501,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8848,
+        "recency": 0.8254,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1784,7 +1291,553 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T15:16:10.365326Z"
+        "scored_at": "2026-10-03T19:57:40.382856Z"
+      }
+    },
+    {
+      "story_id": "story_75c7e0103abd",
+      "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
+          "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
+          "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49944227",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:46:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
+          "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "28ea3d71f39a25c0a3fb19c32113942d883602c8",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
+          "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+          "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+          "title_original": "I Quit OpenAI Because Its Culture Is Broken",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49944227",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:46:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9147,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T13:46:34Z",
+      "latest_at": "2026-10-03T13:46:34Z",
+      "primary_item": {
+        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+        "title": "我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken",
+        "title_zh": "我退出 OpenAI 因为它的文化已经被打破",
+        "title_en": "I Quit OpenAI Because Its Culture Is Broken",
+        "title_original": "I Quit OpenAI Because Its Culture Is Broken",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T19:57:40.382856Z"
+      }
+    },
+    {
+      "story_id": "story_acad20779d01",
+      "title": "Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价 / Claude Sonnet 4.5",
+      "url": "https://epoch.ai/models/claude-sonnet-4-5",
+      "primary_url": "https://epoch.ai/models/claude-sonnet-4-5",
+      "source": "Epoch AI：研究、数据与评测",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "418a6a1dafd6bbac0d7c8c642697243db6d252d0",
+          "title": "Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价 / Claude Sonnet 4.5",
+          "title_zh": "Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价",
+          "title_en": "Claude Sonnet 4.5",
+          "title_original": "Claude Sonnet 4.5",
+          "summary": "Epoch AI 收录的 Claude Sonnet 4.5 为 Anthropic 2025 年 9 月 29 日发布的闭源权重模型，ECI 得分 147，当前在 253 个追踪模型中排第 66，发布时在 166 个模型中排第 4。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/models/claude-sonnet-4-5",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Epoch AI：研究、数据与评测"
+      ],
+      "items": [
+        {
+          "id": "418a6a1dafd6bbac0d7c8c642697243db6d252d0",
+          "title": "Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价 / Claude Sonnet 4.5",
+          "title_zh": "Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价",
+          "title_en": "Claude Sonnet 4.5",
+          "title_original": "Claude Sonnet 4.5",
+          "summary": "Epoch AI 收录的 Claude Sonnet 4.5 为 Anthropic 2025 年 9 月 29 日发布的闭源权重模型，ECI 得分 147，当前在 253 个追踪模型中排第 66，发布时在 166 个模型中排第 4。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/models/claude-sonnet-4-5",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9329,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T15:08:21.620877Z",
+      "latest_at": "2026-10-03T15:08:21.620877Z",
+      "primary_item": {
+        "id": "418a6a1dafd6bbac0d7c8c642697243db6d252d0",
+        "title": "Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价 / Claude Sonnet 4.5",
+        "title_zh": "Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价",
+        "title_en": "Claude Sonnet 4.5",
+        "title_original": "Claude Sonnet 4.5",
+        "summary": "Epoch AI 收录的 Claude Sonnet 4.5 为 Anthropic 2025 年 9 月 29 日发布的闭源权重模型，ECI 得分 147，当前在 253 个追踪模型中排第 66，发布时在 166 个模型中排第 4。",
+        "recommend_reason_zh": null,
+        "url": "https://epoch.ai/models/claude-sonnet-4-5",
+        "source": "Epoch AI：研究、数据与评测",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T19:57:40.382856Z"
+      }
+    },
+    {
+      "story_id": "story_047bfe54a498",
+      "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
+      "url": "https://casp.ac/reports/intelligence-explosion",
+      "primary_url": "https://casp.ac/reports/intelligence-explosion",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "cdab341a767b6bd073d950398865017a43cc9890",
+          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
+          "title_zh": "了解前沿人工智能",
+          "title_en": "Understanding Frontier Artificial Intelligence",
+          "title_original": "Understanding Frontier Artificial Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://casp.ac/reports/intelligence-explosion",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T07:06:02Z"
+        },
+        {
+          "id": "50b030484c651d6ced0bb71ba09c85f2a7e79070",
+          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
+          "title_zh": "了解前沿人工智能",
+          "title_en": "Understanding Frontier Artificial Intelligence",
+          "title_original": "Understanding Frontier Artificial Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49942002",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T07:06:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cdab341a767b6bd073d950398865017a43cc9890",
+          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
+          "title_zh": "了解前沿人工智能",
+          "title_en": "Understanding Frontier Artificial Intelligence",
+          "title_original": "Understanding Frontier Artificial Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://casp.ac/reports/intelligence-explosion",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T07:06:02Z"
+        },
+        {
+          "id": "50b030484c651d6ced0bb71ba09c85f2a7e79070",
+          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
+          "title_zh": "了解前沿人工智能",
+          "title_en": "Understanding Frontier Artificial Intelligence",
+          "title_original": "Understanding Frontier Artificial Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49942002",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T07:06:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5153,
+      "importance": 0.5153,
+      "importance_score": 0.5153,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8307,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T07:06:02Z",
+      "latest_at": "2026-10-03T07:06:02Z",
+      "primary_item": {
+        "id": "cdab341a767b6bd073d950398865017a43cc9890",
+        "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
+        "title_zh": "了解前沿人工智能",
+        "title_en": "Understanding Frontier Artificial Intelligence",
+        "title_original": "Understanding Frontier Artificial Intelligence",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://casp.ac/reports/intelligence-explosion",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T19:57:40.382856Z"
+      }
+    },
+    {
+      "story_id": "story_e850d66720d9",
+      "title": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+      "url": "https://epoch.ai/models/glm-4-6",
+      "primary_url": "https://epoch.ai/models/glm-4-6",
+      "source": "Epoch AI：研究、数据与评测",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "347397bccfabc07884cc592fe7e5b8cccc407a2c",
+          "title": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+          "title_zh": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+          "title_en": null,
+          "title_original": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+          "summary": "Z.ai（智谱 AI）与清华大学于 9 月 30 日发布开源权重模型 GLM-4.6。Epoch AI 数据显示其训练参数量 3.6e11、训练算力 4.4e24 FLOP、训练时长 120 天；在 SciCode 得分 67%，Terminal-Bench 2.0 得分 85%，部分基准高于 GPT-5、Claude Sonnet 4.5 和 Grok 4 等闭源模型的对比成绩。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/models/glm-4-6",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Epoch AI：研究、数据与评测"
+      ],
+      "items": [
+        {
+          "id": "347397bccfabc07884cc592fe7e5b8cccc407a2c",
+          "title": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+          "title_zh": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+          "title_en": null,
+          "title_original": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+          "summary": "Z.ai（智谱 AI）与清华大学于 9 月 30 日发布开源权重模型 GLM-4.6。Epoch AI 数据显示其训练参数量 3.6e11、训练算力 4.4e24 FLOP、训练时长 120 天；在 SciCode 得分 67%，Terminal-Bench 2.0 得分 85%，部分基准高于 GPT-5、Claude Sonnet 4.5 和 Grok 4 等闭源模型的对比成绩。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/models/glm-4-6",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9329,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T15:08:21.620877Z",
+      "latest_at": "2026-10-03T15:08:21.620877Z",
+      "primary_item": {
+        "id": "347397bccfabc07884cc592fe7e5b8cccc407a2c",
+        "title": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+        "title_zh": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+        "title_en": null,
+        "title_original": "Z.ai 与清华大学发布开源权重模型 GLM-4.6",
+        "summary": "Z.ai（智谱 AI）与清华大学于 9 月 30 日发布开源权重模型 GLM-4.6。Epoch AI 数据显示其训练参数量 3.6e11、训练算力 4.4e24 FLOP、训练时长 120 天；在 SciCode 得分 67%，Terminal-Bench 2.0 得分 85%，部分基准高于 GPT-5、Claude Sonnet 4.5 和 Grok 4 等闭源模型的对比成绩。",
+        "recommend_reason_zh": null,
+        "url": "https://epoch.ai/models/glm-4-6",
+        "source": "Epoch AI：研究、数据与评测",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T19:57:40.382856Z"
+      }
+    },
+    {
+      "story_id": "story_19c737e1ea28",
+      "title": "Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分 / Qwen 3.8 Max",
+      "url": "https://epoch.ai/models/qwen-3-8-max",
+      "primary_url": "https://epoch.ai/models/qwen-3-8-max",
+      "source": "Epoch AI：研究、数据与评测",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0d470708f5af5a3aa6a57cf1256e426f5b949fa1",
+          "title": "Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分 / Qwen 3.8 Max",
+          "title_zh": "Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分",
+          "title_en": "Qwen 3.8 Max",
+          "title_original": "Qwen 3.8 Max",
+          "summary": "Alibaba 于 8 月 2 日发布闭源模型 Qwen 3.8 Max，ECI 得分 157，发布时在 238 个追踪模型中排第 12，目前在 253 个模型中排第 20。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/models/qwen-3-8-max",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Epoch AI：研究、数据与评测"
+      ],
+      "items": [
+        {
+          "id": "0d470708f5af5a3aa6a57cf1256e426f5b949fa1",
+          "title": "Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分 / Qwen 3.8 Max",
+          "title_zh": "Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分",
+          "title_en": "Qwen 3.8 Max",
+          "title_original": "Qwen 3.8 Max",
+          "summary": "Alibaba 于 8 月 2 日发布闭源模型 Qwen 3.8 Max，ECI 得分 157，发布时在 238 个追踪模型中排第 12，目前在 253 个模型中排第 20。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/models/qwen-3-8-max",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9329,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-03T15:08:21.620877Z",
+      "latest_at": "2026-10-03T15:08:21.620877Z",
+      "primary_item": {
+        "id": "0d470708f5af5a3aa6a57cf1256e426f5b949fa1",
+        "title": "Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分 / Qwen 3.8 Max",
+        "title_zh": "Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分",
+        "title_en": "Qwen 3.8 Max",
+        "title_original": "Qwen 3.8 Max",
+        "summary": "Alibaba 于 8 月 2 日发布闭源模型 Qwen 3.8 Max，ECI 得分 157，发布时在 238 个追踪模型中排第 12，目前在 253 个模型中排第 20。",
+        "recommend_reason_zh": null,
+        "url": "https://epoch.ai/models/qwen-3-8-max",
+        "source": "Epoch AI：研究、数据与评测",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T19:57:40.382856Z"
+      }
+    },
+    {
+      "story_id": "story_85a45ad87748",
+      "title": "Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148 / Qwen 3.6 Plus",
+      "url": "https://epoch.ai/models/qwen-3-6-plus",
+      "primary_url": "https://epoch.ai/models/qwen-3-6-plus",
+      "source": "Epoch AI：研究、数据与评测",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "23184dae7b69227cba965e88b74d09190811d05c",
+          "title": "Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148 / Qwen 3.6 Plus",
+          "title_zh": "Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148",
+          "title_en": "Qwen 3.6 Plus",
+          "title_original": "Qwen 3.6 Plus",
+          "summary": "Alibaba 于 3 月 31 日发布闭源模型 Qwen 3.6 Plus，ECI 得分 148，发布时在 197 个被追踪模型中排名第 18。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/models/qwen-3-6-plus",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Epoch AI：研究、数据与评测"
+      ],
+      "items": [
+        {
+          "id": "23184dae7b69227cba965e88b74d09190811d05c",
+          "title": "Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148 / Qwen 3.6 Plus",
+          "title_zh": "Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148",
+          "title_en": "Qwen 3.6 Plus",
+          "title_original": "Qwen 3.6 Plus",
+          "summary": "Alibaba 于 3 月 31 日发布闭源模型 Qwen 3.6 Plus，ECI 得分 148，发布时在 197 个被追踪模型中排名第 18。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/models/qwen-3-6-plus",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9329,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-03T15:08:21.620877Z",
+      "latest_at": "2026-10-03T15:08:21.620877Z",
+      "primary_item": {
+        "id": "23184dae7b69227cba965e88b74d09190811d05c",
+        "title": "Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148 / Qwen 3.6 Plus",
+        "title_zh": "Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148",
+        "title_en": "Qwen 3.6 Plus",
+        "title_original": "Qwen 3.6 Plus",
+        "summary": "Alibaba 于 3 月 31 日发布闭源模型 Qwen 3.6 Plus，ECI 得分 148，发布时在 197 个被追踪模型中排名第 18。",
+        "recommend_reason_zh": null,
+        "url": "https://epoch.ai/models/qwen-3-6-plus",
+        "source": "Epoch AI：研究、数据与评测",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T19:57:40.382856Z"
       }
     }
   ]

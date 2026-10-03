@@ -5,31 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 03 Oct 2026 15:08:21 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 19:56:53 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family</title>
-<link>https://openai.com/index/practical-guide-building-gpt-6</link>
-<guid isPermaLink="true">https://openai.com/index/practical-guide-building-gpt-6</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
-</item>
-<item>
-<title>开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-<link>https://huggingface.co/blog/allenai/astabrief</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/astabrief</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
-</item>
-<item>
-<title>Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level</title>
-<link>https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level</guid>
+<title>无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out</title>
+<link>https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 19:13:50 +0000</pubDate>
+<pubDate>Fri, 02 Oct 2026 22:18:23 +0000</pubDate>
+</item>
+<item>
+<title>LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023</title>
+<link>https://www.lmsys.org/blog/2023-03-30-vicuna</link>
+<guid isPermaLink="true">https://www.lmsys.org/blog/2023-03-30-vicuna</guid>
+<description>LMSYS 团队发布 Vicuna-13B，通过约 70K ShareGPT 用户共享对话微调 LLaMA，训练成本约 $300，代码、权重和在线 demo 以非商业许可公开。GPT-4 作为评审的初步评估显示其达到 ChatGPT/Bard 90% 以上质量，在 45% 问题上不逊于 ChatGPT；团队同时提出基于 GPT-4 的自动评测框架，并说明其尚非严谨方法。（LMSYS：Blog（Chatbot Arena 团队））</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 19:56:53 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布闭源模型 GPT-6.1 Sol，定价为输入 $2 / 输出 $10 每 1M tokens / GPT-6.1 Sol</title>
@@ -40,14 +32,6 @@
 <pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
 </item>
 <item>
-<title>已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated</title>
-<link>https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 18:24:19 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件</title>
 <link>https://www.ithome.com/1/009/444.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/009/444.htm</guid>
@@ -56,44 +40,12 @@
 <pubDate>Sat, 03 Oct 2026 06:18:38 +0000</pubDate>
 </item>
 <item>
-<title>Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...</title>
-<link>https://x.com/AIatMeta/status/2106099776035152231</link>
-<guid isPermaLink="true">https://x.com/AIatMeta/status/2106099776035152231</guid>
-<description>Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。（X：AI at Meta (@AIatMeta)）</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 19:11:30 +0000</pubDate>
-</item>
-<item>
 <title>ARC Prize Foundation 推出第二代抽象推理基准 ARC-AGI-2 / ARC-AGI-2</title>
 <link>https://epoch.ai/benchmarks/arc-agi-2</link>
 <guid isPermaLink="true">https://epoch.ai/benchmarks/arc-agi-2</guid>
 <description>ARC Prize Foundation 发布抽象推理语料第二代基准 ARC-AGI-2，共 1,360 个任务，其中 1,000 个训练任务和 360 个评测任务，按 pass@2 评分。基准移除了可被暴力程序搜索破解的任务，新增针对符号解读、组合推理和上下文规则应用的题目；超过 400 人的人类测试显示平均得分 60%，而发布时纯 LLM 得分为 0%，前沿推理模型仅有个位数百分比。（Epoch AI：研究、数据与评测）</description>
 <category>行业动态</category>
 <pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
-</item>
-<item>
-<title>无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out</title>
-<link>https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 22:18:23 +0000</pubDate>
-</item>
-<item>
-<title>Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems &amp; Engineering</title>
-<link>https://research.google/blog/toward-provably-private-learning-from-federated-data</link>
-<guid isPermaLink="true">https://research.google/blog/toward-provably-private-learning-from-federated-data</guid>
-<description>Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。（Google Research：Blog（网页））</description>
-<category>官方更新</category>
-<pubDate>Fri, 02 Oct 2026 16:37:30 +0000</pubDate>
-</item>
-<item>
-<title>GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!</title>
-<link>https://x.com/arena/status/2106109027923140928</link>
-<guid isPermaLink="true">https://x.com/arena/status/2106109027923140928</guid>
-<description>Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 02 Oct 2026 19:48:16 +0000</pubDate>
 </item>
 <item>
 <title>Google DeepMind 发布 Gemini 3.1 Pro，ECI 得分 155 / Gemini 3.1 Pro</title>
@@ -128,14 +80,6 @@
 <pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
 </item>
 <item>
-<title>苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents</title>
-<link>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents</guid>
-<description>TechCrunch AI</description>
-<category>值得关注</category>
-<pubDate>Fri, 02 Oct 2026 19:03:03 +0000</pubDate>
-</item>
-<item>
 <title>Epoch AI 收录 Grok 4：xAI 2025 年 7 月 9 日发布的闭源模型，ECI 得分 146</title>
 <link>https://epoch.ai/models/grok-4</link>
 <guid isPermaLink="true">https://epoch.ai/models/grok-4</guid>
@@ -160,12 +104,68 @@
 <pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
 </item>
 <item>
+<title>Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase</title>
+<link>https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases</link>
+<guid isPermaLink="true">https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 03 Oct 2026 17:57:03 +0000</pubDate>
+</item>
+<item>
 <title>Show HN: 开发了一个开源的乐高AI生成器</title>
 <link>https://github.com/anteloc/ldraw-nova</link>
 <guid isPermaLink="true">https://github.com/anteloc/ldraw-nova</guid>
 <description>github.com</description>
 <category>多源热议</category>
 <pubDate>Sat, 03 Oct 2026 06:39:44 +0000</pubDate>
+</item>
+<item>
+<title>我退出 OpenAI 因为它的文化已经被打破 / I Quit OpenAI Because Its Culture Is Broken</title>
+<link>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881</link>
+<guid isPermaLink="true">https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Sat, 03 Oct 2026 13:46:34 +0000</pubDate>
+</item>
+<item>
+<title>Epoch AI 评测页面：Claude Sonnet 4.5 基准成绩与定价 / Claude Sonnet 4.5</title>
+<link>https://epoch.ai/models/claude-sonnet-4-5</link>
+<guid isPermaLink="true">https://epoch.ai/models/claude-sonnet-4-5</guid>
+<description>Epoch AI 收录的 Claude Sonnet 4.5 为 Anthropic 2025 年 9 月 29 日发布的闭源权重模型，ECI 得分 147，当前在 253 个追踪模型中排第 66，发布时在 166 个模型中排第 4。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
+</item>
+<item>
+<title>了解前沿人工智能 / Understanding Frontier Artificial Intelligence</title>
+<link>https://casp.ac/reports/intelligence-explosion</link>
+<guid isPermaLink="true">https://casp.ac/reports/intelligence-explosion</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Sat, 03 Oct 2026 07:06:02 +0000</pubDate>
+</item>
+<item>
+<title>Z.ai 与清华大学发布开源权重模型 GLM-4.6</title>
+<link>https://epoch.ai/models/glm-4-6</link>
+<guid isPermaLink="true">https://epoch.ai/models/glm-4-6</guid>
+<description>Z.ai（智谱 AI）与清华大学于 9 月 30 日发布开源权重模型 GLM-4.6。Epoch AI 数据显示其训练参数量 3.6e11、训练算力 4.4e24 FLOP、训练时长 120 天；在 SciCode 得分 67%，Terminal-Bench 2.0 得分 85%，部分基准高于 GPT-5、Claude Sonnet 4.5 和 Grok 4 等闭源模型的对比成绩。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
+</item>
+<item>
+<title>Alibaba 发布闭源模型 Qwen 3.8 Max，ECI 得 157 分 / Qwen 3.8 Max</title>
+<link>https://epoch.ai/models/qwen-3-8-max</link>
+<guid isPermaLink="true">https://epoch.ai/models/qwen-3-8-max</guid>
+<description>Alibaba 于 8 月 2 日发布闭源模型 Qwen 3.8 Max，ECI 得分 157，发布时在 238 个追踪模型中排第 12，目前在 253 个模型中排第 20。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
+</item>
+<item>
+<title>Qwen 3.6 Plus 发布：Alibaba 闭源模型 ECI 得分 148 / Qwen 3.6 Plus</title>
+<link>https://epoch.ai/models/qwen-3-6-plus</link>
+<guid isPermaLink="true">https://epoch.ai/models/qwen-3-6-plus</guid>
+<description>Alibaba 于 3 月 31 日发布闭源模型 Qwen 3.6 Plus，ECI 得分 148，发布时在 197 个被追踪模型中排名第 18。（Epoch AI：研究、数据与评测）</description>
+<category>行业动态</category>
+<pubDate>Sat, 03 Oct 2026 15:08:21 +0000</pubDate>
 </item>
 </channel>
 </rss>
