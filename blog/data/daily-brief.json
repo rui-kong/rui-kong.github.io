@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-10-04T23:57:56.220975Z",
+  "generated_at": "2026-10-05T01:58:07.279837Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 6,
   "items": [
+    {
+      "story_id": "story_92fa9be3e195",
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "primary_url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "source": "PromptArmor：Threat Intelligence",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+          "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+          "recommend_reason_zh": null,
+          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+          "source": "PromptArmor：Threat Intelligence",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T00:24:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "PromptArmor：Threat Intelligence"
+      ],
+      "items": [
+        {
+          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+          "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+          "recommend_reason_zh": null,
+          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+          "source": "PromptArmor：Threat Intelligence",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T00:24:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9776,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T00:24:02Z",
+      "latest_at": "2026-10-05T00:24:02Z",
+      "primary_item": {
+        "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+        "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+        "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+        "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+        "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+        "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+        "recommend_reason_zh": null,
+        "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+        "source": "PromptArmor：Threat Intelligence",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T02:09:10.684788Z"
+      }
+    },
     {
       "story_id": "story_22f350167c25",
       "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
@@ -106,15 +187,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5601,
-      "importance": 0.5601,
-      "importance_score": 0.5601,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9405,
+        "recency": 0.9136,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -139,7 +220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:08:33.294453Z"
+        "scored_at": "2026-10-05T02:09:10.684788Z"
       }
     },
     {
@@ -245,15 +326,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.853,
+        "recency": 0.8286,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -278,7 +359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:08:33.294453Z"
+        "scored_at": "2026-10-05T02:09:10.684788Z"
       }
     },
     {
@@ -355,15 +436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9404,
+        "recency": 0.9135,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -388,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:08:33.294453Z"
+        "scored_at": "2026-10-05T02:09:10.684788Z"
       }
     },
     {
@@ -465,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
+      "score": 0.5061,
+      "importance": 0.5061,
+      "importance_score": 0.5061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8022,
+        "recency": 0.7793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -498,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:08:33.294453Z"
+        "scored_at": "2026-10-05T02:09:10.684788Z"
       }
     },
     {
@@ -575,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5085,
-      "importance": 0.5085,
-      "importance_score": 0.5085,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7929,
+        "recency": 0.7703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -608,7 +689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:08:33.294453Z"
+        "scored_at": "2026-10-05T02:09:10.684788Z"
       }
     }
   ]
