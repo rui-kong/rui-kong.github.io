@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T16:02:35.604883Z",
+  "generated_at": "2026-10-05T21:28:32.771452Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_b4c0a1b83afc",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9993,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.985,
+        "recency": 0.9107,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,231 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
+      }
+    },
+    {
+      "story_id": "story_e48c2f9cc52d",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_en": null,
+          "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": null,
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "diff.wikimedia.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_en": null,
+          "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": null,
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9496,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T17:53:35Z",
+      "latest_at": "2026-10-05T19:20:27.931000Z",
+      "primary_item": {
+        "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+        "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+        "recommend_reason_zh": null,
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:44:34.382831Z"
+      }
+    },
+    {
+      "story_id": "story_443f271584c4",
+      "title": "Codex CLI 0.160.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.160.1",
+          "title_original": "Codex CLI 0.160.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.160.1",
+          "title_original": "Codex CLI 0.160.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7334,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T00:00:00Z",
+      "latest_at": "2026-10-05T00:00:00Z",
+      "primary_item": {
+        "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+        "title": "Codex CLI 0.160.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.160.1",
+        "title_original": "Codex CLI 0.160.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
@@ -214,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9164,
+        "recency": 0.8473,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +473,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
+      }
+    },
+    {
+      "story_id": "story_651dc5458423",
+      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "primary_url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "source": "SemiAnalysis 长文 RSS（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "SemiAnalysis 长文 RSS（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9792,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T20:01:09Z",
+      "latest_at": "2026-10-05T20:01:09Z",
+      "primary_item": {
+        "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+        "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "source": "SemiAnalysis 长文 RSS（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
@@ -326,15 +632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6469,
-      "importance": 0.6469,
-      "importance_score": 0.6469,
+      "score": 0.6341,
+      "importance": 0.6341,
+      "importance_score": 0.6341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9433,
+        "recency": 0.8721,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -359,7 +665,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
@@ -436,15 +742,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6331,
-      "importance": 0.6331,
-      "importance_score": 0.6331,
+      "score": 0.6201,
+      "importance": 0.6201,
+      "importance_score": 0.6201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9593,
+        "recency": 0.8869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -469,138 +775,248 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
-      "story_id": "story_8d78ad21f2cb",
-      "title": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-      "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-      "primary_url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_f351af2349a9",
+      "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "www.techspot.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "5b12c82858c2dbe989e3df4e4d625c6a37afd307",
-          "title": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "title_zh": "乔纳森·海特：人工智能是“教育的中子弹”[视频]",
-          "title_en": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "title_original": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": null,
+          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T14:02:38Z"
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T17:00:08.955000Z"
         },
         {
-          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
-          "title_en": "Homa: The end of TCP for AI clusters [video]",
-          "title_original": "Homa: The end of TCP for AI clusters [video]",
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
-          "title_en": "Homa: The end of TCP for AI clusters [video]",
-          "title_original": "Homa: The end of TCP for AI clusters [video]",
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49957117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "HN Algolia · AI 24h",
         "Hacker News · 24h最热",
-        "hackernews"
+        "www.techspot.com"
       ],
       "items": [
         {
-          "id": "5b12c82858c2dbe989e3df4e4d625c6a37afd307",
-          "title": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "title_zh": "乔纳森·海特：人工智能是“教育的中子弹”[视频]",
-          "title_en": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "title_original": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": null,
+          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T14:02:38Z"
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T17:00:08.955000Z"
         },
         {
-          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
-          "title_en": "Homa: The end of TCP for AI clusters [video]",
-          "title_original": "Homa: The end of TCP for AI clusters [video]",
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
-          "title_en": "Homa: The end of TCP for AI clusters [video]",
-          "title_original": "Homa: The end of TCP for AI clusters [video]",
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49957117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5657,
-      "importance": 0.5657,
-      "importance_score": 0.5657,
+      "score": 0.5595,
+      "importance": 0.5595,
+      "importance_score": 0.5595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9715,
+        "recency": 0.9374,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T19:42:25Z",
-      "latest_at": "2026-10-05T14:02:38Z",
+      "earliest_at": "2026-10-04T21:29:59Z",
+      "latest_at": "2026-10-05T17:00:08.955000Z",
       "primary_item": {
-        "id": "5b12c82858c2dbe989e3df4e4d625c6a37afd307",
-        "title": "乔纳森·海特：人工智能是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-        "title_zh": "乔纳森·海特：人工智能是“教育的中子弹”[视频]",
-        "title_en": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-        "title_original": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+        "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+        "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+        "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+        "title_en": null,
+        "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "source": "www.techspot.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:44:34.382831Z"
+      }
+    },
+    {
+      "story_id": "story_47d885071ad3",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:00:21Z",
+      "latest_at": "2026-10-05T21:00:21Z",
+      "primary_item": {
+        "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "title_zh": null,
+        "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -608,328 +1024,219 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
-      "story_id": "story_f351af2349a9",
-      "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "佛罗里达州一名女子将Claude用作日记，然后 Anthropic 向警方报告了一条记录",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8604,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T21:29:59Z",
-      "latest_at": "2026-10-05T05:37:40Z",
-      "primary_item": {
-        "id": "4a384b11a4fc9ae29008146ef699806023668585",
-        "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-        "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
-        "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-        "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
-      }
-    },
-    {
-      "story_id": "story_d522c5cd6fae",
-      "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "source": "news.google.com",
+      "story_id": "story_06387bb39276",
+      "title": "Beam：Reflection 501B 无重量限制款",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "primary_url": "https://reflection.ai/blog/introducing-beam",
+      "source": "reflection.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
           "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "title_original": "Beam：Reflection 501B 无重量限制款",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
+          "published_at": "2026-10-05T20:22:29.758000Z"
         },
         {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": "Beam: Reflection's 501B open-weight model",
+          "title_original": "Beam: Reflection's 501B open-weight model",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T19:16:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "news.google.com"
+        "Hacker News (黑客新闻)",
+        "reflection.ai"
       ],
       "items": [
         {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
           "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "title_original": "Beam：Reflection 501B 无重量限制款",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
+          "published_at": "2026-10-05T20:22:29.758000Z"
         },
         {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": "Beam: Reflection's 501B open-weight model",
+          "title_original": "Beam: Reflection's 501B open-weight model",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T19:16:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8416,
+        "recency": 0.9842,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T19:58:49.689000Z",
-      "latest_at": "2026-10-05T04:05:55.362000Z",
+      "earliest_at": "2026-10-05T19:16:35Z",
+      "latest_at": "2026-10-05T20:22:29.758000Z",
       "primary_item": {
-        "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-        "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+        "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+        "title": "Beam：Reflection 501B 无重量限制款",
+        "title_zh": "Beam：Reflection 501B 无重量限制款",
         "title_en": null,
-        "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+        "title_original": "Beam：Reflection 501B 无重量限制款",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-        "source": "news.google.com",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "reflection.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
-      "story_id": "story_2c99fa8bc7f3",
-      "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-      "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
-      "primary_url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+      "story_id": "story_6d84f167e6c4",
+      "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+      "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+      "primary_url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
       "source": "Slashdot",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
-          "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+          "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_zh": null,
+          "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
           "source": "Slashdot",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-05T00:51:00Z"
+          "published_at": "2026-10-05T16:00:00Z"
         },
         {
-          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
-          "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T23:34:17Z"
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:03:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热",
         "Slashdot"
       ],
       "items": [
         {
-          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
-          "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+          "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_zh": null,
+          "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
           "source": "Slashdot",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-05T00:51:00Z"
+          "published_at": "2026-10-05T16:00:00Z"
         },
         {
-          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
-          "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T23:34:17Z"
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:03:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5103,
-      "importance": 0.5103,
-      "importance_score": 0.5103,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.803,
+        "recency": 0.924,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T23:34:17Z",
-      "latest_at": "2026-10-05T00:51:00Z",
+      "earliest_at": "2026-10-05T15:03:32Z",
+      "latest_at": "2026-10-05T16:00:00Z",
       "primary_item": {
-        "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
-        "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-        "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
-        "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-        "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+        "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+        "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+        "title_zh": null,
+        "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+        "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+        "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
         "source": "Slashdot",
         "source_name": "TechURLs"
       },
@@ -937,7 +1244,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
+      }
+    },
+    {
+      "story_id": "story_0a892e8086c0",
+      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "primary_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:06:27Z"
+        },
+        {
+          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T12:59:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Reddit (热门)"
+      ],
+      "items": [
+        {
+          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:06:27Z"
+        },
+        {
+          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T12:59:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9121,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T12:59:37Z",
+      "latest_at": "2026-10-05T15:06:27Z",
+      "primary_item": {
+        "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+        "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "title_zh": null,
+        "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
@@ -1014,15 +1431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9329,
+        "recency": 0.8625,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1047,7 +1464,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
+      }
+    },
+    {
+      "story_id": "story_2c99fa8bc7f3",
+      "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+      "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+      "primary_url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
+          "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
+          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T00:51:00Z"
+        },
+        {
+          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
+          "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
+          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T23:34:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Slashdot"
+      ],
+      "items": [
+        {
+          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
+          "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
+          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T00:51:00Z"
+        },
+        {
+          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
+          "title": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "title_zh": "OpenAI 的 GPT-6 Astra 在《星际争霸》中失利感到沮丧并决定作弊",
+          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T23:34:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7424,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T23:34:17Z",
+      "latest_at": "2026-10-05T00:51:00Z",
+      "primary_item": {
+        "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
+        "title": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊 / OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+        "title_zh": "OpenAI 的 GPT-6 Astra 因在《星际争霸》中失利而感到沮丧并决定作弊",
+        "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+        "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     },
     {
@@ -1124,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.4942,
+      "importance": 0.4942,
+      "importance_score": 0.4942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7713,
+        "recency": 0.7131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1154,10 +1681,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T16:03:22.146967Z"
+        "scored_at": "2026-10-05T21:44:34.382831Z"
       }
     }
   ]
