@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-09T07:24:45.611739Z",
+  "generated_at": "2026-10-09T11:52:38.928262Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a9ec40ee13cc",
+      "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "primary_url": "https://openai.com/index/sophos",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/sophos",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8398,
+      "importance": 0.8398,
+      "importance_score": 0.8398,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.932,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T07:00:00Z",
+      "latest_at": "2026-10-09T07:00:00Z",
+      "primary_item": {
+        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
+        "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
+        "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/sophos",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T11:53:30.036746Z"
+      }
+    },
     {
       "story_id": "story_a2fc4530694f",
       "title": "Tibo 宣布发布 ChatGPT / Today, we are announcing ChatGPT.",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.94,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9012,
+        "recency": 0.8449,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,90 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
-      }
-    },
-    {
-      "story_id": "story_f913596b9697",
-      "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "primary_url": "https://openai.com/index/oracle",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/oracle",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8005,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T16:00:00Z",
-      "latest_at": "2026-10-08T16:00:00Z",
-      "primary_item": {
-        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-        "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
-        "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/oracle",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8362,
+        "recency": 0.784,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,30 +278,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
-      "story_id": "story_65da7bfcfb81",
-      "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "story_id": "story_f913596b9697",
+      "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "primary_url": "https://openai.com/index/oracle",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "url": "https://openai.com/index/oracle",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "published_at": "2026-10-08T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -310,31 +310,31 @@
       ],
       "items": [
         {
-          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-          "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-          "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
-          "title_en": "LegalOn halves Codex costs while maintaining development speed",
-          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+          "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+          "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "url": "https://openai.com/index/oracle",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "published_at": "2026-10-08T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7555,
+        "ai_relevance": 0.99,
+        "recency": 0.7505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,17 +343,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
+      "earliest_at": "2026-10-08T16:00:00Z",
+      "latest_at": "2026-10-08T16:00:00Z",
       "primary_item": {
-        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
-        "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-        "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
-        "title_en": "LegalOn halves Codex costs while maintaining development speed",
-        "title_original": "LegalOn halves Codex costs while maintaining development speed",
+        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
+        "title": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟 / How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "title_zh": "Oracle 如何利用 ChatGPT 和 Codex 将几天的工作变成几分钟",
+        "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "title_original": "How Oracle turns days of work into minutes with ChatGPT and Codex",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "url": "https://openai.com/index/oracle",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -361,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -409,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8006,
+        "recency": 0.7506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,30 +444,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
-      "story_id": "story_db170a853e6a",
-      "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-      "url": "https://www.aibase.com/news/31503",
-      "primary_url": "https://www.aibase.com/news/31503",
+      "story_id": "story_891ef0a1c70a",
+      "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+      "url": "https://www.aibase.com/news/31506",
+      "primary_url": "https://www.aibase.com/news/31506",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-          "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "title_en": null,
-          "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31503",
+          "url": "https://www.aibase.com/news/31506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:24:45.611739Z"
+          "published_at": "2026-10-09T11:52:38.928262Z"
         }
       ],
       "source_count": 1,
@@ -476,18 +476,18 @@
       ],
       "items": [
         {
-          "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-          "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-          "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+          "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+          "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "title_en": null,
-          "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+          "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31503",
+          "url": "https://www.aibase.com/news/31506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:24:45.611739Z"
+          "published_at": "2026-10-09T11:52:38.928262Z"
         }
       ],
       "item_count": 1,
@@ -508,17 +508,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:24:45.611739Z",
-      "latest_at": "2026-10-09T07:24:45.611739Z",
+      "earliest_at": "2026-10-09T11:52:38.928262Z",
+      "latest_at": "2026-10-09T11:52:38.928262Z",
       "primary_item": {
-        "id": "ae1c9523eacce19f849f57f66c1c85289361ad72",
-        "title": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
-        "title_zh": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+        "id": "2db9d913c51001caeb4e64dbbbf339ef736b8765",
+        "title": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
+        "title_zh": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
         "title_en": null,
-        "title_original": "Anthropic重磅推出OSS Scanner，用最强AI模型为全球开源软件免费扫漏洞",
+        "title_original": "Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31503",
+        "url": "https://www.aibase.com/news/31506",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -526,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8862,
+        "recency": 0.8309,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -656,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8273,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -738,21 +738,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9838,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-09T06:17:00Z",
       "latest_at": "2026-10-09T06:17:00Z",
@@ -772,7 +771,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
+      }
+    },
+    {
+      "story_id": "story_65da7bfcfb81",
+      "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "primary_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+          "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
+          "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
+          "title_en": "LegalOn halves Codex costs while maintaining development speed",
+          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+          "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
+          "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
+          "title_en": "LegalOn halves Codex costs while maintaining development speed",
+          "title_original": "LegalOn halves Codex costs while maintaining development speed",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7084,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "c82b1c3e2ed0606a2553d5612d2e5494dcf4136e",
+        "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
+        "title_zh": "LegalOn 在保持开发速度的同时将 Codex 成本减半",
+        "title_en": "LegalOn halves Codex costs while maintaining development speed",
+        "title_original": "LegalOn halves Codex costs while maintaining development speed",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -820,21 +902,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.8911,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-09T03:53:32Z",
       "latest_at": "2026-10-09T03:53:32Z",
@@ -854,90 +935,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
-      "story_id": "story_e323adeab1da",
-      "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "primary_url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_76c6e547b2cc",
+      "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+      "url": "https://www.aibase.com/news/31509",
+      "primary_url": "https://www.aibase.com/news/31509",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_en": null,
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "url": "https://www.aibase.com/news/31509",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T11:52:38.928262Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e441138912907d022d550626c930aa4e578bbe9e",
-          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+          "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+          "title_en": null,
+          "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/pollo-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T12:00:00Z"
+          "url": "https://www.aibase.com/news/31509",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-09T11:52:38.928262Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7555,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
+      "earliest_at": "2026-10-09T11:52:38.928262Z",
+      "latest_at": "2026-10-09T11:52:38.928262Z",
       "primary_item": {
-        "id": "e441138912907d022d550626c930aa4e578bbe9e",
-        "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
-        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
-        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "id": "d9f80e5257f197e6225183453260c5b0f5db73ec",
+        "title": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "title_zh": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
+        "title_en": null,
+        "title_original": "OpenAI 预计年底年化收入超 700 亿，企业业务成核心增长引擎",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/pollo-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/31509",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -985,15 +1065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7825,
+        "recency": 0.7337,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1020,7 +1100,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -1068,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8087,
+        "recency": 0.7582,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1101,170 +1181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
-      }
-    },
-    {
-      "story_id": "story_535b22a16c43",
-      "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-      "url": "https://www.aibase.com/news/31502",
-      "primary_url": "https://www.aibase.com/news/31502",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "84fd288e8af140d505d35cfc5de2cfd2f2b387f9",
-          "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "title_zh": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "title_en": null,
-          "title_original": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31502",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T07:24:45.611739Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "84fd288e8af140d505d35cfc5de2cfd2f2b387f9",
-          "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "title_zh": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "title_en": null,
-          "title_original": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31502",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T07:24:45.611739Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:24:45.611739Z",
-      "latest_at": "2026-10-09T07:24:45.611739Z",
-      "primary_item": {
-        "id": "84fd288e8af140d505d35cfc5de2cfd2f2b387f9",
-        "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-        "title_zh": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-        "title_en": null,
-        "title_original": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31502",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
-      }
-    },
-    {
-      "story_id": "story_6e2cc0057ae4",
-      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-      "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "primary_url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-      "source": "Comfy Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-          "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-          "source": "Comfy Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T19:01:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Comfy Blog"
-      ],
-      "items": [
-        {
-          "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-          "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-          "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-          "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-          "source": "Comfy Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T19:01:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8362,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T19:01:22Z",
-      "latest_at": "2026-10-08T19:01:22Z",
-      "primary_item": {
-        "id": "c072a512daef5b8bdf019ac58b79c593c00fd614",
-        "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频 / How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "title_zh": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-        "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "title_original": "How I Generated Live Video with MiniMax H3 on a Single GPU",
-        "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-        "source": "Comfy Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -1312,15 +1229,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7667,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,30 +1262,113 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
-      "story_id": "story_378144591198",
-      "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-      "url": "https://www.aibase.com/news/31504",
-      "primary_url": "https://www.aibase.com/news/31504",
+      "story_id": "story_e323adeab1da",
+      "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "primary_url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e441138912907d022d550626c930aa4e578bbe9e",
+          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
+          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e441138912907d022d550626c930aa4e578bbe9e",
+          "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
+          "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/pollo-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7084,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T12:00:00Z",
+      "latest_at": "2026-10-08T12:00:00Z",
+      "primary_item": {
+        "id": "e441138912907d022d550626c930aa4e578bbe9e",
+        "title": "Pollo AI 通过 OpenAI 将创意转化为活动 / Pollo AI turns creative ideas into campaigns with OpenAI",
+        "title_zh": "Pollo AI 通过 OpenAI 将创意转化为活动",
+        "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "title_original": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/pollo-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-09T11:53:30.036746Z"
+      }
+    },
+    {
+      "story_id": "story_cc5200c63851",
+      "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+      "url": "https://www.aibase.com/news/31505",
+      "primary_url": "https://www.aibase.com/news/31505",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
           "title_en": null,
-          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31504",
+          "url": "https://www.aibase.com/news/31505",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:24:45.611739Z"
+          "published_at": "2026-10-09T11:52:38.928262Z"
         }
       ],
       "source_count": 1,
@@ -1377,18 +1377,18 @@
       ],
       "items": [
         {
-          "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-          "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-          "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+          "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+          "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
           "title_en": null,
-          "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+          "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31504",
+          "url": "https://www.aibase.com/news/31505",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:24:45.611739Z"
+          "published_at": "2026-10-09T11:52:38.928262Z"
         }
       ],
       "item_count": 1,
@@ -1409,17 +1409,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:24:45.611739Z",
-      "latest_at": "2026-10-09T07:24:45.611739Z",
+      "earliest_at": "2026-10-09T11:52:38.928262Z",
+      "latest_at": "2026-10-09T11:52:38.928262Z",
       "primary_item": {
-        "id": "83067a0f08253f2a6447fe3acc8b55812edc6212",
-        "title": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
-        "title_zh": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "id": "e8a8790592bb2d1d7baccfd71272f474eef1b051",
+        "title": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
+        "title_zh": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
         "title_en": null,
-        "title_original": "一张无限画布装下所有创作:豆包工作上新，图片、视频、HTML 自动汇入同一画布",
+        "title_original": "快手发布“AI魔改”视频治理公告:9月处置违规内容2544条，重点整治四大名著乱改",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31504",
+        "url": "https://www.aibase.com/news/31505",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1427,7 +1427,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
@@ -1475,15 +1475,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8486,
+        "recency": 0.7956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1508,30 +1508,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
-      "story_id": "story_8b891e5bed56",
-      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-      "primary_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "story_id": "story_4b0f94357a4e",
+      "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "id": "db0c5dfa14e9607968c49bb479722df0d9a047c7",
+          "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "title_zh": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+          "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "source_count": 1,
@@ -1540,48 +1540,48 @@
       ],
       "items": [
         {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "id": "db0c5dfa14e9607968c49bb479722df0d9a047c7",
+          "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "title_zh": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+          "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+          "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7277,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-08T09:24:17Z",
-      "latest_at": "2026-10-08T09:24:17Z",
+      "earliest_at": "2026-10-08T13:01:01Z",
+      "latest_at": "2026-10-08T13:01:01Z",
       "primary_item": {
-        "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-        "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-        "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+        "id": "db0c5dfa14e9607968c49bb479722df0d9a047c7",
+        "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent / One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+        "title_zh": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+        "title_en": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+        "title_original": "One public-facing AI agent on AWS could read, rewrite, and delete every other agent in the region",
+        "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
@@ -1589,30 +1589,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     },
     {
-      "story_id": "story_8396ceabf3ca",
-      "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-      "url": "https://www.aibase.com/news/31501",
-      "primary_url": "https://www.aibase.com/news/31501",
+      "story_id": "story_185338d9449e",
+      "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+      "url": "https://www.aibase.com/news/31507",
+      "primary_url": "https://www.aibase.com/news/31507",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
-          "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-          "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
           "title_en": null,
-          "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+          "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31501",
+          "url": "https://www.aibase.com/news/31507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:24:45.611739Z"
+          "published_at": "2026-10-09T11:52:38.928262Z"
         }
       ],
       "source_count": 1,
@@ -1621,18 +1621,18 @@
       ],
       "items": [
         {
-          "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
-          "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-          "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+          "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+          "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+          "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
           "title_en": null,
-          "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+          "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31501",
+          "url": "https://www.aibase.com/news/31507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-09T07:24:45.611739Z"
+          "published_at": "2026-10-09T11:52:38.928262Z"
         }
       ],
       "item_count": 1,
@@ -1653,17 +1653,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:24:45.611739Z",
-      "latest_at": "2026-10-09T07:24:45.611739Z",
+      "earliest_at": "2026-10-09T11:52:38.928262Z",
+      "latest_at": "2026-10-09T11:52:38.928262Z",
       "primary_item": {
-        "id": "2732a880e83b44ed42eb0d4d2857fd5eeebd639a",
-        "title": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
-        "title_zh": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+        "id": "6e016b316c1d5ccf4c97b95d8faed406d7790859",
+        "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+        "title_zh": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
         "title_en": null,
-        "title_original": "一网打尽全家AI需求?微软或允许Microsoft365家庭成员共用Copilot额度",
+        "title_original": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31501",
+        "url": "https://www.aibase.com/news/31507",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1671,7 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-09T07:25:36.017740Z"
+        "scored_at": "2026-10-09T11:53:30.036746Z"
       }
     }
   ]
