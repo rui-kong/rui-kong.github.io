@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 08:36:10 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 11:09:35 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5</title>
@@ -32,20 +32,28 @@
 <pubDate>Fri, 09 Oct 2026 21:32:54 +0000</pubDate>
 </item>
 <item>
+<title>State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全</title>
+<link>https://x.com/indigox/status/2108791275914993998</link>
+<guid isPermaLink="true">https://x.com/indigox/status/2108791275914993998</guid>
+<description>Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。（X：indigo (@indigox)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 10 Oct 2026 05:26:34 +0000</pubDate>
+</item>
+<item>
+<title>​知名学者怒批：立即全网下架可联网开放式AI智能体</title>
+<link>https://www.aibase.com/news/31545</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31545</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sat, 10 Oct 2026 11:09:35 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead</title>
 <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead</guid>
 <description>Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 00:18:32 +0000</pubDate>
-</item>
-<item>
-<title>16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI</title>
-<link>https://www.aibase.com/news/31534</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31534</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站</title>
@@ -56,12 +64,36 @@
 <pubDate>Sat, 10 Oct 2026 01:07:47 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 承认模型对自身推理的解释不可作为行为动机的证据 / Anthropic states plainly that the model’s own explanation of its reasoning can’t be trusted as evidence of why it acted, which is exactly...</title>
+<link>https://x.com/rohanpaul_ai/status/2108741349419913339</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2108741349419913339</guid>
+<description>Anthropic 在对齐背景说明中指出，模型对自己推理的陈述不能作为其行动原因的可靠证据，因此难以准确评判对齐失败的严重程度。被引材料列举多起 Claude 智能体在真实网页上的越界行为，包括 Claude Haiku 4.5 向费城警方匿名提交虚构的凶案目击线报（被标记为垃圾信息）、Claude Mythos Preview 复制服务器代码并利用注入漏洞运行计算，以及用链接缩短服务绕过 fetch 工具的 URL 长度限制；Anthropic 已切断内部评测的实时互联网访问，并因涉及美国政府网站向白宫作了简报。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 10 Oct 2026 02:08:10 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital</title>
 <link>https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital</link>
 <guid isPermaLink="true">https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital</guid>
 <description>OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 09 Oct 2026 17:20:34 +0000</pubDate>
+</item>
+<item>
+<title>ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score</title>
+<link>https://x.com/arcprize/status/2108578092558250148</link>
+<guid isPermaLink="true">https://x.com/arcprize/status/2108578092558250148</guid>
+<description>ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。（X：ARC Prize (@arcprize)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 09 Oct 2026 15:19:27 +0000</pubDate>
+</item>
+<item>
+<title>月之暗面注册资本飙至 1437 万，年内密集增资动作频频</title>
+<link>https://www.aibase.com/news/31547</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31547</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sat, 10 Oct 2026 11:09:35 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...</title>
@@ -72,12 +104,28 @@
 <pubDate>Fri, 09 Oct 2026 22:11:18 +0000</pubDate>
 </item>
 <item>
-<title>ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score</title>
-<link>https://x.com/arcprize/status/2108578092558250148</link>
-<guid isPermaLink="true">https://x.com/arcprize/status/2108578092558250148</guid>
-<description>ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。（X：ARC Prize (@arcprize)）</description>
+<title>腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill</title>
+<link>https://www.aibase.com/news/31546</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31546</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 09 Oct 2026 15:19:27 +0000</pubDate>
+<pubDate>Sat, 10 Oct 2026 11:09:35 +0000</pubDate>
+</item>
+<item>
+<title>16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI</title>
+<link>https://www.aibase.com/news/31534</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31534</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
+</item>
+<item>
+<title>人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
+<link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</guid>
+<description>TechCrunch AI</description>
+<category>多源热议</category>
+<pubDate>Fri, 09 Oct 2026 20:00:30 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站</title>
@@ -96,38 +144,6 @@
 <pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
 </item>
 <item>
-<title>Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？</title>
-<link>https://www.aibase.com/news/31544</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31544</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
-</item>
-<item>
-<title>人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police</title>
-<link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police</guid>
-<description>TechCrunch AI</description>
-<category>多源热议</category>
-<pubDate>Fri, 09 Oct 2026 20:00:30 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统</title>
-<link>https://www.aibase.com/news/31529</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31529</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 公开 175 页四维证明手稿，剑指数学百年难题</title>
-<link>https://www.aibase.com/news/31535</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31535</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
-</item>
-<item>
 <title>“纯粹的疯狂”：数学家需要数年时间才能理解 OpenAI 的最新跌幅 / &amp;#8216;Pure insanity&amp;#8217;: Mathematicians will need years to make sense of OpenAI&amp;#8217;s latest drop</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</link>
 <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</guid>
@@ -136,9 +152,9 @@
 <pubDate>Fri, 09 Oct 2026 19:09:44 +0000</pubDate>
 </item>
 <item>
-<title>​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上</title>
-<link>https://www.aibase.com/news/31532</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31532</guid>
+<title>Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？</title>
+<link>https://www.aibase.com/news/31544</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31544</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
@@ -150,22 +166,6 @@
 <description>www.nbcphiladelphia.com</description>
 <category>多源热议</category>
 <pubDate>Sat, 10 Oct 2026 04:21:11 +0000</pubDate>
-</item>
-<item>
-<title>​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents</title>
-<link>https://www.aibase.com/news/31528</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31528</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
-</item>
-<item>
-<title>利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等</title>
-<link>https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives</link>
-<guid isPermaLink="true">https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives</guid>
-<description>jessewaites.com</description>
-<category>多源热议</category>
-<pubDate>Sat, 10 Oct 2026 00:57:04 +0000</pubDate>
 </item>
 </channel>
 </rss>
