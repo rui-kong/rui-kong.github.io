@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:18:37.539291Z",
+  "generated_at": "2026-10-10T08:36:10.344429Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9529,
+        "recency": 0.8702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8535,
+        "recency": 0.7794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
-      }
-    },
-    {
-      "story_id": "story_2f680ee554bc",
-      "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "primary_url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_zh": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍",
-          "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_zh": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍",
-          "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7567,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-        "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "title_zh": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍",
-        "title_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "title_original": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/asana-browser-agent",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -297,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9335,
+        "recency": 0.8525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -380,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +331,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
+      }
+    },
+    {
+      "story_id": "story_0606d9e9d5dc",
+      "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+      "url": "https://www.aibase.com/news/31534",
+      "primary_url": "https://www.aibase.com/news/31534",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "title_zh": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "title_en": null,
+          "title_original": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31534",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:36:10.344429Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "title_zh": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "title_en": null,
+          "title_original": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31534",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:36:10.344429Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T08:36:10.344429Z",
+      "latest_at": "2026-10-10T08:36:10.344429Z",
+      "primary_item": {
+        "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+        "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+        "title_zh": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+        "title_en": null,
+        "title_original": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31534",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -462,15 +461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9831,
+        "recency": 0.8977,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,90 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
-      }
-    },
-    {
-      "story_id": "story_a9ec40ee13cc",
-      "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "primary_url": "https://openai.com/index/sophos",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
-          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
-          "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7567,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-        "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "title_zh": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96%",
-        "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "title_original": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/sophos",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -627,15 +543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,7 +577,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -709,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.8604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,89 +659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
-      }
-    },
-    {
-      "story_id": "story_87e6ce55e051",
-      "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-      "url": "https://www.aibase.com/news/31519",
-      "primary_url": "https://www.aibase.com/news/31519",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "title_en": null,
-          "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31519",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "title_en": null,
-          "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31519",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T02:18:37.539291Z",
-      "latest_at": "2026-10-10T02:18:37.539291Z",
-      "primary_item": {
-        "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-        "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-        "title_zh": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-        "title_en": null,
-        "title_original": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31519",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -873,21 +707,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.7792,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-09T15:19:27Z",
       "latest_at": "2026-10-09T15:19:27Z",
@@ -907,30 +740,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
-      "story_id": "story_2a6b995c4a3c",
-      "title": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
-      "url": "https://www.aibase.com/news/31518",
-      "primary_url": "https://www.aibase.com/news/31518",
+      "story_id": "story_4e88a49738fe",
+      "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
+      "url": "https://www.aibase.com/news/31525",
+      "primary_url": "https://www.aibase.com/news/31525",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3fbb6ad13f030699e2e60badafc6e3f2aa53c5f3",
-          "title": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
-          "title_zh": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+          "id": "f36e9bf68dc7f97be7c9efe59d13a75c4dcfcddd",
+          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
+          "title_zh": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
           "title_en": null,
-          "title_original": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+          "title_original": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31518",
+          "url": "https://www.aibase.com/news/31525",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "source_count": 1,
@@ -939,18 +772,18 @@
       ],
       "items": [
         {
-          "id": "3fbb6ad13f030699e2e60badafc6e3f2aa53c5f3",
-          "title": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
-          "title_zh": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+          "id": "f36e9bf68dc7f97be7c9efe59d13a75c4dcfcddd",
+          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
+          "title_zh": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
           "title_en": null,
-          "title_original": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+          "title_original": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31518",
+          "url": "https://www.aibase.com/news/31525",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "item_count": 1,
@@ -971,17 +804,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:18:37.539291Z",
-      "latest_at": "2026-10-10T02:18:37.539291Z",
+      "earliest_at": "2026-10-10T08:36:10.344429Z",
+      "latest_at": "2026-10-10T08:36:10.344429Z",
       "primary_item": {
-        "id": "3fbb6ad13f030699e2e60badafc6e3f2aa53c5f3",
-        "title": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
-        "title_zh": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+        "id": "f36e9bf68dc7f97be7c9efe59d13a75c4dcfcddd",
+        "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
+        "title_zh": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
         "title_en": null,
-        "title_original": "OpenAI研究负责人回应解雇三名员工争议并全面澄清原因",
+        "title_original": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯入多个美国政府网站",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31518",
+        "url": "https://www.aibase.com/news/31525",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -989,192 +822,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
-      "story_id": "story_b275bb44c6cf",
-      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-      "url": "https://sierra.ai/blog/poppy",
-      "primary_url": "https://sierra.ai/blog/poppy",
-      "source": "Sierra：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-          "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "title_en": "Sharing a draft of Personal Agent Protocol",
-          "title_original": "Sharing a draft of Personal Agent Protocol",
-          "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Sierra：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-          "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "title_en": "Sharing a draft of Personal Agent Protocol",
-          "title_original": "Sharing a draft of Personal Agent Protocol",
-          "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-          "recommend_reason_zh": null,
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.912,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T19:56:06Z",
-      "latest_at": "2026-10-09T19:56:06Z",
-      "primary_item": {
-        "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴 / Sharing a draft of Personal Agent Protocol",
-        "title_zh": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-        "title_en": "Sharing a draft of Personal Agent Protocol",
-        "title_original": "Sharing a draft of Personal Agent Protocol",
-        "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-        "recommend_reason_zh": null,
-        "url": "https://sierra.ai/blog/poppy",
-        "source": "Sierra：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
-      }
-    },
-    {
-      "story_id": "story_d2d36c081b84",
-      "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities",
-      "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "primary_url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "source": "Redwood Research：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "title_zh": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "title_en": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "title_original": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "summary": "Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Redwood Research：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "title_zh": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "title_en": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "title_original": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-          "summary": "Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。",
-          "recommend_reason_zh": null,
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9412,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T22:06:51Z",
-      "latest_at": "2026-10-09T22:06:51Z",
-      "primary_item": {
-        "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-        "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC） / [Paper] Distillation for Incrimination and Distillation for Capabilities",
-        "title_zh": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-        "title_en": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-        "title_original": "[Paper] Distillation for Incrimination and Distillation for Capabilities",
-        "summary": "Redwood Research 发布论文，实证检验两条蒸馏安全路径：DFI 将不信任教师蒸馏为更弱的可信学生，使其暴露教师的隐藏怪癖；DFC 则在迁移能力的同时阻断失对齐。",
-        "recommend_reason_zh": null,
-        "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-        "source": "Redwood Research：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
-      }
-    },
-    {
-      "story_id": "story_921efb186f8d",
-      "title": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
-      "url": "https://www.aibase.com/news/31514",
-      "primary_url": "https://www.aibase.com/news/31514",
+      "story_id": "story_5af832d4a5f1",
+      "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+      "url": "https://www.aibase.com/news/31531",
+      "primary_url": "https://www.aibase.com/news/31531",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d26ea10b723734fec5c537d8f82fdfa1ca3d3c21",
-          "title": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
-          "title_zh": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+          "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
+          "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "title_zh": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
           "title_en": null,
-          "title_original": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+          "title_original": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31514",
+          "url": "https://www.aibase.com/news/31531",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "source_count": 1,
@@ -1183,18 +854,18 @@
       ],
       "items": [
         {
-          "id": "d26ea10b723734fec5c537d8f82fdfa1ca3d3c21",
-          "title": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
-          "title_zh": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+          "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
+          "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+          "title_zh": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
           "title_en": null,
-          "title_original": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+          "title_original": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31514",
+          "url": "https://www.aibase.com/news/31531",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "item_count": 1,
@@ -1215,17 +886,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:18:37.539291Z",
-      "latest_at": "2026-10-10T02:18:37.539291Z",
+      "earliest_at": "2026-10-10T08:36:10.344429Z",
+      "latest_at": "2026-10-10T08:36:10.344429Z",
       "primary_item": {
-        "id": "d26ea10b723734fec5c537d8f82fdfa1ca3d3c21",
-        "title": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
-        "title_zh": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+        "id": "5e0bb1110da0e76362771a7ad7c9cdbf248779f0",
+        "title": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
+        "title_zh": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
         "title_en": null,
-        "title_original": "TypeSafe AI完成8.7亿美元 A 轮融资:非文本模型Jev估值达75亿美元",
+        "title_original": "Cloudflare 发布开放权重决策模型 Clef-omni，新增支持音视频多模态输入",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31514",
+        "url": "https://www.aibase.com/news/31531",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1233,30 +904,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
-      "story_id": "story_abd0bd616f6a",
-      "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
-      "url": "https://www.aibase.com/news/31520",
-      "primary_url": "https://www.aibase.com/news/31520",
+      "story_id": "story_6777faf99e74",
+      "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+      "url": "https://www.aibase.com/news/31544",
+      "primary_url": "https://www.aibase.com/news/31544",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
-          "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
-          "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "title_zh": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
           "title_en": null,
-          "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "title_original": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31520",
+          "url": "https://www.aibase.com/news/31544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "source_count": 1,
@@ -1265,18 +936,18 @@
       ],
       "items": [
         {
-          "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
-          "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
-          "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "title_zh": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
           "title_en": null,
-          "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+          "title_original": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31520",
+          "url": "https://www.aibase.com/news/31544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "item_count": 1,
@@ -1297,17 +968,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:18:37.539291Z",
-      "latest_at": "2026-10-10T02:18:37.539291Z",
+      "earliest_at": "2026-10-10T08:36:10.344429Z",
+      "latest_at": "2026-10-10T08:36:10.344429Z",
       "primary_item": {
-        "id": "a081f6fdb767245ad987583a38494f0a14cc94a9",
-        "title": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
-        "title_zh": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+        "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+        "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+        "title_zh": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
         "title_en": null,
-        "title_original": "估值1. 4 万亿美元！OpenAI 年化收入飙至 500 亿美元并寻求巨额新融资",
+        "title_original": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31520",
+        "url": "https://www.aibase.com/news/31544",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1315,7 +986,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -1421,15 +1092,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6697,
-      "importance": 0.6697,
-      "importance_score": 0.6697,
+      "score": 0.6555,
+      "importance": 0.6555,
+      "importance_score": 0.6555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9078,
+        "recency": 0.829,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1454,30 +1125,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
-      "story_id": "story_4f6eec857b1d",
-      "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-      "url": "https://www.aibase.com/news/31515",
-      "primary_url": "https://www.aibase.com/news/31515",
+      "story_id": "story_12505aa3805b",
+      "title": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+      "url": "https://www.aibase.com/news/31529",
+      "primary_url": "https://www.aibase.com/news/31529",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "title_zh": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
+          "id": "bdb4766607e2b3fe1cffcbd448db1f0455a04a21",
+          "title": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+          "title_zh": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
           "title_en": null,
-          "title_original": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
+          "title_original": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31515",
+          "url": "https://www.aibase.com/news/31529",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "source_count": 1,
@@ -1486,18 +1157,18 @@
       ],
       "items": [
         {
-          "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "title_zh": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
+          "id": "bdb4766607e2b3fe1cffcbd448db1f0455a04a21",
+          "title": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+          "title_zh": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
           "title_en": null,
-          "title_original": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
+          "title_original": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31515",
+          "url": "https://www.aibase.com/news/31529",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "item_count": 1,
@@ -1518,17 +1189,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:18:37.539291Z",
-      "latest_at": "2026-10-10T02:18:37.539291Z",
+      "earliest_at": "2026-10-10T08:36:10.344429Z",
+      "latest_at": "2026-10-10T08:36:10.344429Z",
       "primary_item": {
-        "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-        "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-        "title_zh": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
+        "id": "bdb4766607e2b3fe1cffcbd448db1f0455a04a21",
+        "title": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
+        "title_zh": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
         "title_en": null,
-        "title_original": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
+        "title_original": "OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31515",
+        "url": "https://www.aibase.com/news/31529",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1536,30 +1207,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
-      "story_id": "story_d9bd52b4ac92",
-      "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-      "url": "https://www.aibase.com/news/31523",
-      "primary_url": "https://www.aibase.com/news/31523",
+      "story_id": "story_566ccf2baed4",
+      "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+      "url": "https://www.aibase.com/news/31535",
+      "primary_url": "https://www.aibase.com/news/31535",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-          "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-          "title_zh": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
+          "id": "1f1003b00d6e28940580791bb955712555446999",
+          "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+          "title_zh": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
           "title_en": null,
-          "title_original": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
+          "title_original": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31523",
+          "url": "https://www.aibase.com/news/31535",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "source_count": 1,
@@ -1568,18 +1239,18 @@
       ],
       "items": [
         {
-          "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-          "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-          "title_zh": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
+          "id": "1f1003b00d6e28940580791bb955712555446999",
+          "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+          "title_zh": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
           "title_en": null,
-          "title_original": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
+          "title_original": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31523",
+          "url": "https://www.aibase.com/news/31535",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:18:37.539291Z"
+          "published_at": "2026-10-10T08:36:10.344429Z"
         }
       ],
       "item_count": 1,
@@ -1600,17 +1271,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:18:37.539291Z",
-      "latest_at": "2026-10-10T02:18:37.539291Z",
+      "earliest_at": "2026-10-10T08:36:10.344429Z",
+      "latest_at": "2026-10-10T08:36:10.344429Z",
       "primary_item": {
-        "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-        "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-        "title_zh": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
+        "id": "1f1003b00d6e28940580791bb955712555446999",
+        "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+        "title_zh": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
         "title_en": null,
-        "title_original": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
+        "title_original": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31523",
+        "url": "https://www.aibase.com/news/31535",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1618,7 +1289,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     },
     {
@@ -1694,15 +1365,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6103,
-      "importance": 0.6103,
-      "importance_score": 0.6103,
+      "score": 0.5962,
+      "importance": 0.5962,
+      "importance_score": 0.5962,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9019,
+        "recency": 0.8236,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1727,7 +1398,478 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T02:19:45.469861Z"
+        "scored_at": "2026-10-10T08:37:10.184370Z"
+      }
+    },
+    {
+      "story_id": "story_c8f4d218fce1",
+      "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+      "url": "https://www.aibase.com/news/31532",
+      "primary_url": "https://www.aibase.com/news/31532",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "title_zh": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "title_en": null,
+          "title_original": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:36:10.344429Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "title_zh": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "title_en": null,
+          "title_original": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:36:10.344429Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T08:36:10.344429Z",
+      "latest_at": "2026-10-10T08:36:10.344429Z",
+      "primary_item": {
+        "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+        "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+        "title_zh": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+        "title_en": null,
+        "title_original": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31532",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T08:37:10.184370Z"
+      }
+    },
+    {
+      "story_id": "story_8befa4d30a56",
+      "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+      "primary_url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+      "source": "www.nbcphiladelphia.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "174ce5dcfd7a2b84dd89901e6861dea0ad18646b",
+          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "title_en": null,
+          "title_original": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+          "source": "www.nbcphiladelphia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T04:21:11.278000Z"
+        },
+        {
+          "id": "048271a04989d72c0709203c5bcc2ad38232efa6",
+          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder",
+          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T22:00:35Z"
+        },
+        {
+          "id": "6c0e698f103d7243fdc0283fa5e2982f8921dfbb",
+          "title": "Anthropic人工智能模型对未解决的费城谋杀案提交了虚假提示 / Anthropic AI model submits false tip on unsolved Philly murder",
+          "title_zh": "Anthropic人工智能模型对未解决的费城谋杀案提交了虚假提示",
+          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50027118",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T22:00:35Z"
+        },
+        {
+          "id": "5132ecf49d97cbf2f39169d2c15c1efcd06d20d2",
+          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder, police say",
+          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T22:00:35Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.nbcphiladelphia.com"
+      ],
+      "items": [
+        {
+          "id": "174ce5dcfd7a2b84dd89901e6861dea0ad18646b",
+          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "title_en": null,
+          "title_original": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+          "source": "www.nbcphiladelphia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T04:21:11.278000Z"
+        },
+        {
+          "id": "048271a04989d72c0709203c5bcc2ad38232efa6",
+          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder",
+          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T22:00:35Z"
+        },
+        {
+          "id": "6c0e698f103d7243fdc0283fa5e2982f8921dfbb",
+          "title": "Anthropic人工智能模型对未解决的费城谋杀案提交了虚假提示 / Anthropic AI model submits false tip on unsolved Philly murder",
+          "title_zh": "Anthropic人工智能模型对未解决的费城谋杀案提交了虚假提示",
+          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50027118",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T22:00:35Z"
+        },
+        {
+          "id": "5132ecf49d97cbf2f39169d2c15c1efcd06d20d2",
+          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder, police say",
+          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T22:00:35Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5851,
+      "importance": 0.5851,
+      "importance_score": 0.5851,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9405,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T22:00:35Z",
+      "latest_at": "2026-10-10T04:21:11.278000Z",
+      "primary_item": {
+        "id": "174ce5dcfd7a2b84dd89901e6861dea0ad18646b",
+        "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+        "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+        "title_en": null,
+        "title_original": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
+        "source": "www.nbcphiladelphia.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T08:37:10.184370Z"
+      }
+    },
+    {
+      "story_id": "story_2661413971dc",
+      "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+      "url": "https://www.aibase.com/news/31528",
+      "primary_url": "https://www.aibase.com/news/31528",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "title_zh": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "title_en": null,
+          "title_original": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31528",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:36:10.344429Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "title_zh": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "title_en": null,
+          "title_original": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31528",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:36:10.344429Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T08:36:10.344429Z",
+      "latest_at": "2026-10-10T08:36:10.344429Z",
+      "primary_item": {
+        "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+        "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+        "title_zh": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+        "title_en": null,
+        "title_original": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31528",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T08:37:10.184370Z"
+      }
+    },
+    {
+      "story_id": "story_f550721a0ec6",
+      "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "primary_url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "source": "jessewaites.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d6681e01eb2d13b826683a74742e39009803df66",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": null,
+          "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "jessewaites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T00:57:04.875000Z"
+        },
+        {
+          "id": "403f5bc28c305f64ffa3265deacc977e7c91951f",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "def4c936ab20ef89d1021214702a19c56ed19044",
+          "title": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "jessewaites.com"
+      ],
+      "items": [
+        {
+          "id": "d6681e01eb2d13b826683a74742e39009803df66",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": null,
+          "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "jessewaites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T00:57:04.875000Z"
+        },
+        {
+          "id": "403f5bc28c305f64ffa3265deacc977e7c91951f",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "def4c936ab20ef89d1021214702a19c56ed19044",
+          "title": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_zh": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等",
+          "title_en": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "title_original": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.552,
+      "importance": 0.552,
+      "importance_score": 0.552,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8954,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T11:36:20Z",
+      "latest_at": "2026-10-10T00:57:04.875000Z",
+      "primary_item": {
+        "id": "d6681e01eb2d13b826683a74742e39009803df66",
+        "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "title_zh": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "title_en": null,
+        "title_original": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+        "source": "jessewaites.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T08:37:10.184370Z"
       }
     }
   ]
