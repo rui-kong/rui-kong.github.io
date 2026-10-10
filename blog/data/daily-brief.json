@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T11:09:35.231924Z",
+  "generated_at": "2026-10-10T16:13:44.836940Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8386,
+        "recency": 0.7794,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +83,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
-      "story_id": "story_d37a736244a0",
-      "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "primary_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7a88a2b16fe9",
+      "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+      "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
+      "primary_url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
-          "title_zh": "GPU 集群的有效调度",
-          "title_en": "Impactful scheduling for GPU clusters",
-          "title_original": "Impactful scheduling for GPU clusters",
-          "summary": null,
+          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
+          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+          "title_zh": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
+          "title_en": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+          "title_original": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+          "summary": "OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z"
+          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:03:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
-          "title_zh": "GPU 集群的有效调度",
-          "title_en": "Impactful scheduling for GPU clusters",
-          "title_original": "Impactful scheduling for GPU clusters",
-          "summary": null,
+          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
+          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+          "title_zh": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
+          "title_en": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+          "title_original": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+          "summary": "OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。",
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z"
+          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:03:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
-      "importance_label": "官方更新",
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7511,
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T15:20:29Z",
-      "latest_at": "2026-10-09T15:20:29Z",
+      "earliest_at": "2026-10-10T13:03:59Z",
+      "latest_at": "2026-10-10T13:03:59Z",
       "primary_item": {
-        "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-        "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
-        "title_zh": "GPU 集群的有效调度",
-        "title_en": "Impactful scheduling for GPU clusters",
-        "title_original": "Impactful scheduling for GPU clusters",
-        "summary": null,
+        "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
+        "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+        "title_zh": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
+        "title_en": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+        "title_original": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+        "summary": "OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。",
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
+      }
+    },
+    {
+      "story_id": "story_62ce5c6fb1e6",
+      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+      "url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_en": null,
+          "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Saito 硬地骇客 (@SaitoWu)"
+      ],
+      "items": [
+        {
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "title_en": null,
+          "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9674,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T13:56:02Z",
+      "latest_at": "2026-10-10T13:56:02Z",
+      "primary_item": {
+        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "title_zh": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "title_en": null,
+        "title_original": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/SaitoWu/status/2108919486581796872",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -214,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8216,
+        "recency": 0.7636,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +330,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -297,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,7 +412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -379,15 +460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -413,7 +494,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -461,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.855,
+        "recency": 0.7946,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -495,7 +576,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -543,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.8041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -577,7 +658,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -625,21 +706,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8778,
+        "recency": 0.8159,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T02:08:10Z",
       "latest_at": "2026-10-10T02:08:10Z",
@@ -659,170 +739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
-      }
-    },
-    {
-      "story_id": "story_306d3bc958d7",
-      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-      "primary_url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-          "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T17:20:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-          "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T17:20:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7731,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T17:20:34Z",
-      "latest_at": "2026-10-09T17:20:34Z",
-      "primary_item": {
-        "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-        "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-        "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-        "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-        "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-        "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
-      }
-    },
-    {
-      "story_id": "story_465be7f1f5cf",
-      "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
-      "url": "https://x.com/arcprize/status/2108578092558250148",
-      "primary_url": "https://x.com/arcprize/status/2108578092558250148",
-      "source": "X：ARC Prize (@arcprize)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-          "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arcprize/status/2108578092558250148",
-          "source": "X：ARC Prize (@arcprize)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T15:19:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：ARC Prize (@arcprize)"
-      ],
-      "items": [
-        {
-          "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-          "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-          "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-          "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arcprize/status/2108578092558250148",
-          "source": "X：ARC Prize (@arcprize)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T15:19:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7509,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T15:19:27Z",
-      "latest_at": "2026-10-09T15:19:27Z",
-      "primary_item": {
-        "id": "38851d20485286ffb8bf29ad7e7d5c2f1d0ebbf8",
-        "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜 / New ARC Prize 2026 - ARC-AGI-2 High Score",
-        "title_zh": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
-        "title_en": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-        "title_original": "New ARC Prize 2026 - ARC-AGI-2 High Score",
-        "summary": "ARC Prize 公布 2026 赛季 ARC-AGI-2 高分榜，TUFA Labs 以 88.06% 排名第一。10 万美元之外另设的 15 万美元 Bonus Prize 将由所有得分超过 85% 的团队分享；榜单第 2 至第 5 名分别为 Rabbithole（80.56%）、Yi-Chia Chen（77.22%）、Nubanana（77.08%）和 _hans（67.64%）。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arcprize/status/2108578092558250148",
-        "source": "X：ARC Prize (@arcprize)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -870,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -904,7 +821,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
+      }
+    },
+    {
+      "story_id": "story_306d3bc958d7",
+      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+      "primary_url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+          "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T17:20:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+          "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T17:20:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7186,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T17:20:34Z",
+      "latest_at": "2026-10-09T17:20:34Z",
+      "primary_item": {
+        "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
+        "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "title_zh": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+        "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "title_original": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -952,15 +950,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -985,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -1033,15 +1031,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1067,7 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -1115,21 +1113,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T08:36:10.344429Z",
       "latest_at": "2026-10-10T08:36:10.344429Z",
@@ -1149,7 +1146,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
+      }
+    },
+    {
+      "story_id": "story_379a3dd02d42",
+      "title": "据报道，谷歌的 Gemini 4“Carbon”模型与 Anthropic 的 Opus 5.5 编码性能相匹配 / Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+      "primary_url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "3d3f8c208c5fa715f8649f2a8e2385548981c2fa",
+          "title": "据报道，谷歌的 Gemini 4“Carbon”模型与 Anthropic 的 Opus 5.5 编码性能相匹配 / Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+          "title_zh": "据报道，谷歌的 Gemini 4“Carbon”模型与 Anthropic 的 Opus 5.5 编码性能相匹配",
+          "title_en": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+          "title_original": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-10T08:59:49Z"
+        },
+        {
+          "id": "0a69829c048aca9ea6a3cddf66b2e24afd1e8683",
+          "title": "据报道，谷歌的 Gemini 4“Carbon”模型感觉就像 Anthropic 的 Opus 5.5 编码性能 / Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+          "title_zh": "据报道，谷歌的 Gemini 4“Carbon”模型感觉就像 Anthropic 的 Opus 5.5 编码性能",
+          "title_en": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+          "title_original": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-10T08:59:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News"
+      ],
+      "items": [
+        {
+          "id": "3d3f8c208c5fa715f8649f2a8e2385548981c2fa",
+          "title": "据报道，谷歌的 Gemini 4“Carbon”模型与 Anthropic 的 Opus 5.5 编码性能相匹配 / Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+          "title_zh": "据报道，谷歌的 Gemini 4“Carbon”模型与 Anthropic 的 Opus 5.5 编码性能相匹配",
+          "title_en": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+          "title_original": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-10T08:59:49Z"
+        },
+        {
+          "id": "0a69829c048aca9ea6a3cddf66b2e24afd1e8683",
+          "title": "据报道，谷歌的 Gemini 4“Carbon”模型感觉就像 Anthropic 的 Opus 5.5 编码性能 / Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+          "title_zh": "据报道，谷歌的 Gemini 4“Carbon”模型感觉就像 Anthropic 的 Opus 5.5 编码性能",
+          "title_en": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+          "title_original": "Google's Gemini 4 \"Carbon\" model reportedly feels like Anthropic's Opus 5.5 coding performance",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-10T08:59:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.9008,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-10T08:59:49Z",
+      "latest_at": "2026-10-10T08:59:49Z",
+      "primary_item": {
+        "id": "3d3f8c208c5fa715f8649f2a8e2385548981c2fa",
+        "title": "据报道，谷歌的 Gemini 4“Carbon”模型与 Anthropic 的 Opus 5.5 编码性能相匹配 / Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+        "title_zh": "据报道，谷歌的 Gemini 4“Carbon”模型与 Anthropic 的 Opus 5.5 编码性能相匹配",
+        "title_en": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+        "title_original": "Google's Gemini 4 \"Carbon\" model is reportedly matching Anthropic's Opus 5.5 coding performance",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
+        "source": "The Decoder AI News",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -1255,15 +1362,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.65,
-      "importance": 0.65,
-      "importance_score": 0.65,
+      "score": 0.6399,
+      "importance": 0.6399,
+      "importance_score": 0.6399,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7989,
+        "recency": 0.7425,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1288,7 +1395,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -1336,21 +1443,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T08:36:10.344429Z",
       "latest_at": "2026-10-10T08:36:10.344429Z",
@@ -1370,7 +1476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -1418,21 +1524,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T08:36:10.344429Z",
       "latest_at": "2026-10-10T08:36:10.344429Z",
@@ -1452,7 +1557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -1528,15 +1633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5908,
-      "importance": 0.5908,
-      "importance_score": 0.5908,
+      "score": 0.5807,
+      "importance": 0.5807,
+      "importance_score": 0.5807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7937,
+        "recency": 0.7377,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,7 +1666,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     },
     {
@@ -1609,21 +1714,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T08:36:10.344429Z",
       "latest_at": "2026-10-10T08:36:10.344429Z",
@@ -1643,175 +1747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
-      }
-    },
-    {
-      "story_id": "story_8befa4d30a56",
-      "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-      "primary_url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-      "source": "www.nbcphiladelphia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "174ce5dcfd7a2b84dd89901e6861dea0ad18646b",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": null,
-          "title_original": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "www.nbcphiladelphia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T04:21:11.278000Z"
-        },
-        {
-          "id": "048271a04989d72c0709203c5bcc2ad38232efa6",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-09T22:00:35Z"
-        },
-        {
-          "id": "6c0e698f103d7243fdc0283fa5e2982f8921dfbb",
-          "title": "Anthropic人工智能模型对未解决的费城谋杀案提交了虚假提示 / Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_zh": "Anthropic人工智能模型对未解决的费城谋杀案提交了虚假提示",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50027118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-09T22:00:35Z"
-        },
-        {
-          "id": "5132ecf49d97cbf2f39169d2c15c1efcd06d20d2",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-09T22:00:35Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.nbcphiladelphia.com"
-      ],
-      "items": [
-        {
-          "id": "174ce5dcfd7a2b84dd89901e6861dea0ad18646b",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": null,
-          "title_original": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "www.nbcphiladelphia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T04:21:11.278000Z"
-        },
-        {
-          "id": "048271a04989d72c0709203c5bcc2ad38232efa6",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-09T22:00:35Z"
-        },
-        {
-          "id": "6c0e698f103d7243fdc0283fa5e2982f8921dfbb",
-          "title": "Anthropic人工智能模型对未解决的费城谋杀案提交了虚假提示 / Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_zh": "Anthropic人工智能模型对未解决的费城谋杀案提交了虚假提示",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50027118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-09T22:00:35Z"
-        },
-        {
-          "id": "5132ecf49d97cbf2f39169d2c15c1efcd06d20d2",
-          "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索 / Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-          "title_en": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "title_original": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-09T22:00:35Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5789,
-      "importance": 0.5789,
-      "importance_score": 0.5789,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9064,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-09T22:00:35Z",
-      "latest_at": "2026-10-10T04:21:11.278000Z",
-      "primary_item": {
-        "id": "174ce5dcfd7a2b84dd89901e6861dea0ad18646b",
-        "title": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-        "title_zh": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-        "title_en": null,
-        "title_original": "Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051",
-        "source": "www.nbcphiladelphia.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-10T11:10:26.167388Z"
+        "scored_at": "2026-10-10T16:14:32.989299Z"
       }
     }
   ]
