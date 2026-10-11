@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 10 Oct 2026 20:34:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 00:15:17 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>New controls and chat improvements in Copilot for JetBrains</title>
+<title>Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains</title>
 <link>https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Sat, 10 Oct 2026 18:53:39 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境 / When the Safety Test Became the Threat: The Machine That Found Its Own Way Out</title>
+<link>https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out</link>
+<guid isPermaLink="true">https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out</guid>
+<description>文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。（MarkTechPost（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 10 Oct 2026 21:30:36 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / "How much beauty have we lost?" Mathematicians react with shock and disgust as OpenAI bulldozes their field</title>
@@ -22,14 +30,6 @@
 <description>OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 13:03:59 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5</title>
-<link>https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 09 Oct 2026 22:58:23 +0000</pubDate>
 </item>
 <item>
 <title>MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了</title>
@@ -80,28 +80,12 @@
 <pubDate>Sat, 10 Oct 2026 02:08:10 +0000</pubDate>
 </item>
 <item>
-<title>CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis</title>
-<link>https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 09 Oct 2026 21:32:54 +0000</pubDate>
-</item>
-<item>
 <title>月之暗面注册资本飙至 1437 万，年内密集增资动作频频</title>
 <link>https://www.aibase.com/news/31547</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31547</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Sat, 10 Oct 2026 11:09:35 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索 / Reuters: An Anthropic AI model posed as a possible witness and submitted a fabricated homicide tip to a Philadelphia police website durin...</title>
-<link>https://x.com/rohanpaul_ai/status/2108681738767740983</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2108681738767740983</guid>
-<description>Anthropic 的一个 AI 模型在自动化测试中伪装成目击者，于 7 月 18 日通过 PhillyUnsolvedMurders.com 向费城警方提交虚构凶杀案线索，Anthropic 直到 9 月 28 日才发现，10 月 7 日告知警方，间隔 72 天。费城警方披露其垃圾信息过滤器拦截了该提交，内容未到达实时犯罪中心，也未发现系统被未授权访问或数据泄露。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 09 Oct 2026 22:11:18 +0000</pubDate>
 </item>
 <item>
 <title>腾讯云开源内部自用 TeamAI 工具，支持跨 Agent 共享 Skill</title>
@@ -144,6 +128,14 @@
 <pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
 </item>
 <item>
+<title>英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判</title>
+<link>https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</link>
+<guid isPermaLink="true">https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a</guid>
+<description>www.ft.com</description>
+<category>多源热议</category>
+<pubDate>Sat, 10 Oct 2026 23:49:58 +0000</pubDate>
+</item>
+<item>
 <title>Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？</title>
 <link>https://www.aibase.com/news/31544</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31544</guid>
@@ -152,20 +144,28 @@
 <pubDate>Sat, 10 Oct 2026 08:36:10 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic的人工智能模型就费城一起未破的谋杀案提交了虚假线索</title>
-<link>https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051</link>
-<guid isPermaLink="true">https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051</guid>
-<description>www.nbcphiladelphia.com</description>
-<category>多源热议</category>
-<pubDate>Sat, 10 Oct 2026 04:21:11 +0000</pubDate>
-</item>
-<item>
 <title>Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理</title>
 <link>https://github.com/rociiu/talorys</link>
 <guid isPermaLink="true">https://github.com/rociiu/talorys</guid>
 <description>github.com</description>
 <category>多源热议</category>
 <pubDate>Sat, 10 Oct 2026 14:52:04 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic人工智能模型失控，提交了虚假的悬而未决的谋杀案线索 / Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip</title>
+<link>https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54</link>
+<guid isPermaLink="true">https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54</guid>
+<description>HN Algolia · AI 24h</description>
+<category>值得关注</category>
+<pubDate>Sat, 10 Oct 2026 16:54:02 +0000</pubDate>
+</item>
+<item>
+<title>我的个人人工智能代理在 Slack 公司上发布了我的银行详细信息 / My personal AI agent posted my bank details on company Slack</title>
+<link>https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10</link>
+<guid isPermaLink="true">https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10</guid>
+<description>Hacker News · 24h最热</description>
+<category>值得关注</category>
+<pubDate>Sat, 10 Oct 2026 14:46:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
