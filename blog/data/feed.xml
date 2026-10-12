@@ -5,15 +5,39 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 13:08:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 17:57:19 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase</title>
+<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Mon, 12 Oct 2026 17:43:59 +0000</pubDate>
+</item>
+<item>
+<title>在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview</title>
+<link>https://github.blog/changelog/2026-10-12-push-attribution-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-12-push-attribution-public-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 12 Oct 2026 16:30:11 +0000</pubDate>
+</item>
 <item>
 <title>QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions</title>
 <link>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</link>
 <guid isPermaLink="true">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</guid>
 <description>QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。（Hacker News：AI 热帖）</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 11:22:24 +0000</pubDate>
+<category>多源热议</category>
+<pubDate>Mon, 12 Oct 2026 12:48:18 +0000</pubDate>
+</item>
+<item>
+<title>Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型</title>
+<link>https://research.meta.ai/blog/muse-wonder</link>
+<guid isPermaLink="true">https://research.meta.ai/blog/muse-wonder</guid>
+<description>Meta 发布 Muse Wonder 系列模型，称其在个人与专业智能体任务上达到 SOTA。Muse Wonder 通过 Meta Model API 和 Muse Code 提供，Muse Wonder Full 面向 Muse Code 订阅用户，后续将接入 Muse。（Meta AI：Research Blog（网页））</description>
+<category>多源热议</category>
+<pubDate>Mon, 12 Oct 2026 17:33:59 +0000</pubDate>
 </item>
 <item>
 <title>AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed</title>
@@ -40,6 +64,22 @@
 <pubDate>Mon, 12 Oct 2026 07:44:47 +0000</pubDate>
 </item>
 <item>
+<title>微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署 / Today we are announcing our biggest bet yet on our own silicon.</title>
+<link>https://x.com/satyanadella/status/2109631106404487523</link>
+<guid isPermaLink="true">https://x.com/satyanadella/status/2109631106404487523</guid>
+<description>微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。（X：Satya Nadella (@satyanadella)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 13:03:45 +0000</pubDate>
+</item>
+<item>
+<title>AWS 提出 priming 方法，可将预训练 Transformer 改造成混合状态空间架构 / Can we change an AI model&amp;#8217;s architecture without retraining it from scratch?</title>
+<link>https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch</link>
+<guid isPermaLink="true">https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch</guid>
+<description>AWS 团队发布论文《Priming: Hybrid state space models from pre-trained Transformers》，提出 priming 方法，复用预训练 Transformer 权重构建混合架构，将预训练成本降低逾 99%，全流程消耗不足源模型 0.5% 的 token 预算。（Amazon Science（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 17:36:18 +0000</pubDate>
+</item>
+<item>
 <title>​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游</title>
 <link>https://www.aibase.com/news/31567</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31567</guid>
@@ -60,7 +100,7 @@
 <link>https://x.com/thsottiaux/status/2109430343346581527</link>
 <guid isPermaLink="true">https://x.com/thsottiaux/status/2109430343346581527</guid>
 <description>Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。（X：Tibo (@thsottiaux)）</description>
-<category>行业动态</category>
+<category>值得关注</category>
 <pubDate>Sun, 11 Oct 2026 23:45:59 +0000</pubDate>
 </item>
 <item>
@@ -104,6 +144,14 @@
 <pubDate>Mon, 12 Oct 2026 11:44:08 +0000</pubDate>
 </item>
 <item>
+<title>人工智能编码代理会生成更多代码，但不会生成更多软件 / AI coding agents generate more code, but not more software</title>
+<link>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software</link>
+<guid isPermaLink="true">https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>多源热议</category>
+<pubDate>Mon, 12 Oct 2026 17:14:01 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费</title>
 <link>https://www.aibase.com/news/31560</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31560</guid>
@@ -112,60 +160,12 @@
 <pubDate>Mon, 12 Oct 2026 07:23:06 +0000</pubDate>
 </item>
 <item>
-<title>微软升级 Copilot Notebooks:支持任务委派、Office 文档编辑与交互式报告</title>
-<link>https://www.aibase.com/news/31563</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31563</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 07:23:06 +0000</pubDate>
-</item>
-<item>
-<title>人们对大型语言模型（LLM）能力的共识差距正在扩大</title>
-<link>https://twitter.com/karpathy/status/2109361546505966046</link>
-<guid isPermaLink="true">https://twitter.com/karpathy/status/2109361546505966046</guid>
-<description>twitter.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 12 Oct 2026 00:03:41 +0000</pubDate>
-</item>
-<item>
-<title>通过集体智慧实现递归式自我提升</title>
-<link>https://pub.sakana.ai/mass</link>
-<guid isPermaLink="true">https://pub.sakana.ai/mass</guid>
-<description>pub.sakana.ai</description>
+<title>GLM-Legal：推动代理式法律智能的发展</title>
+<link>https://z.ai/blog/glm-legal</link>
+<guid isPermaLink="true">https://z.ai/blog/glm-legal</guid>
+<description>z.ai</description>
 <category>值得关注</category>
-<pubDate>Mon, 12 Oct 2026 06:58:54 +0000</pubDate>
-</item>
-<item>
-<title>显示 HN：Plimsoll，一个用于 AI 代理编写的代码的自托管沙箱 / Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes</title>
-<link>https://news.ycombinator.com/item?id=50049388</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=50049388</guid>
-<description>hackernews</description>
-<category>值得关注</category>
-<pubDate>Sun, 11 Oct 2026 23:47:59 +0000</pubDate>
-</item>
-<item>
-<title>纸质书里惊现 AI 提示词：《终焉路独行》误把校对指令当正文，全数召回</title>
-<link>https://www.aibase.com/news/31561</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31561</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 07:23:06 +0000</pubDate>
-</item>
-<item>
-<title>腾讯上线「企鹅微单」:AI创作者接单平台，支持需求发布、智能匹配与微信内结算</title>
-<link>https://www.aibase.com/news/31559</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31559</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 07:23:06 +0000</pubDate>
-</item>
-<item>
-<title>赴港 IPO 前夕抛出和解橄榄枝！月之暗面高管与老股东谈判，涉案金额或超 7 亿美元</title>
-<link>https://www.aibase.com/news/31562</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31562</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 07:23:06 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 17:18:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
