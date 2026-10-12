@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 12 Oct 2026 17:57:19 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 22:07:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions</title>
+<link>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</link>
+<guid isPermaLink="true">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</guid>
+<description>QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。（Hacker News：AI 热帖）</description>
+<category>多源热议</category>
+<pubDate>Mon, 12 Oct 2026 12:48:18 +0000</pubDate>
+</item>
 <item>
 <title>适合初学者的 GitHub Copilot 应用程序：如何向 Copilot 教授您的代码库 / GitHub Copilot app for Beginners: How to teach Copilot about your codebase</title>
 <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase</link>
@@ -24,20 +32,36 @@
 <pubDate>Mon, 12 Oct 2026 16:30:11 +0000</pubDate>
 </item>
 <item>
-<title>QGIS 通过 QEP428 禁止 AI 辅助贡献 / QGIS bans AI assisted contributions</title>
-<link>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</link>
-<guid isPermaLink="true">https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387</guid>
-<description>QGIS 通过 QEP428 提案，将 AI 政策改为严格的 NOT ALLOWED，由 nyalldawson 提交并于 2026 年 10 月 7 日合并进 QGIS-Enhancement-Proposals 仓库。（Hacker News：AI 热帖）</description>
+<title>用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程</title>
+<link>https://github.com/openai/codex/issues/48195</link>
+<guid isPermaLink="true">https://github.com/openai/codex/issues/48195</guid>
+<description>一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。（Codex：GitHub Releases（RSS））</description>
 <category>多源热议</category>
-<pubDate>Mon, 12 Oct 2026 12:48:18 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 19:25:54 +0000</pubDate>
+</item>
+<item>
+<title>Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期 / Epic Games reportedly pivoting to "AI first" game development model</title>
+<link>https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration</link>
+<guid isPermaLink="true">https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration</guid>
+<description>据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 20:59:50 +0000</pubDate>
 </item>
 <item>
 <title>Meta 发布 Muse Wonder 与 Muse Wonder Full 智能体模型</title>
 <link>https://research.meta.ai/blog/muse-wonder</link>
 <guid isPermaLink="true">https://research.meta.ai/blog/muse-wonder</guid>
 <description>Meta 发布 Muse Wonder 系列模型，称其在个人与专业智能体任务上达到 SOTA。Muse Wonder 通过 Meta Model API 和 Muse Code 提供，Muse Wonder Full 面向 Muse Code 订阅用户，后续将接入 Muse。（Meta AI：Research Blog（网页））</description>
-<category>多源热议</category>
+<category>行业动态</category>
 <pubDate>Mon, 12 Oct 2026 17:33:59 +0000</pubDate>
+</item>
+<item>
+<title>Meta Muse Wonder 系列上线 Agent Arena，分数即将公布 / Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
+<link>https://x.com/arena/status/2109706854700044523</link>
+<guid isPermaLink="true">https://x.com/arena/status/2109706854700044523</guid>
+<description>Arena 宣布 Meta 的 Muse Wonder 系列模型上线 Agent Arena，用户可实测，分数即将公布。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 18:04:45 +0000</pubDate>
 </item>
 <item>
 <title>AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审 / Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed</title>
@@ -46,6 +70,22 @@
 <description>Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 12 Oct 2026 09:35:54 +0000</pubDate>
+</item>
+<item>
+<title>Meta 发布 Muse Wonder 与 Muse Wonder Full 模型，主打个人与专业智能体能力 / Muse Wonder</title>
+<link>https://research.meta.ai/blog/muse-wonder</link>
+<guid isPermaLink="true">https://research.meta.ai/blog/muse-wonder</guid>
+<description>Meta 发布 Muse Wonder 系列模型，称其在个人与专业智能体任务上达到 SOTA 性能。Muse Wonder 现已通过 Meta Model API 和 Muse Code 提供，Muse Wonder Full 面向 Muse Code 订阅者开放。（Meta AI：Research Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 17:33:59 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 的 Claude 向费城警方误提交虚假凶案线索 / Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
+<link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</guid>
+<description>Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 12 Oct 2026 18:21:36 +0000</pubDate>
 </item>
 <item>
 <title>AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档</title>
@@ -88,14 +128,6 @@
 <pubDate>Mon, 12 Oct 2026 13:08:46 +0000</pubDate>
 </item>
 <item>
-<title>从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势</title>
-<link>https://x.com/Khazix0918/status/2109501787736813663</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2109501787736813663</guid>
-<description>数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。（X：卡兹克 (@Khazix0918)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 04:29:53 +0000</pubDate>
-</item>
-<item>
 <title>GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k</title>
 <link>https://x.com/thsottiaux/status/2109430343346581527</link>
 <guid isPermaLink="true">https://x.com/thsottiaux/status/2109430343346581527</guid>
@@ -134,38 +166,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 12 Oct 2026 13:08:46 +0000</pubDate>
-</item>
-<item>
-<title>研究机构称Anthropic的IPO是“对投资者轻信程度的史无前例的考验”</title>
-<link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
-<guid isPermaLink="true">https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</guid>
-<description>www.cnbc.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 12 Oct 2026 11:44:08 +0000</pubDate>
-</item>
-<item>
-<title>人工智能编码代理会生成更多代码，但不会生成更多软件 / AI coding agents generate more code, but not more software</title>
-<link>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software</link>
-<guid isPermaLink="true">https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>多源热议</category>
-<pubDate>Mon, 12 Oct 2026 17:14:01 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 给 GPT-6.1 Sol 扩容：默认上下文 272k 飙到 500k，长文本还免费</title>
-<link>https://www.aibase.com/news/31560</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31560</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 12 Oct 2026 07:23:06 +0000</pubDate>
-</item>
-<item>
-<title>GLM-Legal：推动代理式法律智能的发展</title>
-<link>https://z.ai/blog/glm-legal</link>
-<guid isPermaLink="true">https://z.ai/blog/glm-legal</guid>
-<description>z.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 12 Oct 2026 17:18:16 +0000</pubDate>
 </item>
 </channel>
 </rss>
