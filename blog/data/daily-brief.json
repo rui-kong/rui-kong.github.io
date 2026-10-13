@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:38:07.658230Z",
+  "generated_at": "2026-10-13T03:31:34.846538Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -191,15 +191,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8377,
+        "recency": 0.7919,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -226,7 +226,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
+      }
+    },
+    {
+      "story_id": "story_028d06be8228",
+      "title": "Client telemetry user attribution and configurable capture",
+      "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "primary_url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "Client telemetry user attribution and configurable capture",
+          "title_zh": null,
+          "title_en": "Client telemetry user attribution and configurable capture",
+          "title_original": "Client telemetry user attribution and configurable capture",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T22:38:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "896121d98ef8227ad431f910e0a960594c422738",
+          "title": "Client telemetry user attribution and configurable capture",
+          "title_zh": null,
+          "title_en": "Client telemetry user attribution and configurable capture",
+          "title_original": "Client telemetry user attribution and configurable capture",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T22:38:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9318,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T22:38:00Z",
+      "latest_at": "2026-10-12T22:38:00Z",
+      "primary_item": {
+        "id": "896121d98ef8227ad431f910e0a960594c422738",
+        "title": "Client telemetry user attribution and configurable capture",
+        "title_zh": null,
+        "title_en": "Client telemetry user attribution and configurable capture",
+        "title_original": "Client telemetry user attribution and configurable capture",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-12-client-telemetry-user-attribution-and-configurable-capture",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -274,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9183,
+        "recency": 0.8681,
         "story_heat": 0.0
       },
       "category": "official",
@@ -309,90 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
-      }
-    },
-    {
-      "story_id": "story_7924bc1de44f",
-      "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-          "title_zh": "在有限的公开预览中推送提交的归因",
-          "title_en": "Push attribution for commits in limited public preview",
-          "title_original": "Push attribution for commits in limited public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T16:30:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-          "title_zh": "在有限的公开预览中推送提交的归因",
-          "title_en": "Push attribution for commits in limited public preview",
-          "title_original": "Push attribution for commits in limited public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-12T16:30:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9021,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-12T16:30:11Z",
-      "latest_at": "2026-10-12T16:30:11Z",
-      "primary_item": {
-        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
-        "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
-        "title_zh": "在有限的公开预览中推送提交的归因",
-        "title_en": "Push attribution for commits in limited public preview",
-        "title_original": "Push attribution for commits in limited public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -527,15 +527,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9411,
+        "recency": 0.8897,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -562,7 +562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -639,15 +639,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9626,
+        "recency": 0.91,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -674,7 +674,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
+      }
+    },
+    {
+      "story_id": "story_7924bc1de44f",
+      "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+          "title_zh": "在有限的公开预览中推送提交的归因",
+          "title_en": "Push attribution for commits in limited public preview",
+          "title_original": "Push attribution for commits in limited public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T16:30:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+          "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+          "title_zh": "在有限的公开预览中推送提交的归因",
+          "title_en": "Push attribution for commits in limited public preview",
+          "title_original": "Push attribution for commits in limited public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T16:30:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8528,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T16:30:11Z",
+      "latest_at": "2026-10-12T16:30:11Z",
+      "primary_item": {
+        "id": "4e074d6e65757c2e5a30537f520bca332288c848",
+        "title": "在有限的公开预览中推送提交的归因 / Push attribution for commits in limited public preview",
+        "title_zh": "在有限的公开预览中推送提交的归因",
+        "title_en": "Push attribution for commits in limited public preview",
+        "title_original": "Push attribution for commits in limited public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -751,15 +834,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7895,
-      "importance": 0.7895,
-      "importance_score": 0.7895,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9161,
+        "recency": 0.866,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,7 +869,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
+      }
+    },
+    {
+      "story_id": "story_b5fab2baca32",
+      "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+      "url": "https://www.aibase.com/news/31576",
+      "primary_url": "https://www.aibase.com/news/31576",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+          "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "title_zh": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "title_en": null,
+          "title_original": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:31:34.846538Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+          "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "title_zh": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "title_en": null,
+          "title_original": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:31:34.846538Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T03:31:34.846538Z",
+      "latest_at": "2026-10-13T03:31:34.846538Z",
+      "primary_item": {
+        "id": "8ba66a77df54223e00f2f0816a98fd7f54b88573",
+        "title": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+        "title_zh": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+        "title_en": null,
+        "title_original": "3 个月烧掉 5000 亿 Token，AI 把《现代战争 2》源代码\"复刻\"了 83%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31576",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -834,15 +999,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.8725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -868,7 +1033,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
+      }
+    },
+    {
+      "story_id": "story_06f333b9aafa",
+      "title": "Anonymous organization-level registries for Dependabot",
+      "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "primary_url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "title_zh": null,
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "089955f40de8038c107a9911361603ae50607306",
+          "title": "Anonymous organization-level registries for Dependabot",
+          "title_zh": null,
+          "title_en": "Anonymous organization-level registries for Dependabot",
+          "title_original": "Anonymous organization-level registries for Dependabot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-12T14:04:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8234,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-12T14:04:16Z",
+      "latest_at": "2026-10-12T14:04:16Z",
+      "primary_item": {
+        "id": "089955f40de8038c107a9911361603ae50607306",
+        "title": "Anonymous organization-level registries for Dependabot",
+        "title_zh": null,
+        "title_en": "Anonymous organization-level registries for Dependabot",
+        "title_original": "Anonymous organization-level registries for Dependabot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-12-anonymous-organization-level-registries-for-dependabot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -916,15 +1164,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9894,
+        "recency": 0.9353,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -950,7 +1198,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
+      }
+    },
+    {
+      "story_id": "story_a15db883d464",
+      "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet / Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+      "url": "https://x.com/demishassabis/status/2109813775377563908",
+      "primary_url": "https://x.com/demishassabis/status/2109813775377563908",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet / Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "title_zh": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+          "title_en": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "title_original": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/demishassabis/status/2109813775377563908",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T01:09:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+          "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet / Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "title_zh": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+          "title_en": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "title_original": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+          "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/demishassabis/status/2109813775377563908",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T01:09:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9664,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-13T01:09:37Z",
+      "latest_at": "2026-10-13T01:09:37Z",
+      "primary_item": {
+        "id": "a4dae920c0e04ca9641017809b425ecf28adad78",
+        "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet / Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+        "title_zh": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
+        "title_en": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+        "title_original": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone & @TheLancet paper!",
+        "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/demishassabis/status/2109813775377563908",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -998,15 +1327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8165,
+        "recency": 0.7719,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1031,7 +1360,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
+      }
+    },
+    {
+      "story_id": "story_eb0b5c187dd7",
+      "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+      "url": "https://www.aibase.com/news/31584",
+      "primary_url": "https://www.aibase.com/news/31584",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
+          "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "title_en": null,
+          "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31584",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:31:34.846538Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
+          "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "title_en": null,
+          "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31584",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-13T03:31:34.846538Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T03:31:34.846538Z",
+      "latest_at": "2026-10-13T03:31:34.846538Z",
+      "primary_item": {
+        "id": "f739588e6fdea26df066fa5055fe5a38edb3fa49",
+        "title": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+        "title_zh": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+        "title_en": null,
+        "title_original": "Meta 发 Muse Wonder 叫板 Anthropic 与 OpenAI，扎克伯格边烤肉边剧透\"大西瓜\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31584",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -1079,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9161,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,7 +1524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
@@ -1161,15 +1572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.876,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,30 +1606,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
-      "story_id": "story_bad3c79d5ad6",
-      "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
-      "url": "https://www.aibase.com/news/31568",
-      "primary_url": "https://www.aibase.com/news/31568",
+      "story_id": "story_af833dea3300",
+      "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+      "url": "https://www.aibase.com/news/31572",
+      "primary_url": "https://www.aibase.com/news/31572",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5c1a56f6addec5a643f10d65ecf4e002449043a0",
-          "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
-          "title_zh": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+          "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+          "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+          "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "title_en": null,
-          "title_original": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+          "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31568",
+          "url": "https://www.aibase.com/news/31572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
+          "published_at": "2026-10-13T03:31:34.846538Z"
         }
       ],
       "source_count": 1,
@@ -1227,48 +1638,49 @@
       ],
       "items": [
         {
-          "id": "5c1a56f6addec5a643f10d65ecf4e002449043a0",
-          "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
-          "title_zh": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+          "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+          "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+          "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "title_en": null,
-          "title_original": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+          "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31568",
+          "url": "https://www.aibase.com/news/31572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
+          "published_at": "2026-10-13T03:31:34.846538Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-12T13:08:46.685383Z",
-      "latest_at": "2026-10-12T13:08:46.685383Z",
+      "earliest_at": "2026-10-13T03:31:34.846538Z",
+      "latest_at": "2026-10-13T03:31:34.846538Z",
       "primary_item": {
-        "id": "5c1a56f6addec5a643f10d65ecf4e002449043a0",
-        "title": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
-        "title_zh": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+        "id": "a129178d1c13aa8df01f61c84f2e8570050675a9",
+        "title": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
+        "title_zh": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
         "title_en": null,
-        "title_original": "AI 没抢走程序员饭碗？美初级码农就业反降 20%，专家忧十年后断档",
+        "title_original": "Meta端出Muse Wonder对标GPT- 6 与Claude，内部代号\"西瓜\"、烤肉直播里剧透",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31568",
+        "url": "https://www.aibase.com/news/31572",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1276,192 +1688,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
-      "story_id": "story_75aedb54f50c",
-      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-      "url": "https://x.com/MeshyAI/status/2109550836934471864",
-      "primary_url": "https://x.com/MeshyAI/status/2109550836934471864",
-      "source": "X：Meshy (@MeshyAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-          "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MeshyAI/status/2109550836934471864",
-          "source": "X：Meshy (@MeshyAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T07:44:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Meshy (@MeshyAI)"
-      ],
-      "items": [
-        {
-          "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-          "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-          "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-          "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/MeshyAI/status/2109550836934471864",
-          "source": "X：Meshy (@MeshyAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T07:44:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.795,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T07:44:47Z",
-      "latest_at": "2026-10-12T07:44:47Z",
-      "primary_item": {
-        "id": "91f6030ffc8e5c0d29755a33d9fe85e93f9085d5",
-        "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程 / How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-        "title_zh": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-        "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-        "title_original": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-        "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/MeshyAI/status/2109550836934471864",
-        "source": "X：Meshy (@MeshyAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
-      }
-    },
-    {
-      "story_id": "story_b56e48a5a98d",
-      "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署 / Today we are announcing our biggest bet yet on our own silicon.",
-      "url": "https://x.com/satyanadella/status/2109631106404487523",
-      "primary_url": "https://x.com/satyanadella/status/2109631106404487523",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "34ba92f836e456922a97d96dfb74e3f4423e42f1",
-          "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署 / Today we are announcing our biggest bet yet on our own silicon.",
-          "title_zh": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
-          "title_en": "Today we are announcing our biggest bet yet on our own silicon.",
-          "title_original": "Today we are announcing our biggest bet yet on our own silicon.",
-          "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2109631106404487523",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T13:03:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "34ba92f836e456922a97d96dfb74e3f4423e42f1",
-          "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署 / Today we are announcing our biggest bet yet on our own silicon.",
-          "title_zh": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
-          "title_en": "Today we are announcing our biggest bet yet on our own silicon.",
-          "title_original": "Today we are announcing our biggest bet yet on our own silicon.",
-          "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2109631106404487523",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-12T13:03:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8584,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T13:03:45Z",
-      "latest_at": "2026-10-12T13:03:45Z",
-      "primary_item": {
-        "id": "34ba92f836e456922a97d96dfb74e3f4423e42f1",
-        "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署 / Today we are announcing our biggest bet yet on our own silicon.",
-        "title_zh": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
-        "title_en": "Today we are announcing our biggest bet yet on our own silicon.",
-        "title_original": "Today we are announcing our biggest bet yet on our own silicon.",
-        "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/satyanadella/status/2109631106404487523",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
-      }
-    },
-    {
-      "story_id": "story_79c60ffdb517",
-      "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-      "url": "https://www.aibase.com/news/31567",
-      "primary_url": "https://www.aibase.com/news/31567",
+      "story_id": "story_b35bd2d0ea24",
+      "title": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
+      "url": "https://www.aibase.com/news/31590",
+      "primary_url": "https://www.aibase.com/news/31590",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
-          "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-          "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "id": "69fd3da95ca66c9a01a2a85b6c4ed9efbd2edb95",
+          "title": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
+          "title_zh": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
           "title_en": null,
-          "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "title_original": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31567",
+          "url": "https://www.aibase.com/news/31590",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
+          "published_at": "2026-10-13T03:31:34.846538Z"
         }
       ],
       "source_count": 1,
@@ -1470,48 +1720,49 @@
       ],
       "items": [
         {
-          "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
-          "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-          "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "id": "69fd3da95ca66c9a01a2a85b6c4ed9efbd2edb95",
+          "title": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
+          "title_zh": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
           "title_en": null,
-          "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+          "title_original": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31567",
+          "url": "https://www.aibase.com/news/31590",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
+          "published_at": "2026-10-13T03:31:34.846538Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-12T13:08:46.685383Z",
-      "latest_at": "2026-10-12T13:08:46.685383Z",
+      "earliest_at": "2026-10-13T03:31:34.846538Z",
+      "latest_at": "2026-10-13T03:31:34.846538Z",
       "primary_item": {
-        "id": "dc349e2b58e652e68a9117c8d8585b1a510af352",
-        "title": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
-        "title_zh": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+        "id": "69fd3da95ca66c9a01a2a85b6c4ed9efbd2edb95",
+        "title": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
+        "title_zh": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
         "title_en": null,
-        "title_original": "​Claude Opus 5.5 Max 强势登顶智能体榜首，国产多模型稳居中上游",
+        "title_original": "MiniMax入驻天猫开首家旗舰店，开卖Token套餐：大模型厂商集体把柜台搬进电商",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31567",
+        "url": "https://www.aibase.com/news/31590",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1519,141 +1770,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
-      "story_id": "story_bfd50c0d14b1",
-      "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-      "url": "https://x.com/thsottiaux/status/2109430343346581527",
-      "primary_url": "https://x.com/thsottiaux/status/2109430343346581527",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_en": null,
-          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-11T23:45:59Z"
-        },
-        {
-          "id": "5e00d77cbcb5a808b5af90105220dee3ba7bc6c1",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k / Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_en": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "title_original": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-11T23:45:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thibault Sottiaux",
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_en": null,
-          "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-11T23:45:59Z"
-        },
-        {
-          "id": "5e00d77cbcb5a808b5af90105220dee3ba7bc6c1",
-          "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k / Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-          "title_en": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "title_original": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase. We will go higher in the future, but it helps reduce occurrence of compactions...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2109430343346581527",
-          "source": "Follow Builders · X · Thibault Sottiaux",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-11T23:45:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7041,
-      "importance": 0.7041,
-      "importance_score": 0.7041,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7084,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-11T23:45:59Z",
-      "latest_at": "2026-10-11T23:45:59Z",
-      "primary_item": {
-        "id": "7921d07cf3992ab1a77138e5c638870e2449d8fd",
-        "title": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "title_zh": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "title_en": null,
-        "title_original": "GPT-6.1 Sol 在 Codex 与 Work 中默认上下文长度提升至 500k",
-        "summary": "Tibo 宣布 GPT-6.1 Sol 在 Codex 与 Work 中的默认上下文长度从 272k 提升到 500k，约增加 80%。此举可减少压缩（compaction）发生，帮助需要长期保留大量上下文和细节的任务；用户仍可自行覆盖设置，模型最大上下文长度为 1M。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2109430343346581527",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
-      }
-    },
-    {
-      "story_id": "story_efb1d33574f2",
-      "title": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
-      "url": "https://www.aibase.com/news/31566",
-      "primary_url": "https://www.aibase.com/news/31566",
+      "story_id": "story_8575a22467d2",
+      "title": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
+      "url": "https://www.aibase.com/news/31589",
+      "primary_url": "https://www.aibase.com/news/31589",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "637f670d7197f6c6b8692a515e257117675fe56c",
-          "title": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
-          "title_zh": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+          "id": "daa4bf08bc15f4e7f2e854efee814f3883f033ae",
+          "title": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
+          "title_zh": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
           "title_en": null,
-          "title_original": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+          "title_original": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31566",
+          "url": "https://www.aibase.com/news/31589",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
+          "published_at": "2026-10-13T03:31:34.846538Z"
         }
       ],
       "source_count": 1,
@@ -1662,48 +1802,49 @@
       ],
       "items": [
         {
-          "id": "637f670d7197f6c6b8692a515e257117675fe56c",
-          "title": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
-          "title_zh": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+          "id": "daa4bf08bc15f4e7f2e854efee814f3883f033ae",
+          "title": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
+          "title_zh": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
           "title_en": null,
-          "title_original": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+          "title_original": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31566",
+          "url": "https://www.aibase.com/news/31589",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
+          "published_at": "2026-10-13T03:31:34.846538Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-12T13:08:46.685383Z",
-      "latest_at": "2026-10-12T13:08:46.685383Z",
+      "earliest_at": "2026-10-13T03:31:34.846538Z",
+      "latest_at": "2026-10-13T03:31:34.846538Z",
       "primary_item": {
-        "id": "637f670d7197f6c6b8692a515e257117675fe56c",
-        "title": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
-        "title_zh": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+        "id": "daa4bf08bc15f4e7f2e854efee814f3883f033ae",
+        "title": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
+        "title_zh": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
         "title_en": null,
-        "title_original": "唯品会上线自研 AI 助手“AI小唯” AI 导购进入能力深耕阶段",
+        "title_original": "MiniMax入驻天猫，首家官方旗舰店上线M Plan订阅套餐",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31566",
+        "url": "https://www.aibase.com/news/31589",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1711,30 +1852,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     },
     {
-      "story_id": "story_221e683ee734",
-      "title": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
-      "url": "https://www.aibase.com/news/31570",
-      "primary_url": "https://www.aibase.com/news/31570",
+      "story_id": "story_df415c38ab80",
+      "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+      "url": "https://www.aibase.com/news/31587",
+      "primary_url": "https://www.aibase.com/news/31587",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e0c280aedc12bbcfe4b6a735a375c56b232c7cfe",
-          "title": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
-          "title_zh": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
+          "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+          "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+          "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "title_en": null,
-          "title_original": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
+          "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31570",
+          "url": "https://www.aibase.com/news/31587",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
+          "published_at": "2026-10-13T03:31:34.846538Z"
         }
       ],
       "source_count": 1,
@@ -1743,48 +1884,49 @@
       ],
       "items": [
         {
-          "id": "e0c280aedc12bbcfe4b6a735a375c56b232c7cfe",
-          "title": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
-          "title_zh": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
+          "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+          "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+          "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "title_en": null,
-          "title_original": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
+          "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31570",
+          "url": "https://www.aibase.com/news/31587",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
+          "published_at": "2026-10-13T03:31:34.846538Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8594,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-12T13:08:46.685383Z",
-      "latest_at": "2026-10-12T13:08:46.685383Z",
+      "earliest_at": "2026-10-13T03:31:34.846538Z",
+      "latest_at": "2026-10-13T03:31:34.846538Z",
       "primary_item": {
-        "id": "e0c280aedc12bbcfe4b6a735a375c56b232c7cfe",
-        "title": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
-        "title_zh": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
+        "id": "f8dc4a84db192f0a3fd3b658d6025defe3b8ae59",
+        "title": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
+        "title_zh": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
         "title_en": null,
-        "title_original": "唯品会悄悄上线 AI 助手\"小唯\"：能聊天能比价，重金招人月薪最高 8 万",
+        "title_original": "OpenAI 要把 Sora\"复活\"：交给卡岑伯格团队，转做专业影视工具",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31570",
+        "url": "https://www.aibase.com/news/31587",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1792,169 +1934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
-      }
-    },
-    {
-      "story_id": "story_608bad1068ca",
-      "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-      "url": "https://www.aibase.com/news/31564",
-      "primary_url": "https://www.aibase.com/news/31564",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
-          "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "title_en": null,
-          "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
-          "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "title_en": null,
-          "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8594,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T13:08:46.685383Z",
-      "latest_at": "2026-10-12T13:08:46.685383Z",
-      "primary_item": {
-        "id": "8b932b656a992ffbcddd40ec349aa0c0af49d6dc",
-        "title": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-        "title_zh": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-        "title_en": null,
-        "title_original": "宇树科技王兴兴发声：过去犯的最大错误是不够相信 AI，具身智能临界点最快一两年内爆发",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31564",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
-      }
-    },
-    {
-      "story_id": "story_e62fb6d032b9",
-      "title": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-      "url": "https://www.aibase.com/news/31565",
-      "primary_url": "https://www.aibase.com/news/31565",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a75ae43a157963d869eb876fb809a0de30bdf64f",
-          "title": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-          "title_zh": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-          "title_en": null,
-          "title_original": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a75ae43a157963d869eb876fb809a0de30bdf64f",
-          "title": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-          "title_zh": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-          "title_en": null,
-          "title_original": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-12T13:08:46.685383Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8594,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-12T13:08:46.685383Z",
-      "latest_at": "2026-10-12T13:08:46.685383Z",
-      "primary_item": {
-        "id": "a75ae43a157963d869eb876fb809a0de30bdf64f",
-        "title": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-        "title_zh": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-        "title_en": null,
-        "title_original": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31565",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-12T23:47:56.085427Z"
+        "scored_at": "2026-10-13T03:44:40.024384Z"
       }
     }
   ]
