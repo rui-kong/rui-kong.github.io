@@ -5,8 +5,16 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 15 Oct 2026 15:35:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 20:21:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Upcoming deprecation of selected GitHub Copilot models in mid-November</title>
+<link>https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 19:35:13 +0000</pubDate>
+</item>
 <item>
 <title>Teaching students to think and learn through questions</title>
 <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
@@ -14,6 +22,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+<link>https://deepmind.google/blog/accelerating-antimicrobial-discovery</link>
+<guid isPermaLink="true">https://deepmind.google/blog/accelerating-antimicrobial-discovery</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
 </item>
 <item>
 <title>Apertus 1.5 Release Notes</title>
@@ -24,14 +40,6 @@
 <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
 </item>
 <item>
-<title>AI Scan for pull requests generally available</title>
-<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
-</item>
-<item>
 <title>可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入 / For Those Who Create. KLING 4.0 Is Now Fully Available. 🎬</title>
 <link>https://x.com/Kling_ai/status/2110747537187709424</link>
 <guid isPermaLink="true">https://x.com/Kling_ai/status/2110747537187709424</guid>
@@ -40,20 +48,60 @@
 <pubDate>Thu, 15 Oct 2026 15:00:03 +0000</pubDate>
 </item>
 <item>
-<title>Agentic autofix for code scanning alerts general availability</title>
-<link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</guid>
+<title>AI Scan for pull requests generally available</title>
+<link>https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 15:04:51 +0000</pubDate>
 </item>
 <item>
-<title>Welcome FLUX.3 Image Klein in Diffusers</title>
+<title>Claude Opus 5.5 fast mode 结束研究预览并移除等待名单 / Opus 5.5 fast mode in the Claude Platform is no longer in research preview, and we’ve removed the waitlist!</title>
+<link>https://x.com/ClaudeDevs/status/2110825294655562048</link>
+<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2110825294655562048</guid>
+<description>Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。Claude Code 中的 fast mode 保持不变，消耗额外 usage credits。文档见 https://platform.claude.com/docs/en/build-with-claude/fast-mode（X：Claude Devs (@ClaudeDevs)）</description>
+<category>官方更新</category>
+<pubDate>Thu, 15 Oct 2026 20:09:02 +0000</pubDate>
+</item>
+<item>
+<title>Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文 / Muse Spark Is Now an Open-Weights Model</title>
+<link>https://pytorch.org/blog/muse-spark-open</link>
+<guid isPermaLink="true">https://pytorch.org/blog/muse-spark-open</guid>
+<description>Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。（PyTorch：Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 17:55:52 +0000</pubDate>
+</item>
+<item>
+<title>Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!</title>
+<link>https://x.com/OpenRouter/status/2110793354154008685</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2110793354154008685</guid>
+<description>Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。（X：OpenRouter (@OpenRouter)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 18:02:06 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT 为 Chrome 用户新增标签页读取与控制能力 / A few big upgrades for Chrome users today! We’re bringing the power of computer use to anyone who uses Chrome.</title>
+<link>https://x.com/ChatGPT/status/2110823738531037651</link>
+<guid isPermaLink="true">https://x.com/ChatGPT/status/2110823738531037651</guid>
+<description>ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。（X：ChatGPT (@ChatGPT)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 20:02:51 +0000</pubDate>
+</item>
+<item>
+<title>Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制 / Welcome FLUX.3 Image Klein in Diffusers</title>
 <link>https://huggingface.co/blog/flux-3</link>
 <guid isPermaLink="true">https://huggingface.co/blog/flux-3</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布 / Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!</title>
+<link>https://x.com/arena/status/2110797782953132049</link>
+<guid isPermaLink="true">https://x.com/arena/status/2110797782953132049</guid>
+<description>Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 18:19:42 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调 / Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO</title>
@@ -64,6 +112,14 @@
 <pubDate>Thu, 15 Oct 2026 09:50:43 +0000</pubDate>
 </item>
 <item>
+<title>Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B） / FLUX 3 Image Klein</title>
+<link>https://bfl.ai/blog/flux-3-image-klein</link>
+<guid isPermaLink="true">https://bfl.ai/blog/flux-3-image-klein</guid>
+<description>Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。（Black Forest Labs：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked</title>
 <link>https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</link>
 <guid isPermaLink="true">https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab</guid>
@@ -72,12 +128,12 @@
 <pubDate>Thu, 15 Oct 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Email notifications for repository push events have been retired</title>
-<link>https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired</guid>
+<title>Agentic autofix for code scanning alerts general availability</title>
+<link>https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 15 Oct 2026 13:42:19 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 13:49:20 +0000</pubDate>
 </item>
 <item>
 <title>阶跃星辰开放 Step 5 Preview 权重 / Step 5 Preview is now open weights.</title>
@@ -96,76 +152,20 @@
 <pubDate>Thu, 15 Oct 2026 03:02:38 +0000</pubDate>
 </item>
 <item>
-<title>​Anthropic 正式宣布在新加坡设立办事处，并与新加坡政府达成战略合作</title>
-<link>https://www.aibase.com/news/31672</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31672</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 11:32:27 +0000</pubDate>
-</item>
-<item>
-<title>八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤 / The states come for OpenAI</title>
-<link>https://www.platformer.news/openai-states-lawsuit-liability</link>
-<guid isPermaLink="true">https://www.platformer.news/openai-states-lawsuit-liability</guid>
-<description>八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。（Platformer（热点 RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 00:52:13 +0000</pubDate>
-</item>
-<item>
-<title>Google 工程师讲解如何系统评测 AI 智能体，告别 vibe check / Evaluating AI agents: moving past the vibe check</title>
-<link>https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check</link>
-<guid isPermaLink="true">https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check</guid>
-<description>Google Developers Blog 发布智能体评测实践指南，指出仅靠终端跑几个提示词的 vibe check 无法发现智能体重试循环、工具参数幻觉等隐性失败。（Google Developers Blog（RSS））</description>
+<title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
+<link>https://huggingface.co/blog/meta-muse-spark-open</link>
+<guid isPermaLink="true">https://huggingface.co/blog/meta-muse-spark-open</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频</title>
-<link>https://x.com/Khazix0918/status/2110587546271191166</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2110587546271191166</guid>
-<description>作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。（X：卡兹克 (@Khazix0918)）</description>
+<title>NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型 / Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models</title>
+<link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</link>
+<guid isPermaLink="true">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl</guid>
+<description>NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。（NVIDIA Blog（RSS））</description>
 <category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 04:24:18 +0000</pubDate>
-</item>
-<item>
-<title>美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人</title>
-<link>https://www.ithome.com/1/013/160.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/013/160.htm</guid>
-<description>当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。（IT之家·人工智能）</description>
-<category>行业动态</category>
-<pubDate>Wed, 14 Oct 2026 23:39:08 +0000</pubDate>
-</item>
-<item>
-<title>HiRO-ACEv2：以 3 公里分辨率模拟极端天气，而成本仅为一小部分 / HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
-<link>https://huggingface.co/blog/allenai/hiro-acev2</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/hiro-acev2</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
-</item>
-<item>
-<title>自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687109&amp;idx=1&amp;sn=032fd9f6aab5ee20ea5d14f97bf48a86</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687109&amp;idx=1&amp;sn=032fd9f6aab5ee20ea5d14f97bf48a86</guid>
-<description>作者数字生命卡兹克分享开源 Skill Anatomy，其理念是"物体本身，就是解释"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。（公众号：数字生命卡兹克）</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 00:26:00 +0000</pubDate>
-</item>
-<item>
-<title>Wallet Wars：AI 智能体支付之争的格局与走向 / Wallet Wars</title>
-<link>https://www.a16z.news/p/wallet-wars</link>
-<guid isPermaLink="true">https://www.a16z.news/p/wallet-wars</guid>
-<description>Terry Angelos 分析智能体商业带来的支付竞争，指出两场战斗：谁帮智能体付款，以及谁让智能体以本人身份交易。（a16z：News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 14:08:21 +0000</pubDate>
-</item>
-<item>
-<title>开源应用 Llama for Windows 正式发布：一键下载模型，轻松在电脑本地玩转 AI</title>
-<link>https://www.aibase.com/news/31671</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31671</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 15 Oct 2026 11:32:27 +0000</pubDate>
+<pubDate>Thu, 15 Oct 2026 15:00:24 +0000</pubDate>
 </item>
 </channel>
 </rss>
