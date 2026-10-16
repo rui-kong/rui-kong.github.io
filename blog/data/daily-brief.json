@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:21:51.968199Z",
+  "generated_at": "2026-10-16T19:58:11.073087Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8278,
+        "recency": 0.7745,
         "story_heat": 0.25
       },
       "category": "official",
@@ -112,7 +112,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
+      }
+    },
+    {
+      "story_id": "story_6b115062be00",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "primary_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b36f45115eff92fea7b2009844b09042a3428aee",
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "title_zh": null,
+          "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "title_original": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b36f45115eff92fea7b2009844b09042a3428aee",
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "title_zh": null,
+          "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "title_original": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7495,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T00:00:00Z",
+      "latest_at": "2026-10-16T00:00:00Z",
+      "primary_item": {
+        "id": "b36f45115eff92fea7b2009844b09042a3428aee",
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "title_zh": null,
+        "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "title_original": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -160,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8215,
+        "recency": 0.7686,
         "story_heat": 0.0
       },
       "category": "official",
@@ -195,90 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
-      }
-    },
-    {
-      "story_id": "story_c33781d78308",
-      "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "primary_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
-          "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
-          "title_zh": "将 GPT-Rosalind 引入学术研究实验室",
-          "title_en": "Bringing GPT-Rosalind to academic research labs",
-          "title_original": "Bringing GPT-Rosalind to academic research labs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
-          "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
-          "title_zh": "将 GPT-Rosalind 引入学术研究实验室",
-          "title_en": "Bringing GPT-Rosalind to academic research labs",
-          "title_original": "Bringing GPT-Rosalind to academic research labs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7452,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T19:00:00Z",
-      "latest_at": "2026-10-15T19:00:00Z",
-      "primary_item": {
-        "id": "44c6f0fdd8d4abb64ed84d3de24c94a770a44228",
-        "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
-        "title_zh": "将 GPT-Rosalind 引入学术研究实验室",
-        "title_en": "Bringing GPT-Rosalind to academic research labs",
-        "title_original": "Bringing GPT-Rosalind to academic research labs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9806,
+        "recency": 0.9175,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -409,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8242,
-      "importance": 0.8242,
-      "importance_score": 0.8242,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.801,
+        "recency": 0.7495,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,90 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
-      }
-    },
-    {
-      "story_id": "story_036b3bff1937",
-      "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-      "primary_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-          "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "title_zh": "利用 Google Antigravity 加速抗菌肽的搜索",
-          "title_en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "title_original": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T16:08:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-          "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "title_zh": "利用 Google Antigravity 加速抗菌肽的搜索",
-          "title_en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "title_original": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T16:08:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.715,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T16:08:03Z",
-      "latest_at": "2026-10-15T16:08:03Z",
-      "primary_item": {
-        "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-        "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
-        "title_zh": "利用 Google Antigravity 加速抗菌肽的搜索",
-        "title_en": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-        "title_original": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -575,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9043,
+        "recency": 0.8461,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -609,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -657,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9526,
+        "recency": 0.8913,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -691,63 +608,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
-      "story_id": "story_bf47069242e4",
-      "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-      "url": "https://www.aibase.com/news/31702",
-      "primary_url": "https://www.aibase.com/news/31702",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_5d180e178e71",
+      "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
+      "url": "https://x.com/adocomplete/status/2111171735806767558",
+      "primary_url": "https://x.com/adocomplete/status/2111171735806767558",
+      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
-          "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-          "title_zh": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-          "title_en": null,
-          "title_original": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-          "summary": null,
+          "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
+          "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
+          "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
+          "title_en": "Claude is building Claude Code.",
+          "title_original": "Claude is building Claude Code.",
+          "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31702",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T11:27:19.533042Z"
+          "url": "https://x.com/adocomplete/status/2111171735806767558",
+          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T19:05:40Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)"
       ],
       "items": [
         {
-          "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
-          "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-          "title_zh": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-          "title_en": null,
-          "title_original": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-          "summary": null,
+          "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
+          "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
+          "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
+          "title_en": "Claude is building Claude Code.",
+          "title_original": "Claude is building Claude Code.",
+          "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31702",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T11:27:19.533042Z"
+          "url": "https://x.com/adocomplete/status/2111171735806767558",
+          "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T19:05:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9451,
+        "recency": 0.9874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -755,25 +672,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-16T11:27:19.533042Z",
-      "latest_at": "2026-10-16T11:27:19.533042Z",
+      "earliest_at": "2026-10-16T19:05:40Z",
+      "latest_at": "2026-10-16T19:05:40Z",
       "primary_item": {
-        "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
-        "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-        "title_zh": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-        "title_en": null,
-        "title_original": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-        "summary": null,
+        "id": "bf324b34cca5fb5a598aeb2095c1a9a2ea0b58de",
+        "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码 / Claude is building Claude Code.",
+        "title_zh": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
+        "title_en": "Claude is building Claude Code.",
+        "title_original": "Claude is building Claude Code.",
+        "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31702",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://x.com/adocomplete/status/2111171735806767558",
+        "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -821,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7623,
+        "recency": 0.7132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -856,7 +773,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
+      }
+    },
+    {
+      "story_id": "story_2f7abdbde624",
+      "title": "Xcode 27 runner image generally available",
+      "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
+          "title": "Xcode 27 runner image generally available",
+          "title_zh": null,
+          "title_en": "Xcode 27 runner image generally available",
+          "title_original": "Xcode 27 runner image generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T04:36:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
+          "title": "Xcode 27 runner image generally available",
+          "title_zh": null,
+          "title_en": "Xcode 27 runner image generally available",
+          "title_original": "Xcode 27 runner image generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T04:36:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8011,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T04:36:30Z",
+      "latest_at": "2026-10-16T04:36:30Z",
+      "primary_item": {
+        "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
+        "title": "Xcode 27 runner image generally available",
+        "title_zh": null,
+        "title_en": "Xcode 27 runner image generally available",
+        "title_original": "Xcode 27 runner image generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-16T20:12:51.367724Z"
+      }
+    },
+    {
+      "story_id": "story_bf47069242e4",
+      "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+      "url": "https://www.aibase.com/news/31702",
+      "primary_url": "https://www.aibase.com/news/31702",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
+          "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+          "title_zh": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+          "title_en": null,
+          "title_original": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31702",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T11:27:19.533042Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
+          "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+          "title_zh": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+          "title_en": null,
+          "title_original": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31702",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T11:27:19.533042Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8843,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-16T11:27:19.533042Z",
+      "latest_at": "2026-10-16T11:27:19.533042Z",
+      "primary_item": {
+        "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
+        "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+        "title_zh": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+        "title_en": null,
+        "title_original": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31702",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -904,21 +985,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7577,
+        "recency": 0.709,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-15T20:09:02Z",
       "latest_at": "2026-10-15T20:09:02Z",
@@ -938,170 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
-      }
-    },
-    {
-      "story_id": "story_87c2231e4c10",
-      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文 / Muse Spark Is Now an Open-Weights Model",
-      "url": "https://pytorch.org/blog/muse-spark-open",
-      "primary_url": "https://pytorch.org/blog/muse-spark-open",
-      "source": "PyTorch：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ddbc4149c532faa82463715083d799711d1fd837",
-          "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文 / Muse Spark Is Now an Open-Weights Model",
-          "title_zh": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-          "title_en": "Muse Spark Is Now an Open-Weights Model",
-          "title_original": "Muse Spark Is Now an Open-Weights Model",
-          "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
-          "recommend_reason_zh": null,
-          "url": "https://pytorch.org/blog/muse-spark-open",
-          "source": "PyTorch：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T17:55:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "PyTorch：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ddbc4149c532faa82463715083d799711d1fd837",
-          "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文 / Muse Spark Is Now an Open-Weights Model",
-          "title_zh": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-          "title_en": "Muse Spark Is Now an Open-Weights Model",
-          "title_original": "Muse Spark Is Now an Open-Weights Model",
-          "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
-          "recommend_reason_zh": null,
-          "url": "https://pytorch.org/blog/muse-spark-open",
-          "source": "PyTorch：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T17:55:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7338,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T17:55:52Z",
-      "latest_at": "2026-10-15T17:55:52Z",
-      "primary_item": {
-        "id": "ddbc4149c532faa82463715083d799711d1fd837",
-        "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文 / Muse Spark Is Now an Open-Weights Model",
-        "title_zh": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-        "title_en": "Muse Spark Is Now an Open-Weights Model",
-        "title_original": "Muse Spark Is Now an Open-Weights Model",
-        "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
-        "recommend_reason_zh": null,
-        "url": "https://pytorch.org/blog/muse-spark-open",
-        "source": "PyTorch：Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
-      }
-    },
-    {
-      "story_id": "story_fee8943ac5f8",
-      "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-      "url": "https://x.com/OpenRouter/status/2110793354154008685",
-      "primary_url": "https://x.com/OpenRouter/status/2110793354154008685",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-          "title_zh": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-          "title_en": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-          "title_original": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-          "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2110793354154008685",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:02:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-          "title_zh": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-          "title_en": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-          "title_original": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-          "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2110793354154008685",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:02:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7349,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T18:02:06Z",
-      "latest_at": "2026-10-15T18:02:06Z",
-      "primary_item": {
-        "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-        "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter / Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-        "title_zh": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-        "title_en": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-        "title_original": "Muse Spark Open from @AIatMeta is now available on OpenRouter!",
-        "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2110793354154008685",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -1149,15 +1066,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7566,
+        "recency": 0.7079,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1182,90 +1099,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
-      "story_id": "story_92a79a18c257",
-      "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "primary_url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e285a13670b3",
+      "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计 / Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+      "primary_url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "title_zh": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "summary": null,
+          "id": "d81d150625e008e8d7dfbcc947f04def83034cb9",
+          "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计 / Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+          "title_zh": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+          "title_en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+          "title_original": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+          "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:35:13Z"
+          "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Google Research：Blog（网页）"
       ],
       "items": [
         {
-          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "title_zh": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "summary": null,
+          "id": "d81d150625e008e8d7dfbcc947f04def83034cb9",
+          "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计 / Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+          "title_zh": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+          "title_en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+          "title_original": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+          "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:35:13Z"
+          "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.61,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7516,
+        "ai_relevance": 1.0,
+        "recency": 0.7495,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T19:35:13Z",
-      "latest_at": "2026-10-15T19:35:13Z",
+      "earliest_at": "2026-10-16T00:00:00Z",
+      "latest_at": "2026-10-16T00:00:00Z",
       "primary_item": {
-        "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-        "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-        "title_zh": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型",
-        "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
-        "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
-        "summary": null,
+        "id": "d81d150625e008e8d7dfbcc947f04def83034cb9",
+        "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计 / Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+        "title_zh": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+        "title_en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+        "title_original": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+        "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -1313,15 +1228,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8251,
+        "recency": 0.772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1346,88 +1261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
-      }
-    },
-    {
-      "story_id": "story_3cd1f40699b6",
-      "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布 / Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-      "url": "https://x.com/arena/status/2110797782953132049",
-      "primary_url": "https://x.com/arena/status/2110797782953132049",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "510e056148149e7ac6521b31323270ec3d53101e",
-          "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布 / Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "title_zh": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-          "title_en": "Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "title_original": "Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "summary": "Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2110797782953132049",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:19:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "510e056148149e7ac6521b31323270ec3d53101e",
-          "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布 / Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "title_zh": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-          "title_en": "Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "title_original": "Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-          "summary": "Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2110797782953132049",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:19:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.738,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T18:19:42Z",
-      "latest_at": "2026-10-15T18:19:42Z",
-      "primary_item": {
-        "id": "510e056148149e7ac6521b31323270ec3d53101e",
-        "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布 / Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-        "title_zh": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-        "title_en": "Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-        "title_original": "Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!",
-        "summary": "Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2110797782953132049",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -1475,15 +1309,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8045,
+        "recency": 0.7527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1508,7 +1342,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
@@ -1556,15 +1390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.801,
+        "recency": 0.7495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1589,88 +1423,252 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     },
     {
-      "story_id": "story_0fd53cefa455",
-      "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后 / This Week in Charts: Agents Denied",
-      "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-      "primary_url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-      "source": "a16z：News（RSS）",
+      "story_id": "story_12019badf8ef",
+      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+      "url": "https://www.ithome.com/1/013/914.htm",
+      "primary_url": "https://www.ithome.com/1/013/914.htm",
+      "source": "IT之家·人工智能",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "aaafea4ab7c61be4f4e1ab35bad8ca54646fc4c1",
-          "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后 / This Week in Charts: Agents Denied",
-          "title_zh": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-          "title_en": "This Week in Charts: Agents Denied",
-          "title_original": "This Week in Charts: Agents Denied",
-          "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。",
+          "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
+          "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+          "title_zh": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+          "title_en": null,
+          "title_original": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+          "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
           "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-          "source": "a16z：News（RSS）",
+          "url": "https://www.ithome.com/1/013/914.htm",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T14:00:39Z"
+          "published_at": "2026-10-16T06:14:36.073000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "a16z：News（RSS）"
+        "IT之家·人工智能"
       ],
       "items": [
         {
-          "id": "aaafea4ab7c61be4f4e1ab35bad8ca54646fc4c1",
-          "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后 / This Week in Charts: Agents Denied",
-          "title_zh": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-          "title_en": "This Week in Charts: Agents Denied",
-          "title_original": "This Week in Charts: Agents Denied",
-          "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。",
+          "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
+          "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+          "title_zh": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+          "title_en": null,
+          "title_original": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+          "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
           "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-          "source": "a16z：News（RSS）",
+          "url": "https://www.ithome.com/1/013/914.htm",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T14:00:39Z"
+          "published_at": "2026-10-16T06:14:36.073000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.6,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-16T14:00:39Z",
-      "latest_at": "2026-10-16T14:00:39Z",
+      "earliest_at": "2026-10-16T06:14:36.073000Z",
+      "latest_at": "2026-10-16T06:14:36.073000Z",
       "primary_item": {
-        "id": "aaafea4ab7c61be4f4e1ab35bad8ca54646fc4c1",
-        "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后 / This Week in Charts: Agents Denied",
-        "title_zh": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-        "title_en": "This Week in Charts: Agents Denied",
-        "title_original": "This Week in Charts: Agents Denied",
-        "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。",
+        "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
+        "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+        "title_zh": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+        "title_en": null,
+        "title_original": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+        "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
         "recommend_reason_zh": null,
-        "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-        "source": "a16z：News（RSS）",
+        "url": "https://www.ithome.com/1/013/914.htm",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-16T15:23:11.938837Z"
+        "scored_at": "2026-10-16T20:12:51.367724Z"
+      }
+    },
+    {
+      "story_id": "story_5ca42a9e449b",
+      "title": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+      "url": "https://www.aibase.com/news/31699",
+      "primary_url": "https://www.aibase.com/news/31699",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "62e2d3157f20d98a2a4c1a943c25450af790ce7d",
+          "title": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+          "title_zh": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+          "title_en": null,
+          "title_original": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31699",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T09:45:56.156492Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "62e2d3157f20d98a2a4c1a943c25450af790ce7d",
+          "title": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+          "title_zh": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+          "title_en": null,
+          "title_original": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31699",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T09:45:56.156492Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.863,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-16T09:45:56.156492Z",
+      "latest_at": "2026-10-16T09:45:56.156492Z",
+      "primary_item": {
+        "id": "62e2d3157f20d98a2a4c1a943c25450af790ce7d",
+        "title": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+        "title_zh": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+        "title_en": null,
+        "title_original": "AI日报：Kling4.0全面上线；阅文推出AI精品动画；小米开源空间音频大模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31699",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-16T20:12:51.367724Z"
+      }
+    },
+    {
+      "story_id": "story_a3a6cd0a1f49",
+      "title": "将 GitHub 代码质量许可证使用情况下载为 CSV / Download GitHub Code Quality license usage as a CSV",
+      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "primary_url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1e8364e172ac1d52eec01eb2a7a2f992bb1f8740",
+          "title": "将 GitHub 代码质量许可证使用情况下载为 CSV / Download GitHub Code Quality license usage as a CSV",
+          "title_zh": "将 GitHub 代码质量许可证使用情况下载为 CSV",
+          "title_en": "Download GitHub Code Quality license usage as a CSV",
+          "title_original": "Download GitHub Code Quality license usage as a CSV",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T20:11:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1e8364e172ac1d52eec01eb2a7a2f992bb1f8740",
+          "title": "将 GitHub 代码质量许可证使用情况下载为 CSV / Download GitHub Code Quality license usage as a CSV",
+          "title_zh": "将 GitHub 代码质量许可证使用情况下载为 CSV",
+          "title_en": "Download GitHub Code Quality license usage as a CSV",
+          "title_original": "Download GitHub Code Quality license usage as a CSV",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T20:11:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7094,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T20:11:26Z",
+      "latest_at": "2026-10-15T20:11:26Z",
+      "primary_item": {
+        "id": "1e8364e172ac1d52eec01eb2a7a2f992bb1f8740",
+        "title": "将 GitHub 代码质量许可证使用情况下载为 CSV / Download GitHub Code Quality license usage as a CSV",
+        "title_zh": "将 GitHub 代码质量许可证使用情况下载为 CSV",
+        "title_en": "Download GitHub Code Quality license usage as a CSV",
+        "title_original": "Download GitHub Code Quality license usage as a CSV",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-16T20:12:51.367724Z"
       }
     }
   ]
