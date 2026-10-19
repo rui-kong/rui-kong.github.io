@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 13:28:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 17:27:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication</title>
+<link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
+</item>
+<item>
+<title>黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</guid>
+<description>AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 14:23:17 +0000</pubDate>
+</item>
 <item>
 <title>macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
 <link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
@@ -14,6 +30,30 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
+</item>
+<item>
+<title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits</title>
+<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
+<description>若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
+</item>
+<item>
+<title>Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性 / The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</title>
+<link>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</link>
+<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</guid>
+<description>Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。（Meta Engineering Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
+</item>
+<item>
+<title>Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!</title>
+<link>https://x.com/OpenRouter/status/2112225779782398131</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2112225779782398131</guid>
+<description>Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。（X：OpenRouter (@OpenRouter)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
@@ -24,10 +64,50 @@
 <pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
 </item>
 <item>
+<title>DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二 / DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
+<link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
+<description>DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。（X：Artificial Analysis (@ArtificialAnlys)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
+</item>
+<item>
+<title>Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分 / Exciting news: Muse Wonder Full (Max) by @AIatMeta has just debuted in the Code Arena: WebDev at #6 overall with 1726 pts, putting Meta i...</title>
+<link>https://x.com/arena/status/2112215825944117361</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112215825944117361</guid>
+<description>Arena 宣布 Meta 的 Muse Wonder Full (Max) 首次进入 Code Arena: WebDev 榜单，以 1726 分排名第 6，使 Meta 成为第 3 实验室，此前该位置由 Google 持有。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 16:14:30 +0000</pubDate>
+</item>
+<item>
+<title>蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型 / inclusionAI/Ming-3.0-tts</title>
+<link>https://github.com/inclusionAI/Ming-3.0-tts</link>
+<guid isPermaLink="true">https://github.com/inclusionAI/Ming-3.0-tts</guid>
+<description>蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。（蚂蚁 inclusionAI：GitHub 新仓库）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 07:03:25 +0000</pubDate>
+</item>
+<item>
+<title>n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API</title>
+<link>https://blog.n8n.io/n8n-nvidia-dgx-spark</link>
+<guid isPermaLink="true">https://blog.n8n.io/n8n-nvidia-dgx-spark</guid>
+<description>n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。（n8n Blog）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 13:22:17 +0000</pubDate>
+</item>
+<item>
+<title>Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith</title>
+<link>https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</link>
+<guid isPermaLink="true">https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</guid>
+<description>英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。（LangChain：Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
 <title>AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
 <link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</link>
 <guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</guid>
-<description>AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。（PyTorch：Blog（RSS））</description>
+<description>AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。（PyTorch：Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
 </item>
@@ -38,6 +118,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
+</item>
+<item>
+<title>Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster</title>
+<link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</link>
+<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</guid>
+<description>Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。（Meta Engineering Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 13:00:10 +0000</pubDate>
 </item>
 <item>
 <title>字节火山引擎砸钱"养"AI 剧：月度 TOP10 单部最高奖 20 万</title>
@@ -78,94 +166,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: WhatsApp MCP 在 Cloudflare 上免费运行</title>
-<link>https://github.com/finereli/whatsapp-mcp</link>
-<guid isPermaLink="true">https://github.com/finereli/whatsapp-mcp</guid>
-<description>github.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 08:42:19 +0000</pubDate>
-</item>
-<item>
-<title>如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？</title>
-<link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</link>
-<guid isPermaLink="true">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</guid>
-<description>jrdsgl.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 06:20:08 +0000</pubDate>
-</item>
-<item>
-<title>英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生</title>
-<link>https://www.aibase.com/news/31722</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31722</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
-</item>
-<item>
-<title>Timestral：Mistral 发布时间序列基础模型</title>
-<link>https://mistral.ai/news/timestral</link>
-<guid isPermaLink="true">https://mistral.ai/news/timestral</guid>
-<description>mistral.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 12:39:13 +0000</pubDate>
-</item>
-<item>
-<title>线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body</title>
-<link>https://github.com/IsuruMaduranga/harness-engineering-101</link>
-<guid isPermaLink="true">https://github.com/IsuruMaduranga/harness-engineering-101</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 12:07:41 +0000</pubDate>
-</item>
-<item>
-<title>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理</title>
-<link>https://arxiv.org/abs/2610.18861</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.18861</guid>
-<description>arxiv.org</description>
-<category>多源热议</category>
-<pubDate>Sun, 18 Oct 2026 22:42:18 +0000</pubDate>
-</item>
-<item>
-<title>网站正纷纷关闭人工智能客服</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-<description>www.theverge.com</description>
-<category>多源热议</category>
-<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)</title>
-<link>https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</link>
-<guid isPermaLink="true">https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</guid>
-<description>artificialanalysis.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 07:08:12 +0000</pubDate>
-</item>
-<item>
-<title>阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌</title>
-<link>https://www.aibase.com/news/31729</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31729</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效</title>
-<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
-<guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</guid>
-<description>www.tomshardware.com</description>
-<category>值得关注</category>
-<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
-</item>
-<item>
-<title>Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
-<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
-<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 05:55:31 +0000</pubDate>
 </item>
 </channel>
 </rss>
