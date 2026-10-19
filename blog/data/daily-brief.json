@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:43:27.337808Z",
+  "generated_at": "2026-10-19T13:28:13.668440Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9966,
+        "recency": 0.9578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,88 +165,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
-      "story_id": "story_b5da960ac254",
-      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "primary_url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_979604c06d35",
+      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+      "primary_url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+      "source": "PyTorch：Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+          "source": "PyTorch：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-18T13:22:26Z"
+          "published_at": "2026-10-19T12:45:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "PyTorch：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-          "source": "The Decoder：AI News（RSS）",
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+          "source": "PyTorch：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-18T13:22:26Z"
+          "published_at": "2026-10-19T12:45:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7347,
+        "recency": 0.9897,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-18T13:22:26Z",
-      "latest_at": "2026-10-18T13:22:26Z",
+      "earliest_at": "2026-10-19T12:45:23Z",
+      "latest_at": "2026-10-19T12:45:23Z",
       "primary_item": {
-        "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-        "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+        "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+        "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+        "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-        "source": "The Decoder：AI News（RSS）",
+        "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+        "source": "PyTorch：Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -294,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,88 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
-      }
-    },
-    {
-      "story_id": "story_f9057edcf67a",
-      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-      "url": "https://x.com/arena/status/2111894091168682086",
-      "primary_url": "https://x.com/arena/status/2111894091168682086",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-          "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2111894091168682086",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T18:56:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-          "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-          "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2111894091168682086",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T18:56:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7961,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-18T18:56:03Z",
-      "latest_at": "2026-10-18T18:56:03Z",
-      "primary_item": {
-        "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
-        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "title_zh": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
-        "title_en": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "title_original": "Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...",
-        "summary": "Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2111894091168682086",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -457,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,88 +410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
-      }
-    },
-    {
-      "story_id": "story_5291e4230e02",
-      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-      "primary_url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T10:52:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T10:52:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7087,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-18T10:52:39Z",
-      "latest_at": "2026-10-18T10:52:39Z",
-      "primary_item": {
-        "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-        "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-        "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-        "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-        "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -620,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -654,7 +492,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -702,15 +540,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,7 +574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -784,15 +622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,7 +656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -866,15 +704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -900,7 +738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -1006,15 +844,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5656,
-      "importance": 0.5656,
-      "importance_score": 0.5656,
+      "score": 0.5588,
+      "importance": 0.5588,
+      "importance_score": 0.5588,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9713,
+        "recency": 0.9335,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1039,7 +877,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -1145,15 +983,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9386,
+        "recency": 0.9021,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1178,7 +1016,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -1226,15 +1064,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1260,7 +1098,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
+      }
+    },
+    {
+      "story_id": "story_8a0a364cd62a",
+      "title": "Timestral：Mistral 发布时间序列基础模型",
+      "url": "https://mistral.ai/news/timestral",
+      "primary_url": "https://mistral.ai/news/timestral",
+      "source": "mistral.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+          "title": "Timestral：Mistral 发布时间序列基础模型",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": null,
+          "title_original": "Timestral：Mistral 发布时间序列基础模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T12:39:13.350000Z"
+        },
+        {
+          "id": "3d92c8ab888bfdc7324e3fe6a90e7daca9630a1e",
+          "title": "Timestral：Mistral 发布时间序列基础模型 / Timestral: Mistral release time-series foundation models",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": "Timestral: Mistral release time-series foundation models",
+          "title_original": "Timestral: Mistral release time-series foundation models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T09:59:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+          "title": "Timestral：Mistral 发布时间序列基础模型",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": null,
+          "title_original": "Timestral：Mistral 发布时间序列基础模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T12:39:13.350000Z"
+        },
+        {
+          "id": "3d92c8ab888bfdc7324e3fe6a90e7daca9630a1e",
+          "title": "Timestral：Mistral 发布时间序列基础模型 / Timestral: Mistral release time-series foundation models",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": "Timestral: Mistral release time-series foundation models",
+          "title_original": "Timestral: Mistral release time-series foundation models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T09:59:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9883,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-19T09:59:32Z",
+      "latest_at": "2026-10-19T12:39:13.350000Z",
+      "primary_item": {
+        "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+        "title": "Timestral：Mistral 发布时间序列基础模型",
+        "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+        "title_en": null,
+        "title_original": "Timestral：Mistral 发布时间序列基础模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://mistral.ai/news/timestral",
+        "source": "mistral.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T13:29:07.143238Z"
+      }
+    },
+    {
+      "story_id": "story_b5b83f1d3502",
+      "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "primary_url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "b4824b89c9cb34bea0624e4b68c1726c14984af2",
+          "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+          "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T12:07:41Z"
+        },
+        {
+          "id": "b64bccf3b29eab400a3e9db823cb14c6b3327c2a",
+          "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+          "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50151390",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T12:07:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b4824b89c9cb34bea0624e4b68c1726c14984af2",
+          "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+          "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T12:07:41Z"
+        },
+        {
+          "id": "b64bccf3b29eab400a3e9db823cb14c6b3327c2a",
+          "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+          "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50151390",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T12:07:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9808,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-19T12:07:41Z",
+      "latest_at": "2026-10-19T12:07:41Z",
+      "primary_item": {
+        "id": "b4824b89c9cb34bea0624e4b68c1726c14984af2",
+        "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+        "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+        "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+        "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -1366,15 +1424,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8407,
+        "recency": 0.808,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1399,146 +1457,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
-      }
-    },
-    {
-      "story_id": "story_7cb041410c22",
-      "title": "Anthropic 的就业形势正在发生怎样的变化",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "primary_url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-          "title": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": null,
-          "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.176000Z"
-        },
-        {
-          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
-          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T10:49:26Z"
-        },
-        {
-          "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
-          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50139873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T10:49:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-          "title": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": null,
-          "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.176000Z"
-        },
-        {
-          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
-          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T10:49:26Z"
-        },
-        {
-          "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
-          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50139873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T10:49:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8236,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T10:49:26Z",
-      "latest_at": "2026-10-18T21:17:07.176000Z",
-      "primary_item": {
-        "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-        "title": "Anthropic 的就业形势正在发生怎样的变化",
-        "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-        "title_en": null,
-        "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/employment-at-anthropic",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -1644,15 +1563,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8236,
+        "recency": 0.7916,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1677,7 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -1754,15 +1673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9495,
+        "recency": 0.9126,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1787,7 +1706,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
+      }
+    },
+    {
+      "story_id": "story_e40c814da79b",
+      "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+      "url": "https://www.aibase.com/news/31729",
+      "primary_url": "https://www.aibase.com/news/31729",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_en": null,
+          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31729",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T10:43:27.337808Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_en": null,
+          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31729",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T10:43:27.337808Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9611,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T10:43:27.337808Z",
+      "latest_at": "2026-10-19T10:43:27.337808Z",
+      "primary_item": {
+        "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+        "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+        "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+        "title_en": null,
+        "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31729",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T13:29:07.143238Z"
+      }
+    },
+    {
+      "story_id": "story_69fc7bae46d7",
+      "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "www.tomshardware.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "title_en": null,
+          "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.195000Z"
+        },
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "title_en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "title_original": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.tomshardware.com"
+      ],
+      "items": [
+        {
+          "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "title_en": null,
+          "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.195000Z"
+        },
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "title_en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "title_original": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7916,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:30:27Z",
+      "latest_at": "2026-10-18T21:17:07.195000Z",
+      "primary_item": {
+        "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+        "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+        "title_zh": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+        "title_en": null,
+        "title_original": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "source": "www.tomshardware.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     },
     {
@@ -1864,15 +1975,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.933,
+        "recency": 0.8968,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1897,89 +2008,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
-      }
-    },
-    {
-      "story_id": "story_e40c814da79b",
-      "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-      "url": "https://www.aibase.com/news/31729",
-      "primary_url": "https://www.aibase.com/news/31729",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
-          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "title_en": null,
-          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31729",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T10:43:27.337808Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
-          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "title_en": null,
-          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31729",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T10:43:27.337808Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T10:43:27.337808Z",
-      "latest_at": "2026-10-19T10:43:27.337808Z",
-      "primary_item": {
-        "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
-        "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-        "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-        "title_en": null,
-        "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31729",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-19T10:44:18.509901Z"
+        "scored_at": "2026-10-19T13:29:07.143238Z"
       }
     }
   ]

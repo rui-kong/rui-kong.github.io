@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 10:43:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 13:28:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
@@ -24,12 +24,12 @@
 <pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours</title>
-<link>https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours</link>
-<guid isPermaLink="true">https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours</guid>
-<description>Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。（The Decoder：AI News（RSS））</description>
+<title>AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
+<link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</link>
+<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</guid>
+<description>AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。（PyTorch：Blog（RSS））</description>
 <category>行业动态</category>
-<pubDate>Sun, 18 Oct 2026 13:22:26 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
 </item>
 <item>
 <title>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场</title>
@@ -40,28 +40,12 @@
 <pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
 </item>
 <item>
-<title>DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首 / Exciting news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Code Arena: WebDev, surpassing Kimi K3 (Max...</title>
-<link>https://x.com/arena/status/2111894091168682086</link>
-<guid isPermaLink="true">https://x.com/arena/status/2111894091168682086</guid>
-<description>Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Code Arena: WebDev 榜单第一开源模型，超过 Kimi K3 (Max)，成本低约 10 倍。（X：Arena (@arena)）</description>
-<category>行业动态</category>
-<pubDate>Sun, 18 Oct 2026 18:56:03 +0000</pubDate>
-</item>
-<item>
 <title>字节火山引擎砸钱"养"AI 剧：月度 TOP10 单部最高奖 20 万</title>
 <link>https://www.aibase.com/news/31724</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31724</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
-</item>
-<item>
-<title>德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say</title>
-<link>https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say</link>
-<guid isPermaLink="true">https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say</guid>
-<description>慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sun, 18 Oct 2026 10:52:39 +0000</pubDate>
 </item>
 <item>
 <title>山姆出手整治"AI 下架好物"谣言：数千条假帖引流牟利</title>
@@ -120,20 +104,28 @@
 <pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
 </item>
 <item>
+<title>Timestral：Mistral 发布时间序列基础模型</title>
+<link>https://mistral.ai/news/timestral</link>
+<guid isPermaLink="true">https://mistral.ai/news/timestral</guid>
+<description>mistral.ai</description>
+<category>值得关注</category>
+<pubDate>Mon, 19 Oct 2026 12:39:13 +0000</pubDate>
+</item>
+<item>
+<title>线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body</title>
+<link>https://github.com/IsuruMaduranga/harness-engineering-101</link>
+<guid isPermaLink="true">https://github.com/IsuruMaduranga/harness-engineering-101</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Mon, 19 Oct 2026 12:07:41 +0000</pubDate>
+</item>
+<item>
 <title>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理</title>
 <link>https://arxiv.org/abs/2610.18861</link>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.18861</guid>
 <description>arxiv.org</description>
 <category>多源热议</category>
 <pubDate>Sun, 18 Oct 2026 22:42:18 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 的就业形势正在发生怎样的变化</title>
-<link>https://www.anthropic.com/research/employment-at-anthropic</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/employment-at-anthropic</guid>
-<description>www.anthropic.com</description>
-<category>多源热议</category>
-<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
 </item>
 <item>
 <title>网站正纷纷关闭人工智能客服</title>
@@ -152,20 +144,28 @@
 <pubDate>Mon, 19 Oct 2026 07:08:12 +0000</pubDate>
 </item>
 <item>
-<title>Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
-<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
-<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 05:55:31 +0000</pubDate>
-</item>
-<item>
 <title>阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌</title>
 <link>https://www.aibase.com/news/31729</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31729</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 10:43:27 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效</title>
+<link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
+<guid isPermaLink="true">https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</guid>
+<description>www.tomshardware.com</description>
+<category>值得关注</category>
+<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
+</item>
+<item>
+<title>Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling</title>
+<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
+<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Mon, 19 Oct 2026 05:55:31 +0000</pubDate>
 </item>
 </channel>
 </rss>
