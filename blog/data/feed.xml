@@ -5,8 +5,32 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 11:52:11 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 15:56:07 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability</title>
+<link>https://huggingface.co/blog/nvidia/kumo-forecast</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/kumo-forecast</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
+</item>
+<item>
+<title>修补地球：特工发现关键漏洞时进行全球响应协调 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+<guid isPermaLink="true">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 14:03:43 +0000</pubDate>
+</item>
+<item>
+<title>Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet</title>
+<link>https://www.wiz.io/blog/php2shell-php-rce</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/php2shell-php-rce</guid>
+<description>Wiz Research 披露 PHP 核心中的多个内存安全漏洞（CVE-2026-109618/109619，CVSS 最高 9.2），实现无需认证的远程代码执行与内存泄露，影响至少追溯到 PHP 5.4 的近十年版本。（Wiz：Research（安全研究））</description>
+<category>多源热议</category>
+<pubDate>Wed, 21 Oct 2026 14:39:53 +0000</pubDate>
+</item>
 <item>
 <title>宣布推出 SimReady Central：用于机器人和人工智能工厂的仿真就绪 3D 资产开放库 / Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
 <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
@@ -14,6 +38,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 21 Oct 2026 10:59:42 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+<link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+<guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion</title>
@@ -32,28 +64,12 @@
 <pubDate>Tue, 20 Oct 2026 16:05:03 +0000</pubDate>
 </item>
 <item>
-<title>将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository</title>
-<link>https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 18:06:21 +0000</pubDate>
-</item>
-<item>
-<title>FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making</title>
-<link>https://huggingface.co/blog/allenai/fairstress</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/fairstress</guid>
+<title>Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+<link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
-</item>
-<item>
-<title>SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today</title>
-<link>https://x.com/rohanpaul_ai/status/2112768460866695334</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112768460866695334</guid>
-<description>Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 04:50:29 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
 </item>
 <item>
 <title>GitHub秘密扫描更新 / Updates to GitHub secret scanning</title>
@@ -64,20 +80,68 @@
 <pubDate>Tue, 20 Oct 2026 18:03:55 +0000</pubDate>
 </item>
 <item>
+<title>ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI</title>
+<link>https://www.chinatalk.media/p/mofcoms-new-ai-rules</link>
+<guid isPermaLink="true">https://www.chinatalk.media/p/mofcoms-new-ai-rules</guid>
+<description>中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。（ChinaTalk（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud</title>
+<link>https://openai.com/index/openai-models-google-cloud</link>
+<guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today</title>
+<link>https://x.com/rohanpaul_ai/status/2112768460866695334</link>
+<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112768460866695334</guid>
+<description>Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。（X：Rohan Paul (@rohanpaul_ai)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 04:50:29 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 称其模型协助研究人员在披露前发现 PHP 关键漏洞 / OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-so...</title>
+<link>https://x.com/OpenAI/status/2112907856018309586</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2112907856018309586</guid>
+<description>OpenAI 宣布其模型协助 Patch the Planet 计划下的研究人员发现影响约 70% 网站的开源语言 PHP 的关键安全漏洞。过去两个月 OpenAI 牵头维护者、研究人员和安全厂商联盟在披露前完成修复，修复涉及 PHP 引擎的大改动，使用 PHP 的网站现可升级版本并应用厂商缓解措施。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 14:04:23 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</guid>
+<description>OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
+</item>
+<item>
+<title>将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository</title>
+<link>https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 20 Oct 2026 18:06:21 +0000</pubDate>
+</item>
+<item>
+<title>Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials</title>
+<link>https://www.wiz.io/blog/litellm-compromised-steals-credentials</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/litellm-compromised-steals-credentials</guid>
+<description>Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。（Wiz：Research（安全研究））</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 13:44:12 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶</title>
 <link>https://www.aibase.com/news/31780</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31780</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 21 Oct 2026 10:05:51 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
-<link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
 </item>
 <item>
 <title>WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺 / WSJ saw Anthropic’s draft IPO papers: $16.3B revenue in 6 months, $80.7B loss on paper, and about $450B promised for compute</title>
@@ -88,84 +152,20 @@
 <pubDate>Wed, 21 Oct 2026 04:32:45 +0000</pubDate>
 </item>
 <item>
+<title>我们如何构建 ChatGPT 新颖的广告堆栈来提高用户信任度和相关性 / How we built ChatGPT’s novel ad stack for user trust and relevance</title>
+<link>https://openai.com/index/building-chatgpt-ad-stack</link>
+<guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>NVIDIA 在 GTC Berlin 展示 RTX Spark、DGX Spark 和 DGX Station 本地 AI 硬件全线更新 / Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents</title>
 <link>https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync</link>
 <guid isPermaLink="true">https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync</guid>
 <description>NVIDIA 在 GTC Berlin 展示其本地 AI 硬件全线：RTX Spark 面向 Windows PC 个人智能体，DGX Spark 面向 Linux 开发者并支持最多八机集群，DGX Station 提供 748GB 一致内存、面向企业团队，Windows 版 12 月推出。（NVIDIA Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 21 Oct 2026 10:50:37 +0000</pubDate>
-</item>
-<item>
-<title>NVIDIA 联合六家供应链伙伴扩大制造产能 / NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout</title>
-<link>https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</link>
-<guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</guid>
-<description>NVIDIA 在 GTC Berlin 宣布与 Amkor、IBIDEN、KYEC、三星电机、SPIL 和欣兴电子合作扩大基板、先进封装、测试和光引擎产能。基板产能未来三年提升 2.5 倍，Amkor 先进封装产能到 2028 年底提升超 300%，KYEC 获 NVIDIA 11 亿美元产能预留预付款在美国建新厂，SPIL 光引擎产能目标 2027 年中提升 15 倍。（NVIDIA：Newsroom（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 10:33:00 +0000</pubDate>
-</item>
-<item>
-<title>SpaceX 财报显示 AI 业务超预期，占收入 52% / SpaceX’s AI business is beating expectations</title>
-<link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations</guid>
-<description>SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。（TechCrunch：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
-<link>https://x.com/thsottiaux/status/2112712984644784534</link>
-<guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
-<description>OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。（X：Tibo (@thsottiaux)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
-</item>
-<item>
-<title>Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions</title>
-<link>https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 17:13:40 +0000</pubDate>
-</item>
-<item>
-<title>美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器 / Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons</title>
-<link>https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons</link>
-<guid isPermaLink="true">https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons</guid>
-<description>据 The Intercept 获取的文件，美国陆军网络司令部（ARCYBER）正在开发代号 ECHOTRIBBLE 的平台，让 AI 智能体自主在网络间移动、识别并清除威胁目标，之后自毁，且须在极少人工监督下运行。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 12:32:56 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 招股书曝光：半年营收 163 亿却亏 807 亿，算力枷锁越套越紧</title>
-<link>https://www.aibase.com/news/31778</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31778</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 10:05:51 +0000</pubDate>
-</item>
-<item>
-<title>蚂蚁集团与 vLLM 社区开源量化推理内核库 Humming / Announcing Humming: Fast, Flexible Kernels for Quantized Inference</title>
-<link>https://vllm.ai/blog/2026-10-21-humming</link>
-<guid isPermaLink="true">https://vllm.ai/blog/2026-10-21-humming</guid>
-<description>蚂蚁集团与 vLLM 社区开源通用高性能量化推理内核库 Humming，仓库为 github.com/vllm-project/humming。（vLLM 官方博客（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
-<link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy</title>
-<link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy</guid>
-<description>据泄露给华尔街日报的 S-1 文件，Anthropic 难以从 AWS、Google 和 Microsoft 获得足够云算力，这些厂商日益将其视为竞争者而非客户。（TechCrunch：AI（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
 </item>
 </channel>
 </rss>
