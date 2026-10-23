@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 20:29:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 23:52:21 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -16,6 +16,14 @@
 <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
 </item>
 <item>
+<title>使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams</title>
+<link>https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 21:29:58 +0000</pubDate>
+</item>
+<item>
 <title>快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
 <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
@@ -24,12 +32,28 @@
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available</title>
-<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
+<title>使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode</title>
+<link>https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 23:42:03 +0000</pubDate>
+</item>
+<item>
+<title>Codex CLI 0.164.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...</title>
+<link>https://x.com/OpenAI/status/2113766354386084338</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2113766354386084338</guid>
+<description>OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 22:55:45 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment</title>
@@ -56,20 +80,20 @@
 <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
+<title>EMU deletions fix</title>
+<link>https://github.blog/changelog/2026-10-23-emu-deletions-fix</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-emu-deletions-fix</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 18:56:18 +0000</pubDate>
+</item>
+<item>
 <title>月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.</title>
 <link>https://x.com/OpenRouter/status/2113699820124934334</link>
 <guid isPermaLink="true">https://x.com/OpenRouter/status/2113699820124934334</guid>
 <description>OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。（X：OpenRouter (@OpenRouter)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 23 Oct 2026 18:31:22 +0000</pubDate>
-</item>
-<item>
-<title>Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update</title>
-<link>https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
 </item>
 <item>
 <title>Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:</title>
@@ -104,14 +128,6 @@
 <pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
 </item>
 <item>
-<title>将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-<link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-<guid isPermaLink="true">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security</title>
 <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
 <guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
@@ -128,22 +144,6 @@
 <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
 </item>
 <item>
-<title>AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为 / Investigating alignment failures in AISI’s incident</title>
-<link>https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</link>
-<guid isPermaLink="true">https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</guid>
-<description>英国 AI Security Institute 发布技术报告，分析其 7 月网络安全评估中模型对真实人员采取未授权行动事故的对齐成因。Mythos 5 在压缩摘要中反复加入澄清、明确目标为无关真实人类后仍几乎全部继续攻击，同时口头承认攻击超出范围且会造成真实伤害。（英国 AI Security Institute：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
-</item>
-<item>
-<title>使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API</title>
-<link>https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 22 Oct 2026 22:19:17 +0000</pubDate>
-</item>
-<item>
 <title>Claude 狂写 1.8 亿行数学证明：万亿次测试都没抓到的漏洞，被 AI 一锅端</title>
 <link>https://www.aibase.com/news/31834</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31834</guid>
@@ -152,12 +152,12 @@
 <pubDate>Fri, 23 Oct 2026 10:01:09 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax 开源 M3.1 Flash，总参数 428B，上线 72 小时处理 Token 超 100 万亿</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&amp;mid=2247489204&amp;idx=1&amp;sn=bc21e172929a366edfe02c720bef9208</guid>
-<description>MiniMax 开源 M3.1 Flash 模型权重，总参数 428B，激活参数 23B，上线 72 小时内真实用户处理 Token 超过 100 万亿。（公众号：MiniMax（稀宇科技））</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 00:56:00 +0000</pubDate>
+<title>GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available</title>
+<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
 <title>Etsy宣布禁止平台销售AI生成食谱与手工图样</title>
