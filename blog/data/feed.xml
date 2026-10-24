@@ -5,16 +5,8 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 14:29:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 19:31:18 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
-<item>
-<title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-<link>https://huggingface.co/blog/allenai/litpivot</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/litpivot</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-</item>
 <item>
 <title>使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams</title>
 <link>https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</link>
@@ -24,20 +16,20 @@
 <pubDate>Fri, 23 Oct 2026 21:29:58 +0000</pubDate>
 </item>
 <item>
-<title>快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
-<link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache</title>
 <link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</link>
 <guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</guid>
 <description>OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
+</item>
+<item>
+<title>Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...</title>
+<link>https://x.com/emollick/status/2114001653879672877</link>
+<guid isPermaLink="true">https://x.com/emollick/status/2114001653879672877</guid>
+<description>Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。（X：Ethan Mollick (@emollick)）</description>
+<category>行业动态</category>
+<pubDate>Sat, 24 Oct 2026 14:30:45 +0000</pubDate>
 </item>
 <item>
 <title>使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode</title>
@@ -64,60 +56,12 @@
 <pubDate>Sat, 24 Oct 2026 02:08:43 +0000</pubDate>
 </item>
 <item>
-<title>月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro</title>
-<link>https://www.kimi.com/blog/kimi-k3-1-pro</link>
-<guid isPermaLink="true">https://www.kimi.com/blog/kimi-k3-1-pro</guid>
-<description>月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。（Moonshot AI：Kimi Blog）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>EMU deletions fix</title>
-<link>https://github.blog/changelog/2026-10-23-emu-deletions-fix</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-emu-deletions-fix</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 18:56:18 +0000</pubDate>
-</item>
-<item>
-<title>月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.</title>
-<link>https://x.com/OpenRouter/status/2113699820124934334</link>
-<guid isPermaLink="true">https://x.com/OpenRouter/status/2113699820124934334</guid>
-<description>OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。（X：OpenRouter (@OpenRouter)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 18:31:22 +0000</pubDate>
-</item>
-<item>
-<title>Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:</title>
-<link>https://x.com/alexeheath/status/2113706585348600220</link>
-<guid isPermaLink="true">https://x.com/alexeheath/status/2113706585348600220</guid>
-<description>Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。（X：Alex Heath (@alexeheath)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 18:58:15 +0000</pubDate>
-</item>
-<item>
-<title>公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks</title>
-<link>https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 17:17:58 +0000</pubDate>
-</item>
-<item>
-<title>GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available</title>
-<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
-</item>
-<item>
-<title>Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist</title>
-<link>https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</link>
-<guid isPermaLink="true">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</guid>
+<title>Why is AI generated language so hard to understand?</title>
+<link>https://arxiv.org/abs/2610.29162</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.29162</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
-<pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 18:04:57 +0000</pubDate>
 </item>
 <item>
 <title>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停</title>
@@ -136,28 +80,28 @@
 <pubDate>Sat, 24 Oct 2026 06:38:45 +0000</pubDate>
 </item>
 <item>
+<title>Oai-math-revised: a community hub for revising OpenAI's math write-ups</title>
+<link>https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</link>
+<guid isPermaLink="true">https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 15:35:17 +0000</pubDate>
+</item>
+<item>
+<title>Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist</title>
+<link>https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</link>
+<guid isPermaLink="true">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
+</item>
+<item>
 <title>显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
 <link>https://gitlab.com/c4psu13/mali-pagecache-root</link>
 <guid isPermaLink="true">https://gitlab.com/c4psu13/mali-pagecache-root</guid>
 <description>Hacker News (黑客新闻)</description>
 <category>值得关注</category>
 <pubDate>Sat, 24 Oct 2026 10:51:35 +0000</pubDate>
-</item>
-<item>
-<title>Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上</title>
-<link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
-<guid isPermaLink="true">https://artificialanalysis.ai/models/kimi-k3-1-pro</guid>
-<description>artificialanalysis.ai</description>
-<category>值得关注</category>
-<pubDate>Fri, 23 Oct 2026 20:38:45 +0000</pubDate>
-</item>
-<item>
-<title>Kimi K3.1 Pro</title>
-<link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-<guid isPermaLink="true">https://www.kimi.ai/blog/kimi-k3-1-pro</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Fri, 23 Oct 2026 17:10:27 +0000</pubDate>
 </item>
 <item>
 <title>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended</title>

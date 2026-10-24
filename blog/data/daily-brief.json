@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-10-24T14:29:47.397182Z",
+  "generated_at": "2026-10-24T19:31:18.373504Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 13,
   "items": [
-    {
-      "story_id": "story_9e26901013de",
-      "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "primary_url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b69224e941bc64a1248f376042e7bae2625e545e",
-          "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "title_zh": "LitPivot：通过文学景观中的动态情境化发展研究思路",
-          "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "title_original": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/litpivot",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T16:15:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b69224e941bc64a1248f376042e7bae2625e545e",
-          "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "title_zh": "LitPivot：通过文学景观中的动态情境化发展研究思路",
-          "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "title_original": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/litpivot",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T16:15:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7254,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T16:15:50Z",
-      "latest_at": "2026-10-23T16:15:50Z",
-      "primary_item": {
-        "id": "b69224e941bc64a1248f376042e7bae2625e545e",
-        "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-        "title_zh": "LitPivot：通过文学景观中的动态情境化发展研究思路",
-        "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-        "title_original": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/litpivot",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
     {
       "story_id": "story_f72f49ac2b3d",
       "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
@@ -131,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7824,
+        "recency": 0.7276,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_3b83797a0a76",
-      "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "983f1c62955922e36654964f731e9e841ab79d79",
-          "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "title_zh": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分）",
-          "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "983f1c62955922e36654964f731e9e841ab79d79",
-          "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "title_zh": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分）",
-          "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7331,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T17:00:00Z",
-      "latest_at": "2026-10-23T17:00:00Z",
-      "primary_item": {
-        "id": "983f1c62955922e36654964f731e9e841ab79d79",
-        "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "title_zh": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分）",
-        "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
@@ -297,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7893,
-      "importance": 0.7893,
-      "importance_score": 0.7893,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9536,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,7 +165,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
+      }
+    },
+    {
+      "story_id": "story_fbda2c665b46",
+      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+      "url": "https://x.com/emollick/status/2114001653879672877",
+      "primary_url": "https://x.com/emollick/status/2114001653879672877",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T14:30:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T14:30:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9302,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-24T14:30:45Z",
+      "latest_at": "2026-10-24T14:30:45Z",
+      "primary_item": {
+        "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+        "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+        "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+        "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+        "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/emollick/status/2114001653879672877",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
@@ -379,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8076,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,7 +330,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
@@ -462,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7987,
+        "recency": 0.7428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -496,7 +412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
@@ -544,21 +460,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.7781,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-24T02:08:43Z",
       "latest_at": "2026-10-24T02:08:43Z",
@@ -578,536 +493,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
-      "story_id": "story_eb1e57f61cda",
-      "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro",
-      "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-      "primary_url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-      "source": "Moonshot AI：Kimi Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro",
-          "title_zh": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "title_en": "Kimi K3.1 Pro",
-          "title_original": "Kimi K3.1 Pro",
-          "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-          "source": "Moonshot AI：Kimi Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Moonshot AI：Kimi Blog"
-      ],
-      "items": [
-        {
-          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro",
-          "title_zh": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "title_en": "Kimi K3.1 Pro",
-          "title_original": "Kimi K3.1 Pro",
-          "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-          "source": "Moonshot AI：Kimi Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7226,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T16:00:00Z",
-      "latest_at": "2026-10-23T16:00:00Z",
-      "primary_item": {
-        "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-        "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro",
-        "title_zh": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-        "title_en": "Kimi K3.1 Pro",
-        "title_original": "Kimi K3.1 Pro",
-        "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
-        "recommend_reason_zh": null,
-        "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-        "source": "Moonshot AI：Kimi Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_e601481ec54f",
-      "title": "EMU deletions fix",
-      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU deletions fix",
-          "title_zh": null,
-          "title_en": "EMU deletions fix",
-          "title_original": "EMU deletions fix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU deletions fix",
-          "title_zh": null,
-          "title_en": "EMU deletions fix",
-          "title_original": "EMU deletions fix",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7539,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T18:56:18Z",
-      "latest_at": "2026-10-23T18:56:18Z",
-      "primary_item": {
-        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-        "title": "EMU deletions fix",
-        "title_zh": null,
-        "title_en": "EMU deletions fix",
-        "title_original": "EMU deletions fix",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_57f360d69226",
-      "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-      "url": "https://x.com/OpenRouter/status/2113699820124934334",
-      "primary_url": "https://x.com/OpenRouter/status/2113699820124934334",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
-          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-          "title_zh": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-          "title_en": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-          "title_original": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-          "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2113699820124934334",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T18:31:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
-          "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-          "title_zh": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-          "title_en": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-          "title_original": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-          "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenRouter/status/2113699820124934334",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T18:31:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7494,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T18:31:22Z",
-      "latest_at": "2026-10-23T18:31:22Z",
-      "primary_item": {
-        "id": "9f4c3a65315b9743e00c5b6c70f9d290b83f5cc6",
-        "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-        "title_zh": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-        "title_en": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-        "title_original": "Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.",
-        "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenRouter/status/2113699820124934334",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_cec8ba557731",
-      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-      "url": "https://x.com/alexeheath/status/2113706585348600220",
-      "primary_url": "https://x.com/alexeheath/status/2113706585348600220",
-      "source": "X：Alex Heath (@alexeheath)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-          "title_zh": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-          "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-          "title_original": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-          "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexeheath/status/2113706585348600220",
-          "source": "X：Alex Heath (@alexeheath)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T18:58:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alex Heath (@alexeheath)"
-      ],
-      "items": [
-        {
-          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-          "title_zh": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-          "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-          "title_original": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-          "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/alexeheath/status/2113706585348600220",
-          "source": "X：Alex Heath (@alexeheath)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T18:58:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7543,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T18:58:15Z",
-      "latest_at": "2026-10-23T18:58:15Z",
-      "primary_item": {
-        "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职 / Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-        "title_zh": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-        "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-        "title_original": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-        "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/alexeheath/status/2113706585348600220",
-        "source": "X：Alex Heath (@alexeheath)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_b44e0e852702",
-      "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
-      "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-      "primary_url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
-          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
-          "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
-          "title_en": "Public monitoring adds triage, validity, API, and webhooks",
-          "title_original": "Public monitoring adds triage, validity, API, and webhooks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T17:17:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
-          "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
-          "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
-          "title_en": "Public monitoring adds triage, validity, API, and webhooks",
-          "title_original": "Public monitoring adds triage, validity, API, and webhooks",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T17:17:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7363,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T17:17:58Z",
-      "latest_at": "2026-10-23T17:17:58Z",
-      "primary_item": {
-        "id": "b5ab9adf42604bd348a662da8c020d8636a91d7c",
-        "title": "公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks",
-        "title_zh": "公共监控增加了分类、有效性、API 和 webhooks",
-        "title_en": "Public monitoring adds triage, validity, API, and webhooks",
-        "title_original": "Public monitoring adds triage, validity, API, and webhooks",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_3844d9781f45",
-      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7129,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T15:03:30Z",
-      "latest_at": "2026-10-23T15:03:30Z",
-      "primary_item": {
-        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-        "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-        "title_en": "Enterprise installations for GitHub Apps generally available",
-        "title_original": "Enterprise installations for GitHub Apps generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_7f015f6d31aa",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "story_id": "story_547557e54621",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "primary_url": "https://arxiv.org/abs/2610.29162",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "Why is AI generated language so hard to understand?",
+          "title_zh": null,
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "url": "https://arxiv.org/abs/2610.29162",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z"
+          "published_at": "2026-10-24T18:04:57Z"
         },
         {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "Why is AI generated language so hard to understand?",
+          "title_zh": null,
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
+          "url": "https://news.ycombinator.com/item?id=50223647",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
+          "published_at": "2026-10-24T18:04:57Z"
         }
       ],
       "source_count": 2,
@@ -1117,62 +540,62 @@
       ],
       "items": [
         {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "Why is AI generated language so hard to understand?",
+          "title_zh": null,
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "url": "https://arxiv.org/abs/2610.29162",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z"
+          "published_at": "2026-10-24T18:04:57Z"
         },
         {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "Why is AI generated language so hard to understand?",
+          "title_zh": null,
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
+          "url": "https://news.ycombinator.com/item?id=50223647",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
+          "published_at": "2026-10-24T18:04:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9551,
+        "recency": 0.9794,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
+      "earliest_at": "2026-10-24T18:04:57Z",
+      "latest_at": "2026-10-24T18:04:57Z",
       "primary_item": {
-        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+        "title": "Why is AI generated language so hard to understand?",
+        "title_zh": null,
+        "title_en": "Why is AI generated language so hard to understand?",
+        "title_original": "Why is AI generated language so hard to understand?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "url": "https://arxiv.org/abs/2610.29162",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1180,7 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
@@ -1257,15 +680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9275,
+        "recency": 0.8626,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1290,7 +713,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
@@ -1367,15 +790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5153,
+      "importance": 0.5153,
+      "importance_score": 0.5153,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8928,
+        "recency": 0.8303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,7 +823,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
+      }
+    },
+    {
+      "story_id": "story_7fe47d8289ef",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": null,
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": null,
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": null,
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_zh": null,
+          "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9448,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
+      "primary_item": {
+        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+        "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "title_zh": null,
+        "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "title_original": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T19:41:42.009861Z"
+      }
+    },
+    {
+      "story_id": "story_7f015f6d31aa",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8882,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
+      "primary_item": {
+        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
@@ -1477,15 +1120,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9488,
+        "recency": 0.8824,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1510,227 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_c03b3b12c722",
-      "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-      "primary_url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-      "source": "artificialanalysis.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
-          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "title_en": null,
-          "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T20:38:45.451000Z"
-        },
-        {
-          "id": "b22604f6224ace5bd5554cf5dee86e8a15e4a127",
-          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 / Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "title_en": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-          "title_original": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T18:24:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "artificialanalysis.ai"
-      ],
-      "items": [
-        {
-          "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
-          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "title_en": null,
-          "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-          "source": "artificialanalysis.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T20:38:45.451000Z"
-        },
-        {
-          "id": "b22604f6224ace5bd5554cf5dee86e8a15e4a127",
-          "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上 / Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-          "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-          "title_en": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-          "title_original": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T18:24:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5049,
-      "importance": 0.5049,
-      "importance_score": 0.5049,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7728,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-23T18:24:54Z",
-      "latest_at": "2026-10-23T20:38:45.451000Z",
-      "primary_item": {
-        "id": "ae2464b34debfe01ff148708520a7ba7f1a1f6a5",
-        "title": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-        "title_zh": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-        "title_en": null,
-        "title_original": "Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
-        "source": "artificialanalysis.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
-      }
-    },
-    {
-      "story_id": "story_359ed4f7a305",
-      "title": "Kimi K3.1 Pro",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "primary_url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9a31542e1ec0080580e6beef5ad4c6b83ff9dd9c",
-          "title": "Kimi K3.1 Pro",
-          "title_zh": null,
-          "title_en": "Kimi K3.1 Pro",
-          "title_original": "Kimi K3.1 Pro",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T17:10:27Z"
-        },
-        {
-          "id": "9484b94a2c35f42151d0748ac6eb544adb15f69b",
-          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "title_zh": null,
-          "title_en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "title_original": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T16:59:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "9a31542e1ec0080580e6beef5ad4c6b83ff9dd9c",
-          "title": "Kimi K3.1 Pro",
-          "title_zh": null,
-          "title_en": "Kimi K3.1 Pro",
-          "title_original": "Kimi K3.1 Pro",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T17:10:27Z"
-        },
-        {
-          "id": "9484b94a2c35f42151d0748ac6eb544adb15f69b",
-          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "title_zh": null,
-          "title_en": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "title_original": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T16:59:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4981,
-      "importance": 0.4981,
-      "importance_score": 0.4981,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.735,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-23T16:59:08Z",
-      "latest_at": "2026-10-23T17:10:27Z",
-      "primary_item": {
-        "id": "9a31542e1ec0080580e6beef5ad4c6b83ff9dd9c",
-        "title": "Kimi K3.1 Pro",
-        "title_zh": null,
-        "title_en": "Kimi K3.1 Pro",
-        "title_original": "Kimi K3.1 Pro",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     },
     {
@@ -1807,15 +1230,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8824,
+        "recency": 0.8206,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1840,7 +1263,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:31:25.607294Z"
+        "scored_at": "2026-10-24T19:41:42.009861Z"
       }
     }
   ]
