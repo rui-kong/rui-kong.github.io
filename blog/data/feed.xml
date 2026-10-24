@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 09:30:36 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 12:44:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
@@ -14,14 +14,6 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment</title>
-<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Sat, 24 Oct 2026 06:38:45 +0000</pubDate>
 </item>
 <item>
 <title>使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams</title>
@@ -38,6 +30,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache</title>
+<link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</link>
+<guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</guid>
+<description>OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
 </item>
 <item>
 <title>使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode</title>
@@ -96,22 +96,6 @@
 <pubDate>Fri, 23 Oct 2026 18:58:15 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion</title>
-<link>https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion</guid>
-<description>OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 09:49:38 +0000</pubDate>
-</item>
-<item>
-<title>Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.</title>
-<link>https://x.com/fal/status/2113646807997620396</link>
-<guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
-<description>fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。（X：fal (@fal)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
-</item>
-<item>
 <title>公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks</title>
 <link>https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks</guid>
@@ -128,6 +112,14 @@
 <pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
+<title>Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist</title>
+<link>https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</link>
+<guid isPermaLink="true">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 11:18:54 +0000</pubDate>
+</item>
+<item>
 <title>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停</title>
 <link>https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</link>
 <guid isPermaLink="true">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</guid>
@@ -136,20 +128,20 @@
 <pubDate>Sat, 24 Oct 2026 09:16:58 +0000</pubDate>
 </item>
 <item>
-<title>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended</title>
-<link>https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</link>
-<guid isPermaLink="true">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</guid>
-<description>Hacker News (黑客新闻)</description>
+<title>保障我们的前沿模型训练环境安全</title>
+<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+<description>openai.com</description>
 <category>值得关注</category>
-<pubDate>Sat, 24 Oct 2026 05:49:57 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 06:38:45 +0000</pubDate>
 </item>
 <item>
-<title>瑞典政府机构将禁止使用ChatGPT和Claude</title>
-<link>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</link>
-<guid isPermaLink="true">https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</guid>
-<description>www.sverigesradio.se</description>
-<category>多源热议</category>
-<pubDate>Fri, 23 Oct 2026 16:26:53 +0000</pubDate>
+<title>显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706</title>
+<link>https://gitlab.com/c4psu13/mali-pagecache-root</link>
+<guid isPermaLink="true">https://gitlab.com/c4psu13/mali-pagecache-root</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 10:51:35 +0000</pubDate>
 </item>
 <item>
 <title>Kimi K3.1 在“人工分析”中得分为 55，位于帕累托线上</title>
@@ -166,6 +158,14 @@
 <description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Fri, 23 Oct 2026 17:10:27 +0000</pubDate>
+</item>
+<item>
+<title>黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended</title>
+<link>https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</link>
+<guid isPermaLink="true">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds</guid>
+<description>Hacker News (黑客新闻)</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 05:49:57 +0000</pubDate>
 </item>
 </channel>
 </rss>
