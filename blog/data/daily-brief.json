@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-10-24T23:18:04.576042Z",
+  "generated_at": "2026-10-25T01:07:41.707771Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "items": [
-    {
-      "story_id": "story_84a11f0b50ca",
-      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
-          "title_en": "Usage metrics API adds usage from tools like OpenCode",
-          "title_original": "Usage metrics API adds usage from tools like OpenCode",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
-          "title_en": "Usage metrics API adds usage from tools like OpenCode",
-          "title_original": "Usage metrics API adds usage from tools like OpenCode",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7112,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T23:42:03Z",
-      "latest_at": "2026-10-23T23:42:03Z",
-      "primary_item": {
-        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-        "title_zh": "使用指标 API 添加了 OpenCode 等工具的使用情况",
-        "title_en": "Usage metrics API adds usage from tools like OpenCode",
-        "title_original": "Usage metrics API adds usage from tools like OpenCode",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
-      }
-    },
     {
       "story_id": "story_57b57c29f36c",
       "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
@@ -131,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8398,
+        "recency": 0.8179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
+        "scored_at": "2026-10-25T01:08:32.270299Z"
       }
     },
     {
@@ -213,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
+        "scored_at": "2026-10-25T01:08:32.270299Z"
       }
     },
     {
@@ -295,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7368,
+        "recency": 0.7176,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,44 +245,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
+        "scored_at": "2026-10-25T01:08:32.270299Z"
       }
     },
     {
-      "story_id": "story_45843157ba03",
-      "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "story_id": "story_3864a885bd39",
+      "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
-          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
-          "title_en": "No signs of AI payoff outside the tech sector",
-          "title_original": "No signs of AI payoff outside the tech sector",
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "title_zh": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
+          "title_en": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "title_original": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T19:47:19Z"
+          "published_at": "2026-10-24T23:11:54Z"
         },
         {
-          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
-          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
-          "title_en": "No signs of AI payoff outside the tech sector",
-          "title_original": "No signs of AI payoff outside the tech sector",
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "title_zh": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
+          "title_en": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "title_original": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50224463",
+          "url": "https://news.ycombinator.com/item?id=50226419",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T19:47:19Z"
+          "published_at": "2026-10-24T23:11:54Z"
         }
       ],
       "source_count": 2,
@@ -375,62 +292,62 @@
       ],
       "items": [
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
-          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
-          "title_en": "No signs of AI payoff outside the tech sector",
-          "title_original": "No signs of AI payoff outside the tech sector",
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "title_zh": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
+          "title_en": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "title_original": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T19:47:19Z"
+          "published_at": "2026-10-24T23:11:54Z"
         },
         {
-          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
-          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
-          "title_en": "No signs of AI payoff outside the tech sector",
-          "title_original": "No signs of AI payoff outside the tech sector",
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "title_zh": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
+          "title_en": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "title_original": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50224463",
+          "url": "https://news.ycombinator.com/item?id=50226419",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T19:47:19Z"
+          "published_at": "2026-10-24T23:11:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9505,
+        "recency": 0.9725,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T19:47:19Z",
-      "latest_at": "2026-10-24T19:47:19Z",
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-24T23:11:54Z",
       "primary_item": {
-        "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-        "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
-        "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
-        "title_en": "No signs of AI payoff outside the tech sector",
-        "title_original": "No signs of AI payoff outside the tech sector",
+        "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+        "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "title_zh": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？",
+        "title_en": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "title_original": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -438,7 +355,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
+        "scored_at": "2026-10-25T01:08:32.270299Z"
+      }
+    },
+    {
+      "story_id": "story_205702091b68",
+      "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+      "primary_url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+      "source": "www.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": null,
+          "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "www.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T09:16:58.436000Z"
+        },
+        {
+          "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T05:49:57Z"
+        },
+        {
+          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
+          "title": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50218633",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T05:49:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": null,
+          "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "www.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T09:16:58.436000Z"
+        },
+        {
+          "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T05:49:57Z"
+        },
+        {
+          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
+          "title": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50218633",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T05:49:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7955,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T05:49:57Z",
+      "latest_at": "2026-10-24T09:16:58.436000Z",
+      "primary_item": {
+        "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+        "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "title_en": null,
+        "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+        "source": "www.reddit.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T01:08:32.270299Z"
       }
     },
     {
@@ -515,15 +571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8411,
+        "recency": 0.8192,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -548,31 +604,127 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
+        "scored_at": "2026-10-25T01:08:32.270299Z"
       }
     },
     {
-      "story_id": "story_6161b4bb2fd9",
-      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://news.ycombinator.com/item?id=50220042",
-      "primary_url": "https://news.ycombinator.com/item?id=50220042",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_45843157ba03",
+      "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
+          "published_at": "2026-10-24T19:47:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T19:47:19Z"
         },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T19:47:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9258,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T19:47:19Z",
+      "latest_at": "2026-10-24T19:47:19Z",
+      "primary_item": {
+        "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+        "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+        "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+        "title_en": "No signs of AI payoff outside the tech sector",
+        "title_original": "No signs of AI payoff outside the tech sector",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T01:08:32.270299Z"
+      }
+    },
+    {
+      "story_id": "story_48b1a6c85b6c",
+      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "primary_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
         {
           "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
           "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
@@ -585,6 +737,20 @@
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
+          "published_at": "2026-10-24T10:51:35Z"
+        },
+        {
+          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220042",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
           "published_at": "2026-10-24T10:51:35Z"
         }
       ],
@@ -595,20 +761,6 @@
       ],
       "items": [
         {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
           "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
           "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
           "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
@@ -621,19 +773,33 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-24T10:51:35Z"
+        },
+        {
+          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
+          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220042",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T10:51:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8356,
+        "recency": 0.8138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -643,132 +809,22 @@
       "earliest_at": "2026-10-24T10:51:35Z",
       "latest_at": "2026-10-24T10:51:35Z",
       "primary_item": {
-        "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+        "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
         "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
         "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
         "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
         "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50220042",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
-      }
-    },
-    {
-      "story_id": "story_ee7d66d8886a",
-      "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-      "primary_url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-      "source": "www.reddit.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "title_en": null,
-          "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "www.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T09:16:58.436000Z"
-        },
-        {
-          "id": "2819a6faaed3a5b28d75864cef92fbf34b4c747f",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverse engineers his Samsung TV and finds on-board AI listening for sounds of dog and baby, proceeds to get his account suspended by OpenAI",
-          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "title_en": "Hacker reverse engineers his Samsung TV and finds on-board AI listening for sounds of dog and baby, proceeds to get his account suspended by OpenAI",
-          "title_original": "Hacker reverse engineers his Samsung TV and finds on-board AI listening for sounds of dog and baby, proceeds to get his account suspended by OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T00:50:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Reddit (热门)",
-        "www.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "title_en": null,
-          "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "www.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T09:16:58.436000Z"
-        },
-        {
-          "id": "2819a6faaed3a5b28d75864cef92fbf34b4c747f",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverse engineers his Samsung TV and finds on-board AI listening for sounds of dog and baby, proceeds to get his account suspended by OpenAI",
-          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "title_en": "Hacker reverse engineers his Samsung TV and finds on-board AI listening for sounds of dog and baby, proceeds to get his account suspended by OpenAI",
-          "title_original": "Hacker reverse engineers his Samsung TV and finds on-board AI listening for sounds of dog and baby, proceeds to get his account suspended by OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T00:50:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8167,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T00:50:17Z",
-      "latest_at": "2026-10-24T09:16:58.436000Z",
-      "primary_item": {
-        "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
-        "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-        "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-        "title_en": null,
-        "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-        "source": "www.reddit.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
+        "scored_at": "2026-10-25T01:08:32.270299Z"
       }
     },
     {
@@ -845,15 +901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9274,
+        "recency": 0.9033,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -878,7 +934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
+        "scored_at": "2026-10-25T01:08:32.270299Z"
       }
     },
     {
@@ -955,15 +1011,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8946,
+        "recency": 0.8713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -988,117 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
-      }
-    },
-    {
-      "story_id": "story_205702091b68",
-      "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-      "primary_url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T05:49:57Z"
-        },
-        {
-          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
-          "title": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "title_zh": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停",
-          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50218633",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T05:49:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
-          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T05:49:57Z"
-        },
-        {
-          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
-          "title": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "title_zh": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停",
-          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50218633",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T05:49:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.777,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T05:49:57Z",
-      "latest_at": "2026-10-24T05:49:57Z",
-      "primary_item": {
-        "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
-        "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
-        "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T23:18:54.535704Z"
+        "scored_at": "2026-10-25T01:08:32.270299Z"
       }
     }
   ]
