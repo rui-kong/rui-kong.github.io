@@ -1,89 +1,8 @@
 {
-  "generated_at": "2026-10-25T09:47:14.259236Z",
+  "generated_at": "2026-10-25T13:13:29.550993Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 7,
   "items": [
-    {
-      "story_id": "story_57b57c29f36c",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "primary_url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7218,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-24T11:12:36Z",
-      "latest_at": "2026-10-24T11:12:36Z",
-      "primary_item": {
-        "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-        "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
-      }
-    },
     {
       "story_id": "story_fbda2c665b46",
       "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
@@ -129,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.757,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -162,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
+        "scored_at": "2026-10-25T13:14:09.240610Z"
       }
     },
     {
@@ -268,15 +187,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5639,
-      "importance": 0.5639,
-      "importance_score": 0.5639,
+      "score": 0.5556,
+      "importance": 0.5556,
+      "importance_score": 0.5556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9619,
+        "recency": 0.9153,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -301,285 +220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
-      }
-    },
-    {
-      "story_id": "story_547557e54621",
-      "title": "为什么人工智能生成的语言这么难懂？",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "primary_url": "https://arxiv.org/abs/2610.29162",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
-          "title": "为什么人工智能生成的语言这么难懂？",
-          "title_zh": "为什么人工智能生成的语言这么难懂？",
-          "title_en": null,
-          "title_original": "为什么人工智能生成的语言这么难懂？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.29162",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T01:04:53.068000Z"
-        },
-        {
-          "id": "879fc971a93f7c2827fe677aba2181d5ffdf67cd",
-          "title": "为什么人工智能生成的语言这么难懂？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言这么难懂？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.29162",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:04:57Z"
-        },
-        {
-          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50223647",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T18:04:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
-          "title": "为什么人工智能生成的语言这么难懂？",
-          "title_zh": "为什么人工智能生成的语言这么难懂？",
-          "title_en": null,
-          "title_original": "为什么人工智能生成的语言这么难懂？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.29162",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T01:04:53.068000Z"
-        },
-        {
-          "id": "879fc971a93f7c2827fe677aba2181d5ffdf67cd",
-          "title": "为什么人工智能生成的语言这么难懂？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言这么难懂？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2610.29162",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T18:04:57Z"
-        },
-        {
-          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "title_zh": "为什么人工智能生成的语言如此难以理解？",
-          "title_en": "Why is AI generated language so hard to understand?",
-          "title_original": "Why is AI generated language so hard to understand?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50223647",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T18:04:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5495,
-      "importance": 0.5495,
-      "importance_score": 0.5495,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8819,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T18:04:57Z",
-      "latest_at": "2026-10-25T01:04:53.068000Z",
-      "primary_item": {
-        "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
-        "title": "为什么人工智能生成的语言这么难懂？",
-        "title_zh": "为什么人工智能生成的语言这么难懂？",
-        "title_en": null,
-        "title_original": "为什么人工智能生成的语言这么难懂？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2610.29162",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
-      }
-    },
-    {
-      "story_id": "story_45843157ba03",
-      "title": "科技行业以外尚未出现人工智能带来回报的迹象",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "source": "www.apollo.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
-          "title": "科技行业以外尚未出现人工智能带来回报的迹象",
-          "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
-          "title_en": null,
-          "title_original": "科技行业以外尚未出现人工智能带来回报的迹象",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "www.apollo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T01:04:53.332000Z"
-        },
-        {
-          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
-          "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
-          "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
-          "title_en": "No signs of AI payoff outside the tech sector",
-          "title_original": "No signs of AI payoff outside the tech sector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T19:47:19Z"
-        },
-        {
-          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
-          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
-          "title_en": "No signs of AI payoff outside the tech sector",
-          "title_original": "No signs of AI payoff outside the tech sector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50224463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T19:47:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.apollo.com"
-      ],
-      "items": [
-        {
-          "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
-          "title": "科技行业以外尚未出现人工智能带来回报的迹象",
-          "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
-          "title_en": null,
-          "title_original": "科技行业以外尚未出现人工智能带来回报的迹象",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "www.apollo.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T01:04:53.332000Z"
-        },
-        {
-          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
-          "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
-          "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
-          "title_en": "No signs of AI payoff outside the tech sector",
-          "title_original": "No signs of AI payoff outside the tech sector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T19:47:19Z"
-        },
-        {
-          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
-          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
-          "title_en": "No signs of AI payoff outside the tech sector",
-          "title_original": "No signs of AI payoff outside the tech sector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50224463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T19:47:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5495,
-      "importance": 0.5495,
-      "importance_score": 0.5495,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8819,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T19:47:19Z",
-      "latest_at": "2026-10-25T01:04:53.332000Z",
-      "primary_item": {
-        "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
-        "title": "科技行业以外尚未出现人工智能带来回报的迹象",
-        "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
-        "title_en": null,
-        "title_original": "科技行业以外尚未出现人工智能带来回报的迹象",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-        "source": "www.apollo.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
+        "scored_at": "2026-10-25T13:14:09.240610Z"
       }
     },
     {
@@ -685,15 +326,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5495,
-      "importance": 0.5495,
-      "importance_score": 0.5495,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8819,
+        "recency": 0.8392,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -718,7 +359,395 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
+        "scored_at": "2026-10-25T13:14:09.240610Z"
+      }
+    },
+    {
+      "story_id": "story_547557e54621",
+      "title": "为什么人工智能生成的语言这么难懂？",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "primary_url": "https://arxiv.org/abs/2610.29162",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
+          "title": "为什么人工智能生成的语言这么难懂？",
+          "title_zh": "为什么人工智能生成的语言这么难懂？",
+          "title_en": null,
+          "title_original": "为什么人工智能生成的语言这么难懂？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:04:53.068000Z"
+        },
+        {
+          "id": "879fc971a93f7c2827fe677aba2181d5ffdf67cd",
+          "title": "为什么人工智能生成的语言这么难懂？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言这么难懂？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:04:57Z"
+        },
+        {
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
+          "title": "为什么人工智能生成的语言这么难懂？",
+          "title_zh": "为什么人工智能生成的语言这么难懂？",
+          "title_en": null,
+          "title_original": "为什么人工智能生成的语言这么难懂？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:04:53.068000Z"
+        },
+        {
+          "id": "879fc971a93f7c2827fe677aba2181d5ffdf67cd",
+          "title": "为什么人工智能生成的语言这么难懂？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言这么难懂？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T18:04:57Z"
+        },
+        {
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "title_zh": "为什么人工智能生成的语言如此难以理解？",
+          "title_en": "Why is AI generated language so hard to understand?",
+          "title_original": "Why is AI generated language so hard to understand?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8392,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T18:04:57Z",
+      "latest_at": "2026-10-25T01:04:53.068000Z",
+      "primary_item": {
+        "id": "0af8ca4b122746efe09059bba6b54dd4b5085bcd",
+        "title": "为什么人工智能生成的语言这么难懂？",
+        "title_zh": "为什么人工智能生成的语言这么难懂？",
+        "title_en": null,
+        "title_original": "为什么人工智能生成的语言这么难懂？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2610.29162",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T13:14:09.240610Z"
+      }
+    },
+    {
+      "story_id": "story_45843157ba03",
+      "title": "科技行业以外尚未出现人工智能带来回报的迹象",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "www.apollo.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
+          "title": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "title_en": null,
+          "title_original": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "www.apollo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:04:53.332000Z"
+        },
+        {
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
+          "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
+          "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T19:47:19Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.apollo.com"
+      ],
+      "items": [
+        {
+          "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
+          "title": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "title_en": null,
+          "title_original": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "www.apollo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:04:53.332000Z"
+        },
+        {
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
+          "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
+          "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "title_zh": "没有迹象表明人工智能在科技领域之外获得回报",
+          "title_en": "No signs of AI payoff outside the tech sector",
+          "title_original": "No signs of AI payoff outside the tech sector",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T19:47:19Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8392,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T19:47:19Z",
+      "latest_at": "2026-10-25T01:04:53.332000Z",
+      "primary_item": {
+        "id": "cee1b9009ac684fdfc06fa5c0a868ff4b811e98a",
+        "title": "科技行业以外尚未出现人工智能带来回报的迹象",
+        "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
+        "title_en": null,
+        "title_original": "科技行业以外尚未出现人工智能带来回报的迹象",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "source": "www.apollo.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T13:14:09.240610Z"
+      }
+    },
+    {
+      "story_id": "story_51c532abbbad",
+      "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "primary_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+          "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T09:51:17Z"
+        },
+        {
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+          "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50229827",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T09:51:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+          "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T09:51:17Z"
+        },
+        {
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+          "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50229827",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T09:51:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9525,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T09:51:17Z",
+      "latest_at": "2026-10-25T09:51:17Z",
+      "primary_item": {
+        "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+        "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+        "title_zh": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔",
+        "title_en": "Nikon photography contest winner loses title after scientists spot signs of AI",
+        "title_original": "Nikon photography contest winner loses title after scientists spot signs of AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-25T13:14:09.240610Z"
       }
     },
     {
@@ -795,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7689,
+        "recency": 0.7317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -825,230 +854,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
-      }
-    },
-    {
-      "story_id": "story_7f015f6d31aa",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4959,
-      "importance": 0.4959,
-      "importance_score": 0.4959,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7229,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
-      "primary_item": {
-        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
-        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
-      }
-    },
-    {
-      "story_id": "story_48b1a6c85b6c",
-      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "primary_url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-          "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4951,
-      "importance": 0.4951,
-      "importance_score": 0.4951,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7181,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T10:51:35Z",
-      "latest_at": "2026-10-24T10:51:35Z",
-      "primary_item": {
-        "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-        "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "title_zh": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root",
-        "title_en": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "title_original": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-25T09:47:58.494072Z"
+        "scored_at": "2026-10-25T13:14:09.240610Z"
       }
     }
   ]
