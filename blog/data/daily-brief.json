@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:38:50.850536Z",
+  "generated_at": "2026-10-25T09:47:14.259236Z",
   "window_hours": 24,
   "total_items": 9,
   "items": [
@@ -48,21 +48,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7444,
+        "recency": 0.7218,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-24T11:12:36Z",
       "latest_at": "2026-10-24T11:12:36Z",
@@ -82,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     },
     {
@@ -130,15 +129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7808,
+        "recency": 0.757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -163,7 +162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     },
     {
@@ -269,15 +268,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5694,
-      "importance": 0.5694,
-      "importance_score": 0.5694,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9921,
+        "recency": 0.9619,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -302,7 +301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     },
     {
@@ -408,15 +407,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9095,
+        "recency": 0.8819,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -441,7 +440,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     },
     {
@@ -467,7 +466,7 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -475,9 +474,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -497,7 +496,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.apollo.com"
       ],
@@ -517,7 +516,7 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "title_zh": "科技行业以外尚未出现人工智能带来回报的迹象",
           "title_en": "No signs of AI payoff outside the tech sector",
@@ -525,9 +524,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -547,15 +546,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9095,
+        "recency": 0.8819,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -580,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     },
     {
@@ -686,15 +685,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9096,
+        "recency": 0.8819,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -719,7 +718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     },
     {
@@ -727,11 +726,11 @@
       "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
       "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "id": "8edb78d4281318f7283191af552c8732be334942",
           "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
           "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
           "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
@@ -739,9 +738,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T15:35:17Z"
         },
         {
@@ -761,12 +760,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "id": "8edb78d4281318f7283191af552c8732be334942",
           "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
           "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
           "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
@@ -774,9 +773,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T15:35:17Z"
         },
         {
@@ -796,15 +795,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5085,
-      "importance": 0.5085,
-      "importance_score": 0.5085,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.793,
+        "recency": 0.7689,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -814,7 +813,7 @@
       "earliest_at": "2026-10-24T15:35:17Z",
       "latest_at": "2026-10-24T15:35:17Z",
       "primary_item": {
-        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+        "id": "8edb78d4281318f7283191af552c8732be334942",
         "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
         "title_zh": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心",
         "title_en": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
@@ -822,14 +821,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     },
     {
@@ -906,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5,
-      "importance": 0.5,
-      "importance_score": 0.5,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7456,
+        "recency": 0.7229,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -939,7 +938,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     },
     {
@@ -1016,15 +1015,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7407,
+        "recency": 0.7181,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1049,7 +1048,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-25T07:39:53.342795Z"
+        "scored_at": "2026-10-25T09:47:58.494072Z"
       }
     }
   ]
