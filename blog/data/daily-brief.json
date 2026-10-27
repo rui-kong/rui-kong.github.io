@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:02:48.351985Z",
+  "generated_at": "2026-10-27T06:18:16.428585Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8744,
-      "importance": 0.8744,
-      "importance_score": 0.8744,
+      "score": 0.8653,
+      "importance": 0.8653,
+      "importance_score": 0.8653,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8464,
+        "recency": 0.7959,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9067,
+        "recency": 0.8526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,90 +225,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
-      }
-    },
-    {
-      "story_id": "story_6a3f26655d84",
-      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8498,
-      "importance": 0.8498,
-      "importance_score": 0.8498,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9432,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
-      "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
-        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -356,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.865,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -391,7 +308,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
+      }
+    },
+    {
+      "story_id": "story_6a3f26655d84",
+      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+          "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
+      "primary_item": {
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "title_zh": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查",
+        "title_en": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "title_original": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T06:19:17.172491Z"
+      }
+    },
+    {
+      "story_id": "story_f280b6805186",
+      "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+          "title_zh": "GitHub Copilot 辅助权限正式可用",
+          "title_en": "GitHub Copilot assisted permissions generally available",
+          "title_original": "GitHub Copilot assisted permissions generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:31:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+          "title_zh": "GitHub Copilot 辅助权限正式可用",
+          "title_en": "GitHub Copilot assisted permissions generally available",
+          "title_original": "GitHub Copilot assisted permissions generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:31:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8937,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T22:31:30Z",
+      "latest_at": "2026-10-26T22:31:30Z",
+      "primary_item": {
+        "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+        "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+        "title_zh": "GitHub Copilot 辅助权限正式可用",
+        "title_en": "GitHub Copilot assisted permissions generally available",
+        "title_original": "GitHub Copilot assisted permissions generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -439,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -473,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -521,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9656,
+        "recency": 0.908,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -603,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.979,
+        "recency": 0.9206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -637,7 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -685,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.899,
+        "recency": 0.8454,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -719,7 +802,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -767,15 +850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -801,7 +884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -849,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8797,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,7 +966,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
+      }
+    },
+    {
+      "story_id": "story_25503928f74e",
+      "title": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+      "url": "https://www.aibase.com/news/31890",
+      "primary_url": "https://www.aibase.com/news/31890",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54480c49d7d7a5584d7f869194ce7ac43a65ba6f",
+          "title": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+          "title_zh": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+          "title_en": null,
+          "title_original": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T06:18:16.428585Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "54480c49d7d7a5584d7f869194ce7ac43a65ba6f",
+          "title": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+          "title_zh": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+          "title_en": null,
+          "title_original": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31890",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T06:18:16.428585Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T06:18:16.428585Z",
+      "latest_at": "2026-10-27T06:18:16.428585Z",
+      "primary_item": {
+        "id": "54480c49d7d7a5584d7f869194ce7ac43a65ba6f",
+        "title": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+        "title_zh": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+        "title_en": null,
+        "title_original": "630 亿美元巨额债务交易敲定：博通CEO亲自救场，为Anthropic算力狂飙保驾护航",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31890",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -931,15 +1096,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8373,
+        "recency": 0.7874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -966,89 +1131,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
-      }
-    },
-    {
-      "story_id": "story_0b6b95c1ee23",
-      "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-      "url": "https://www.aibase.com/news/31878",
-      "primary_url": "https://www.aibase.com/news/31878",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "title_zh": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "title_en": null,
-          "title_original": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T02:02:48.351985Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "title_zh": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "title_en": null,
-          "title_original": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T02:02:48.351985Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T02:02:48.351985Z",
-      "latest_at": "2026-10-27T02:02:48.351985Z",
-      "primary_item": {
-        "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-        "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-        "title_zh": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-        "title_en": null,
-        "title_original": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31878",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -1096,21 +1179,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8543,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T19:24:11Z",
       "latest_at": "2026-10-26T19:24:11Z",
@@ -1130,89 +1212,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
-      }
-    },
-    {
-      "story_id": "story_f2c9ffc07e2d",
-      "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-      "url": "https://x.com/Kling_ai/status/2114574035468386746",
-      "primary_url": "https://x.com/Kling_ai/status/2114574035468386746",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "360d453c51af0b38d7fbbb5102312331975585fb",
-          "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-          "title_zh": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
-          "title_en": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-          "title_original": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-          "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kling_ai/status/2114574035468386746",
-          "source": "X：可灵 Kling AI (@Kling_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T04:25:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：可灵 Kling AI (@Kling_ai)"
-      ],
-      "items": [
-        {
-          "id": "360d453c51af0b38d7fbbb5102312331975585fb",
-          "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-          "title_zh": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
-          "title_en": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-          "title_original": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-          "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Kling_ai/status/2114574035468386746",
-          "source": "X：可灵 Kling AI (@Kling_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T04:25:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7318,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T04:25:11Z",
-      "latest_at": "2026-10-26T04:25:11Z",
-      "primary_item": {
-        "id": "360d453c51af0b38d7fbbb5102312331975585fb",
-        "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频 / Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-        "title_zh": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
-        "title_en": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-        "title_original": "Check out the creator guides in the comments to get more out of #Kling4. #KlingAI",
-        "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Kling_ai/status/2114574035468386746",
-        "source": "X：可灵 Kling AI (@Kling_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -1260,21 +1260,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T12:31:31Z",
       "latest_at": "2026-10-26T12:31:31Z",
@@ -1294,89 +1293,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
-      }
-    },
-    {
-      "story_id": "story_b7cd9e29b365",
-      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "primary_url": "https://x.com/gdb/status/2114814747254432243",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-          "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-          "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-          "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-          "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-          "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-          "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9212,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T20:21:41Z",
-      "latest_at": "2026-10-26T20:21:41Z",
-      "primary_item": {
-        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-        "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-        "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-        "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-        "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2114814747254432243",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -1424,21 +1341,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.7864,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T13:39:40Z",
       "latest_at": "2026-10-26T13:39:40Z",
@@ -1458,7 +1374,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
+      }
+    },
+    {
+      "story_id": "story_b7cd9e29b365",
+      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+      "url": "https://x.com/gdb/status/2114814747254432243",
+      "primary_url": "https://x.com/gdb/status/2114814747254432243",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+          "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7405,
+      "importance": 0.7405,
+      "importance_score": 0.7405,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8662,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T20:21:41Z",
+      "latest_at": "2026-10-26T20:21:41Z",
+      "primary_item": {
+        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人 / computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "title_zh": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "title_original": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
+        "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -1506,15 +1503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.901,
+        "recency": 0.8473,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1539,30 +1536,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
-      "story_id": "story_3fae56a90b2c",
-      "title": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
-      "url": "https://www.aibase.com/news/31880",
-      "primary_url": "https://www.aibase.com/news/31880",
+      "story_id": "story_1481d59b4fb2",
+      "title": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+      "url": "https://www.aibase.com/news/31891",
+      "primary_url": "https://www.aibase.com/news/31891",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "29eaee258df57d059e176c01919682c85ed7c45c",
-          "title": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
-          "title_zh": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
+          "id": "e7fd14c06484c4cc9177c3c8feb541943ef21e2d",
+          "title": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+          "title_zh": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
           "title_en": null,
-          "title_original": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
+          "title_original": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31880",
+          "url": "https://www.aibase.com/news/31891",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-27T02:02:48.351985Z"
+          "published_at": "2026-10-27T06:18:16.428585Z"
         }
       ],
       "source_count": 1,
@@ -1571,18 +1568,18 @@
       ],
       "items": [
         {
-          "id": "29eaee258df57d059e176c01919682c85ed7c45c",
-          "title": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
-          "title_zh": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
+          "id": "e7fd14c06484c4cc9177c3c8feb541943ef21e2d",
+          "title": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+          "title_zh": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
           "title_en": null,
-          "title_original": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
+          "title_original": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31880",
+          "url": "https://www.aibase.com/news/31891",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-27T02:02:48.351985Z"
+          "published_at": "2026-10-27T06:18:16.428585Z"
         }
       ],
       "item_count": 1,
@@ -1603,17 +1600,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-27T02:02:48.351985Z",
-      "latest_at": "2026-10-27T02:02:48.351985Z",
+      "earliest_at": "2026-10-27T06:18:16.428585Z",
+      "latest_at": "2026-10-27T06:18:16.428585Z",
       "primary_item": {
-        "id": "29eaee258df57d059e176c01919682c85ed7c45c",
-        "title": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
-        "title_zh": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
+        "id": "e7fd14c06484c4cc9177c3c8feb541943ef21e2d",
+        "title": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
+        "title_zh": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
         "title_en": null,
-        "title_original": "OpenAI 发 GPT-6.1 Terra：会自己操作电脑，性价比甩开旗舰",
+        "title_original": "Anthropic 七联创身价均破 900 亿，承诺捐出八成股份",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31880",
+        "url": "https://www.aibase.com/news/31891",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1621,7 +1618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     },
     {
@@ -1669,15 +1666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1702,7 +1699,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-27T02:04:07.945302Z"
+        "scored_at": "2026-10-27T06:19:17.172491Z"
       }
     }
   ]
