@@ -1,91 +1,8 @@
 {
-  "generated_at": "2026-10-29T19:36:46.029353Z",
+  "generated_at": "2026-10-29T21:49:59.378965Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_c461d6d5cb69",
-      "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "primary_url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
-          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
-          "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-          "title_en": "An updated Model Spec for more capable and beneficial AI",
-          "title_original": "An updated Model Spec for more capable and beneficial AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/updated-model-spec",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
-          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
-          "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-          "title_en": "An updated Model Spec for more capable and beneficial AI",
-          "title_original": "An updated Model Spec for more capable and beneficial AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/updated-model-spec",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.963,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T17:00:00Z",
-      "latest_at": "2026-10-29T17:00:00Z",
-      "primary_item": {
-        "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
-        "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
-        "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
-        "title_en": "An updated Model Spec for more capable and beneficial AI",
-        "title_original": "An updated Model Spec for more capable and beneficial AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/updated-model-spec",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
-      }
-    },
     {
       "story_id": "story_46b030e91541",
       "title": "Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software",
@@ -131,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9171,
+        "recency": 0.8881,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
+      }
+    },
+    {
+      "story_id": "story_c461d6d5cb69",
+      "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "primary_url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+          "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+          "title_en": "An updated Model Spec for more capable and beneficial AI",
+          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+          "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+          "title_en": "An updated Model Spec for more capable and beneficial AI",
+          "title_original": "An updated Model Spec for more capable and beneficial AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9326,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T17:00:00Z",
+      "latest_at": "2026-10-29T17:00:00Z",
+      "primary_item": {
+        "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+        "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+        "title_zh": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+        "title_en": "An updated Model Spec for more capable and beneficial AI",
+        "title_original": "An updated Model Spec for more capable and beneficial AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9664,
+        "recency": 0.9359,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
+      }
+    },
+    {
+      "story_id": "story_07aef458424a",
+      "title": "Codex CLI 0.166.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
+          "title": "Codex CLI 0.166.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.166.0",
+          "title_original": "Codex CLI 0.166.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
+          "title": "Codex CLI 0.166.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.166.0",
+          "title_original": "Codex CLI 0.166.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-29T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7296,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T00:00:00Z",
+      "latest_at": "2026-10-29T00:00:00Z",
+      "primary_item": {
+        "id": "5f129a8c62ca18f67e3a6dc084f88a81b979c7d1",
+        "title": "Codex CLI 0.166.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.166.0",
+        "title_original": "Codex CLI 0.166.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -326,15 +409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.927,
+        "recency": 0.8977,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -361,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -409,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8579,
+        "recency": 0.8308,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -492,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7848,
+      "importance": 0.7848,
+      "importance_score": 0.7848,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9937,
+        "recency": 0.9624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,89 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
-      }
-    },
-    {
-      "story_id": "story_bbff85cd6612",
-      "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "primary_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
-          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
-          "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
-          "title_en": "Anthropic is asking Wall Street to believe in AGI",
-          "title_original": "Anthropic is asking Wall Street to believe in AGI",
-          "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
-          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
-          "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
-          "title_en": "Anthropic is asking Wall Street to believe in AGI",
-          "title_original": "Anthropic is asking Wall Street to believe in AGI",
-          "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9221,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T14:00:00Z",
-      "latest_at": "2026-10-29T14:00:00Z",
-      "primary_item": {
-        "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
-        "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
-        "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
-        "title_en": "Anthropic is asking Wall Street to believe in AGI",
-        "title_original": "Anthropic is asking Wall Street to believe in AGI",
-        "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -656,15 +657,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7534,
+        "recency": 0.7296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -691,7 +692,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
+      }
+    },
+    {
+      "story_id": "story_bbff85cd6612",
+      "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "primary_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+          "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+          "title_en": "Anthropic is asking Wall Street to believe in AGI",
+          "title_original": "Anthropic is asking Wall Street to believe in AGI",
+          "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+          "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+          "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+          "title_en": "Anthropic is asking Wall Street to believe in AGI",
+          "title_original": "Anthropic is asking Wall Street to believe in AGI",
+          "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.893,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T14:00:00Z",
+      "latest_at": "2026-10-29T14:00:00Z",
+      "primary_item": {
+        "id": "eaa05489664eb686d3790e0f001f5a3916b3292f",
+        "title": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI",
+        "title_zh": "SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账",
+        "title_en": "Anthropic is asking Wall Street to believe in AGI",
+        "title_original": "Anthropic is asking Wall Street to believe in AGI",
+        "summary": "The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T21:51:10.669674Z"
+      }
+    },
+    {
+      "story_id": "story_0087c066e962",
+      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "primary_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:08:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:08:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9759,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T20:08:31Z",
+      "latest_at": "2026-10-29T20:08:31Z",
+      "primary_item": {
+        "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "title_zh": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+        "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "title_original": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -739,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -821,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8739,
+        "recency": 0.8463,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,7 +1020,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -903,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.822,
-      "importance": 0.822,
-      "importance_score": 0.822,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8335,
+        "recency": 0.8072,
         "story_heat": 0.0
       },
       "category": "official",
@@ -938,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -986,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7534,
+        "recency": 0.7296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1021,7 +1186,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
+      }
+    },
+    {
+      "story_id": "story_5bd93b57d1e7",
+      "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+      "url": "https://x.com/Khazix0918/status/2115898252004622617",
+      "primary_url": "https://x.com/Khazix0918/status/2115898252004622617",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "479ec0f01777064a89f096e800d825396401f30f",
+          "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+          "title_zh": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+          "title_en": null,
+          "title_original": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+          "summary": "Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2115898252004622617",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:07:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "479ec0f01777064a89f096e800d825396401f30f",
+          "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+          "title_zh": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+          "title_en": null,
+          "title_original": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+          "summary": "Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2115898252004622617",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:07:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9756,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T20:07:09Z",
+      "latest_at": "2026-10-29T20:07:09Z",
+      "primary_item": {
+        "id": "479ec0f01777064a89f096e800d825396401f30f",
+        "title": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+        "title_zh": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+        "title_en": null,
+        "title_original": "Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型",
+        "summary": "Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Khazix0918/status/2115898252004622617",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -1069,15 +1316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9009,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1102,7 +1349,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -1150,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.9326,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1183,88 +1430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
-      }
-    },
-    {
-      "story_id": "story_14c5a77fa731",
-      "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-      "url": "https://www.aibase.com/news/31963",
-      "primary_url": "https://www.aibase.com/news/31963",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
-          "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "title_en": null,
-          "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31963",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:29:45.755523Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
-          "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "title_en": null,
-          "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31963",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:29:45.755523Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8894,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T11:29:45.755523Z",
-      "latest_at": "2026-10-29T11:29:45.755523Z",
-      "primary_item": {
-        "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
-        "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-        "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-        "title_en": null,
-        "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31963",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -1312,15 +1478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7382,
+        "recency": 0.7149,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,7 +1511,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
+      }
+    },
+    {
+      "story_id": "story_14c5a77fa731",
+      "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+      "url": "https://www.aibase.com/news/31963",
+      "primary_url": "https://www.aibase.com/news/31963",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
+          "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "title_en": null,
+          "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31963",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T11:29:45.755523Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
+          "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "title_en": null,
+          "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31963",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T11:29:45.755523Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8613,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T11:29:45.755523Z",
+      "latest_at": "2026-10-29T11:29:45.755523Z",
+      "primary_item": {
+        "id": "0a7b2baf88b11f83471d85713278a9b5078476c8",
+        "title": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+        "title_zh": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+        "title_en": null,
+        "title_original": "AI删文件终于可以不用再问了！Claude Code上线全新环境变量，赋予开发者绝对放行权限",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31963",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     },
     {
@@ -1393,15 +1640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7764,
-      "importance": 0.7764,
-      "importance_score": 0.7764,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9155,
+        "recency": 0.8866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1427,251 +1674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
-      }
-    },
-    {
-      "story_id": "story_c14931de3608",
-      "title": "Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude",
-      "url": "https://x.com/addyosmani/status/2115688494865465370",
-      "primary_url": "https://x.com/addyosmani/status/2115688494865465370",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-          "title": "Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude",
-          "title_zh": "Addy Osmani 谈你可能对 Claude 过度提示了",
-          "title_en": "You're probably overprompting Claude",
-          "title_original": "You're probably overprompting Claude",
-          "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/addyosmani/status/2115688494865465370",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T06:13:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Addy Osmani (@addyosmani)"
-      ],
-      "items": [
-        {
-          "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-          "title": "Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude",
-          "title_zh": "Addy Osmani 谈你可能对 Claude 过度提示了",
-          "title_en": "You're probably overprompting Claude",
-          "title_original": "You're probably overprompting Claude",
-          "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/addyosmani/status/2115688494865465370",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T06:13:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8242,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T06:13:39Z",
-      "latest_at": "2026-10-29T06:13:39Z",
-      "primary_item": {
-        "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-        "title": "Addy Osmani 谈你可能对 Claude 过度提示了 / You're probably overprompting Claude",
-        "title_zh": "Addy Osmani 谈你可能对 Claude 过度提示了",
-        "title_en": "You're probably overprompting Claude",
-        "title_original": "You're probably overprompting Claude",
-        "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/addyosmani/status/2115688494865465370",
-        "source": "X：Addy Osmani (@addyosmani)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
-      }
-    },
-    {
-      "story_id": "story_7bfb05411041",
-      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-      "url": "https://x.com/GeminiApp/status/2115845164824711247",
-      "primary_url": "https://x.com/GeminiApp/status/2115845164824711247",
-      "source": "X：Gemini (@GeminiApp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
-          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2115845164824711247",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T16:36:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Gemini (@GeminiApp)"
-      ],
-      "items": [
-        {
-          "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
-          "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-          "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-          "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GeminiApp/status/2115845164824711247",
-          "source": "X：Gemini (@GeminiApp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T16:36:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9575,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-29T16:36:12Z",
-      "latest_at": "2026-10-29T16:36:12Z",
-      "primary_item": {
-        "id": "e3a83054d7dbc4ee60d48dfb632ba4de622fe78a",
-        "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能 / You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-        "title_zh": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-        "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-        "title_original": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-        "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GeminiApp/status/2115845164824711247",
-        "source": "X：Gemini (@GeminiApp)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
-      }
-    },
-    {
-      "story_id": "story_ae566d8a584d",
-      "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-      "primary_url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
-          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-          "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T13:42:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
-          "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-          "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-          "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T13:42:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9183,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T13:42:38Z",
-      "latest_at": "2026-10-29T13:42:38Z",
-      "primary_item": {
-        "id": "47edff69b7dec3baffdce5a806a6f1d7d70cd875",
-        "title": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-        "title_zh": "纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋",
-        "title_en": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-        "title_original": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-        "summary": "据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T19:37:41.401174Z"
+        "scored_at": "2026-10-29T21:51:10.669674Z"
       }
     }
   ]
