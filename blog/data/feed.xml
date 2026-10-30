@@ -5,16 +5,8 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 30 Oct 2026 11:22:45 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 14:11:19 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
-<item>
-<title>Granite Switch 4.1.1 — 像更新软件一样更新模型 / Granite Switch 4.1.1 — Update models like you update software</title>
-<link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
-</item>
 <item>
 <title>OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI</title>
 <link>https://openai.com/index/updated-model-spec</link>
@@ -40,6 +32,14 @@
 <pubDate>Thu, 29 Oct 2026 23:49:53 +0000</pubDate>
 </item>
 <item>
+<title>The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</guid>
+<description>The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
+</item>
+<item>
 <title>Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络 / What Google and Reddit's bad days have in common</title>
 <link>https://www.platformer.news/thursday-newsletter-6</link>
 <guid isPermaLink="true">https://www.platformer.news/thursday-newsletter-6</guid>
@@ -54,6 +54,14 @@
 <description>Alphabet 因 AI 搜索概要影响广告收入，单日市值从 3.97 万亿跌至 3.46 万亿美元，缩水超 5000 亿美元。该季度总营收增 25% 至 1276 亿美元，云业务营收增 103% 至近 310 亿美元，但利润下降 25%，自由现金流为负超 90 亿美元。（Hacker News：AI 热帖）</description>
 <category>行业动态</category>
 <pubDate>Thu, 29 Oct 2026 21:52:13 +0000</pubDate>
+</item>
+<item>
+<title>Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update</title>
+<link>https://epochai.substack.com/p/glm-patch-gap-exploit-firefox</link>
+<guid isPermaLink="true">https://epochai.substack.com/p/glm-patch-gap-exploit-firefox</guid>
+<description>Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。（Epoch AI：Gradient Updates（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 12:07:16 +0000</pubDate>
 </item>
 <item>
 <title>AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务</title>
@@ -80,28 +88,12 @@
 <pubDate>Thu, 29 Oct 2026 19:10:41 +0000</pubDate>
 </item>
 <item>
-<title>SemiAnalysis 分析师解读 Anthropic S-1 招股书背后的 AI 经济账 / Anthropic is asking Wall Street to believe in AGI</title>
-<link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
-<guid isPermaLink="true">https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</guid>
-<description>The Verge Decoder 节目邀请 SemiAnalysis 分析师 Joey Brookhart 解读 Anthropic 提交的 S-1 招股书，公司拟在纳斯达克上市，估值区间 1.5 万亿至 2 万亿美元。（The Verge：AI（RSS））</description>
+<title>Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元 / Our customers’ ambition is accelerating our growth</title>
+<link>https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth</link>
+<guid isPermaLink="true">https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth</guid>
+<description>Sierra 宣布本周 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元，从 2 亿到 4 亿仅用五个月，快于此前六个月的翻倍节奏。（Sierra：Blog（RSS））</description>
 <category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Cursor 扩展市场发现恶意版 Anthropic.claude-code 2.1.313，最多 4100 名用户受影响 / Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace</title>
-<link>https://cursor.com/blog/claude-code-extension-security-notice</link>
-<guid isPermaLink="true">https://cursor.com/blog/claude-code-extension-security-notice</guid>
-<description>Cursor 官方披露，其 VS Code 扩展市场中的 Anthropic.claude-code 2.1.313 为恶意篡改版本，并非 Anthropic 开发，在 10 月 29 日 2:27am PT 至 1:35pm PT 期间上架，最多影响 4100 名用户。（Cursor Blog）</description>
-<category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</guid>
-<description>月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。（公众号：月之暗面（Kimi））</description>
-<category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 04:04:56 +0000</pubDate>
+<pubDate>Fri, 30 Oct 2026 12:50:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个 / Claude Opus vs Sonnet vs Haiku: Which Should You Use?</title>
@@ -112,12 +104,12 @@
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
-<link>https://www.aibase.com/news/31995</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31995</guid>
-<description>AIbase</description>
+<title>Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&amp;mid=2247484364&amp;idx=1&amp;sn=42491c3f098deb797ee8f2a17d147b3a</guid>
+<description>月之暗面（Kimi）发布官方教程，详解 Kimi K3.1 Pro 的 3D 创作工作流程，说明参数化建模与网格化建模两种方式及对应工具选择。文章分享了 4 个案例的具体操作，包括在 Unreal Engine 中构建东方天宫、制作可 3D 打印的台灯、纯代码调用 Blender 生成建筑、用 Tripo 和 Blender 搭建微缩城市，并给出图胜于言、先搭灰模再细化等 5 个使用技巧。（公众号：月之暗面（Kimi））</description>
 <category>行业动态</category>
-<pubDate>Fri, 30 Oct 2026 11:22:45 +0000</pubDate>
+<pubDate>Fri, 30 Oct 2026 04:04:56 +0000</pubDate>
 </item>
 <item>
 <title>Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户 / We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...</title>
@@ -136,12 +128,12 @@
 <pubDate>Thu, 29 Oct 2026 14:27:32 +0000</pubDate>
 </item>
 <item>
-<title>纽约时报称中国情报人员瞄准英伟达 CEO 黄仁勋 / Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times</title>
-<link>https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times</link>
-<guid isPermaLink="true">https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times</guid>
-<description>据《纽约时报》报道，美国情报机构认为英伟达 CEO 黄仁勋身边一名高管为中国提供情报，此人是新加坡数据中心运营商 Megaspeed 的 Alice Huang（黄乐）。（The Decoder：AI News（RSS））</description>
+<title>Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”</title>
+<link>https://www.aibase.com/news/31995</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31995</guid>
+<description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 13:42:38 +0000</pubDate>
+<pubDate>Fri, 30 Oct 2026 11:22:45 +0000</pubDate>
 </item>
 <item>
 <title>Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍</title>
@@ -152,20 +144,28 @@
 <pubDate>Thu, 29 Oct 2026 16:56:07 +0000</pubDate>
 </item>
 <item>
-<title>Pika 基于MiniMax H3后训练并开源 Pika H3 Flex 视频生成模型</title>
-<link>https://x.com/Khazix0918/status/2115898252004622617</link>
-<guid isPermaLink="true">https://x.com/Khazix0918/status/2115898252004622617</guid>
-<description>Pika Labs 在 MiniMax H3 上做后训练，推出并开源 Pika H3 Flex，采样步数从 50 步压缩到 6 步，生成时间大幅降低且质量有所提升。（X：卡兹克 (@Khazix0918)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 20:07:09 +0000</pubDate>
-</item>
-<item>
 <title>Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience</title>
 <link>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience</guid>
 <description>Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。（TechCrunch：AI（RSS））</description>
 <category>行业动态</category>
 <pubDate>Thu, 29 Oct 2026 20:08:31 +0000</pubDate>
+</item>
+<item>
+<title>Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师</title>
+<link>https://www.aibase.com/news/31994</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31994</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 11:22:45 +0000</pubDate>
+</item>
+<item>
+<title>在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑</title>
+<link>https://www.aibase.com/news/31992</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31992</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 30 Oct 2026 11:22:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
