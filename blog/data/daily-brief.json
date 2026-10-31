@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T10:54:14.034262Z",
+  "generated_at": "2026-10-31T16:03:54.403851Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_3b4867ca19cb",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7829,
+        "recency": 0.7267,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,148 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
-      }
-    },
-    {
-      "story_id": "story_54217e411546",
-      "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T14:50:37.797000Z"
-        },
-        {
-          "id": "e06d9d208536879852607392fe6a21e79fc19076",
-          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50306008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T16:13:02Z"
-        },
-        {
-          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
-          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
-          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost concerns",
-          "title_original": "US tech stocks see sharp falls over AI cost concerns",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T15:01:56Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "Hacker News：AI 热帖",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-          "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T14:50:37.797000Z"
-        },
-        {
-          "id": "e06d9d208536879852607392fe6a21e79fc19076",
-          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
-          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost fears",
-          "title_original": "US tech stocks see sharp falls over AI cost fears",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50306008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T16:13:02Z"
-        },
-        {
-          "id": "40e8591821b3a633dce307f3ff9f2123499fc1ce",
-          "title": "人工智能成本担忧导致美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost concerns",
-          "title_zh": "人工智能成本担忧导致美国科技股大幅下跌",
-          "title_en": "US tech stocks see sharp falls over AI cost concerns",
-          "title_original": "US tech stocks see sharp falls over AI cost concerns",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-30T15:01:56Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7485,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T14:50:37.797000Z",
-      "latest_at": "2026-10-30T16:13:02Z",
-      "primary_item": {
-        "id": "6c14a361c65aced5a0db8dc9f8018190b69f4b70",
-        "title": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30% / US tech stocks see sharp falls over AI cost fears",
-        "title_zh": "AI 支出担忧引发美股科技股连日下跌，Intel 盘中跌逾 30%",
-        "title_en": "US tech stocks see sharp falls over AI cost fears",
-        "title_original": "US tech stocks see sharp falls over AI cost fears",
-        "summary": "BBC 报道称，因担忧企业对 AI 的巨额投资回报，美股科技股连续第二日大跌。",
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -272,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8404,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -306,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -354,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8551,
+        "recency": 0.7937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -436,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8216,
+        "recency": 0.7626,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -518,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8976,
+        "recency": 0.8331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -552,7 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -600,21 +459,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.775,
+        "recency": 0.7194,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T17:15:24Z",
       "latest_at": "2026-10-30T17:15:24Z",
@@ -634,88 +492,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
-      }
-    },
-    {
-      "story_id": "story_4c05b26f3043",
-      "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-          "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-          "title_en": "Silicon Valley wants you to invest in miracles",
-          "title_original": "Silicon Valley wants you to invest in miracles",
-          "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T13:11:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-          "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-          "title_en": "Silicon Valley wants you to invest in miracles",
-          "title_original": "Silicon Valley wants you to invest in miracles",
-          "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T13:11:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7308,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T13:11:05Z",
-      "latest_at": "2026-10-30T13:11:05Z",
-      "primary_item": {
-        "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
-        "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露 / Silicon Valley wants you to invest in miracles",
-        "title_zh": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
-        "title_en": "Silicon Valley wants you to invest in miracles",
-        "title_original": "Silicon Valley wants you to invest in miracles",
-        "summary": "The Verge 分析 Anthropic 提交的 335 页 S-1 招股书，其中创始人信以带来奇迹时代为愿景，同时用 94 页风险因素警告模型可能对人类构成灾难性甚至生存风险。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -763,15 +540,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8543,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -796,7 +573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -844,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8709,
+        "recency": 0.8084,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -878,250 +655,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
-      }
-    },
-    {
-      "story_id": "story_dfe72b41cb92",
-      "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-      "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-      "primary_url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-          "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-          "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-          "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-          "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-          "recommend_reason_zh": null,
-          "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T12:07:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Epoch AI：Gradient Updates（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-          "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-          "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-          "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-          "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-          "recommend_reason_zh": null,
-          "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-          "source": "Epoch AI：Gradient Updates（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T12:07:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7196,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T12:07:16Z",
-      "latest_at": "2026-10-30T12:07:16Z",
-      "primary_item": {
-        "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
-        "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox / AI can turn public security fixes into working exploits before users receive an update",
-        "title_zh": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
-        "title_en": "AI can turn public security fixes into working exploits before users receive an update",
-        "title_original": "AI can turn public security fixes into working exploits before users receive an update",
-        "summary": "Epoch AI 实验发现，Z.ai 八月发布的开源权重模型 GLM 5.3 能利用 Mozilla 已发布但未推送给用户的安全补丁（patch gap），自主构建网页攻击，仅访问页面即可读取访客电脑文件，攻破 9 月 17 日至 10 月 26 日发布的全部六个 Firefox 版本。",
-        "recommend_reason_zh": null,
-        "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
-        "source": "Epoch AI：Gradient Updates（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
-      }
-    },
-    {
-      "story_id": "story_9185a97dc649",
-      "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-      "primary_url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-      "source": "Figma AI / Agent / Make",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-          "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-          "source": "Figma AI / Agent / Make",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:58:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Figma AI / Agent / Make"
-      ],
-      "items": [
-        {
-          "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-          "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-          "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-          "recommend_reason_zh": null,
-          "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-          "source": "Figma AI / Agent / Make",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:58:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7225,
-      "importance": 0.7225,
-      "importance_score": 0.7225,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8663,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-31T00:58:00Z",
-      "latest_at": "2026-10-31T00:58:00Z",
-      "primary_item": {
-        "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
-        "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用 / The TL;DR on Figma Weave: Make your creative process repeatable",
-        "title_zh": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
-        "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
-        "title_original": "The TL;DR on Figma Weave: Make your creative process repeatable",
-        "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
-        "recommend_reason_zh": null,
-        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
-        "source": "Figma AI / Agent / Make",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
-      }
-    },
-    {
-      "story_id": "story_996c96ecf698",
-      "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?",
-      "url": "https://x.com/_philschmid/status/2116235686445502608",
-      "primary_url": "https://x.com/_philschmid/status/2116235686445502608",
-      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cb5f5c6347d148e9fce23a7eb8d7b96b5915d0e2",
-          "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?",
-          "title_zh": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
-          "title_en": "This incredible. Gemma 4 became the first LLM to run in space?",
-          "title_original": "This incredible. Gemma 4 became the first LLM to run in space?",
-          "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/_philschmid/status/2116235686445502608",
-          "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T18:28:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)"
-      ],
-      "items": [
-        {
-          "id": "cb5f5c6347d148e9fce23a7eb8d7b96b5915d0e2",
-          "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?",
-          "title_zh": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
-          "title_en": "This incredible. Gemma 4 became the first LLM to run in space?",
-          "title_original": "This incredible. Gemma 4 became the first LLM to run in space?",
-          "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/_philschmid/status/2116235686445502608",
-          "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T18:28:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7887,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T18:28:00Z",
-      "latest_at": "2026-10-30T18:28:00Z",
-      "primary_item": {
-        "id": "cb5f5c6347d148e9fce23a7eb8d7b96b5915d0e2",
-        "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应 / This incredible. Gemma 4 became the first LLM to run in space?",
-        "title_zh": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
-        "title_en": "This incredible. Gemma 4 became the first LLM to run in space?",
-        "title_original": "This incredible. Gemma 4 became the first LLM to run in space?",
-        "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/_philschmid/status/2116235686445502608",
-        "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -1227,15 +761,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6554,
-      "importance": 0.6554,
-      "importance_score": 0.6554,
+      "score": 0.6446,
+      "importance": 0.6446,
+      "importance_score": 0.6446,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8284,
+        "recency": 0.7689,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1260,7 +794,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -1336,15 +870,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5772,
-      "importance": 0.5772,
-      "importance_score": 0.5772,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7875,
+        "recency": 0.7309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1369,7 +903,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
+      }
+    },
+    {
+      "story_id": "story_f00d1511750a",
+      "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "primary_url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T14:29:03Z"
+        },
+        {
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T14:29:03Z"
+        },
+        {
+          "id": "2fbf6cba9b889328487f1bc849376fbe9494e0bd",
+          "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+          "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+          "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+          "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50316531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T14:29:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9774,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T14:29:03Z",
+      "latest_at": "2026-10-31T14:29:03Z",
+      "primary_item": {
+        "id": "3f177b06167d62c2517789bc881e85ec2139520f",
+        "title": "恶意软件利用LLM根据受害者的价值对受害者进行排名 / Malware uses LLMs to rank victims by how much they're worth",
+        "title_zh": "恶意软件利用LLM根据受害者的价值对受害者进行排名",
+        "title_en": "Malware uses LLMs to rank victims by how much they're worth",
+        "title_original": "Malware uses LLMs to rank victims by how much they're worth",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T16:04:58.100407Z"
+      }
+    },
+    {
+      "story_id": "story_57d101ca8a1e",
+      "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "primary_url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z"
+        },
+        {
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T10:30:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-31T10:30:11Z"
+        },
+        {
+          "id": "934d68c05ad88dcc7c0a9b160d855a9498033dbb",
+          "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+          "title_zh": "我们接管了 ChatGPT 帐户",
+          "title_en": "We Took over ChatGPT Accounts",
+          "title_original": "We Took over ChatGPT Accounts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50314699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-31T10:30:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9228,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-31T10:30:11Z",
+      "latest_at": "2026-10-31T10:30:11Z",
+      "primary_item": {
+        "id": "d1b37851ccd47d57a5ddfc02b730a996a91764c9",
+        "title": "我们接管了 ChatGPT 帐户 / We Took over ChatGPT Accounts",
+        "title_zh": "我们接管了 ChatGPT 帐户",
+        "title_en": "We Took over ChatGPT Accounts",
+        "title_original": "We Took over ChatGPT Accounts",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -1446,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7773,
+        "recency": 0.7215,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1476,120 +1230,10 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
-      }
-    },
-    {
-      "story_id": "story_5c9ab191da5a",
-      "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-      "primary_url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "4449f28adc6082015cc57b54227df4a51a74f9da",
-          "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-          "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T14:08:20Z"
-        },
-        {
-          "id": "eeb812ad4d2a5f92cc8a0d7407c3c3ffc5883ee0",
-          "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-          "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50304122",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T14:08:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4449f28adc6082015cc57b54227df4a51a74f9da",
-          "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-          "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T14:08:20Z"
-        },
-        {
-          "id": "eeb812ad4d2a5f92cc8a0d7407c3c3ffc5883ee0",
-          "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-          "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50304122",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-30T14:08:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4992,
-      "importance": 0.4992,
-      "importance_score": 0.4992,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7409,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T14:08:20Z",
-      "latest_at": "2026-10-30T14:08:20Z",
-      "primary_item": {
-        "id": "4449f28adc6082015cc57b54227df4a51a74f9da",
-        "title": "思科为工程师提供无限的人工智能代币来重写遗留代码 / Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-        "title_zh": "思科为工程师提供无限的人工智能代币来重写遗留代码",
-        "title_en": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-        "title_original": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
@@ -1666,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5056,
-      "importance": 0.5056,
-      "importance_score": 0.5056,
+      "score": 0.4956,
+      "importance": 0.4956,
+      "importance_score": 0.4956,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7768,
+        "recency": 0.721,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1696,47 +1340,47 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     },
     {
-      "story_id": "story_c3fe6dd57f01",
-      "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "primary_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "story_id": "story_54217e411546",
+      "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "8464d5764c1574df8460de35d378fde4110722f5",
-          "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-          "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-          "title_en": "AI isn't replacing SREs, it's deskilling them",
-          "title_original": "AI isn't replacing SREs, it's deskilling them",
+          "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-30T15:52:18Z"
+          "published_at": "2026-10-30T16:13:02Z"
         },
         {
-          "id": "aa514f7cf9016c28a7db84aa117a350f56ed3623",
-          "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-          "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-          "title_en": "AI isn't replacing SREs, it's deskilling them",
-          "title_original": "AI isn't replacing SREs, it's deskilling them",
+          "id": "e06d9d208536879852607392fe6a21e79fc19076",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50305693",
+          "url": "https://news.ycombinator.com/item?id=50306008",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T15:52:18Z"
+          "published_at": "2026-10-30T16:13:02Z"
         }
       ],
       "source_count": 2,
@@ -1746,180 +1390,70 @@
       ],
       "items": [
         {
-          "id": "8464d5764c1574df8460de35d378fde4110722f5",
-          "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-          "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-          "title_en": "AI isn't replacing SREs, it's deskilling them",
-          "title_original": "AI isn't replacing SREs, it's deskilling them",
+          "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-30T15:52:18Z"
+          "published_at": "2026-10-30T16:13:02Z"
         },
         {
-          "id": "aa514f7cf9016c28a7db84aa117a350f56ed3623",
-          "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-          "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-          "title_en": "AI isn't replacing SREs, it's deskilling them",
-          "title_original": "AI isn't replacing SREs, it's deskilling them",
+          "id": "e06d9d208536879852607392fe6a21e79fc19076",
+          "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+          "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+          "title_en": "US tech stocks see sharp falls over AI cost fears",
+          "title_original": "US tech stocks see sharp falls over AI cost fears",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50305693",
+          "url": "https://news.ycombinator.com/item?id=50306008",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-30T15:52:18Z"
+          "published_at": "2026-10-30T16:13:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5025,
-      "importance": 0.5025,
-      "importance_score": 0.5025,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7597,
+        "recency": 0.7087,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-30T15:52:18Z",
-      "latest_at": "2026-10-30T15:52:18Z",
+      "earliest_at": "2026-10-30T16:13:02Z",
+      "latest_at": "2026-10-30T16:13:02Z",
       "primary_item": {
-        "id": "8464d5764c1574df8460de35d378fde4110722f5",
-        "title": "人工智能并没有取代 SRE，而是降低了他们的技能 / AI isn't replacing SREs, it's deskilling them",
-        "title_zh": "人工智能并没有取代 SRE，而是降低了他们的技能",
-        "title_en": "AI isn't replacing SREs, it's deskilling them",
-        "title_original": "AI isn't replacing SREs, it's deskilling them",
+        "id": "fa344b2538623d64664ef23b1d689f297e040a38",
+        "title": "由于人工智能成本担忧，美国科技股大幅下跌 / US tech stocks see sharp falls over AI cost fears",
+        "title_zh": "由于人工智能成本担忧，美国科技股大幅下跌",
+        "title_en": "US tech stocks see sharp falls over AI cost fears",
+        "title_original": "US tech stocks see sharp falls over AI cost fears",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
-      }
-    },
-    {
-      "story_id": "story_d8de33a67bb7",
-      "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-      "url": "https://sketch.wakeshift.ai/games/q5ucru",
-      "primary_url": "https://sketch.wakeshift.ai/games/q5ucru",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "02df335aa1704af20934f9f84715f3116f9a69f4",
-          "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-          "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketch.wakeshift.ai/games/q5ucru",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T15:23:11Z"
-        },
-        {
-          "id": "1f086bf4a66a3296f1828af657f51edd215d3e5d",
-          "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-          "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketch.wakeshift.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T15:23:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "02df335aa1704af20934f9f84715f3116f9a69f4",
-          "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-          "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketch.wakeshift.ai/games/q5ucru",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-30T15:23:11Z"
-        },
-        {
-          "id": "1f086bf4a66a3296f1828af657f51edd215d3e5d",
-          "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-          "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sketch.wakeshift.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-30T15:23:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7544,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T15:23:11Z",
-      "latest_at": "2026-10-30T15:23:11Z",
-      "primary_item": {
-        "id": "02df335aa1704af20934f9f84715f3116f9a69f4",
-        "title": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary / Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "title_zh": "Show HN: Sketch Stadium – 观看你的经纪人玩Pictionary",
-        "title_en": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "title_original": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sketch.wakeshift.ai/games/q5ucru",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-31T10:55:01.845478Z"
+        "scored_at": "2026-10-31T16:04:58.100407Z"
       }
     }
   ]
