@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-11-03T07:56:19.904405Z",
+  "generated_at": "2026-11-03T12:45:19.836769Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_aa1d1403b32a",
+      "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "primary_url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+          "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+          "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+          "title_en": "Heimstaden is changing residential real estate management with AI",
+          "title_original": "Heimstaden is changing residential real estate management with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/heimstaden",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+          "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+          "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+          "title_en": "Heimstaden is changing residential real estate management with AI",
+          "title_original": "Heimstaden is changing residential real estate management with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/heimstaden",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9336,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T08:00:00Z",
+      "latest_at": "2026-11-03T08:00:00Z",
+      "primary_item": {
+        "id": "cda4db2ea45f4f4caf900ff21adfcb74badec6df",
+        "title": "Heimstaden 正在利用人工智能改变住宅房地产管理 / Heimstaden is changing residential real estate management with AI",
+        "title_zh": "Heimstaden 正在利用人工智能改变住宅房地产管理",
+        "title_en": "Heimstaden is changing residential real estate management with AI",
+        "title_original": "Heimstaden is changing residential real estate management with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/heimstaden",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T12:46:09.489666Z"
+      }
+    },
     {
       "story_id": "story_5d294462667a",
       "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8917,
+        "recency": 0.8318,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,173 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
+      }
+    },
+    {
+      "story_id": "story_734406bf8820",
+      "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+      "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+      "primary_url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+          "title_en": "GitHub Desktop adds short-lived authentication tokens",
+          "title_original": "GitHub Desktop adds short-lived authentication tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T07:55:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+          "title_en": "GitHub Desktop adds short-lived authentication tokens",
+          "title_original": "GitHub Desktop adds short-lived authentication tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T07:55:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9327,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T07:55:58Z",
+      "latest_at": "2026-11-03T07:55:58Z",
+      "primary_item": {
+        "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+        "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+        "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+        "title_en": "GitHub Desktop adds short-lived authentication tokens",
+        "title_original": "GitHub Desktop adds short-lived authentication tokens",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T12:46:09.489666Z"
+      }
+    },
+    {
+      "story_id": "story_0e2e48e223fc",
+      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in October 2026",
+          "title_original": "The latest AI news we announced in October 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in October 2026",
+          "title_original": "The latest AI news we announced in October 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.76,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T17:45:00Z",
+      "latest_at": "2026-11-02T17:45:00Z",
+      "primary_item": {
+        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+        "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
+        "title_en": "The latest AI news we announced in October 2026",
+        "title_original": "The latest AI news we announced in October 2026",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
@@ -160,15 +409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.839,
-      "importance": 0.839,
-      "importance_score": 0.839,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7887,
+        "recency": 0.7357,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,90 +445,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
-      "story_id": "story_0e2e48e223fc",
-      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_51b22de8c23f",
+      "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+      "url": "https://www.aibase.com/news/32053",
+      "primary_url": "https://www.aibase.com/news/32053",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in October 2026",
-          "title_original": "The latest AI news we announced in October 2026",
+          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
+          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_en": null,
+          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z"
+          "url": "https://www.aibase.com/news/32053",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-          "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-          "title_en": "The latest AI news we announced in October 2026",
-          "title_original": "The latest AI news we announced in October 2026",
+          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
+          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_en": null,
+          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T17:45:00Z"
+          "url": "https://www.aibase.com/news/32053",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8147,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-02T17:45:00Z",
-      "latest_at": "2026-11-02T17:45:00Z",
+      "earliest_at": "2026-11-03T12:45:19.836769Z",
+      "latest_at": "2026-11-03T12:45:19.836769Z",
       "primary_item": {
-        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
-        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
-        "title_zh": "我们于 2026 年 10 月公布的最新 AI 新闻",
-        "title_en": "The latest AI news we announced in October 2026",
-        "title_original": "The latest AI news we announced in October 2026",
+        "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
+        "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "title_en": null,
+        "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32053",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
@@ -327,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.792,
+        "recency": 0.7388,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
@@ -410,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8177,
+        "recency": 0.7627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +693,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
+      }
+    },
+    {
+      "story_id": "story_5c950af68297",
+      "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+      "url": "https://www.aibase.com/news/32058",
+      "primary_url": "https://www.aibase.com/news/32058",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
+          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_en": null,
+          "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32058",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T12:45:19.836769Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
+          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_en": null,
+          "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32058",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T12:45:19.836769Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T12:45:19.836769Z",
+      "latest_at": "2026-11-03T12:45:19.836769Z",
+      "primary_item": {
+        "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
+        "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+        "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+        "title_en": null,
+        "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32058",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
@@ -493,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7858,
+        "recency": 0.733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,89 +858,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
-      }
-    },
-    {
-      "story_id": "story_3fe4e225a6ff",
-      "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-      "url": "https://www.aibase.com/news/32047",
-      "primary_url": "https://www.aibase.com/news/32047",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "title_en": null,
-          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32047",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "title_en": null,
-          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32047",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T07:56:19.904405Z",
-      "latest_at": "2026-11-03T07:56:19.904405Z",
-      "primary_item": {
-        "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
-        "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-        "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-        "title_en": null,
-        "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32047",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
@@ -658,15 +906,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8177,
+        "recency": 0.7627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -693,30 +941,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
-      "story_id": "story_9b692c13ddce",
-      "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-      "url": "https://www.aibase.com/news/32050",
-      "primary_url": "https://www.aibase.com/news/32050",
+      "story_id": "story_8885e13a3293",
+      "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+      "url": "https://www.aibase.com/news/32052",
+      "primary_url": "https://www.aibase.com/news/32052",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
-          "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-          "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+          "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
+          "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
           "title_en": null,
-          "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+          "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32050",
+          "url": "https://www.aibase.com/news/32052",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "source_count": 1,
@@ -725,18 +973,18 @@
       ],
       "items": [
         {
-          "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
-          "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-          "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+          "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
+          "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
           "title_en": null,
-          "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+          "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32050",
+          "url": "https://www.aibase.com/news/32052",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "item_count": 1,
@@ -757,17 +1005,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T07:56:19.904405Z",
-      "latest_at": "2026-11-03T07:56:19.904405Z",
+      "earliest_at": "2026-11-03T12:45:19.836769Z",
+      "latest_at": "2026-11-03T12:45:19.836769Z",
       "primary_item": {
-        "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
-        "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
-        "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+        "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
+        "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+        "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
         "title_en": null,
-        "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+        "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32050",
+        "url": "https://www.aibase.com/news/32052",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -775,7 +1023,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
@@ -823,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.783,
+        "recency": 0.7304,
         "story_heat": 0.0
       },
       "category": "official",
@@ -858,30 +1106,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
-      "story_id": "story_4deba44ebf5f",
-      "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-      "url": "https://www.aibase.com/news/32051",
-      "primary_url": "https://www.aibase.com/news/32051",
+      "story_id": "story_a6428b15d16b",
+      "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+      "url": "https://www.aibase.com/news/32057",
+      "primary_url": "https://www.aibase.com/news/32057",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "635e93c45031619fede27113f142ea63629efd30",
-          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+          "id": "8588536787f5cf44a86f80b061af3483522cdad1",
+          "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
           "title_en": null,
-          "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+          "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32051",
+          "url": "https://www.aibase.com/news/32057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "source_count": 1,
@@ -890,18 +1138,18 @@
       ],
       "items": [
         {
-          "id": "635e93c45031619fede27113f142ea63629efd30",
-          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+          "id": "8588536787f5cf44a86f80b061af3483522cdad1",
+          "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
           "title_en": null,
-          "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+          "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32051",
+          "url": "https://www.aibase.com/news/32057",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "item_count": 1,
@@ -922,17 +1170,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T07:56:19.904405Z",
-      "latest_at": "2026-11-03T07:56:19.904405Z",
+      "earliest_at": "2026-11-03T12:45:19.836769Z",
+      "latest_at": "2026-11-03T12:45:19.836769Z",
       "primary_item": {
-        "id": "635e93c45031619fede27113f142ea63629efd30",
-        "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-        "title_zh": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+        "id": "8588536787f5cf44a86f80b061af3483522cdad1",
+        "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+        "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
         "title_en": null,
-        "title_original": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
+        "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32051",
+        "url": "https://www.aibase.com/news/32057",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -940,113 +1188,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
-      "story_id": "story_b86e981c547a",
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "primary_url": "https://openai.com/index/lifeval",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-          "title": "LifeVal",
-          "title_zh": null,
-          "title_en": "LifeVal",
-          "title_original": "LifeVal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lifeval",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-          "title": "LifeVal",
-          "title_zh": null,
-          "title_en": "LifeVal",
-          "title_original": "LifeVal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lifeval",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-02T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.718,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T09:00:00Z",
-      "latest_at": "2026-11-02T09:00:00Z",
-      "primary_item": {
-        "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
-        "title": "LifeVal",
-        "title_zh": null,
-        "title_en": "LifeVal",
-        "title_original": "LifeVal",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lifeval",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
-      }
-    },
-    {
-      "story_id": "story_6289c90601b2",
-      "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-      "url": "https://www.aibase.com/news/32048",
-      "primary_url": "https://www.aibase.com/news/32048",
+      "story_id": "story_2c304998d0ff",
+      "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+      "url": "https://www.aibase.com/news/32055",
+      "primary_url": "https://www.aibase.com/news/32055",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
-          "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-          "title_zh": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+          "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
+          "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+          "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
           "title_en": null,
-          "title_original": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+          "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32048",
+          "url": "https://www.aibase.com/news/32055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "source_count": 1,
@@ -1055,18 +1220,18 @@
       ],
       "items": [
         {
-          "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
-          "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-          "title_zh": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+          "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
+          "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+          "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
           "title_en": null,
-          "title_original": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+          "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32048",
+          "url": "https://www.aibase.com/news/32055",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "item_count": 1,
@@ -1087,17 +1252,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T07:56:19.904405Z",
-      "latest_at": "2026-11-03T07:56:19.904405Z",
+      "earliest_at": "2026-11-03T12:45:19.836769Z",
+      "latest_at": "2026-11-03T12:45:19.836769Z",
       "primary_item": {
-        "id": "5bbea3f661171e16db6dc637f6a50a2ef0c86048",
-        "title": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
-        "title_zh": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+        "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
+        "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+        "title_zh": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
         "title_en": null,
-        "title_original": "QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用",
+        "title_original": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32048",
+        "url": "https://www.aibase.com/news/32055",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1105,30 +1270,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
-      "story_id": "story_c714a7741af1",
-      "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-      "url": "https://www.aibase.com/news/32049",
-      "primary_url": "https://www.aibase.com/news/32049",
+      "story_id": "story_87193ddcb49b",
+      "title": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
+      "url": "https://www.aibase.com/news/32054",
+      "primary_url": "https://www.aibase.com/news/32054",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e97c4be4bbf22546cb7847476cb52ed10da15eff",
-          "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-          "title_zh": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
+          "id": "cfc35d085de9c82def08c59eaca1f5e04481c860",
+          "title": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
+          "title_zh": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
           "title_en": null,
-          "title_original": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
+          "title_original": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32049",
+          "url": "https://www.aibase.com/news/32054",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "source_count": 1,
@@ -1137,18 +1302,18 @@
       ],
       "items": [
         {
-          "id": "e97c4be4bbf22546cb7847476cb52ed10da15eff",
-          "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-          "title_zh": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
+          "id": "cfc35d085de9c82def08c59eaca1f5e04481c860",
+          "title": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
+          "title_zh": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
           "title_en": null,
-          "title_original": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
+          "title_original": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32049",
+          "url": "https://www.aibase.com/news/32054",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
+          "published_at": "2026-11-03T12:45:19.836769Z"
         }
       ],
       "item_count": 1,
@@ -1169,17 +1334,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T07:56:19.904405Z",
-      "latest_at": "2026-11-03T07:56:19.904405Z",
+      "earliest_at": "2026-11-03T12:45:19.836769Z",
+      "latest_at": "2026-11-03T12:45:19.836769Z",
       "primary_item": {
-        "id": "e97c4be4bbf22546cb7847476cb52ed10da15eff",
-        "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
-        "title_zh": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
+        "id": "cfc35d085de9c82def08c59eaca1f5e04481c860",
+        "title": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
+        "title_zh": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
         "title_en": null,
-        "title_original": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
+        "title_original": "苹果Apple Watch迎来Audio Intelligence，对话摘要与实时倒带功能开启Beta测试",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32049",
+        "url": "https://www.aibase.com/news/32054",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1187,89 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
-      }
-    },
-    {
-      "story_id": "story_81855bcd7574",
-      "title": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-      "url": "https://www.aibase.com/news/32046",
-      "primary_url": "https://www.aibase.com/news/32046",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e62981ff9080ea59735dcb2877c810807a8e9dec",
-          "title": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-          "title_zh": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-          "title_en": null,
-          "title_original": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32046",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e62981ff9080ea59735dcb2877c810807a8e9dec",
-          "title": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-          "title_zh": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-          "title_en": null,
-          "title_original": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32046",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T07:56:19.904405Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T07:56:19.904405Z",
-      "latest_at": "2026-11-03T07:56:19.904405Z",
-      "primary_item": {
-        "id": "e62981ff9080ea59735dcb2877c810807a8e9dec",
-        "title": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-        "title_zh": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-        "title_en": null,
-        "title_original": "阿里把千问\"开\"出 470 款模型，蔡崇信：开源才是 AI 普及的钥匙",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32046",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
@@ -1345,15 +1428,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5891,
-      "importance": 0.5891,
-      "importance_score": 0.5891,
+      "score": 0.5793,
+      "importance": 0.5793,
+      "importance_score": 0.5793,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.58,
         "ai_relevance": 0.7,
-        "recency": 0.8072,
+        "recency": 0.7529,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1378,30 +1461,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
-      "story_id": "story_d50bda7dc1a6",
-      "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-      "url": "https://www.aibase.com/news/32029",
-      "primary_url": "https://www.aibase.com/news/32029",
+      "story_id": "story_3fe4e225a6ff",
+      "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+      "url": "https://www.aibase.com/news/32047",
+      "primary_url": "https://www.aibase.com/news/32047",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-          "title_zh": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
           "title_en": null,
-          "title_original": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32029",
+          "url": "https://www.aibase.com/news/32047",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:55:26.055298Z"
+          "published_at": "2026-11-03T07:56:19.904405Z"
         }
       ],
       "source_count": 1,
@@ -1410,31 +1493,31 @@
       ],
       "items": [
         {
-          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-          "title_zh": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+          "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+          "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
           "title_en": null,
-          "title_original": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+          "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32029",
+          "url": "https://www.aibase.com/news/32047",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T03:55:26.055298Z"
+          "published_at": "2026-11-03T07:56:19.904405Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9328,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1442,17 +1525,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T03:55:26.055298Z",
-      "latest_at": "2026-11-03T03:55:26.055298Z",
+      "earliest_at": "2026-11-03T07:56:19.904405Z",
+      "latest_at": "2026-11-03T07:56:19.904405Z",
       "primary_item": {
-        "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-        "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-        "title_zh": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+        "id": "ba43adcc06ad426a0146289d61f34b213df2f100",
+        "title": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
+        "title_zh": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
         "title_en": null,
-        "title_original": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
+        "title_original": "8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32029",
+        "url": "https://www.aibase.com/news/32047",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1460,146 +1543,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
-      "story_id": "story_e0ca52c01be6",
-      "title": "人工智能时代中的“无我”数学",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-      "primary_url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-      "source": "terrytao.wordpress.com",
-      "source_name": "Buzzing",
+      "story_id": "story_9b692c13ddce",
+      "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+      "url": "https://www.aibase.com/news/32050",
+      "primary_url": "https://www.aibase.com/news/32050",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
-          "title": "人工智能时代中的“无我”数学",
-          "title_zh": "人工智能时代中的“无我”数学",
+          "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
+          "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+          "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
           "title_en": null,
-          "title_original": "人工智能时代中的“无我”数学",
+          "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-          "source": "terrytao.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T00:29:45.651000Z"
-        },
-        {
-          "id": "3a2b54bbb632030063640dc4db2fa2b44d0a3cbc",
-          "title": "人工智能时代中的“无我”数学 / Egoless Mathematics in the AI Era",
-          "title_zh": "人工智能时代中的“无我”数学",
-          "title_en": "Egoless Mathematics in the AI Era",
-          "title_original": "Egoless Mathematics in the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T18:54:44Z"
-        },
-        {
-          "id": "81ddd3fa153afc44b11fc50e90005b97cf916615",
-          "title": "AI时代的无我数学 / Egoless Mathematics in the AI Era",
-          "title_zh": "AI时代的无我数学",
-          "title_en": "Egoless Mathematics in the AI Era",
-          "title_original": "Egoless Mathematics in the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50341736",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T18:54:44Z"
+          "url": "https://www.aibase.com/news/32050",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T07:56:19.904405Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "terrytao.wordpress.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
-          "title": "人工智能时代中的“无我”数学",
-          "title_zh": "人工智能时代中的“无我”数学",
+          "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
+          "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+          "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
           "title_en": null,
-          "title_original": "人工智能时代中的“无我”数学",
+          "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-          "source": "terrytao.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T00:29:45.651000Z"
-        },
-        {
-          "id": "3a2b54bbb632030063640dc4db2fa2b44d0a3cbc",
-          "title": "人工智能时代中的“无我”数学 / Egoless Mathematics in the AI Era",
-          "title_zh": "人工智能时代中的“无我”数学",
-          "title_en": "Egoless Mathematics in the AI Era",
-          "title_original": "Egoless Mathematics in the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T18:54:44Z"
-        },
-        {
-          "id": "81ddd3fa153afc44b11fc50e90005b97cf916615",
-          "title": "AI时代的无我数学 / Egoless Mathematics in the AI Era",
-          "title_zh": "AI时代的无我数学",
-          "title_en": "Egoless Mathematics in the AI Era",
-          "title_original": "Egoless Mathematics in the AI Era",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50341736",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T18:54:44Z"
+          "url": "https://www.aibase.com/news/32050",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-03T07:56:19.904405Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5525,
-      "importance": 0.5525,
-      "importance_score": 0.5525,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8981,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9328,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-02T18:54:44Z",
-      "latest_at": "2026-11-03T00:29:45.651000Z",
+      "earliest_at": "2026-11-03T07:56:19.904405Z",
+      "latest_at": "2026-11-03T07:56:19.904405Z",
       "primary_item": {
-        "id": "205384bc7157ffa156fe7b07fe129bae3741b5f4",
-        "title": "人工智能时代中的“无我”数学",
-        "title_zh": "人工智能时代中的“无我”数学",
+        "id": "825c6db8332ec5c14503d9d96ccd4af22cffe8fd",
+        "title": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
+        "title_zh": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
         "title_en": null,
-        "title_original": "人工智能时代中的“无我”数学",
+        "title_original": "App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进\"成人区\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era",
-        "source": "terrytao.wordpress.com",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/32050",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     },
     {
@@ -1676,15 +1702,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5824,
-      "importance": 0.5824,
-      "importance_score": 0.5824,
+      "score": 0.5725,
+      "importance": 0.5725,
+      "importance_score": 0.5725,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.816,
+        "recency": 0.7611,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1709,146 +1735,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
-      }
-    },
-    {
-      "story_id": "story_b16eb5c0b11a",
-      "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-      "primary_url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-      "source": "www.techpolicy.press",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
-          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_en": null,
-          "title_original": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-          "source": "www.techpolicy.press",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T00:13:47.603000Z"
-        },
-        {
-          "id": "94b1849da5d810b1ed8cb656a52714c1c7b5b84c",
-          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益 / The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_original": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T22:30:47Z"
-        },
-        {
-          "id": "1c8e25a9cb4e3b3200160438b200eef22ea41310",
-          "title": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众 / The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_zh": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众",
-          "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_original": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50344919",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T22:30:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.techpolicy.press"
-      ],
-      "items": [
-        {
-          "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
-          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_en": null,
-          "title_original": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-          "source": "www.techpolicy.press",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T00:13:47.603000Z"
-        },
-        {
-          "id": "94b1849da5d810b1ed8cb656a52714c1c7b5b84c",
-          "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益 / The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-          "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_original": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T22:30:47Z"
-        },
-        {
-          "id": "1c8e25a9cb4e3b3200160438b200eef22ea41310",
-          "title": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众 / The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_zh": "美国证券交易委员会应阻止 Anthropic 的 IPO 以保护公众",
-          "title_en": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "title_original": "The SEC Should Block Anthropic's IPO to Protect the Public",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50344919",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T22:30:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8947,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T22:30:47Z",
-      "latest_at": "2026-11-03T00:13:47.603000Z",
-      "primary_item": {
-        "id": "d2ceea843283bd87c899d19151b11b41d67dd07f",
-        "title": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-        "title_zh": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-        "title_en": null,
-        "title_original": "美国证券交易委员会应阻止Anthropic的首次公开募股，以保护公众利益",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
-        "source": "www.techpolicy.press",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T07:57:09.698156Z"
+        "scored_at": "2026-11-03T12:46:09.489666Z"
       }
     }
   ]
