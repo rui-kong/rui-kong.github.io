@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:20:49.342460Z",
+  "generated_at": "2026-11-04T20:48:20.120272Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -24,11 +24,55 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-04T14:30:00Z"
+        },
+        {
+          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
+          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI 将收购 Pierre 计算机公司",
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
+          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI 将收购 Pierre 计算机公司",
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "14f67dac200d99bd459aee85f954bcea7af5d7c0",
+          "title": "Pierre Computer is being acquired by OpenAI",
+          "title_zh": null,
+          "title_en": "Pierre Computer is being acquired by OpenAI",
+          "title_original": "Pierre Computer is being acquired by OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "OpenAI News"
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "hackernews"
       ],
       "items": [
         {
@@ -44,29 +88,72 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-04T14:30:00Z"
+        },
+        {
+          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
+          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI 将收购 Pierre 计算机公司",
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
+          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
+          "title_zh": "OpenAI 将收购 Pierre 计算机公司",
+          "title_en": "OpenAI to acquire Pierre Computer Company",
+          "title_original": "OpenAI to acquire Pierre Computer Company",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
+        },
+        {
+          "id": "14f67dac200d99bd459aee85f954bcea7af5d7c0",
+          "title": "Pierre Computer is being acquired by OpenAI",
+          "title_zh": null,
+          "title_en": "Pierre Computer is being acquired by OpenAI",
+          "title_original": "Pierre Computer is being acquired by OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50366863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T15:21:21Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.9113,
+      "importance": 0.9113,
+      "importance_score": 0.9113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9737,
-        "story_heat": 0.0
+        "recency": 0.913,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-04T14:30:00Z",
-      "latest_at": "2026-11-04T14:30:00Z",
+      "latest_at": "2026-11-04T15:21:21Z",
       "primary_item": {
         "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
         "title": "OpenAI to acquire Pierre Computer Company, Inc.",
@@ -83,113 +170,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
-      "story_id": "story_e2a9defc33ad",
-      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
-          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
-          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T00:32:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
-          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
-          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T00:32:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7959,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T00:32:19Z",
-      "latest_at": "2026-11-04T00:32:19Z",
-      "primary_item": {
-        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-        "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
-        "title_en": "BYOK and enterprise custom models in the Copilot usage API",
-        "title_original": "BYOK and enterprise custom models in the Copilot usage API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
-      }
-    },
-    {
-      "story_id": "story_ca1ade1b3eb8",
-      "title": "StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "primary_url": "https://huggingface.co/blog/allenai/statebench",
+      "story_id": "story_a1cac76551fa",
+      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5f6ac5db16c78c12b3dc6a38573207022e793700",
-          "title": "StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents",
-          "title_zh": "StateBench：测试语言模型如何跟踪长文档的状态变化",
-          "title_en": "StateBench: Testing how language models track state changes over long documents",
-          "title_original": "StateBench: Testing how language models track state changes over long documents",
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/statebench",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T17:15:21Z"
+          "published_at": "2026-11-04T17:50:10Z"
         }
       ],
       "source_count": 1,
@@ -198,31 +202,31 @@
       ],
       "items": [
         {
-          "id": "5f6ac5db16c78c12b3dc6a38573207022e793700",
-          "title": "StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents",
-          "title_zh": "StateBench：测试语言模型如何跟踪长文档的状态变化",
-          "title_en": "StateBench: Testing how language models track state changes over long documents",
-          "title_original": "StateBench: Testing how language models track state changes over long documents",
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+          "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/statebench",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T17:15:21Z"
+          "published_at": "2026-11-04T17:50:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8524,
+      "importance": 0.8524,
+      "importance_score": 0.8524,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7164,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,17 +235,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T17:15:21Z",
-      "latest_at": "2026-11-03T17:15:21Z",
+      "earliest_at": "2026-11-04T17:50:10Z",
+      "latest_at": "2026-11-04T17:50:10Z",
       "primary_item": {
-        "id": "5f6ac5db16c78c12b3dc6a38573207022e793700",
-        "title": "StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents",
-        "title_zh": "StateBench：测试语言模型如何跟踪长文档的状态变化",
-        "title_en": "StateBench: Testing how language models track state changes over long documents",
-        "title_original": "StateBench: Testing how language models track state changes over long documents",
+        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title_zh": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段",
+        "title_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title_original": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/statebench",
+        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -249,12 +253,178 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
+      }
+    },
+    {
+      "story_id": "story_bf5abd3d9223",
+      "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "primary_url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+          "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
+          "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T19:10:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+          "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
+          "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T19:10:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9768,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T19:10:40Z",
+      "latest_at": "2026-11-04T19:10:40Z",
+      "primary_item": {
+        "id": "e9c885c788ee9f0558a5c5799b829ed4d58705cc",
+        "title": "GitHub Copilot 现已在 Xcode 的编码助手中可用 / GitHub Copilot is now available in Xcode’s coding assistant",
+        "title_zh": "GitHub Copilot 现已在 Xcode 的编码助手中可用",
+        "title_en": "GitHub Copilot is now available in Xcode’s coding assistant",
+        "title_original": "GitHub Copilot is now available in Xcode’s coding assistant",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T20:49:28.517946Z"
+      }
+    },
+    {
+      "story_id": "story_103533f8718a",
+      "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+      "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+      "primary_url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+          "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+          "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
+          "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
+          "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T20:04:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+          "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+          "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
+          "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
+          "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T20:04:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9896,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T20:04:52Z",
+      "latest_at": "2026-11-04T20:04:52Z",
+      "primary_item": {
+        "id": "10fd7b165b0b7526bf7a8ff3da4d8869df89d28a",
+        "title": "CodeQL 2.27.4 提高了准确性和查询元数据 / CodeQL 2.27.4 improves accuracy and query metadata",
+        "title_zh": "CodeQL 2.27.4 提高了准确性和查询元数据",
+        "title_en": "CodeQL 2.27.4 improves accuracy and query metadata",
+        "title_original": "CodeQL 2.27.4 improves accuracy and query metadata",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
       "story_id": "story_909e1b342a31",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
       "url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
       "source": "OpenAI News",
@@ -262,8 +432,8 @@
       "sources": [
         {
           "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_zh": null,
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
           "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "summary": null,
@@ -282,8 +452,8 @@
       "items": [
         {
           "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-          "title_zh": null,
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
           "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
           "summary": null,
@@ -297,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8737,
+        "recency": 0.8193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -318,8 +488,8 @@
       "latest_at": "2026-11-04T07:00:00Z",
       "primary_item": {
         "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-        "title_zh": null,
+        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
         "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
         "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
         "summary": null,
@@ -332,256 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
-      }
-    },
-    {
-      "story_id": "story_7ed8186b6f99",
-      "title": "使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-      "primary_url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e8f167f9f2ef53d4b231e0af7a8c6a5895760eec",
-          "title": "使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity",
-          "title_zh": "使用 Google Antigravity 进行代理化学信息学",
-          "title_en": "Agentic cheminformatics with Google Antigravity",
-          "title_original": "Agentic cheminformatics with Google Antigravity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T17:01:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "e8f167f9f2ef53d4b231e0af7a8c6a5895760eec",
-          "title": "使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity",
-          "title_zh": "使用 Google Antigravity 进行代理化学信息学",
-          "title_en": "Agentic cheminformatics with Google Antigravity",
-          "title_original": "Agentic cheminformatics with Google Antigravity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T17:01:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7141,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T17:01:49Z",
-      "latest_at": "2026-11-03T17:01:49Z",
-      "primary_item": {
-        "id": "e8f167f9f2ef53d4b231e0af7a8c6a5895760eec",
-        "title": "使用 Google Antigravity 进行代理化学信息学 / Agentic cheminformatics with Google Antigravity",
-        "title_zh": "使用 Google Antigravity 进行代理化学信息学",
-        "title_en": "Agentic cheminformatics with Google Antigravity",
-        "title_original": "Agentic cheminformatics with Google Antigravity",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
-      }
-    },
-    {
-      "story_id": "story_b15c6d459b33",
-      "title": "Palette：教一个小模型用你的设计语言构建牌组 / Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "primary_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "01f66537d508479155b2c066e1412153a3e6c3cc",
-          "title": "Palette：教一个小模型用你的设计语言构建牌组 / Palette: teaching a small model to build decks in your design language",
-          "title_zh": "Palette：教一个小模型用你的设计语言构建牌组",
-          "title_en": "Palette: teaching a small model to build decks in your design language",
-          "title_original": "Palette: teaching a small model to build decks in your design language",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T16:35:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "01f66537d508479155b2c066e1412153a3e6c3cc",
-          "title": "Palette：教一个小模型用你的设计语言构建牌组 / Palette: teaching a small model to build decks in your design language",
-          "title_zh": "Palette：教一个小模型用你的设计语言构建牌组",
-          "title_en": "Palette: teaching a small model to build decks in your design language",
-          "title_original": "Palette: teaching a small model to build decks in your design language",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T16:35:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7096,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T16:35:36Z",
-      "latest_at": "2026-11-03T16:35:36Z",
-      "primary_item": {
-        "id": "01f66537d508479155b2c066e1412153a3e6c3cc",
-        "title": "Palette：教一个小模型用你的设计语言构建牌组 / Palette: teaching a small model to build decks in your design language",
-        "title_zh": "Palette：教一个小模型用你的设计语言构建牌组",
-        "title_en": "Palette: teaching a small model to build decks in your design language",
-        "title_original": "Palette: teaching a small model to build decks in your design language",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
-      }
-    },
-    {
-      "story_id": "story_05cba21c67c5",
-      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "title_zh": "Dependabot版本更新支持代理包管理器",
-          "title_en": "Dependabot version updates support Agent Package Manager",
-          "title_original": "Dependabot version updates support Agent Package Manager",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "title_zh": "Dependabot版本更新支持代理包管理器",
-          "title_en": "Dependabot version updates support Agent Package Manager",
-          "title_original": "Dependabot version updates support Agent Package Manager",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7497,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T20:24:07Z",
-      "latest_at": "2026-11-03T20:24:07Z",
-      "primary_item": {
-        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-        "title_zh": "Dependabot版本更新支持代理包管理器",
-        "title_en": "Dependabot version updates support Agent Package Manager",
-        "title_original": "Dependabot version updates support Agent Package Manager",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -629,21 +550,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T12:57:43.260384Z",
       "latest_at": "2026-11-04T12:57:43.260384Z",
@@ -663,7 +583,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
+      }
+    },
+    {
+      "story_id": "story_e2a9defc33ad",
+      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7463,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:32:19Z",
+      "latest_at": "2026-11-04T00:32:19Z",
+      "primary_item": {
+        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+        "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+        "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+        "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -711,21 +714,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T12:57:43.260384Z",
       "latest_at": "2026-11-04T12:57:43.260384Z",
@@ -745,7 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -793,21 +795,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T12:57:43.260384Z",
       "latest_at": "2026-11-04T12:57:43.260384Z",
@@ -827,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -875,21 +876,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T12:57:43.260384Z",
       "latest_at": "2026-11-04T12:57:43.260384Z",
@@ -909,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -957,21 +957,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T12:57:43.260384Z",
       "latest_at": "2026-11-04T12:57:43.260384Z",
@@ -991,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -1039,21 +1038,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T12:57:43.260384Z",
       "latest_at": "2026-11-04T12:57:43.260384Z",
@@ -1073,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -1149,15 +1147,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6045,
-      "importance": 0.6045,
-      "importance_score": 0.6045,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9392,
+        "recency": 0.8806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,7 +1180,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -1230,21 +1228,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.8929,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-04T12:57:43.260384Z",
       "latest_at": "2026-11-04T12:57:43.260384Z",
@@ -1264,7 +1261,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
+      }
+    },
+    {
+      "story_id": "story_d485cbc703f0",
+      "title": "大型语言模型可证明推理方面的进展",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "primary_url": "https://www.anthropic.com/research/provable-inference",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+          "title": "大型语言模型可证明推理方面的进展",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": null,
+          "title_original": "大型语言模型可证明推理方面的进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T19:37:46.946000Z"
+        },
+        {
+          "id": "348d9e158e28595c981f0e9a280b0642db152915",
+          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Progress on provable inference for large language models",
+          "title_original": "Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T17:17:46Z"
+        },
+        {
+          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
+          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Anthropic: Progress on provable inference for large language models",
+          "title_original": "Anthropic: Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-04T07:57:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News (黑客新闻)",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+          "title": "大型语言模型可证明推理方面的进展",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": null,
+          "title_original": "大型语言模型可证明推理方面的进展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T19:37:46.946000Z"
+        },
+        {
+          "id": "348d9e158e28595c981f0e9a280b0642db152915",
+          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Progress on provable inference for large language models",
+          "title_original": "Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T17:17:46Z"
+        },
+        {
+          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
+          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
+          "title_zh": "大型语言模型可证明推理方面的进展",
+          "title_en": "Anthropic: Progress on provable inference for large language models",
+          "title_original": "Anthropic: Progress on provable inference for large language models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-04T07:57:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9832,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T07:57:06Z",
+      "latest_at": "2026-11-04T19:37:46.946000Z",
+      "primary_item": {
+        "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
+        "title": "大型语言模型可证明推理方面的进展",
+        "title_zh": "大型语言模型可证明推理方面的进展",
+        "title_en": null,
+        "title_original": "大型语言模型可证明推理方面的进展",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/provable-inference",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -1370,15 +1506,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.9243,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1403,7 +1539,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -1509,15 +1645,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.9243,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1542,7 +1678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
@@ -1568,7 +1704,7 @@
           "published_at": "2026-11-04T15:21:22.116000Z"
         },
         {
-          "id": "dbe96f9eb1d1367e0d7e20fa00fb89bd29e6868d",
+          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
           "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
           "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
           "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
@@ -1576,9 +1712,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-04T10:23:34Z"
         },
         {
@@ -1598,7 +1734,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.theguardian.com"
       ],
@@ -1618,7 +1754,7 @@
           "published_at": "2026-11-04T15:21:22.116000Z"
         },
         {
-          "id": "dbe96f9eb1d1367e0d7e20fa00fb89bd29e6868d",
+          "id": "121821ef35afed6be6bcc88fb4429f668b8ed62d",
           "title": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好 / Geoffrey Hinton: it might turn out we were better off without AI",
           "title_zh": "杰弗里·辛顿：说不定没有人工智能，我们的处境反而会更好",
           "title_en": "Geoffrey Hinton: it might turn out we were better off without AI",
@@ -1626,9 +1762,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-04T10:23:34Z"
         },
         {
@@ -1648,15 +1784,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5572,
+      "importance": 0.5572,
+      "importance_score": 0.5572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.9243,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1681,257 +1817,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
-      "story_id": "story_89eba072c02e",
-      "title": "我如何使用人工智能（2026年10月）",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
-      "primary_url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
-      "source": "ben.stolovitz.com",
+      "story_id": "story_d05b18658499",
+      "title": "腾讯 Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "primary_url": "https://hy.tencent.ai/research/hy4",
+      "source": "hy.tencent.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
-          "title": "我如何使用人工智能（2026年10月）",
-          "title_zh": "我如何使用人工智能（2026年10月）",
+          "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
+          "title": "腾讯 Hy4",
+          "title_zh": "腾讯 Hy4",
           "title_en": null,
-          "title_original": "我如何使用人工智能（2026年10月）",
+          "title_original": "腾讯 Hy4",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
-          "source": "ben.stolovitz.com",
+          "url": "https://hy.tencent.ai/research/hy4",
+          "source": "hy.tencent.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-04T03:32:08.407000Z"
+          "published_at": "2026-11-04T20:08:58.499000Z"
         },
         {
-          "id": "111def1f65884c1dad417fa0e515ca1f0fa3cbd2",
-          "title": "我如何使用人工智能（2026年10月） / How I use AI (Oct 2026)",
-          "title_zh": "我如何使用人工智能（2026年10月）",
-          "title_en": "How I use AI (Oct 2026)",
-          "title_original": "How I use AI (Oct 2026)",
+          "id": "34a9db4d10bc5e8ee5a00a84d0efc137c67a3722",
+          "title": "腾讯 Hy4 / Tencent Hy4",
+          "title_zh": "腾讯 Hy4",
+          "title_en": "Tencent Hy4",
+          "title_original": "Tencent Hy4",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "url": "https://hy.tencent.ai/research/hy4",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-03T18:11:11Z"
-        },
-        {
-          "id": "ea44594606d1f267a8ab754a0f6429ac6276aad8",
-          "title": "我如何使用人工智能（2026 年 10 月） / How I use AI (Oct 2026)",
-          "title_zh": "我如何使用人工智能（2026 年 10 月）",
-          "title_en": "How I use AI (Oct 2026)",
-          "title_original": "How I use AI (Oct 2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50355767",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T18:11:11Z"
-        },
-        {
-          "id": "5454f6f77a25ef1fcd7ed69bc9682fcb59748888",
-          "title": "我如何使用人工智能（2026年10月） / I use AI (Oct 2026)",
-          "title_zh": "我如何使用人工智能（2026年10月）",
-          "title_en": "I use AI (Oct 2026)",
-          "title_original": "I use AI (Oct 2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-03T18:11:11Z"
+          "published_at": "2026-11-04T14:11:26Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "ben.stolovitz.com",
-        "hackernews"
+        "hy.tencent.ai"
       ],
       "items": [
         {
-          "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
-          "title": "我如何使用人工智能（2026年10月）",
-          "title_zh": "我如何使用人工智能（2026年10月）",
+          "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
+          "title": "腾讯 Hy4",
+          "title_zh": "腾讯 Hy4",
           "title_en": null,
-          "title_original": "我如何使用人工智能（2026年10月）",
+          "title_original": "腾讯 Hy4",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
-          "source": "ben.stolovitz.com",
+          "url": "https://hy.tencent.ai/research/hy4",
+          "source": "hy.tencent.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-04T03:32:08.407000Z"
+          "published_at": "2026-11-04T20:08:58.499000Z"
         },
         {
-          "id": "111def1f65884c1dad417fa0e515ca1f0fa3cbd2",
-          "title": "我如何使用人工智能（2026年10月） / How I use AI (Oct 2026)",
-          "title_zh": "我如何使用人工智能（2026年10月）",
-          "title_en": "How I use AI (Oct 2026)",
-          "title_original": "How I use AI (Oct 2026)",
+          "id": "34a9db4d10bc5e8ee5a00a84d0efc137c67a3722",
+          "title": "腾讯 Hy4 / Tencent Hy4",
+          "title_zh": "腾讯 Hy4",
+          "title_en": "Tencent Hy4",
+          "title_original": "Tencent Hy4",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "url": "https://hy.tencent.ai/research/hy4",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-03T18:11:11Z"
-        },
-        {
-          "id": "ea44594606d1f267a8ab754a0f6429ac6276aad8",
-          "title": "我如何使用人工智能（2026 年 10 月） / How I use AI (Oct 2026)",
-          "title_zh": "我如何使用人工智能（2026 年 10 月）",
-          "title_en": "How I use AI (Oct 2026)",
-          "title_original": "How I use AI (Oct 2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50355767",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T18:11:11Z"
-        },
-        {
-          "id": "5454f6f77a25ef1fcd7ed69bc9682fcb59748888",
-          "title": "我如何使用人工智能（2026年10月） / I use AI (Oct 2026)",
-          "title_zh": "我如何使用人工智能（2026年10月）",
-          "title_en": "I use AI (Oct 2026)",
-          "title_original": "I use AI (Oct 2026)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-03T18:11:11Z"
+          "published_at": "2026-11-04T14:11:26Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8311,
-        "story_heat": 0.75
+        "recency": 0.9906,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-03T18:11:11Z",
-      "latest_at": "2026-11-04T03:32:08.407000Z",
+      "earliest_at": "2026-11-04T14:11:26Z",
+      "latest_at": "2026-11-04T20:08:58.499000Z",
       "primary_item": {
-        "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
-        "title": "我如何使用人工智能（2026年10月）",
-        "title_zh": "我如何使用人工智能（2026年10月）",
+        "id": "eb2608b2cd7e6d902b842e0197e02d5c23f00048",
+        "title": "腾讯 Hy4",
+        "title_zh": "腾讯 Hy4",
         "title_en": null,
-        "title_original": "我如何使用人工智能（2026年10月）",
+        "title_original": "腾讯 Hy4",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
-        "source": "ben.stolovitz.com",
+        "url": "https://hy.tencent.ai/research/hy4",
+        "source": "hy.tencent.ai",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     },
     {
-      "story_id": "story_9ee05711a91b",
-      "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-      "url": "https://www.aibase.com/news/32086",
-      "primary_url": "https://www.aibase.com/news/32086",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_136f6689901b",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
-          "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-          "title_zh": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-          "title_en": null,
-          "title_original": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": null,
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T12:57:43.260384Z"
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": null,
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
-          "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-          "title_zh": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-          "title_en": null,
-          "title_original": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": null,
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T12:57:43.260384Z"
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_zh": null,
+          "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9523,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9873,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-04T12:57:43.260384Z",
-      "latest_at": "2026-11-04T12:57:43.260384Z",
+      "earliest_at": "2026-11-04T19:55:14Z",
+      "latest_at": "2026-11-04T19:55:14Z",
       "primary_item": {
-        "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
-        "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-        "title_zh": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-        "title_en": null,
-        "title_original": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
+        "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+        "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+        "title_zh": null,
+        "title_en": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+        "title_original": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32086",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T16:42:06.950773Z"
+        "scored_at": "2026-11-04T20:49:28.517946Z"
       }
     }
   ]
