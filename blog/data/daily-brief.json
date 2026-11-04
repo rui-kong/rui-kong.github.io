@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-11-03T22:19:49.957928Z",
+  "generated_at": "2026-11-04T02:59:37.620782Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_e2a9defc33ad",
+      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+          "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+          "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+          "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9652,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:32:19Z",
+      "latest_at": "2026-11-04T00:32:19Z",
+      "primary_item": {
+        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
+        "title_zh": "Copilot 使用 API 中的 BYOK 和企业自定义模型",
+        "title_en": "BYOK and enterprise custom models in the Copilot usage API",
+        "title_original": "BYOK and enterprise custom models in the Copilot usage API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T03:00:33.893572Z"
+      }
+    },
     {
       "story_id": "story_ca1ade1b3eb8",
       "title": "StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9293,
+        "recency": 0.8688,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
-      }
-    },
-    {
-      "story_id": "story_05cba21c67c5",
-      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "title_zh": "Dependabot版本更新支持代理包管理器",
-          "title_en": "Dependabot version updates support Agent Package Manager",
-          "title_original": "Dependabot version updates support Agent Package Manager",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "title_zh": "Dependabot版本更新支持代理包管理器",
-          "title_en": "Dependabot version updates support Agent Package Manager",
-          "title_original": "Dependabot version updates support Agent Package Manager",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9725,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T20:24:07Z",
-      "latest_at": "2026-11-03T20:24:07Z",
-      "primary_item": {
-        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-        "title_zh": "Dependabot版本更新支持代理包管理器",
-        "title_en": "Dependabot version updates support Agent Package Manager",
-        "title_original": "Dependabot version updates support Agent Package Manager",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9263,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8614,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9205,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,30 +415,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
-      "story_id": "story_46598a98a79d",
-      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "story_id": "story_05cba21c67c5",
+      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "title_zh": "Dependabot版本更新支持代理包管理器",
+          "title_en": "Dependabot version updates support Agent Package Manager",
+          "title_original": "Dependabot version updates support Agent Package Manager",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z"
+          "published_at": "2026-11-03T20:24:07Z"
         }
       ],
       "source_count": 1,
@@ -447,31 +447,31 @@
       ],
       "items": [
         {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "title_zh": "Dependabot版本更新支持代理包管理器",
+          "title_en": "Dependabot version updates support Agent Package Manager",
+          "title_original": "Dependabot version updates support Agent Package Manager",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z"
+          "published_at": "2026-11-03T20:24:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9021,
+        "ai_relevance": 0.87,
+        "recency": 0.9092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,17 +480,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T15:11:46Z",
-      "latest_at": "2026-11-03T15:11:46Z",
+      "earliest_at": "2026-11-03T20:24:07Z",
+      "latest_at": "2026-11-03T20:24:07Z",
       "primary_item": {
-        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-        "title_en": "GitHub Copilot is now available in JetBrains Air",
-        "title_original": "GitHub Copilot is now available in JetBrains Air",
+        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+        "title_zh": "Dependabot版本更新支持代理包管理器",
+        "title_en": "Dependabot version updates support Agent Package Manager",
+        "title_original": "Dependabot version updates support Agent Package Manager",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8131,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -629,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9121,
+        "recency": 0.8527,
         "story_heat": 0.0
       },
       "category": "official",
@@ -664,30 +664,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
-      "story_id": "story_6f142f0f742c",
-      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "story_id": "story_ab1a735365a9",
+      "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+      "url": "https://www.aibase.com/news/32066",
+      "primary_url": "https://www.aibase.com/news/32066",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "title_zh": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "title_en": null,
+          "title_original": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:59:37.620782Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "title_zh": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "title_en": null,
+          "title_original": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:59:37.620782Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:59:37.620782Z",
+      "latest_at": "2026-11-04T02:59:37.620782Z",
+      "primary_item": {
+        "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+        "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "title_zh": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "title_en": null,
+        "title_original": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32066",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T03:00:33.893572Z"
+      }
+    },
+    {
+      "story_id": "story_46598a98a79d",
+      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+          "title_en": "GitHub Copilot is now available in JetBrains Air",
+          "title_original": "GitHub Copilot is now available in JetBrains Air",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z"
+          "published_at": "2026-11-03T15:11:46Z"
         }
       ],
       "source_count": 1,
@@ -696,31 +778,31 @@
       ],
       "items": [
         {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+          "title_en": "GitHub Copilot is now available in JetBrains Air",
+          "title_original": "GitHub Copilot is now available in JetBrains Air",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z"
+          "published_at": "2026-11-03T15:11:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9055,
+        "ai_relevance": 0.91,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -729,17 +811,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T15:27:13Z",
-      "latest_at": "2026-11-03T15:27:13Z",
+      "earliest_at": "2026-11-03T15:11:46Z",
+      "latest_at": "2026-11-03T15:11:46Z",
       "primary_item": {
-        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-        "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-        "title_en": "Look up a resource’s cost center with the GitHub REST API",
-        "title_original": "Look up a resource’s cost center with the GitHub REST API",
+        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+        "title_en": "GitHub Copilot is now available in JetBrains Air",
+        "title_original": "GitHub Copilot is now available in JetBrains Air",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -747,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -795,15 +877,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8131,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "official",
@@ -830,30 +912,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
-      "story_id": "story_51b22de8c23f",
-      "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-      "url": "https://www.aibase.com/news/32053",
-      "primary_url": "https://www.aibase.com/news/32053",
+      "story_id": "story_7c577d849d53",
+      "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
+      "url": "https://www.aibase.com/news/32071",
+      "primary_url": "https://www.aibase.com/news/32071",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "id": "c8f6c9bef1c5d6d654ae1bb5ab898703c93bada6",
+          "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
+          "title_zh": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
           "title_en": null,
-          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_original": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32053",
+          "url": "https://www.aibase.com/news/32071",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:45:19.836769Z"
+          "published_at": "2026-11-04T02:59:37.620782Z"
         }
       ],
       "source_count": 1,
@@ -862,48 +944,49 @@
       ],
       "items": [
         {
-          "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-          "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-          "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "id": "c8f6c9bef1c5d6d654ae1bb5ab898703c93bada6",
+          "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
+          "title_zh": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
           "title_en": null,
-          "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+          "title_original": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32053",
+          "url": "https://www.aibase.com/news/32071",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:45:19.836769Z"
+          "published_at": "2026-11-04T02:59:37.620782Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8709,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T12:45:19.836769Z",
-      "latest_at": "2026-11-03T12:45:19.836769Z",
+      "earliest_at": "2026-11-04T02:59:37.620782Z",
+      "latest_at": "2026-11-04T02:59:37.620782Z",
       "primary_item": {
-        "id": "c34d2beb30c6590598f29deaee5d2dfa56a19bf0",
-        "title": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
-        "title_zh": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "id": "c8f6c9bef1c5d6d654ae1bb5ab898703c93bada6",
+        "title": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
+        "title_zh": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
         "title_en": null,
-        "title_original": "AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力",
+        "title_original": "Anthropic产品团队出现人事变动，Claude Code负责人离开",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32053",
+        "url": "https://www.aibase.com/news/32071",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -911,7 +994,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
+      }
+    },
+    {
+      "story_id": "story_6f142f0f742c",
+      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+          "title_en": "Look up a resource’s cost center with the GitHub REST API",
+          "title_original": "Look up a resource’s cost center with the GitHub REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:27:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+          "title_en": "Look up a resource’s cost center with the GitHub REST API",
+          "title_original": "Look up a resource’s cost center with the GitHub REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:27:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8465,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T15:27:13Z",
+      "latest_at": "2026-11-03T15:27:13Z",
+      "primary_item": {
+        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+        "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+        "title_en": "Look up a resource’s cost center with the GitHub REST API",
+        "title_original": "Look up a resource’s cost center with the GitHub REST API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T03:00:33.893572Z"
+      }
+    },
+    {
+      "story_id": "story_efa31e635cc5",
+      "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+      "url": "https://www.aibase.com/news/32061",
+      "primary_url": "https://www.aibase.com/news/32061",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+          "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "title_zh": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "title_en": null,
+          "title_original": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:59:37.620782Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+          "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "title_zh": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "title_en": null,
+          "title_original": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32061",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T02:59:37.620782Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T02:59:37.620782Z",
+      "latest_at": "2026-11-04T02:59:37.620782Z",
+      "primary_item": {
+        "id": "a9c5eecc6caab7785563aca99d4430662fce588a",
+        "title": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+        "title_zh": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+        "title_en": null,
+        "title_original": "Anthropic发布开源系统FlashProve:通过密码学指纹实现AI模型身份可验证",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32061",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -959,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8987,
+        "recency": 0.8402,
         "story_heat": 0.0
       },
       "category": "official",
@@ -994,113 +1242,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
-      "story_id": "story_5d294462667a",
-      "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "primary_url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-          "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
-          "title_zh": "Transformers 模型集成合约",
-          "title_en": "Transformers Model Integration Contracts",
-          "title_original": "Transformers Model Integration Contracts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/transformers-mic",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-          "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
-          "title_zh": "Transformers 模型集成合约",
-          "title_en": "Transformers Model Integration Contracts",
-          "title_original": "Transformers Model Integration Contracts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/transformers-mic",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7244,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T00:00:00Z",
-      "latest_at": "2026-11-03T00:00:00Z",
-      "primary_item": {
-        "id": "3b6a1541f6e1eefd9897a7d2caedbe5a6f5bb7fa",
-        "title": "Transformers 模型集成合约 / Transformers Model Integration Contracts",
-        "title_zh": "Transformers 模型集成合约",
-        "title_en": "Transformers Model Integration Contracts",
-        "title_original": "Transformers Model Integration Contracts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/transformers-mic",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
-      }
-    },
-    {
-      "story_id": "story_5c950af68297",
-      "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-      "url": "https://www.aibase.com/news/32058",
-      "primary_url": "https://www.aibase.com/news/32058",
+      "story_id": "story_5d284baa8c5a",
+      "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+      "url": "https://www.aibase.com/news/32059",
+      "primary_url": "https://www.aibase.com/news/32059",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-          "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+          "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+          "title_zh": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
           "title_en": null,
-          "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_original": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32058",
+          "url": "https://www.aibase.com/news/32059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:45:19.836769Z"
+          "published_at": "2026-11-04T02:59:37.620782Z"
         }
       ],
       "source_count": 1,
@@ -1109,48 +1274,49 @@
       ],
       "items": [
         {
-          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-          "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+          "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+          "title_zh": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
           "title_en": null,
-          "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+          "title_original": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32058",
+          "url": "https://www.aibase.com/news/32059",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:45:19.836769Z"
+          "published_at": "2026-11-04T02:59:37.620782Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8709,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T12:45:19.836769Z",
-      "latest_at": "2026-11-03T12:45:19.836769Z",
+      "earliest_at": "2026-11-04T02:59:37.620782Z",
+      "latest_at": "2026-11-04T02:59:37.620782Z",
       "primary_item": {
-        "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-        "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-        "title_zh": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+        "id": "8807be55b30a8b2e8ff97f7c1d25e658fb35e2da",
+        "title": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
+        "title_zh": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
         "title_en": null,
-        "title_original": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
+        "title_original": "OpenAI重磅宣布聘请前优步总裁吉尔·黑泽尔贝克担任首席企业事务官",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32058",
+        "url": "https://www.aibase.com/news/32059",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1158,90 +1324,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
-      }
-    },
-    {
-      "story_id": "story_5ab1c1c739d8",
-      "title": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官 / OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "primary_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
-          "title": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官 / OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "title_zh": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官",
-          "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
-          "title": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官 / OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "title_zh": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官",
-          "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7244,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T00:00:00Z",
-      "latest_at": "2026-11-03T00:00:00Z",
-      "primary_item": {
-        "id": "a4f033b0a78267058ebf76fc7d20b96593f2447f",
-        "title": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官 / OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-        "title_zh": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官",
-        "title_en": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-        "title_original": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -1289,15 +1372,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8844,
+        "recency": 0.8268,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1324,113 +1407,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
-      "story_id": "story_7ee3fbdb08d6",
-      "title": "CWE-bench v2：更大的覆盖范围、质量和透明度 / CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "primary_url": "https://huggingface.co/blog/cwe-bench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "40d752318d489ac394846899a2875a4159e3aa68",
-          "title": "CWE-bench v2：更大的覆盖范围、质量和透明度 / CWE-bench v2: More coverage, quality, and transparency",
-          "title_zh": "CWE-bench v2：更大的覆盖范围、质量和透明度",
-          "title_en": "CWE-bench v2: More coverage, quality, and transparency",
-          "title_original": "CWE-bench v2: More coverage, quality, and transparency",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/cwe-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "40d752318d489ac394846899a2875a4159e3aa68",
-          "title": "CWE-bench v2：更大的覆盖范围、质量和透明度 / CWE-bench v2: More coverage, quality, and transparency",
-          "title_zh": "CWE-bench v2：更大的覆盖范围、质量和透明度",
-          "title_en": "CWE-bench v2: More coverage, quality, and transparency",
-          "title_original": "CWE-bench v2: More coverage, quality, and transparency",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/cwe-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7244,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T00:00:00Z",
-      "latest_at": "2026-11-03T00:00:00Z",
-      "primary_item": {
-        "id": "40d752318d489ac394846899a2875a4159e3aa68",
-        "title": "CWE-bench v2：更大的覆盖范围、质量和透明度 / CWE-bench v2: More coverage, quality, and transparency",
-        "title_zh": "CWE-bench v2：更大的覆盖范围、质量和透明度",
-        "title_en": "CWE-bench v2: More coverage, quality, and transparency",
-        "title_original": "CWE-bench v2: More coverage, quality, and transparency",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/cwe-bench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
-      }
-    },
-    {
-      "story_id": "story_8885e13a3293",
-      "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
-      "url": "https://www.aibase.com/news/32052",
-      "primary_url": "https://www.aibase.com/news/32052",
+      "story_id": "story_6d9c07161e8e",
+      "title": "Seedance海外收入占比达50%，半年增长近5倍",
+      "url": "https://www.aibase.com/news/32067",
+      "primary_url": "https://www.aibase.com/news/32067",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
-          "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
-          "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+          "title": "Seedance海外收入占比达50%，半年增长近5倍",
+          "title_zh": "Seedance海外收入占比达50%，半年增长近5倍",
           "title_en": null,
-          "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "title_original": "Seedance海外收入占比达50%，半年增长近5倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32052",
+          "url": "https://www.aibase.com/news/32067",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:45:19.836769Z"
+          "published_at": "2026-11-04T02:59:37.620782Z"
         }
       ],
       "source_count": 1,
@@ -1439,48 +1439,49 @@
       ],
       "items": [
         {
-          "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
-          "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
-          "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+          "title": "Seedance海外收入占比达50%，半年增长近5倍",
+          "title_zh": "Seedance海外收入占比达50%，半年增长近5倍",
           "title_en": null,
-          "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+          "title_original": "Seedance海外收入占比达50%，半年增长近5倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32052",
+          "url": "https://www.aibase.com/news/32067",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:45:19.836769Z"
+          "published_at": "2026-11-04T02:59:37.620782Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8709,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T12:45:19.836769Z",
-      "latest_at": "2026-11-03T12:45:19.836769Z",
+      "earliest_at": "2026-11-04T02:59:37.620782Z",
+      "latest_at": "2026-11-04T02:59:37.620782Z",
       "primary_item": {
-        "id": "75f2548732c93b5be626ce1391c7eeab0abf4f20",
-        "title": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
-        "title_zh": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+        "id": "3d5de825ad861ab7a91c82c7655b611cdd0b7521",
+        "title": "Seedance海外收入占比达50%，半年增长近5倍",
+        "title_zh": "Seedance海外收入占比达50%，半年增长近5倍",
         "title_en": null,
-        "title_original": "算力成本高昂难以承受？传SpaceX悄悄削减Grok Bot配额，马斯克坦言营利失衡",
+        "title_original": "Seedance海外收入占比达50%，半年增长近5倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32052",
+        "url": "https://www.aibase.com/news/32067",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1488,7 +1489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
@@ -1536,15 +1537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8123,
+        "recency": 0.7594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1571,30 +1572,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     },
     {
-      "story_id": "story_a6428b15d16b",
-      "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
-      "url": "https://www.aibase.com/news/32057",
-      "primary_url": "https://www.aibase.com/news/32057",
+      "story_id": "story_d5a11f311a4b",
+      "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+      "url": "https://www.aibase.com/news/32068",
+      "primary_url": "https://www.aibase.com/news/32068",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8588536787f5cf44a86f80b061af3483522cdad1",
-          "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
-          "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+          "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+          "title_zh": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
           "title_en": null,
-          "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_original": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32057",
+          "url": "https://www.aibase.com/news/32068",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:45:19.836769Z"
+          "published_at": "2026-11-04T02:59:37.620782Z"
         }
       ],
       "source_count": 1,
@@ -1603,48 +1604,49 @@
       ],
       "items": [
         {
-          "id": "8588536787f5cf44a86f80b061af3483522cdad1",
-          "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
-          "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+          "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+          "title_zh": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
           "title_en": null,
-          "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+          "title_original": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32057",
+          "url": "https://www.aibase.com/news/32068",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:45:19.836769Z"
+          "published_at": "2026-11-04T02:59:37.620782Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8709,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T12:45:19.836769Z",
-      "latest_at": "2026-11-03T12:45:19.836769Z",
+      "earliest_at": "2026-11-04T02:59:37.620782Z",
+      "latest_at": "2026-11-04T02:59:37.620782Z",
       "primary_item": {
-        "id": "8588536787f5cf44a86f80b061af3483522cdad1",
-        "title": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
-        "title_zh": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+        "id": "95d37300c8416c688c668908827253c5cea0e6ba",
+        "title": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
+        "title_zh": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
         "title_en": null,
-        "title_original": "联合国副秘书长点赞!千问AI耳夹式耳机亮相乌镇互联网大会",
+        "title_original": "国内首个三晋文化大模型“晋问AI”正式上线，数字人“晋豆”同步亮相",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32057",
+        "url": "https://www.aibase.com/news/32068",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1652,7 +1654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T22:21:04.650046Z"
+        "scored_at": "2026-11-04T03:00:33.893572Z"
       }
     }
   ]
