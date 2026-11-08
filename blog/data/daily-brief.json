@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T18:49:05.495671Z",
+  "generated_at": "2026-11-08T21:12:47.243711Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_55b8a01511e9",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9007,
+        "recency": 0.8701,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,293 +81,322 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:59:40.560434Z"
+        "scored_at": "2026-11-08T21:25:28.579438Z"
       }
     },
     {
-      "story_id": "story_11c5bedf092a",
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
-          "title": "OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": null,
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T14:49:23Z"
-        },
-        {
-          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
-          "title": "OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": null,
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50413822",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
-          "title": "OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": null,
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-08T14:49:23Z"
-        },
-        {
-          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
-          "title": "OpenAI raises $11B at a $1.25T valuation",
-          "title_zh": null,
-          "title_en": "OpenAI raises $11B at a $1.25T valuation",
-          "title_original": "OpenAI raises $11B at a $1.25T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50413822",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9439,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T14:49:23Z",
-      "latest_at": "2026-11-08T14:49:23Z",
-      "primary_item": {
-        "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
-        "title": "OpenAI raises $11B at a $1.25T valuation",
-        "title_zh": null,
-        "title_en": "OpenAI raises $11B at a $1.25T valuation",
-        "title_original": "OpenAI raises $11B at a $1.25T valuation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:59:40.560434Z"
-      }
-    },
-    {
-      "story_id": "story_928495a51ded",
-      "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "apiiro.com",
+      "story_id": "story_553c073cf47e",
+      "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1513613c40ea8527528953578f44a089b0b5f552",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "title_zh": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+          "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
           "title_en": null,
-          "title_original": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "title_original": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "apiiro.com",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T00:06:44.743000Z"
+          "published_at": "2026-11-08T20:56:03.367000Z"
         },
         {
-          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
-          "title": "Claude·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "title_zh": "Claude·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "title_original": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "url": "https://github.com/synchopate/llama-modchip",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T10:22:04Z"
         },
         {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "title_zh": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码",
-          "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "title_original": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_zh": null,
+          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50407882",
+          "url": "https://news.ycombinator.com/item?id=50411961",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T10:22:04Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "apiiro.com",
+        "github.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1513613c40ea8527528953578f44a089b0b5f552",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "title_zh": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+          "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
           "title_en": null,
-          "title_original": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "title_original": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "apiiro.com",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T00:06:44.743000Z"
+          "published_at": "2026-11-08T20:56:03.367000Z"
         },
         {
-          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
-          "title": "Claude·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "title_zh": "Claude·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "title_original": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "url": "https://github.com/synchopate/llama-modchip",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T10:22:04Z"
         },
         {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "title_zh": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码",
-          "title_en": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "title_original": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_zh": null,
+          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50407882",
+          "url": "https://news.ycombinator.com/item?id=50411961",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T10:22:04Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7633,
+        "recency": 0.996,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T20:45:32Z",
-      "latest_at": "2026-11-08T00:06:44.743000Z",
+      "earliest_at": "2026-11-08T10:22:04Z",
+      "latest_at": "2026-11-08T20:56:03.367000Z",
       "primary_item": {
-        "id": "1513613c40ea8527528953578f44a089b0b5f552",
-        "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-        "title_zh": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+        "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+        "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+        "title_zh": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
         "title_en": null,
-        "title_original": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+        "title_original": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "source": "apiiro.com",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "source": "github.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:59:40.560434Z"
+        "scored_at": "2026-11-08T21:25:28.579438Z"
       }
     },
     {
-      "story_id": "story_553c073cf47e",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "story_id": "story_11c5bedf092a",
+      "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "source": "247wallst.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "title_en": null,
+          "title_original": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "247wallst.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.911000Z"
+        },
+        {
+          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T14:49:23Z"
+        },
+        {
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": null,
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50413822",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "247wallst.com",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "title_en": null,
+          "title_original": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "247wallst.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.911000Z"
+        },
+        {
+          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T14:49:23Z"
+        },
+        {
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI raises $11B at a $1.25T valuation",
+          "title_zh": null,
+          "title_en": "OpenAI raises $11B at a $1.25T valuation",
+          "title_original": "OpenAI raises $11B at a $1.25T valuation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50413822",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.996,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T14:49:23Z",
+      "latest_at": "2026-11-08T20:56:03.911000Z",
+      "primary_item": {
+        "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+        "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+        "title_zh": "OpenAI以1.25万亿美元估值融资110亿美元",
+        "title_en": null,
+        "title_original": "OpenAI以1.25万亿美元估值融资110亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+        "source": "247wallst.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T21:25:28.579438Z"
+      }
+    },
+    {
+      "story_id": "story_81596bb13b16",
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "primary_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+          "title": "How I Fight AI Brain Fry",
           "title_zh": null,
-          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_en": "How I Fight AI Brain Fry",
+          "title_original": "How I Fight AI Brain Fry",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/synchopate/llama-modchip",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
+          "published_at": "2026-11-08T19:37:42Z"
         },
         {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
+          "title": "How I Fight AI Brain Fry",
           "title_zh": null,
-          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_en": "How I Fight AI Brain Fry",
+          "title_original": "How I Fight AI Brain Fry",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50411961",
+          "url": "https://news.ycombinator.com/item?id=50416363",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
+          "published_at": "2026-11-08T19:37:42Z"
         }
       ],
       "source_count": 2,
@@ -377,62 +406,62 @@
       ],
       "items": [
         {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+          "title": "How I Fight AI Brain Fry",
           "title_zh": null,
-          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_en": "How I Fight AI Brain Fry",
+          "title_original": "How I Fight AI Brain Fry",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/synchopate/llama-modchip",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
+          "published_at": "2026-11-08T19:37:42Z"
         },
         {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
+          "title": "How I Fight AI Brain Fry",
           "title_zh": null,
-          "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "title_en": "How I Fight AI Brain Fry",
+          "title_original": "How I Fight AI Brain Fry",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50411961",
+          "url": "https://news.ycombinator.com/item?id=50416363",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
+          "published_at": "2026-11-08T19:37:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8851,
+        "recency": 0.9774,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T10:22:04Z",
-      "latest_at": "2026-11-08T10:22:04Z",
+      "earliest_at": "2026-11-08T19:37:42Z",
+      "latest_at": "2026-11-08T19:37:42Z",
       "primary_item": {
-        "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+        "title": "How I Fight AI Brain Fry",
         "title_zh": null,
-        "title_en": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "title_original": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "title_en": "How I Fight AI Brain Fry",
+        "title_original": "How I Fight AI Brain Fry",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/synchopate/llama-modchip",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -440,7 +469,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:59:40.560434Z"
+        "scored_at": "2026-11-08T21:25:28.579438Z"
+      }
+    },
+    {
+      "story_id": "story_4d98b6f490bc",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "primary_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title_zh": null,
+          "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:43:07Z"
+        },
+        {
+          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title_zh": null,
+          "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50415817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:43:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title_zh": null,
+          "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:43:07Z"
+        },
+        {
+          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title_zh": null,
+          "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50415817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:43:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9646,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T18:43:07Z",
+      "latest_at": "2026-11-08T18:43:07Z",
+      "primary_item": {
+        "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+        "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "title_zh": null,
+        "title_en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "title_original": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T21:25:28.579438Z"
+      }
+    },
+    {
+      "story_id": "story_90bf1aae532f",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_zh": null,
+          "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:16:07Z"
+        },
+        {
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_zh": null,
+          "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50415628",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:16:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_zh": null,
+          "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:16:07Z"
+        },
+        {
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_zh": null,
+          "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50415628",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:16:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9584,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T18:16:07Z",
+      "latest_at": "2026-11-08T18:16:07Z",
+      "primary_item": {
+        "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "title_zh": null,
+        "title_en": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "title_original": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-08T21:25:28.579438Z"
       }
     },
     {
@@ -517,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7981,
+        "recency": 0.7709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -550,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-08T18:59:40.560434Z"
+        "scored_at": "2026-11-08T21:25:28.579438Z"
       }
     }
   ]
