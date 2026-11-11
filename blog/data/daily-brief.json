@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:45:32.012940Z",
+  "generated_at": "2026-11-11T07:45:27.064726Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9012,
-      "importance": 0.9012,
-      "importance_score": 0.9012,
+      "score": 0.8905,
+      "importance": 0.8905,
+      "importance_score": 0.8905,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8569,
+        "recency": 0.7972,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,12 +171,261 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
+      }
+    },
+    {
+      "story_id": "story_3712fd9f7ee1",
+      "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+          "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+          "title_en": "ChatGPT Plus for veterans and servicemembers",
+          "title_original": "ChatGPT Plus for veterans and servicemembers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+          "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+          "title_en": "ChatGPT Plus for veterans and servicemembers",
+          "title_original": "ChatGPT Plus for veterans and servicemembers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T07:45:27.064726Z",
+      "latest_at": "2026-11-11T07:45:27.064726Z",
+      "primary_item": {
+        "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+        "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
+        "title_zh": "面向退伍军人和现役军人的 ChatGPT Plus",
+        "title_en": "ChatGPT Plus for veterans and servicemembers",
+        "title_original": "ChatGPT Plus for veterans and servicemembers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T07:46:20.624174Z"
+      }
+    },
+    {
+      "story_id": "story_3f407db2138d",
+      "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "primary_url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
+          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T05:01:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
+          "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T05:01:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.853,
+      "importance": 0.853,
+      "importance_score": 0.853,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9613,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T05:01:16Z",
+      "latest_at": "2026-11-11T05:01:16Z",
+      "primary_item": {
+        "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+        "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "title_zh": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理",
+        "title_en": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "title_original": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T07:46:20.624174Z"
+      }
+    },
+    {
+      "story_id": "story_5a2a32fd903d",
+      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+          "title_en": "GitHub App support for Enterprise Copilot seat management",
+          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+          "title_en": "GitHub App support for Enterprise Copilot seat management",
+          "title_original": "GitHub App support for Enterprise Copilot seat management",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8963,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T00:10:31Z",
+      "latest_at": "2026-11-11T00:10:31Z",
+      "primary_item": {
+        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+        "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
+        "title_en": "GitHub App support for Enterprise Copilot seat management",
+        "title_original": "GitHub App support for Enterprise Copilot seat management",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
       "story_id": "story_8f1b2af00c00",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI News",
@@ -184,8 +433,8 @@
       "sources": [
         {
           "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": null,
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
           "title_en": "Gilbert + Tobin rethinks the business of law with AI",
           "title_original": "Gilbert + Tobin rethinks the business of law with AI",
           "summary": null,
@@ -204,8 +453,8 @@
       "items": [
         {
           "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "title_zh": null,
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
           "title_en": "Gilbert + Tobin rethinks the business of law with AI",
           "title_original": "Gilbert + Tobin rethinks the business of law with AI",
           "summary": null,
@@ -236,12 +485,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T02:45:32.012940Z",
-      "latest_at": "2026-11-11T02:45:32.012940Z",
+      "earliest_at": "2026-11-11T07:45:27.064726Z",
+      "latest_at": "2026-11-11T07:45:27.064726Z",
       "primary_item": {
         "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-        "title": "Gilbert + Tobin rethinks the business of law with AI",
-        "title_zh": null,
+        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+        "title_zh": "Gilbert + Tobin 用人工智能重新思考法律业务",
         "title_en": "Gilbert + Tobin rethinks the business of law with AI",
         "title_original": "Gilbert + Tobin rethinks the business of law with AI",
         "summary": null,
@@ -254,95 +503,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
-      }
-    },
-    {
-      "story_id": "story_5a2a32fd903d",
-      "title": "GitHub App support for Enterprise Copilot seat management",
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub App support for Enterprise Copilot seat management",
-          "title_zh": null,
-          "title_en": "GitHub App support for Enterprise Copilot seat management",
-          "title_original": "GitHub App support for Enterprise Copilot seat management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub App support for Enterprise Copilot seat management",
-          "title_zh": null,
-          "title_en": "GitHub App support for Enterprise Copilot seat management",
-          "title_original": "GitHub App support for Enterprise Copilot seat management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9634,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T00:10:31Z",
-      "latest_at": "2026-11-11T00:10:31Z",
-      "primary_item": {
-        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-        "title": "GitHub App support for Enterprise Copilot seat management",
-        "title_zh": null,
-        "title_en": "GitHub App support for Enterprise Copilot seat management",
-        "title_original": "GitHub App support for Enterprise Copilot seat management",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
       "story_id": "story_14497aca7fb0",
-      "title": "Gemini Intelligence: New features, on more devices",
+      "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
       "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
       "primary_url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
       "source": "Google AI Blog",
@@ -350,8 +516,8 @@
       "sources": [
         {
           "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence: New features, on more devices",
-          "title_zh": null,
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
           "title_en": "Gemini Intelligence: New features, on more devices",
           "title_original": "Gemini Intelligence: New features, on more devices",
           "summary": null,
@@ -370,8 +536,8 @@
       "items": [
         {
           "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-          "title": "Gemini Intelligence: New features, on more devices",
-          "title_zh": null,
+          "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+          "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
           "title_en": "Gemini Intelligence: New features, on more devices",
           "title_original": "Gemini Intelligence: New features, on more devices",
           "summary": null,
@@ -385,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.894,
+        "recency": 0.8317,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,8 +572,8 @@
       "latest_at": "2026-11-10T19:00:00Z",
       "primary_item": {
         "id": "2f2bde9e23d7d43e9d17ffdc01aa805abd37bccc",
-        "title": "Gemini Intelligence: New features, on more devices",
-        "title_zh": null,
+        "title": "Gemini Intelligence：新功能，适用于更多设备 / Gemini Intelligence: New features, on more devices",
+        "title_zh": "Gemini Intelligence：新功能，适用于更多设备",
         "title_en": "Gemini Intelligence: New features, on more devices",
         "title_original": "Gemini Intelligence: New features, on more devices",
         "summary": null,
@@ -420,120 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
-      }
-    },
-    {
-      "story_id": "story_c9b05eb43caa",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "primary_url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-          "title": "Introducing Businesses in ChatGPT",
-          "title_zh": null,
-          "title_en": "Introducing Businesses in ChatGPT",
-          "title_original": "Introducing Businesses in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:00:00Z"
-        },
-        {
-          "id": "17515df339b0007fe180b131a39f23e42fe67482",
-          "title": "Businesses in ChatGPT – OpenAI",
-          "title_zh": null,
-          "title_en": "Businesses in ChatGPT – OpenAI",
-          "title_original": "Businesses in ChatGPT – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:10:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-          "title": "Introducing Businesses in ChatGPT",
-          "title_zh": null,
-          "title_en": "Introducing Businesses in ChatGPT",
-          "title_original": "Introducing Businesses in ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T10:00:00Z"
-        },
-        {
-          "id": "17515df339b0007fe180b131a39f23e42fe67482",
-          "title": "Businesses in ChatGPT – OpenAI",
-          "title_zh": null,
-          "title_en": "Businesses in ChatGPT – OpenAI",
-          "title_original": "Businesses in ChatGPT – OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:10:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.785,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T10:00:00Z",
-      "latest_at": "2026-11-10T18:10:40Z",
-      "primary_item": {
-        "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
-        "title": "Introducing Businesses in ChatGPT",
-        "title_zh": null,
-        "title_en": "Introducing Businesses in ChatGPT",
-        "title_original": "Introducing Businesses in ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-businesses-chatgpt",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
@@ -581,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8998,
+        "recency": 0.8371,
         "story_heat": 0.0
       },
       "category": "official",
@@ -616,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
@@ -664,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8198,
+        "recency": 0.7627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -699,7 +752,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
+      }
+    },
+    {
+      "story_id": "story_c9b05eb43caa",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "primary_url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+          "title": "Introducing Businesses in ChatGPT",
+          "title_zh": null,
+          "title_en": "Introducing Businesses in ChatGPT",
+          "title_original": "Introducing Businesses in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T10:00:00Z"
+        },
+        {
+          "id": "17515df339b0007fe180b131a39f23e42fe67482",
+          "title": "ChatGPT 中的企业 – OpenAI / Businesses in ChatGPT – OpenAI",
+          "title_zh": "ChatGPT 中的企业 – OpenAI",
+          "title_en": "Businesses in ChatGPT – OpenAI",
+          "title_original": "Businesses in ChatGPT – OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T18:10:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+          "title": "Introducing Businesses in ChatGPT",
+          "title_zh": null,
+          "title_en": "Introducing Businesses in ChatGPT",
+          "title_original": "Introducing Businesses in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T10:00:00Z"
+        },
+        {
+          "id": "17515df339b0007fe180b131a39f23e42fe67482",
+          "title": "ChatGPT 中的企业 – OpenAI / Businesses in ChatGPT – OpenAI",
+          "title_zh": "ChatGPT 中的企业 – OpenAI",
+          "title_en": "Businesses in ChatGPT – OpenAI",
+          "title_original": "Businesses in ChatGPT – OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T18:10:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7304,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T10:00:00Z",
+      "latest_at": "2026-11-10T18:10:40Z",
+      "primary_item": {
+        "id": "5711f5a7fa6d90bdca886e6197b0535d9391d749",
+        "title": "Introducing Businesses in ChatGPT",
+        "title_zh": null,
+        "title_en": "Introducing Businesses in ChatGPT",
+        "title_original": "Introducing Businesses in ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-businesses-chatgpt",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
@@ -747,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8085,
+        "recency": 0.7522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -782,143 +948,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
-      "story_id": "story_1a75130aba91",
-      "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "primary_url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
-          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
-          "title_zh": "前沿工作：人工智能对自由职业的影响",
-          "title_en": "Work at the Frontier: AI’s effect on freelance work",
-          "title_original": "Work at the Frontier: AI’s effect on freelance work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ai-effect-on-freelance-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T07:00:00Z"
-        },
-        {
-          "id": "d58ebd9dd29eb37a395a86ebe2d6c0765af683d0",
-          "title": "Work at the Frontier: AI's effect on freelance work",
-          "title_zh": null,
-          "title_en": "Work at the Frontier: AI's effect on freelance work",
-          "title_original": "Work at the Frontier: AI's effect on freelance work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ai-effect-on-freelance-work",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:02:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
-          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
-          "title_zh": "前沿工作：人工智能对自由职业的影响",
-          "title_en": "Work at the Frontier: AI’s effect on freelance work",
-          "title_original": "Work at the Frontier: AI’s effect on freelance work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ai-effect-on-freelance-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T07:00:00Z"
-        },
-        {
-          "id": "d58ebd9dd29eb37a395a86ebe2d6c0765af683d0",
-          "title": "Work at the Frontier: AI's effect on freelance work",
-          "title_zh": null,
-          "title_en": "Work at the Frontier: AI's effect on freelance work",
-          "title_original": "Work at the Frontier: AI's effect on freelance work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/ai-effect-on-freelance-work",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T18:02:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7518,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T07:00:00Z",
-      "latest_at": "2026-11-10T18:02:54Z",
-      "primary_item": {
-        "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
-        "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
-        "title_zh": "前沿工作：人工智能对自由职业的影响",
-        "title_en": "Work at the Frontier: AI’s effect on freelance work",
-        "title_original": "Work at the Frontier: AI’s effect on freelance work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/ai-effect-on-freelance-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
-      }
-    },
-    {
-      "story_id": "story_8b22e2860bcf",
-      "title": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
-      "url": "https://www.aibase.com/news/32228",
-      "primary_url": "https://www.aibase.com/news/32228",
+      "story_id": "story_ad7ce3b5bad5",
+      "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+      "url": "https://www.aibase.com/news/32242",
+      "primary_url": "https://www.aibase.com/news/32242",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8587610275eead9f4aa8ecf5d54daa5976d16c21",
-          "title": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
-          "title_zh": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
           "title_en": null,
-          "title_original": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32228",
+          "url": "https://www.aibase.com/news/32242",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
+          "published_at": "2026-11-11T07:45:27.064726Z"
         }
       ],
       "source_count": 1,
@@ -927,18 +980,18 @@
       ],
       "items": [
         {
-          "id": "8587610275eead9f4aa8ecf5d54daa5976d16c21",
-          "title": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
-          "title_zh": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
           "title_en": null,
-          "title_original": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32228",
+          "url": "https://www.aibase.com/news/32242",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
+          "published_at": "2026-11-11T07:45:27.064726Z"
         }
       ],
       "item_count": 1,
@@ -959,17 +1012,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T02:45:32.012940Z",
-      "latest_at": "2026-11-11T02:45:32.012940Z",
+      "earliest_at": "2026-11-11T07:45:27.064726Z",
+      "latest_at": "2026-11-11T07:45:27.064726Z",
       "primary_item": {
-        "id": "8587610275eead9f4aa8ecf5d54daa5976d16c21",
-        "title": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
-        "title_zh": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+        "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
+        "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
         "title_en": null,
-        "title_original": "Anthropic 创富样本：七创始人各售 2.5 亿，每人仍值 180 亿",
+        "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32228",
+        "url": "https://www.aibase.com/news/32242",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -977,12 +1030,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
       "story_id": "story_a195268bb47c",
-      "title": "C++ language server now auto-configures MSBuild builds",
+      "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
       "url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
       "primary_url": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
       "source": "GitHub Changelog",
@@ -990,8 +1043,8 @@
       "sources": [
         {
           "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-          "title": "C++ language server now auto-configures MSBuild builds",
-          "title_zh": null,
+          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
           "title_en": "C++ language server now auto-configures MSBuild builds",
           "title_original": "C++ language server now auto-configures MSBuild builds",
           "summary": null,
@@ -1010,8 +1063,8 @@
       "items": [
         {
           "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-          "title": "C++ language server now auto-configures MSBuild builds",
-          "title_zh": null,
+          "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+          "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
           "title_en": "C++ language server now auto-configures MSBuild builds",
           "title_original": "C++ language server now auto-configures MSBuild builds",
           "summary": null,
@@ -1025,15 +1078,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8694,
+        "recency": 0.8089,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1046,8 +1099,8 @@
       "latest_at": "2026-11-10T17:04:10Z",
       "primary_item": {
         "id": "0b45dc5667ea0a14f3bc29063186c8e68d8d4161",
-        "title": "C++ language server now auto-configures MSBuild builds",
-        "title_zh": null,
+        "title": "C++ 语言服务器现在自动配置 MSBuild 构建 / C++ language server now auto-configures MSBuild builds",
+        "title_zh": "C++ 语言服务器现在自动配置 MSBuild 构建",
         "title_en": "C++ language server now auto-configures MSBuild builds",
         "title_original": "C++ language server now auto-configures MSBuild builds",
         "summary": null,
@@ -1060,7 +1113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
@@ -1108,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8317,
+        "recency": 0.7738,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1143,30 +1196,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
-      "story_id": "story_2c8abefda229",
-      "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
-      "url": "https://www.aibase.com/news/32226",
-      "primary_url": "https://www.aibase.com/news/32226",
+      "story_id": "story_140bcdf11c76",
+      "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+      "url": "https://www.aibase.com/news/32244",
+      "primary_url": "https://www.aibase.com/news/32244",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5d74a9f1673d041591a10921025bdefe50b68b97",
-          "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
-          "title_zh": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+          "id": "148b27c223e615de5112499a12f3af2a553332c4",
+          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
           "title_en": null,
-          "title_original": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32226",
+          "url": "https://www.aibase.com/news/32244",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
+          "published_at": "2026-11-11T07:45:27.064726Z"
         }
       ],
       "source_count": 1,
@@ -1175,18 +1228,18 @@
       ],
       "items": [
         {
-          "id": "5d74a9f1673d041591a10921025bdefe50b68b97",
-          "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
-          "title_zh": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+          "id": "148b27c223e615de5112499a12f3af2a553332c4",
+          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
           "title_en": null,
-          "title_original": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32226",
+          "url": "https://www.aibase.com/news/32244",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
+          "published_at": "2026-11-11T07:45:27.064726Z"
         }
       ],
       "item_count": 1,
@@ -1207,17 +1260,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T02:45:32.012940Z",
-      "latest_at": "2026-11-11T02:45:32.012940Z",
+      "earliest_at": "2026-11-11T07:45:27.064726Z",
+      "latest_at": "2026-11-11T07:45:27.064726Z",
       "primary_item": {
-        "id": "5d74a9f1673d041591a10921025bdefe50b68b97",
-        "title": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
-        "title_zh": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+        "id": "148b27c223e615de5112499a12f3af2a553332c4",
+        "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
         "title_en": null,
-        "title_original": "Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，全面覆盖团队协作全流程",
+        "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32226",
+        "url": "https://www.aibase.com/news/32244",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1225,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
@@ -1273,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8081,
+        "recency": 0.7518,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1308,7 +1361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
@@ -1356,15 +1409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8358,
+        "recency": 0.7776,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1391,30 +1444,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
-      "story_id": "story_2bcb916a4843",
-      "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-      "url": "https://www.aibase.com/news/32234",
-      "primary_url": "https://www.aibase.com/news/32234",
+      "story_id": "story_4f7ab0720435",
+      "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+      "url": "https://www.aibase.com/news/32237",
+      "primary_url": "https://www.aibase.com/news/32237",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
-          "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-          "title_zh": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
+          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
           "title_en": null,
-          "title_original": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32234",
+          "url": "https://www.aibase.com/news/32237",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
+          "published_at": "2026-11-11T07:45:27.064726Z"
         }
       ],
       "source_count": 1,
@@ -1423,18 +1476,18 @@
       ],
       "items": [
         {
-          "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
-          "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-          "title_zh": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
+          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
           "title_en": null,
-          "title_original": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+          "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32234",
+          "url": "https://www.aibase.com/news/32237",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
+          "published_at": "2026-11-11T07:45:27.064726Z"
         }
       ],
       "item_count": 1,
@@ -1455,17 +1508,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T02:45:32.012940Z",
-      "latest_at": "2026-11-11T02:45:32.012940Z",
+      "earliest_at": "2026-11-11T07:45:27.064726Z",
+      "latest_at": "2026-11-11T07:45:27.064726Z",
       "primary_item": {
-        "id": "9a2633af544224057fd6dc1a20012d1a367c2a0b",
-        "title": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
-        "title_zh": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+        "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
+        "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+        "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
         "title_en": null,
-        "title_original": "Anthropic 杀入办公腹地：Claude Sheets 叫板 Excel，IPO 前夜贴脸微软谷歌",
+        "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32234",
+        "url": "https://www.aibase.com/news/32237",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1473,7 +1526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
@@ -1521,15 +1574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7738,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1556,7 +1609,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
+      }
+    },
+    {
+      "story_id": "story_6b50fabc4fab",
+      "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+      "url": "https://www.aibase.com/news/32243",
+      "primary_url": "https://www.aibase.com/news/32243",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "782fa871de57efe38bbe7952348af6eae5568931",
+          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "title_zh": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "title_en": null,
+          "title_original": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32243",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T07:45:27.064726Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "782fa871de57efe38bbe7952348af6eae5568931",
+          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "title_zh": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "title_en": null,
+          "title_original": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32243",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T07:45:27.064726Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T07:45:27.064726Z",
+      "latest_at": "2026-11-11T07:45:27.064726Z",
+      "primary_item": {
+        "id": "782fa871de57efe38bbe7952348af6eae5568931",
+        "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+        "title_zh": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+        "title_en": null,
+        "title_original": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32243",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     },
     {
@@ -1604,15 +1739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7916,
+        "recency": 0.7365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1639,171 +1774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
-      }
-    },
-    {
-      "story_id": "story_f80fa3b57944",
-      "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-      "url": "https://www.aibase.com/news/32221",
-      "primary_url": "https://www.aibase.com/news/32221",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
-          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-          "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-          "title_en": null,
-          "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32221",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
-          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-          "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-          "title_en": null,
-          "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32221",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T02:45:32.012940Z",
-      "latest_at": "2026-11-11T02:45:32.012940Z",
-      "primary_item": {
-        "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
-        "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-        "title_zh": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-        "title_en": null,
-        "title_original": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32221",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
-      }
-    },
-    {
-      "story_id": "story_7d5d6eef9ad5",
-      "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-      "url": "https://www.aibase.com/news/32231",
-      "primary_url": "https://www.aibase.com/news/32231",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
-          "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-          "title_zh": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-          "title_en": null,
-          "title_original": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32231",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
-          "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-          "title_zh": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-          "title_en": null,
-          "title_original": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32231",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-11T02:45:32.012940Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T02:45:32.012940Z",
-      "latest_at": "2026-11-11T02:45:32.012940Z",
-      "primary_item": {
-        "id": "1ff43ed24d4d03bd0eb6d95778d7ae9dc81c2ef4",
-        "title": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-        "title_zh": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-        "title_en": null,
-        "title_original": "ChatGPT 开起\"商家门面\"：12 亿周活变广告位，企业能认领资料、架 AI 客服",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32231",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T03:14:55.773471Z"
+        "scored_at": "2026-11-11T07:46:20.624174Z"
       }
     }
   ]
