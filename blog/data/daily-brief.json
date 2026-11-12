@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:28:57.937435Z",
+  "generated_at": "2026-11-12T03:47:29.817196Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8633,
-      "importance": 0.8633,
-      "importance_score": 0.8633,
+      "score": 0.8533,
+      "importance": 0.8533,
+      "importance_score": 0.8533,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9239,
+        "recency": 0.8681,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 1.0,
+        "recency": 0.9467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -178,8 +178,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T23:28:57.937435Z",
-      "latest_at": "2026-11-11T23:28:57.937435Z",
+      "earliest_at": "2026-11-12T00:00:00Z",
+      "latest_at": "2026-11-12T00:00:00Z",
       "primary_item": {
         "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
         "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9143,
+        "recency": 0.8592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8848,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.766,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,90 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
-      }
-    },
-    {
-      "story_id": "story_6cd1a42bc049",
-      "title": "Codex CLI 0.167.2",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
-          "title": "Codex CLI 0.167.2",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.167.2",
-          "title_original": "Codex CLI 0.167.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
-          "title": "Codex CLI 0.167.2",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.167.2",
-          "title_original": "Codex CLI 0.167.2",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7124,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T00:00:00Z",
-      "latest_at": "2026-11-11T00:00:00Z",
-      "primary_item": {
-        "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
-        "title": "Codex CLI 0.167.2",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.167.2",
-        "title_original": "Codex CLI 0.167.2",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
@@ -576,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8976,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
@@ -659,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7997,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,173 +611,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
-      "story_id": "story_58efa7dcbdea",
-      "title": "多向量嵌入模型的令牌池感知训练 / Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "primary_url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_59ef3274551b",
+      "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+      "url": "https://www.aibase.com/news/32266",
+      "primary_url": "https://www.aibase.com/news/32266",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
-          "title": "多向量嵌入模型的令牌池感知训练 / Token Pooling-Aware Training for Multi-Vector Embedding Models",
-          "title_zh": "多向量嵌入模型的令牌池感知训练",
-          "title_en": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-          "title_original": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+          "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+          "title_en": null,
+          "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/token-pooling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
+          "url": "https://www.aibase.com/news/32266",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
-          "title": "多向量嵌入模型的令牌池感知训练 / Token Pooling-Aware Training for Multi-Vector Embedding Models",
-          "title_zh": "多向量嵌入模型的令牌池感知训练",
-          "title_en": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-          "title_original": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+          "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+          "title_en": null,
+          "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/token-pooling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
+          "url": "https://www.aibase.com/news/32266",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7124,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T00:00:00Z",
-      "latest_at": "2026-11-11T00:00:00Z",
+      "earliest_at": "2026-11-12T03:47:29.817196Z",
+      "latest_at": "2026-11-12T03:47:29.817196Z",
       "primary_item": {
-        "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
-        "title": "多向量嵌入模型的令牌池感知训练 / Token Pooling-Aware Training for Multi-Vector Embedding Models",
-        "title_zh": "多向量嵌入模型的令牌池感知训练",
-        "title_en": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-        "title_original": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+        "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+        "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+        "title_zh": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+        "title_en": null,
+        "title_original": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/token-pooling",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32266",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
-      }
-    },
-    {
-      "story_id": "story_5a2a32fd903d",
-      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-          "title_en": "GitHub App support for Enterprise Copilot seat management",
-          "title_original": "GitHub App support for Enterprise Copilot seat management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-          "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-          "title_en": "GitHub App support for Enterprise Copilot seat management",
-          "title_original": "GitHub App support for Enterprise Copilot seat management",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T00:10:31Z",
-      "latest_at": "2026-11-11T00:10:31Z",
-      "primary_item": {
-        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-        "title_zh": "GitHub 应用程序支持 Enterprise Copilot 座位管理",
-        "title_en": "GitHub App support for Enterprise Copilot seat management",
-        "title_original": "GitHub App support for Enterprise Copilot seat management",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
@@ -908,15 +741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8113,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -943,30 +776,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
-      "story_id": "story_df7fb060f2e6",
-      "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-      "url": "https://www.aibase.com/news/32253",
-      "primary_url": "https://www.aibase.com/news/32253",
+      "story_id": "story_c3fcc69c43e8",
+      "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+      "url": "https://www.aibase.com/news/32263",
+      "primary_url": "https://www.aibase.com/news/32263",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
-          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-          "title_zh": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
           "title_en": null,
-          "title_original": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32253",
+          "url": "https://www.aibase.com/news/32263",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T12:41:34.689426Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "source_count": 1,
@@ -975,162 +808,80 @@
       ],
       "items": [
         {
-          "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
-          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-          "title_zh": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
           "title_en": null,
-          "title_original": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
+          "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32253",
+          "url": "https://www.aibase.com/news/32263",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T12:41:34.689426Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-11T12:41:34.689426Z",
-      "latest_at": "2026-11-11T12:41:34.689426Z",
-      "primary_item": {
-        "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
-        "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-        "title_zh": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-        "title_en": null,
-        "title_original": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32253",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
-      }
-    },
-    {
-      "story_id": "story_7757393466bc",
-      "title": "JioStar 5 亿用户规模 AI 发现首席架构师 / JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "primary_url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
-          "title": "JioStar 5 亿用户规模 AI 发现首席架构师 / JioStar’s chief architect on AI discovery at 500M-user scale",
-          "title_zh": "JioStar 5 亿用户规模 AI 发现首席架构师",
-          "title_en": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "title_original": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jiostar-vijay-seshadri",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
-          "title": "JioStar 5 亿用户规模 AI 发现首席架构师 / JioStar’s chief architect on AI discovery at 500M-user scale",
-          "title_zh": "JioStar 5 亿用户规模 AI 发现首席架构师",
-          "title_en": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "title_original": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/jiostar-vijay-seshadri",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7124,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T00:00:00Z",
-      "latest_at": "2026-11-11T00:00:00Z",
+      "earliest_at": "2026-11-12T03:47:29.817196Z",
+      "latest_at": "2026-11-12T03:47:29.817196Z",
       "primary_item": {
-        "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
-        "title": "JioStar 5 亿用户规模 AI 发现首席架构师 / JioStar’s chief architect on AI discovery at 500M-user scale",
-        "title_zh": "JioStar 5 亿用户规模 AI 发现首席架构师",
-        "title_en": "JioStar’s chief architect on AI discovery at 500M-user scale",
-        "title_original": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+        "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+        "title_zh": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+        "title_en": null,
+        "title_original": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/jiostar-vijay-seshadri",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32263",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
-      "story_id": "story_2a09cb6260c3",
-      "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
-      "url": "https://www.aibase.com/news/32251",
-      "primary_url": "https://www.aibase.com/news/32251",
+      "story_id": "story_c2e0bd64e927",
+      "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+      "url": "https://www.aibase.com/news/32270",
+      "primary_url": "https://www.aibase.com/news/32270",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
-          "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
-          "title_zh": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "id": "a4477ec6492087718782506ce434cdc928a45a72",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+          "title_zh": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
           "title_en": null,
-          "title_original": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "title_original": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32251",
+          "url": "https://www.aibase.com/news/32270",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T12:41:34.689426Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "source_count": 1,
@@ -1139,48 +890,49 @@
       ],
       "items": [
         {
-          "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
-          "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
-          "title_zh": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "id": "a4477ec6492087718782506ce434cdc928a45a72",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+          "title_zh": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
           "title_en": null,
-          "title_original": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+          "title_original": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32251",
+          "url": "https://www.aibase.com/news/32270",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T12:41:34.689426Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-11T12:41:34.689426Z",
-      "latest_at": "2026-11-11T12:41:34.689426Z",
+      "earliest_at": "2026-11-12T03:47:29.817196Z",
+      "latest_at": "2026-11-12T03:47:29.817196Z",
       "primary_item": {
-        "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
-        "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
-        "title_zh": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+        "id": "a4477ec6492087718782506ce434cdc928a45a72",
+        "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+        "title_zh": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
         "title_en": null,
-        "title_original": "北京互联网法院:平台误判AI生成内容未标识构成违约",
+        "title_original": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32251",
+        "url": "https://www.aibase.com/news/32270",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1188,30 +940,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
-      "story_id": "story_59804e5b79d9",
-      "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-      "url": "https://www.aibase.com/news/32254",
-      "primary_url": "https://www.aibase.com/news/32254",
+      "story_id": "story_41fbf5ea9b00",
+      "title": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
+      "url": "https://www.aibase.com/news/32271",
+      "primary_url": "https://www.aibase.com/news/32271",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
-          "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-          "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "id": "75f583f0962d81a5e2214c6f189ca9da1b44e97b",
+          "title": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
+          "title_zh": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
           "title_en": null,
-          "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_original": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32254",
+          "url": "https://www.aibase.com/news/32271",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T12:41:34.689426Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "source_count": 1,
@@ -1220,48 +972,49 @@
       ],
       "items": [
         {
-          "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
-          "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-          "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "id": "75f583f0962d81a5e2214c6f189ca9da1b44e97b",
+          "title": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
+          "title_zh": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
           "title_en": null,
-          "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+          "title_original": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32254",
+          "url": "https://www.aibase.com/news/32271",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T12:41:34.689426Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-11T12:41:34.689426Z",
-      "latest_at": "2026-11-11T12:41:34.689426Z",
+      "earliest_at": "2026-11-12T03:47:29.817196Z",
+      "latest_at": "2026-11-12T03:47:29.817196Z",
       "primary_item": {
-        "id": "264a5bc29bdf45299eebd0f901176ebed4212bc0",
-        "title": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
-        "title_zh": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+        "id": "75f583f0962d81a5e2214c6f189ca9da1b44e97b",
+        "title": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
+        "title_zh": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
         "title_en": null,
-        "title_original": "红果短剧给 AI 角色\"上户口\"：虚拟形象也能确权了",
+        "title_original": "Claude API 加了个\"挡位\"：聊着聊着，能给 AI 临时加力",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32254",
+        "url": "https://www.aibase.com/news/32271",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1269,30 +1022,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
-      "story_id": "story_ad7ce3b5bad5",
-      "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-      "url": "https://www.aibase.com/news/32242",
-      "primary_url": "https://www.aibase.com/news/32242",
+      "story_id": "story_4b7ec03ba0be",
+      "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+      "url": "https://www.aibase.com/news/32258",
+      "primary_url": "https://www.aibase.com/news/32258",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
-          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
+          "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+          "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
           "title_en": null,
-          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32242",
+          "url": "https://www.aibase.com/news/32258",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T07:45:27.064726Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "source_count": 1,
@@ -1301,48 +1054,49 @@
       ],
       "items": [
         {
-          "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
-          "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-          "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
+          "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+          "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
           "title_en": null,
-          "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+          "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32242",
+          "url": "https://www.aibase.com/news/32258",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T07:45:27.064726Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7969,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-11T07:45:27.064726Z",
-      "latest_at": "2026-11-11T07:45:27.064726Z",
+      "earliest_at": "2026-11-12T03:47:29.817196Z",
+      "latest_at": "2026-11-12T03:47:29.817196Z",
       "primary_item": {
-        "id": "7a8b5ecd624c6e115acb9c3e23659e5f636d7d71",
-        "title": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
-        "title_zh": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "id": "3febc3f7f055fbf4676adb3a29bd8098e291d55d",
+        "title": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
+        "title_zh": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
         "title_en": null,
-        "title_original": "AI 大模型也赶双 11：智谱、MiniMax 与阿里云等集体开启低折扣促销",
+        "title_original": "OpenAI第三季度营收突破100亿美元，环比增长近50%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32242",
+        "url": "https://www.aibase.com/news/32258",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1350,30 +1104,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
-      "story_id": "story_140bcdf11c76",
-      "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-      "url": "https://www.aibase.com/news/32244",
-      "primary_url": "https://www.aibase.com/news/32244",
+      "story_id": "story_870fd07b8f75",
+      "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+      "url": "https://www.aibase.com/news/32267",
+      "primary_url": "https://www.aibase.com/news/32267",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "148b27c223e615de5112499a12f3af2a553332c4",
-          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+          "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
           "title_en": null,
-          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32244",
+          "url": "https://www.aibase.com/news/32267",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T07:45:27.064726Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "source_count": 1,
@@ -1382,48 +1136,49 @@
       ],
       "items": [
         {
-          "id": "148b27c223e615de5112499a12f3af2a553332c4",
-          "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-          "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+          "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
           "title_en": null,
-          "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+          "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32244",
+          "url": "https://www.aibase.com/news/32267",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T07:45:27.064726Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7969,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-11T07:45:27.064726Z",
-      "latest_at": "2026-11-11T07:45:27.064726Z",
+      "earliest_at": "2026-11-12T03:47:29.817196Z",
+      "latest_at": "2026-11-12T03:47:29.817196Z",
       "primary_item": {
-        "id": "148b27c223e615de5112499a12f3af2a553332c4",
-        "title": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
-        "title_zh": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+        "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+        "title_zh": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
         "title_en": null,
-        "title_original": "AI剧虚拟形象权属如何留痕?红果短剧上线确权新能力",
+        "title_original": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32244",
+        "url": "https://www.aibase.com/news/32267",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1431,30 +1186,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
-      "story_id": "story_4f7ab0720435",
-      "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-      "url": "https://www.aibase.com/news/32237",
-      "primary_url": "https://www.aibase.com/news/32237",
+      "story_id": "story_03424947e690",
+      "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+      "url": "https://www.aibase.com/news/32262",
+      "primary_url": "https://www.aibase.com/news/32262",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "id": "38fee6133505854eaebd12829a0a47d242614cf6",
+          "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+          "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
           "title_en": null,
-          "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32237",
+          "url": "https://www.aibase.com/news/32262",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T07:45:27.064726Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "source_count": 1,
@@ -1463,48 +1218,49 @@
       ],
       "items": [
         {
-          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "id": "38fee6133505854eaebd12829a0a47d242614cf6",
+          "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+          "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
           "title_en": null,
-          "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+          "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32237",
+          "url": "https://www.aibase.com/news/32262",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T07:45:27.064726Z"
+          "published_at": "2026-11-12T03:47:29.817196Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7969,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-11T07:45:27.064726Z",
-      "latest_at": "2026-11-11T07:45:27.064726Z",
+      "earliest_at": "2026-11-12T03:47:29.817196Z",
+      "latest_at": "2026-11-12T03:47:29.817196Z",
       "primary_item": {
-        "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-        "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-        "title_zh": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+        "id": "38fee6133505854eaebd12829a0a47d242614cf6",
+        "title": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
+        "title_zh": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
         "title_en": null,
-        "title_original": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
+        "title_original": "​苹果把谷歌 AI 请进了车机：CarPlay 接通 Gemini，开车能自然唠嗑",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32237",
+        "url": "https://www.aibase.com/news/32262",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1512,7 +1268,175 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
+      }
+    },
+    {
+      "story_id": "story_6735f80a27bd",
+      "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+      "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+      "primary_url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
+          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "title_zh": "联合航空禁止人工智能代理代表旅客预订航班",
+          "title_en": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "title_original": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-12T00:00:00Z"
+        },
+        {
+          "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
+          "title": "美联航禁止人工智能代理为旅客预订机票",
+          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
+          "title_en": null,
+          "title_original": "美联航禁止人工智能代理为旅客预订机票",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "source": "www.cbsnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T22:36:01.186000Z"
+        },
+        {
+          "id": "a898052c9677f592cd22b3aebac895dc3e06fea4",
+          "title": "美联航禁止人工智能代理为旅客预订机票 / United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
+          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-11T21:24:35Z"
+        },
+        {
+          "id": "f61fcd21d3637878200b7a9d3a1e74a84cd111e0",
+          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title_zh": "联合航空禁止人工智能代理代表旅客预订航班",
+          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50458900",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T21:24:35Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Slashdot",
+        "hackernews",
+        "www.cbsnews.com"
+      ],
+      "items": [
+        {
+          "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
+          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "title_zh": "联合航空禁止人工智能代理代表旅客预订航班",
+          "title_en": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "title_original": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-12T00:00:00Z"
+        },
+        {
+          "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
+          "title": "美联航禁止人工智能代理为旅客预订机票",
+          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
+          "title_en": null,
+          "title_original": "美联航禁止人工智能代理为旅客预订机票",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "source": "www.cbsnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T22:36:01.186000Z"
+        },
+        {
+          "id": "a898052c9677f592cd22b3aebac895dc3e06fea4",
+          "title": "美联航禁止人工智能代理为旅客预订机票 / United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
+          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-11T21:24:35Z"
+        },
+        {
+          "id": "f61fcd21d3637878200b7a9d3a1e74a84cd111e0",
+          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title_zh": "联合航空禁止人工智能代理代表旅客预订航班",
+          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50458900",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T21:24:35Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5862,
+      "importance": 0.5862,
+      "importance_score": 0.5862,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9467,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-11T21:24:35Z",
+      "latest_at": "2026-11-12T00:00:00Z",
+      "primary_item": {
+        "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
+        "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+        "title_zh": "联合航空禁止人工智能代理代表旅客预订航班",
+        "title_en": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+        "title_original": "United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
@@ -1646,15 +1570,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5718,
-      "importance": 0.5718,
-      "importance_score": 0.5718,
+      "score": 0.5624,
+      "importance": 0.5624,
+      "importance_score": 0.5624,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8667,
+        "recency": 0.8145,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1679,146 +1603,367 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     },
     {
-      "story_id": "story_6735f80a27bd",
-      "title": "美联航禁止人工智能代理为旅客预订机票",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-      "primary_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-      "source": "www.cbsnews.com",
+      "story_id": "story_267a987b3895",
+      "title": "软件工程中的人工智能、活动与成果",
+      "url": "https://cabird.com/talks/shipping-faster",
+      "primary_url": "https://cabird.com/talks/shipping-faster",
+      "source": "cabird.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
-          "title": "美联航禁止人工智能代理为旅客预订机票",
-          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
+          "id": "209fd92c42fb035fd11882951f724f35733d59cc",
+          "title": "软件工程中的人工智能、活动与成果",
+          "title_zh": "软件工程中的人工智能、活动与成果",
           "title_en": null,
-          "title_original": "美联航禁止人工智能代理为旅客预订机票",
+          "title_original": "软件工程中的人工智能、活动与成果",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-          "source": "www.cbsnews.com",
+          "url": "https://cabird.com/talks/shipping-faster",
+          "source": "cabird.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-11T22:36:01.186000Z"
+          "published_at": "2026-11-11T22:36:01.183000Z"
         },
         {
-          "id": "a898052c9677f592cd22b3aebac895dc3e06fea4",
-          "title": "美联航禁止人工智能代理为旅客预订机票 / United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
-          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "id": "caa342e45a3e752f43887c7afea853acb96018fb",
+          "title": "软件工程中的人工智能、活动与成果 / AI, activity, and outcomes in software engineering",
+          "title_zh": "软件工程中的人工智能、活动与成果",
+          "title_en": "AI, activity, and outcomes in software engineering",
+          "title_original": "AI, activity, and outcomes in software engineering",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-11T21:24:35Z"
+          "url": "https://cabird.com/talks/shipping-faster",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-11T16:33:28Z"
         },
         {
-          "id": "f61fcd21d3637878200b7a9d3a1e74a84cd111e0",
-          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_zh": "联合航空禁止人工智能代理代表旅客预订航班",
-          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "id": "7eab2265193644e4633a49047056847c4f95dad0",
+          "title": "软件工程中的人工智能、活动和成果 / AI, activity, and outcomes in software engineering",
+          "title_zh": "软件工程中的人工智能、活动和成果",
+          "title_en": "AI, activity, and outcomes in software engineering",
+          "title_original": "AI, activity, and outcomes in software engineering",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50458900",
+          "url": "https://news.ycombinator.com/item?id=50455332",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-11T21:24:35Z"
+          "published_at": "2026-11-11T16:33:28Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.cbsnews.com"
+        "Hacker News · 24h最热",
+        "cabird.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
-          "title": "美联航禁止人工智能代理为旅客预订机票",
-          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
+          "id": "209fd92c42fb035fd11882951f724f35733d59cc",
+          "title": "软件工程中的人工智能、活动与成果",
+          "title_zh": "软件工程中的人工智能、活动与成果",
           "title_en": null,
-          "title_original": "美联航禁止人工智能代理为旅客预订机票",
+          "title_original": "软件工程中的人工智能、活动与成果",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-          "source": "www.cbsnews.com",
+          "url": "https://cabird.com/talks/shipping-faster",
+          "source": "cabird.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-11T22:36:01.186000Z"
+          "published_at": "2026-11-11T22:36:01.183000Z"
         },
         {
-          "id": "a898052c9677f592cd22b3aebac895dc3e06fea4",
-          "title": "美联航禁止人工智能代理为旅客预订机票 / United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_zh": "美联航禁止人工智能代理为旅客预订机票",
-          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "id": "caa342e45a3e752f43887c7afea853acb96018fb",
+          "title": "软件工程中的人工智能、活动与成果 / AI, activity, and outcomes in software engineering",
+          "title_zh": "软件工程中的人工智能、活动与成果",
+          "title_en": "AI, activity, and outcomes in software engineering",
+          "title_original": "AI, activity, and outcomes in software engineering",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-11T21:24:35Z"
+          "url": "https://cabird.com/talks/shipping-faster",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-11T16:33:28Z"
         },
         {
-          "id": "f61fcd21d3637878200b7a9d3a1e74a84cd111e0",
-          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_zh": "联合航空禁止人工智能代理代表旅客预订航班",
-          "title_en": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "title_original": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "id": "7eab2265193644e4633a49047056847c4f95dad0",
+          "title": "软件工程中的人工智能、活动和成果 / AI, activity, and outcomes in software engineering",
+          "title_zh": "软件工程中的人工智能、活动和成果",
+          "title_en": "AI, activity, and outcomes in software engineering",
+          "title_original": "AI, activity, and outcomes in software engineering",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50458900",
+          "url": "https://news.ycombinator.com/item?id=50455332",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-11T21:24:35Z"
+          "published_at": "2026-11-11T16:33:28Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5685,
-      "importance": 0.5685,
-      "importance_score": 0.5685,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9873,
+        "recency": 0.9278,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-11T21:24:35Z",
-      "latest_at": "2026-11-11T22:36:01.186000Z",
+      "earliest_at": "2026-11-11T16:33:28Z",
+      "latest_at": "2026-11-11T22:36:01.183000Z",
       "primary_item": {
-        "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
-        "title": "美联航禁止人工智能代理为旅客预订机票",
-        "title_zh": "美联航禁止人工智能代理为旅客预订机票",
+        "id": "209fd92c42fb035fd11882951f724f35733d59cc",
+        "title": "软件工程中的人工智能、活动与成果",
+        "title_zh": "软件工程中的人工智能、活动与成果",
         "title_en": null,
-        "title_original": "美联航禁止人工智能代理为旅客预订机票",
+        "title_original": "软件工程中的人工智能、活动与成果",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-        "source": "www.cbsnews.com",
+        "url": "https://cabird.com/talks/shipping-faster",
+        "source": "cabird.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-11T23:30:07.670625Z"
+        "scored_at": "2026-11-12T03:48:21.140257Z"
+      }
+    },
+    {
+      "story_id": "story_18f0a002922c",
+      "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+      "url": "https://www.aibase.com/news/32265",
+      "primary_url": "https://www.aibase.com/news/32265",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
+          "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+          "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+          "title_en": null,
+          "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32265",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T03:47:29.817196Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
+          "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+          "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+          "title_en": null,
+          "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32265",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T03:47:29.817196Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T03:47:29.817196Z",
+      "latest_at": "2026-11-12T03:47:29.817196Z",
+      "primary_item": {
+        "id": "526898cb6112a3c791d3a7c70e5657a4fc2ab718",
+        "title": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+        "title_zh": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+        "title_en": null,
+        "title_original": "​谷歌甩出决策 API：一张图一次扫千题，150 毫秒出判断",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32265",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T03:48:21.140257Z"
+      }
+    },
+    {
+      "story_id": "story_80e92dfa823e",
+      "title": "退休储蓄正在助长人工智能泡沫",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+      "primary_url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+      "source": "lpeproject.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ab784975a20114da2dd6a1535b8d91735d10c1b9",
+          "title": "退休储蓄正在助长人工智能泡沫",
+          "title_zh": "退休储蓄正在助长人工智能泡沫",
+          "title_en": null,
+          "title_original": "退休储蓄正在助长人工智能泡沫",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+          "source": "lpeproject.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T21:32:55.553000Z"
+        },
+        {
+          "id": "cfee1c05cbe207aadea45b05b2fa09ac84dfabe8",
+          "title": "退休储蓄正在助长人工智能泡沫 / Retirement Savings Are Fueling the AI Bubble",
+          "title_zh": "退休储蓄正在助长人工智能泡沫",
+          "title_en": "Retirement Savings Are Fueling the AI Bubble",
+          "title_original": "Retirement Savings Are Fueling the AI Bubble",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-11T19:06:43Z"
+        },
+        {
+          "id": "3df64cfacb2c5f84073d9f01bab653331b9a8e2e",
+          "title": "退休储蓄正在助长人工智能泡沫 / Retirement Savings Are Fueling the AI Bubble",
+          "title_zh": "退休储蓄正在助长人工智能泡沫",
+          "title_en": "Retirement Savings Are Fueling the AI Bubble",
+          "title_original": "Retirement Savings Are Fueling the AI Bubble",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50457164",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T19:06:43Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "lpeproject.org"
+      ],
+      "items": [
+        {
+          "id": "ab784975a20114da2dd6a1535b8d91735d10c1b9",
+          "title": "退休储蓄正在助长人工智能泡沫",
+          "title_zh": "退休储蓄正在助长人工智能泡沫",
+          "title_en": null,
+          "title_original": "退休储蓄正在助长人工智能泡沫",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+          "source": "lpeproject.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T21:32:55.553000Z"
+        },
+        {
+          "id": "cfee1c05cbe207aadea45b05b2fa09ac84dfabe8",
+          "title": "退休储蓄正在助长人工智能泡沫 / Retirement Savings Are Fueling the AI Bubble",
+          "title_zh": "退休储蓄正在助长人工智能泡沫",
+          "title_en": "Retirement Savings Are Fueling the AI Bubble",
+          "title_original": "Retirement Savings Are Fueling the AI Bubble",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-11T19:06:43Z"
+        },
+        {
+          "id": "3df64cfacb2c5f84073d9f01bab653331b9a8e2e",
+          "title": "退休储蓄正在助长人工智能泡沫 / Retirement Savings Are Fueling the AI Bubble",
+          "title_zh": "退休储蓄正在助长人工智能泡沫",
+          "title_en": "Retirement Savings Are Fueling the AI Bubble",
+          "title_original": "Retirement Savings Are Fueling the AI Bubble",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50457164",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T19:06:43Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9138,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-11T19:06:43Z",
+      "latest_at": "2026-11-11T21:32:55.553000Z",
+      "primary_item": {
+        "id": "ab784975a20114da2dd6a1535b8d91735d10c1b9",
+        "title": "退休储蓄正在助长人工智能泡沫",
+        "title_zh": "退休储蓄正在助长人工智能泡沫",
+        "title_en": null,
+        "title_original": "退休储蓄正在助长人工智能泡沫",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble",
+        "source": "lpeproject.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-12T03:48:21.140257Z"
       }
     }
   ]
