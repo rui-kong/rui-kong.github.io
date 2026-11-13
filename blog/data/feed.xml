@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 16:27:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 20:53:39 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+<link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 4 Hydrogen in GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 18:23:48 +0000</pubDate>
+</item>
 <item>
 <title>Introducing ChatGPT Wallet</title>
 <link>https://openai.com/index/introducing-chatgpt-wallet</link>
@@ -14,14 +30,6 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
-<title>llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.168.0</title>
@@ -32,12 +40,20 @@
 <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API</title>
-<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
+<title>XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question</title>
+<link>https://huggingface.co/blog/allenai/xybench</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/xybench</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 18:27:13 +0000</pubDate>
 </item>
 <item>
 <title>构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills</title>
@@ -48,44 +64,20 @@
 <pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
 </item>
 <item>
-<title>Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
-<link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 18:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Introducing Gemini 4 Hydrogen</title>
-<link>https://deepmind.google/blog/introducing-gemini-4-hydrogen</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-4-hydrogen</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
-</item>
-<item>
-<title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<title>llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
 </item>
 <item>
-<title>Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-<link>https://openai.com/business/customer-stories/amplitude</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
-<title>ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux &amp; Windows retirement</title>
-<link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
+<title>使用 REST API 管理代码仓库的 AI Scan / Manage AI Scan for repositories using the REST API</title>
+<link>https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
+<pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
 <title>Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明</title>
@@ -104,6 +96,14 @@
 <pubDate>Fri, 13 Nov 2026 13:03:51 +0000</pubDate>
 </item>
 <item>
+<title>ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux &amp; Windows retirement</title>
+<link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 20:59:36 +0000</pubDate>
+</item>
+<item>
 <title>腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜</title>
 <link>https://www.aibase.com/news/32320</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32320</guid>
@@ -120,20 +120,20 @@
 <pubDate>Fri, 13 Nov 2026 13:03:51 +0000</pubDate>
 </item>
 <item>
+<title>被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</title>
+<link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
+</item>
+<item>
 <title>语飞国际中文教育垂直大模型发布：深度融合专业教学场景，为全球师生与机构提供智能化服务</title>
 <link>https://www.aibase.com/news/32322</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32322</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 13:03:51 +0000</pubDate>
-</item>
-<item>
-<title>Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
-<link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit</guid>
-<description>TechCrunch AI</description>
-<category>值得关注</category>
-<pubDate>Thu, 12 Nov 2026 18:17:29 +0000</pubDate>
 </item>
 <item>
 <title>"Happy系列"再添一员，阿里以端到端整曲生成切入AI音乐赛道</title>
@@ -144,28 +144,28 @@
 <pubDate>Fri, 13 Nov 2026 08:00:22 +0000</pubDate>
 </item>
 <item>
+<title>谷歌为何要切断“无AI学校”的搜索服务？以下是一些推测</title>
+<link>https://text.npr.org/nx-s1-6029408</link>
+<guid isPermaLink="true">https://text.npr.org/nx-s1-6029408</guid>
+<description>text.npr.org</description>
+<category>多源热议</category>
+<pubDate>Fri, 13 Nov 2026 19:29:43 +0000</pubDate>
+</item>
+<item>
+<title>据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理</title>
+<link>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</link>
+<guid isPermaLink="true">https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</guid>
+<description>www.theguardian.com</description>
+<category>多源热议</category>
+<pubDate>Fri, 13 Nov 2026 18:41:46 +0000</pubDate>
+</item>
+<item>
 <title>人工智能正在破坏作家与读者之间的信任</title>
 <link>https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391</link>
 <guid isPermaLink="true">https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391</guid>
 <description>www.theatlantic.com</description>
 <category>多源热议</category>
 <pubDate>Fri, 13 Nov 2026 15:31:39 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
-<link>https://www.aibase.com/news/32315</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 13 Nov 2026 08:00:22 +0000</pubDate>
-</item>
-<item>
-<title>claude.ai、Claude Code 和 platform.claude.com 上错误率升高</title>
-<link>https://status.claude.com/incidents/nn11wk485zfn</link>
-<guid isPermaLink="true">https://status.claude.com/incidents/nn11wk485zfn</guid>
-<description>status.claude.com</description>
-<category>多源热议</category>
-<pubDate>Fri, 13 Nov 2026 10:59:45 +0000</pubDate>
 </item>
 </channel>
 </rss>
