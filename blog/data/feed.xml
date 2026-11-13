@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 13 Nov 2026 13:03:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 16:27:12 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Introducing ChatGPT Wallet</title>
+<link>https://openai.com/index/introducing-chatgpt-wallet</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-chatgpt-wallet</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>llama.cpp v1.0.0：为本地人工智能生态系统奠定更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+<link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+</item>
 <item>
 <title>Codex CLI 0.168.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
@@ -24,28 +40,12 @@
 <pubDate>Fri, 13 Nov 2026 12:22:41 +0000</pubDate>
 </item>
 <item>
-<title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
-</item>
-<item>
 <title>构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills</title>
 <link>https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills</guid>
 <description>GitHub AI &amp; ML</description>
 <category>官方更新</category>
 <pubDate>Thu, 12 Nov 2026 22:54:52 +0000</pubDate>
-</item>
-<item>
-<title>Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-<link>https://openai.com/business/customer-stories/amplitude</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen</title>
@@ -64,6 +64,22 @@
 <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
 </item>
 <item>
+<title>LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+<link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+</item>
+<item>
+<title>Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+<link>https://openai.com/business/customer-stories/amplitude</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/amplitude</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
+</item>
+<item>
 <title>ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux &amp; Windows retirement</title>
 <link>https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement</guid>
@@ -80,14 +96,6 @@
 <pubDate>Fri, 13 Nov 2026 13:03:51 +0000</pubDate>
 </item>
 <item>
-<title>秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens</title>
-<link>https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 14:38:25 +0000</pubDate>
-</item>
-<item>
 <title>比高端型号还猛却更便宜，Google 用"Gemini 4 Hydrogen"上演反向内卷</title>
 <link>https://www.aibase.com/news/32318</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32318</guid>
@@ -102,14 +110,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 13 Nov 2026 13:03:51 +0000</pubDate>
-</item>
-<item>
-<title>公共监控警报现在有直接链接 / Public monitoring alerts now have direct links</title>
-<link>https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 12 Nov 2026 14:37:38 +0000</pubDate>
 </item>
 <item>
 <title>英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任</title>
@@ -144,6 +144,14 @@
 <pubDate>Fri, 13 Nov 2026 08:00:22 +0000</pubDate>
 </item>
 <item>
+<title>人工智能正在破坏作家与读者之间的信任</title>
+<link>https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391</link>
+<guid isPermaLink="true">https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391</guid>
+<description>www.theatlantic.com</description>
+<category>多源热议</category>
+<pubDate>Fri, 13 Nov 2026 15:31:39 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 募资 904 亿剑指史上最大 IPO，认购已超六倍</title>
 <link>https://www.aibase.com/news/32315</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32315</guid>
@@ -158,14 +166,6 @@
 <description>status.claude.com</description>
 <category>多源热议</category>
 <pubDate>Fri, 13 Nov 2026 10:59:45 +0000</pubDate>
-</item>
-<item>
-<title>Edge0-145B：在您的电脑上体验前沿人工智能功能</title>
-<link>https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</link>
-<guid isPermaLink="true">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</guid>
-<description>edge0.ai</description>
-<category>多源热议</category>
-<pubDate>Fri, 13 Nov 2026 03:49:59 +0000</pubDate>
 </item>
 </channel>
 </rss>
