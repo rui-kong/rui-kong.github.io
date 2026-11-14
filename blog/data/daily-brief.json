@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:11:14.369731Z",
+  "generated_at": "2026-11-14T09:03:25.219854Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8759,
+        "recency": 0.8047,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8808,
+        "recency": 0.8092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8386,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
-      }
-    },
-    {
-      "story_id": "story_6462d932fa5b",
-      "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
-      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-      "primary_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T20:40:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T20:40:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9102,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T20:40:05Z",
-      "latest_at": "2026-11-13T20:40:05Z",
-      "primary_item": {
-        "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
-        "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
-        "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
-        "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
-        "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -380,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8637,
+        "recency": 0.7935,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,63 +332,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
-      "story_id": "story_9a507b7582fa",
-      "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "primary_url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI News",
+      "story_id": "story_6462d932fa5b",
+      "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "primary_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
-          "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
-          "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
-          "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
-          "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/shield",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T08:00:00Z"
+          "published_at": "2026-11-13T20:40:05Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
-          "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
-          "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
-          "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
-          "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/shield",
-          "source": "OpenAI News",
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T08:00:00Z"
+          "published_at": "2026-11-13T20:40:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.758,
+        "recency": 0.8362,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,25 +397,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T08:00:00Z",
-      "latest_at": "2026-11-13T08:00:00Z",
+      "earliest_at": "2026-11-13T20:40:05Z",
+      "latest_at": "2026-11-13T20:40:05Z",
       "primary_item": {
-        "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
-        "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
-        "title_zh": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作",
-        "title_en": "Shield helps technicians hand off legacy portal work with OpenAI",
-        "title_original": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+        "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+        "title_zh": "即将于 12 月弃用选定的 GitHub Copilot 模型",
+        "title_en": "Upcoming deprecation of selected GitHub Copilot models in December",
+        "title_original": "Upcoming deprecation of selected GitHub Copilot models in December",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/shield",
-        "source": "OpenAI News",
+        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
+      }
+    },
+    {
+      "story_id": "story_1d42fa256bab",
+      "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+      "url": "https://www.aibase.com/news/32323",
+      "primary_url": "https://www.aibase.com/news/32323",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_en": null,
+          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-14T09:03:25.219854Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "title_en": null,
+          "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-14T09:03:25.219854Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-14T09:03:25.219854Z",
+      "latest_at": "2026-11-14T09:03:25.219854Z",
+      "primary_item": {
+        "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
+        "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "title_zh": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "title_en": null,
+        "title_original": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32323",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -546,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8815,
+        "recency": 0.8099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -629,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8277,
+        "recency": 0.7604,
         "story_heat": 0.0
       },
       "category": "official",
@@ -664,88 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
-      }
-    },
-    {
-      "story_id": "story_0946096a5431",
-      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-      "url": "https://www.aibase.com/news/32317",
-      "primary_url": "https://www.aibase.com/news/32317",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_en": null,
-          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T13:03:51.317083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "title_en": null,
-          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32317",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T13:03:51.317083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8155,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T13:03:51.317083Z",
-      "latest_at": "2026-11-13T13:03:51.317083Z",
-      "primary_item": {
-        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
-        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "title_en": null,
-        "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32317",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -793,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8075,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -828,7 +746,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
+      }
+    },
+    {
+      "story_id": "story_0946096a5431",
+      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+      "url": "https://www.aibase.com/news/32317",
+      "primary_url": "https://www.aibase.com/news/32317",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_en": null,
+          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T13:03:51.317083Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "title_en": null,
+          "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T13:03:51.317083Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7492,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T13:03:51.317083Z",
+      "latest_at": "2026-11-13T13:03:51.317083Z",
+      "primary_item": {
+        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "title_zh": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "title_en": null,
+        "title_original": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32317",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -876,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8155,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +908,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -957,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8155,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,88 +989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
-      }
-    },
-    {
-      "story_id": "story_bf0c061cd80d",
-      "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-      "url": "https://www.aibase.com/news/32321",
-      "primary_url": "https://www.aibase.com/news/32321",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "299acdd956cdad513ff6a759adb2eec679532916",
-          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_en": null,
-          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32321",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T13:03:51.317083Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "299acdd956cdad513ff6a759adb2eec679532916",
-          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "title_en": null,
-          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32321",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T13:03:51.317083Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8155,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-13T13:03:51.317083Z",
-      "latest_at": "2026-11-13T13:03:51.317083Z",
-      "primary_item": {
-        "id": "299acdd956cdad513ff6a759adb2eec679532916",
-        "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "title_en": null,
-        "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32321",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -1148,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6363,
-      "importance": 0.6363,
-      "importance_score": 0.6363,
+      "score": 0.6233,
+      "importance": 0.6233,
+      "importance_score": 0.6233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8843,
+        "recency": 0.8125,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,7 +1099,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
+      }
+    },
+    {
+      "story_id": "story_bf0c061cd80d",
+      "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+      "url": "https://www.aibase.com/news/32321",
+      "primary_url": "https://www.aibase.com/news/32321",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "299acdd956cdad513ff6a759adb2eec679532916",
+          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_en": null,
+          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32321",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T13:03:51.317083Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "299acdd956cdad513ff6a759adb2eec679532916",
+          "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "title_en": null,
+          "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32321",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T13:03:51.317083Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7492,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-13T13:03:51.317083Z",
+      "latest_at": "2026-11-13T13:03:51.317083Z",
+      "primary_item": {
+        "id": "299acdd956cdad513ff6a759adb2eec679532916",
+        "title": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+        "title_zh": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+        "title_en": null,
+        "title_original": "英伟达员工发起挽留黄仁勋行动，内部投票超97%支持其留任",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32321",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -1229,15 +1228,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8155,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1262,88 +1261,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
-      "story_id": "story_1251a421a37f",
-      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-      "url": "https://www.aibase.com/news/32309",
-      "primary_url": "https://www.aibase.com/news/32309",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e1cd227ad611",
+      "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "primary_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_en": null,
-          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32309",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:00:22.526158Z"
+          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "09c03475580e31d548233207197f9127496e8641",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50492141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "66d12209692eec3def727ca53357b4e371faa565",
+          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
+          "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/resources/articles/projects-redesigned",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T00:28:11Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-          "title_en": null,
-          "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32309",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:00:22.526158Z"
+          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "09c03475580e31d548233207197f9127496e8641",
+          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50492141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T00:28:11Z"
+        },
+        {
+          "id": "66d12209692eec3def727ca53357b4e371faa565",
+          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
+          "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/resources/articles/projects-redesigned",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T00:28:11Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5498,
+      "importance": 0.5498,
+      "importance_score": 0.5498,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7581,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8834,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-13T08:00:22.526158Z",
-      "latest_at": "2026-11-13T08:00:22.526158Z",
+      "earliest_at": "2026-11-14T00:28:11Z",
+      "latest_at": "2026-11-14T00:28:11Z",
       "primary_item": {
-        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
-        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-        "title_zh": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
-        "title_en": null,
-        "title_original": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
+        "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
+        "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+        "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32309",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -1369,7 +1426,7 @@
           "published_at": "2026-11-13T21:53:54.735000Z"
         },
         {
-          "id": "c8bea8029c5835a76c734a8828cb1d3149c4a6c7",
+          "id": "3d32e42f3818b98236e2d071c71277980a927190",
           "title": "《拒绝低劣的AI：一份宣言》 / No AI Slop: A Manifesto",
           "title_zh": "《拒绝低劣的AI：一份宣言》",
           "title_en": "No AI Slop: A Manifesto",
@@ -1377,9 +1434,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.slopmanifesto.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-13T19:51:56Z"
         },
         {
@@ -1399,7 +1456,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.slopmanifesto.com"
       ],
@@ -1419,7 +1476,7 @@
           "published_at": "2026-11-13T21:53:54.735000Z"
         },
         {
-          "id": "c8bea8029c5835a76c734a8828cb1d3149c4a6c7",
+          "id": "3d32e42f3818b98236e2d071c71277980a927190",
           "title": "《拒绝低劣的AI：一份宣言》 / No AI Slop: A Manifesto",
           "title_zh": "《拒绝低劣的AI：一份宣言》",
           "title_en": "No AI Slop: A Manifesto",
@@ -1427,9 +1484,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.slopmanifesto.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-13T19:51:56Z"
         },
         {
@@ -1449,15 +1506,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9265,
+        "recency": 0.8512,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1482,7 +1539,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -1508,7 +1565,7 @@
           "published_at": "2026-11-13T21:05:49.214000Z"
         },
         {
-          "id": "30ae3b93d8c2a06c62497948c336058742a1fba6",
+          "id": "89bd383305c2dacf3a2b6e6d424245ff772d3e4f",
           "title": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队 / OpenAI disbands its robotics team as its general models start running robots",
           "title_zh": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
           "title_en": "OpenAI disbands its robotics team as its general models start running robots",
@@ -1516,9 +1573,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-13T17:55:23Z"
         },
         {
@@ -1538,7 +1595,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "fortune.com",
         "hackernews"
       ],
@@ -1558,7 +1615,7 @@
           "published_at": "2026-11-13T21:05:49.214000Z"
         },
         {
-          "id": "30ae3b93d8c2a06c62497948c336058742a1fba6",
+          "id": "89bd383305c2dacf3a2b6e6d424245ff772d3e4f",
           "title": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队 / OpenAI disbands its robotics team as its general models start running robots",
           "title_zh": "随着其通用模型开始操控机器人，OpenAI解散了其机器人团队",
           "title_en": "OpenAI disbands its robotics team as its general models start running robots",
@@ -1566,9 +1623,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-13T17:55:23Z"
         },
         {
@@ -1588,15 +1645,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5556,
-      "importance": 0.5556,
-      "importance_score": 0.5556,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9158,
+        "recency": 0.8414,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1621,7 +1678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -1727,15 +1784,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8949,
+        "recency": 0.8221,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1760,7 +1817,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     },
     {
@@ -1786,7 +1843,7 @@
           "published_at": "2026-11-13T18:41:46.415000Z"
         },
         {
-          "id": "9e64a1aff84d12641c9ad95d967cc066ae5507df",
+          "id": "7cc7890601c605f9afb933f53b1256b8fe337eaa",
           "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
           "title_zh": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
           "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
@@ -1794,9 +1851,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-13T17:30:10Z"
         },
         {
@@ -1816,7 +1873,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.theguardian.com"
       ],
@@ -1836,7 +1893,7 @@
           "published_at": "2026-11-13T18:41:46.415000Z"
         },
         {
-          "id": "9e64a1aff84d12641c9ad95d967cc066ae5507df",
+          "id": "7cc7890601c605f9afb933f53b1256b8fe337eaa",
           "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
           "title_zh": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理",
           "title_en": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
@@ -1844,9 +1901,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-13T17:30:10Z"
         },
         {
@@ -1866,15 +1923,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.55,
-      "importance": 0.55,
-      "importance_score": 0.55,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8846,
+        "recency": 0.8127,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1899,7 +1956,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T03:12:06.403875Z"
+        "scored_at": "2026-11-14T09:04:22.729229Z"
       }
     }
   ]
