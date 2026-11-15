@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T12:42:25.786092Z",
+  "generated_at": "2026-11-15T19:45:25.369431Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 6,
   "items": [
     {
       "story_id": "story_ac1cd00bb907",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8766,
+        "recency": 0.7917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,116 +81,395 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T12:43:08.504387Z"
+        "scored_at": "2026-11-15T19:46:16.289188Z"
       }
     },
     {
-      "story_id": "story_da2163dae89b",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_c965105b93e9",
+      "title": "理解现代大型语言模型中的位置嵌入",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "primary_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "source": "magazine.sebastianraschka.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+          "title": "理解现代大型语言模型中的位置嵌入",
+          "title_zh": "理解现代大型语言模型中的位置嵌入",
+          "title_en": null,
+          "title_original": "理解现代大型语言模型中的位置嵌入",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-14T15:00:00Z"
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "magazine.sebastianraschka.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:51:36.376000Z"
         },
         {
-          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "理解现代大型语言模型中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "理解现代大型语言模型中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-14T15:00:00Z"
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T12:14:06Z"
+        },
+        {
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506376",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T12:14:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "magazine.sebastianraschka.com"
+      ],
+      "items": [
+        {
+          "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+          "title": "理解现代大型语言模型中的位置嵌入",
+          "title_zh": "理解现代大型语言模型中的位置嵌入",
+          "title_en": null,
+          "title_original": "理解现代大型语言模型中的位置嵌入",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "magazine.sebastianraschka.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:51:36.376000Z"
+        },
+        {
+          "id": "ad6917fe51245a7a26c34d837e4baa9ee92af795",
+          "title": "理解现代大型语言模型中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "理解现代大型语言模型中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T12:14:06Z"
+        },
+        {
+          "id": "50460e7361d8a4c13500be1beae50e60eadf1785",
+          "title": "了解现代LLM中的位置嵌入 / Understanding Positional Embeddings in Modern LLMs",
+          "title_zh": "了解现代LLM中的位置嵌入",
+          "title_en": "Understanding Positional Embeddings in Modern LLMs",
+          "title_original": "Understanding Positional Embeddings in Modern LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506376",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T12:14:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5634,
+      "importance": 0.5634,
+      "importance_score": 0.5634,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.959,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T12:14:06Z",
+      "latest_at": "2026-11-15T16:51:36.376000Z",
+      "primary_item": {
+        "id": "327414c6f30ed741fd19d514181ae7973f3f730d",
+        "title": "理解现代大型语言模型中的位置嵌入",
+        "title_zh": "理解现代大型语言模型中的位置嵌入",
+        "title_en": null,
+        "title_original": "理解现代大型语言模型中的位置嵌入",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "source": "magazine.sebastianraschka.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T19:46:16.289188Z"
+      }
+    },
+    {
+      "story_id": "story_95b2150900ef",
+      "title": "所有由人工智能生成的代码都应开源",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+      "source": "jakub.jankiewicz.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cf50b308cb21811065431474caa5264a211f16e3",
+          "title": "所有由人工智能生成的代码都应开源",
+          "title_zh": "所有由人工智能生成的代码都应开源",
+          "title_en": null,
+          "title_original": "所有由人工智能生成的代码都应开源",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "jakub.jankiewicz.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:03:47.551000Z"
+        },
+        {
+          "id": "f800e40bc86297f866a9f3c9869c6c1a950634c7",
+          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+          "title_zh": "所有由人工智能生成的代码都应开源",
+          "title_en": "All AI-generated code should be Open Source",
+          "title_original": "All AI-generated code should be Open Source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T14:46:58Z"
+        },
+        {
+          "id": "dc98f8e3d0c0c7a854095219b5d90d25076f02fe",
+          "title": "所有人工智能生成的代码都应该是开源的 / All AI-generated code should be Open Source",
+          "title_zh": "所有人工智能生成的代码都应该是开源的",
+          "title_en": "All AI-generated code should be Open Source",
+          "title_original": "All AI-generated code should be Open Source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50507303",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T14:46:58Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "jakub.jankiewicz.org"
+      ],
+      "items": [
+        {
+          "id": "cf50b308cb21811065431474caa5264a211f16e3",
+          "title": "所有由人工智能生成的代码都应开源",
+          "title_zh": "所有由人工智能生成的代码都应开源",
+          "title_en": null,
+          "title_original": "所有由人工智能生成的代码都应开源",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "jakub.jankiewicz.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T16:03:47.551000Z"
+        },
+        {
+          "id": "f800e40bc86297f866a9f3c9869c6c1a950634c7",
+          "title": "所有由人工智能生成的代码都应开源 / All AI-generated code should be Open Source",
+          "title_zh": "所有由人工智能生成的代码都应开源",
+          "title_en": "All AI-generated code should be Open Source",
+          "title_original": "All AI-generated code should be Open Source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T14:46:58Z"
+        },
+        {
+          "id": "dc98f8e3d0c0c7a854095219b5d90d25076f02fe",
+          "title": "所有人工智能生成的代码都应该是开源的 / All AI-generated code should be Open Source",
+          "title_zh": "所有人工智能生成的代码都应该是开源的",
+          "title_en": "All AI-generated code should be Open Source",
+          "title_original": "All AI-generated code should be Open Source",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50507303",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T14:46:58Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5615,
+      "importance": 0.5615,
+      "importance_score": 0.5615,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9481,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T14:46:58Z",
+      "latest_at": "2026-11-15T16:03:47.551000Z",
+      "primary_item": {
+        "id": "cf50b308cb21811065431474caa5264a211f16e3",
+        "title": "所有由人工智能生成的代码都应开源",
+        "title_zh": "所有由人工智能生成的代码都应开源",
+        "title_en": null,
+        "title_original": "所有由人工智能生成的代码都应开源",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+        "source": "jakub.jankiewicz.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T19:46:16.289188Z"
+      }
+    },
+    {
+      "story_id": "story_985a2766aaa2",
+      "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "primary_url": "https://github.com/db-branch/db-branch",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1692168853adce8835fbc48634ed29222243f65c",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/db-branch/db-branch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T13:50:51Z"
+        },
+        {
+          "id": "143687a17204fec06c8ebc84ad068962446a72e9",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50506940",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T13:50:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "id": "1692168853adce8835fbc48634ed29222243f65c",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-14T15:00:00Z"
+          "url": "https://github.com/db-branch/db-branch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T13:50:51Z"
         },
         {
-          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
-          "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_zh": null,
-          "title_en": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-          "title_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "id": "143687a17204fec06c8ebc84ad068962446a72e9",
+          "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+          "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+          "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-14T15:00:00Z"
+          "url": "https://news.ycombinator.com/item?id=50506940",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T13:50:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5795,
-      "importance": 0.5795,
-      "importance_score": 0.5795,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7309,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9182,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T15:00:00Z",
-      "latest_at": "2026-11-14T15:00:00Z",
+      "earliest_at": "2026-11-15T13:50:51Z",
+      "latest_at": "2026-11-15T13:50:51Z",
       "primary_item": {
-        "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
-        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "title_zh": null,
-        "title_en": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "title_original": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+        "id": "1692168853adce8835fbc48634ed29222243f65c",
+        "title": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支 / Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "title_zh": "显示 HN：db-branch – 通过 ZFS 在几秒钟内为 AI 代理和 CI 提供数据库分支",
+        "title_en": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+        "title_original": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://github.com/db-branch/db-branch",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T12:43:08.504387Z"
+        "scored_at": "2026-11-15T19:46:16.289188Z"
       }
     },
     {
@@ -267,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9428,
+        "recency": 0.8516,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -300,285 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T12:43:08.504387Z"
-      }
-    },
-    {
-      "story_id": "story_3ff6db276ba5",
-      "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "primary_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "513621aef39494027890f805c1c1ad382b301e15",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_en": null,
-          "title_original": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T21:13:58.862000Z"
-        },
-        {
-          "id": "436c91cb26bee0e4520161107dd762c23f236b53",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_original": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T15:04:15Z"
-        },
-        {
-          "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
-          "title": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_zh": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3",
-          "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_original": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497589",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T15:04:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "513621aef39494027890f805c1c1ad382b301e15",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_en": null,
-          "title_original": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T21:13:58.862000Z"
-        },
-        {
-          "id": "436c91cb26bee0e4520161107dd762c23f236b53",
-          "title": "Show HN: DeepSeek V3，约200行纯Jax代码 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-          "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_original": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T15:04:15Z"
-        },
-        {
-          "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
-          "title": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_zh": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3",
-          "title_en": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "title_original": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497589",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T15:04:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7998,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T15:04:15Z",
-      "latest_at": "2026-11-14T21:13:58.862000Z",
-      "primary_item": {
-        "id": "513621aef39494027890f805c1c1ad382b301e15",
-        "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
-        "title_zh": "Show HN: DeepSeek V3，约200行纯Jax代码",
-        "title_en": null,
-        "title_original": "Show HN: DeepSeek V3，约200行纯Jax代码",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T12:43:08.504387Z"
-      }
-    },
-    {
-      "story_id": "story_f7d3b237183e",
-      "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "source": "developer.nvidia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": null,
-          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z"
-        },
-        {
-          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T14:09:25Z"
-        },
-        {
-          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
-          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497155",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:09:25Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "developer.nvidia.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": null,
-          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z"
-        },
-        {
-          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T14:09:25Z"
-        },
-        {
-          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
-          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497155",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:09:25Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7817,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T14:09:25Z",
-      "latest_at": "2026-11-14T19:38:56.216000Z",
-      "primary_item": {
-        "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-        "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "title_en": null,
-        "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-        "source": "developer.nvidia.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T12:43:08.504387Z"
+        "scored_at": "2026-11-15T19:46:16.289188Z"
       }
     },
     {
@@ -655,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
+      "score": 0.5095,
+      "importance": 0.5095,
+      "importance_score": 0.5095,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8838,
+        "recency": 0.7983,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -688,227 +689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-15T12:43:08.504387Z"
-      }
-    },
-    {
-      "story_id": "story_f9e25c7e35e5",
-      "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-          "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-          "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T17:51:13Z"
-        },
-        {
-          "id": "a867cb383a49c730c5b25ab61cff9769068489d1",
-          "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-          "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50499114",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T17:51:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-          "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-          "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T17:51:13Z"
-        },
-        {
-          "id": "a867cb383a49c730c5b25ab61cff9769068489d1",
-          "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-          "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50499114",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T17:51:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7617,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T17:51:13Z",
-      "latest_at": "2026-11-14T17:51:13Z",
-      "primary_item": {
-        "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
-        "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
-        "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
-        "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-        "title_original": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T12:43:08.504387Z"
-      }
-    },
-    {
-      "story_id": "story_e41159d50cfe",
-      "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-      "url": "https://github.com/paul-nameless/agweb",
-      "primary_url": "https://github.com/paul-nameless/agweb",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "5afc09bd96b721532395b875c430d395588d155b",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T14:08:12Z"
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5afc09bd96b721532395b875c430d395588d155b",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T14:08:12Z"
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-          "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4957,
-      "importance": 0.4957,
-      "importance_score": 0.4957,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7219,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T14:08:12Z",
-      "latest_at": "2026-11-14T14:08:12Z",
-      "primary_item": {
-        "id": "5afc09bd96b721532395b875c430d395588d155b",
-        "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-        "title_zh": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您",
-        "title_en": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "title_original": "Show HN: Agweb – a browser for agents that stays out of your way",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/paul-nameless/agweb",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-15T12:43:08.504387Z"
+        "scored_at": "2026-11-15T19:46:16.289188Z"
       }
     }
   ]
