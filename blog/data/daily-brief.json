@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T21:31:51.058280Z",
+  "generated_at": "2026-11-15T02:37:49.660194Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 7,
   "items": [
     {
       "story_id": "story_1d42fa256bab",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8352,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,7 +81,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
+        "scored_at": "2026-11-15T02:38:56.495956Z"
       }
     },
     {
@@ -157,15 +157,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6118,
-      "importance": 0.6118,
-      "importance_score": 0.6118,
+      "score": 0.6001,
+      "importance": 0.6001,
+      "importance_score": 0.6001,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.91,
+        "recency": 0.8454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -190,7 +190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
+        "scored_at": "2026-11-15T02:38:56.495956Z"
       }
     },
     {
@@ -296,15 +296,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9957,
+        "recency": 0.925,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -329,11 +329,150 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
+        "scored_at": "2026-11-15T02:38:56.495956Z"
       }
     },
     {
-      "story_id": "story_02d4b9d325b4",
+      "story_id": "story_f7d3b237183e",
+      "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "source": "developer.nvidia.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
+          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "title_en": null,
+          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "source": "developer.nvidia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T19:38:56.216000Z"
+        },
+        {
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
+          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T14:09:25Z"
+        },
+        {
+          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
+          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50497155",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:09:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "developer.nvidia.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
+          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "title_en": null,
+          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "source": "developer.nvidia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T19:38:56.216000Z"
+        },
+        {
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
+          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T14:09:25Z"
+        },
+        {
+          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
+          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50497155",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:09:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5535,
+      "importance": 0.5535,
+      "importance_score": 0.5535,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9041,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T14:09:25Z",
+      "latest_at": "2026-11-14T19:38:56.216000Z",
+      "primary_item": {
+        "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
+        "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+        "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+        "title_en": null,
+        "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+        "source": "developer.nvidia.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-15T02:38:56.495956Z"
+      }
+    },
+    {
+      "story_id": "story_82c8d925bbcc",
       "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
       "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
@@ -381,26 +520,11 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "title_zh": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性",
-          "title_en": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "title_original": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "Reddit (热门)",
         "hackernews",
         "www.techpowerup.com"
       ],
@@ -446,40 +570,26 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "title_zh": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性",
-          "title_en": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "title_original": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5694,
-      "importance": 0.5694,
-      "importance_score": 0.5694,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8532,
-        "story_heat": 0.75
+        "recency": 0.7926,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T02:10:01Z",
+      "earliest_at": "2026-11-14T02:52:59Z",
       "latest_at": "2026-11-14T10:32:03.584000Z",
       "primary_item": {
         "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
@@ -497,146 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
-      }
-    },
-    {
-      "story_id": "story_f7d3b237183e",
-      "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-      "source": "developer.nvidia.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": null,
-          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z"
-        },
-        {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T14:09:25Z"
-        },
-        {
-          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
-          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497155",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:09:25Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "developer.nvidia.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": null,
-          "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "developer.nvidia.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T19:38:56.216000Z"
-        },
-        {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
-          "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T14:09:25Z"
-        },
-        {
-          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
-          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_zh": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务",
-          "title_en": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "title_original": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50497155",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:09:25Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.566,
-      "importance": 0.566,
-      "importance_score": 0.566,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9732,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T14:09:25Z",
-      "latest_at": "2026-11-14T19:38:56.216000Z",
-      "primary_item": {
-        "id": "142c45190f1b0ec524d2add507e28bd2b2e50a0e",
-        "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "title_zh": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "title_en": null,
-        "title_original": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-        "source": "developer.nvidia.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
+        "scored_at": "2026-11-15T02:38:56.495956Z"
       }
     },
     {
@@ -644,11 +615,11 @@
       "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
       "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "2ea6ee1a2fda2f48a98b7d495ea068c58048e2a4",
+          "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
           "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
           "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
           "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
@@ -656,9 +627,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T17:51:13Z"
         },
         {
@@ -678,12 +649,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "2ea6ee1a2fda2f48a98b7d495ea068c58048e2a4",
+          "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
           "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
           "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
           "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
@@ -691,9 +662,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T17:51:13Z"
         },
         {
@@ -713,15 +684,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9483,
+        "recency": 0.881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -731,7 +702,7 @@
       "earliest_at": "2026-11-14T17:51:13Z",
       "latest_at": "2026-11-14T17:51:13Z",
       "primary_item": {
-        "id": "2ea6ee1a2fda2f48a98b7d495ea068c58048e2a4",
+        "id": "63e513bc5c44b33b951a767625b2a6d6fa23f8aa",
         "title": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记 / Claude asked to renumber pages deletes professor's syllabus, year of notes",
         "title_zh": "Claude要求重新编号页数删除了教授的教学大纲、年份笔记",
         "title_en": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
@@ -739,234 +710,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
-      }
-    },
-    {
-      "story_id": "story_253cc06321ab",
-      "title": "克劳德会议",
-      "url": "https://claude.com/resources/articles/claude-meetings",
-      "primary_url": "https://claude.com/resources/articles/claude-meetings",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-          "title": "克劳德会议",
-          "title_zh": "克劳德会议",
-          "title_en": null,
-          "title_original": "克劳德会议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:44:27.205000Z"
-        },
-        {
-          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
-          "title": "Claude会议 / Claude Meetings",
-          "title_zh": "Claude会议",
-          "title_en": "Claude Meetings",
-          "title_original": "Claude Meetings",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:39:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.com"
-      ],
-      "items": [
-        {
-          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-          "title": "克劳德会议",
-          "title_zh": "克劳德会议",
-          "title_en": null,
-          "title_original": "克劳德会议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:44:27.205000Z"
-        },
-        {
-          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
-          "title": "Claude会议 / Claude Meetings",
-          "title_zh": "Claude会议",
-          "title_en": "Claude Meetings",
-          "title_original": "Claude Meetings",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:39:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8557,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T22:39:15Z",
-      "latest_at": "2026-11-14T10:44:27.205000Z",
-      "primary_item": {
-        "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-        "title": "克劳德会议",
-        "title_zh": "克劳德会议",
-        "title_en": null,
-        "title_original": "克劳德会议",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/resources/articles/claude-meetings",
-        "source": "claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
-      }
-    },
-    {
-      "story_id": "story_c6f5f334f60e",
-      "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "primary_url": "https://unsloth.ai/docs/models/qwen3.8",
-      "source": "unsloth.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "title_en": null,
-          "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "f8ed6d9e4fb14a145d99f8970374b2ff8acb2de2",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "title_original": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "unsloth.ai"
-      ],
-      "items": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "title_en": null,
-          "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "f8ed6d9e4fb14a145d99f8970374b2ff8acb2de2",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "title_en": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "title_original": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8532,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:06:04Z",
-      "latest_at": "2026-11-14T10:32:03.410000Z",
-      "primary_item": {
-        "id": "12903a53c9546f10f167828099cb78396294e480",
-        "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-        "title_zh": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-        "title_en": null,
-        "title_original": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://unsloth.ai/docs/models/qwen3.8",
-        "source": "unsloth.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
+        "scored_at": "2026-11-15T02:38:56.495956Z"
       }
     },
     {
@@ -1043,15 +794,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8987,
+        "recency": 0.8349,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1076,146 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
-      }
-    },
-    {
-      "story_id": "story_e1cd227ad611",
-      "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "primary_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50492141",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
-          "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-          "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50492141",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "title_zh": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员",
-          "title_en": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "title_original": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7378,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:28:11Z",
-      "latest_at": "2026-11-14T00:28:11Z",
-      "primary_item": {
-        "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-        "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "title_zh": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员",
-        "title_en": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "title_original": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-14T21:32:59.839784Z"
+        "scored_at": "2026-11-15T02:38:56.495956Z"
       }
     }
   ]
