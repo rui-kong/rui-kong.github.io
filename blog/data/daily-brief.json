@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:51:53.151738Z",
+  "generated_at": "2026-11-18T04:15:35.837668Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8948,
-      "importance": 0.8948,
-      "importance_score": 0.8948,
+      "score": 0.8847,
+      "importance": 0.8847,
+      "importance_score": 0.8847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9155,
+        "recency": 0.8592,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
+      }
+    },
+    {
+      "story_id": "story_916b3373dca3",
+      "title": "Codex CLI 0.170.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "Codex CLI 0.170.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.170.0",
+          "title_original": "Codex CLI 0.170.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+          "title": "Codex CLI 0.170.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.170.0",
+          "title_original": "Codex CLI 0.170.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8553,
+      "importance": 0.8553,
+      "importance_score": 0.8553,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9403,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "efc60cb72c289f6ae02fe662e885fe0843d932e3",
+        "title": "Codex CLI 0.170.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.170.0",
+        "title_original": "Codex CLI 0.170.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -190,15 +273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9504,
+        "recency": 0.8919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -225,7 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -273,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9056,
+        "recency": 0.8499,
         "story_heat": 0.0
       },
       "category": "official",
@@ -308,90 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
-      }
-    },
-    {
-      "story_id": "story_fe87d15342d1",
-      "title": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-          "title": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "title_zh": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol",
-          "title_en": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "title_original": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-          "title": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "title_zh": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol",
-          "title_en": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "title_original": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7085,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "738ec26a13b71b2ee98a6c4a3e530750589fcd43",
-        "title": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol / GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-        "title_zh": "工作和Codex中的 GPT-6.2 Astra 和 GPT-6.2 Sol",
-        "title_en": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-        "title_original": "GPT-6.2 Astra and GPT-6.2 Sol in Work and Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -439,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9199,
+        "recency": 0.8633,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -522,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7953,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "official",
@@ -557,7 +557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -605,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9189,
+        "recency": 0.8624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -640,196 +640,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
-      "story_id": "story_308e6b02f235",
-      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9193,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:02:05Z",
-      "latest_at": "2026-11-17T18:02:05Z",
-      "primary_item": {
-        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
-      }
-    },
-    {
-      "story_id": "story_8cd56831ef3a",
-      "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "primary_url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-          "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
-          "title_zh": "Astra for Law 在法律情报方面处于领先地位",
-          "title_en": "Astra for Law leads in legal intelligence",
-          "title_original": "Astra for Law leads in legal intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/astra-law-6-2",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-          "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
-          "title_zh": "Astra for Law 在法律情报方面处于领先地位",
-          "title_en": "Astra for Law leads in legal intelligence",
-          "title_original": "Astra for Law leads in legal intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/astra-law-6-2",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7085,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-        "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
-        "title_zh": "Astra for Law 在法律情报方面处于领先地位",
-        "title_en": "Astra for Law leads in legal intelligence",
-        "title_original": "Astra for Law leads in legal intelligence",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/astra-law-6-2",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
-      }
-    },
-    {
-      "story_id": "story_ffa281130f35",
-      "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-      "url": "https://www.aibase.com/news/32354",
-      "primary_url": "https://www.aibase.com/news/32354",
+      "story_id": "story_5fee3ed848e2",
+      "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+      "url": "https://www.aibase.com/news/32366",
+      "primary_url": "https://www.aibase.com/news/32366",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
           "title_en": null,
-          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32354",
+          "url": "https://www.aibase.com/news/32366",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "source_count": 1,
@@ -838,48 +672,49 @@
       ],
       "items": [
         {
-          "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-          "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-          "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+          "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+          "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
           "title_en": null,
-          "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+          "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32354",
+          "url": "https://www.aibase.com/news/32366",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-17T09:14:12.458155Z",
-      "latest_at": "2026-11-17T09:14:12.458155Z",
+      "earliest_at": "2026-11-18T04:15:35.837668Z",
+      "latest_at": "2026-11-18T04:15:35.837668Z",
       "primary_item": {
-        "id": "a59276dc77575cf84f1a0c870f3ea756d21cc0e3",
-        "title": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
-        "title_zh": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "id": "34401805eab8d1fdb15461580a1c4e4e370ca60b",
+        "title": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
+        "title_zh": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
         "title_en": null,
-        "title_original": "AI投资回报担忧升温，英伟达市值排名跌至美国第三",
+        "title_original": "Claude 仅用 3 天攻克 AMD 芯片底层适配：英伟达 CUDA 护城河迎来最强冲击",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32354",
+        "url": "https://www.aibase.com/news/32366",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -887,7 +722,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
+      }
+    },
+    {
+      "story_id": "story_0e3f299a3d0c",
+      "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+      "url": "https://www.aibase.com/news/32367",
+      "primary_url": "https://www.aibase.com/news/32367",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
+          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+          "title_zh": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+          "title_en": null,
+          "title_original": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T04:15:35.837668Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
+          "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+          "title_zh": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+          "title_en": null,
+          "title_original": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T04:15:35.837668Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T04:15:35.837668Z",
+      "latest_at": "2026-11-18T04:15:35.837668Z",
+      "primary_item": {
+        "id": "9cf65fe5edee25d3878cf48996baa7b9a38ec207",
+        "title": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+        "title_zh": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+        "title_en": null,
+        "title_original": "OpenAI 官宣 GPT-6.2 Astra 与 Sol：API 成本暴降 60%，全面赋能专业研究与日常办公",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32367",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -935,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9196,
+        "recency": 0.8631,
         "story_heat": 0.0
       },
       "category": "official",
@@ -970,113 +887,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
-      "story_id": "story_e05c122d19a4",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "primary_url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-          "title": "Introducing OpenAI for Chile",
-          "title_zh": null,
-          "title_en": "Introducing OpenAI for Chile",
-          "title_original": "Introducing OpenAI for Chile",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-          "title": "Introducing OpenAI for Chile",
-          "title_zh": null,
-          "title_en": "Introducing OpenAI for Chile",
-          "title_original": "Introducing OpenAI for Chile",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-for-chile",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7085,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-        "title": "Introducing OpenAI for Chile",
-        "title_zh": null,
-        "title_en": "Introducing OpenAI for Chile",
-        "title_original": "Introducing OpenAI for Chile",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-openai-for-chile",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
-      }
-    },
-    {
-      "story_id": "story_7aa3486bd5ac",
-      "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-      "url": "https://www.aibase.com/news/32352",
-      "primary_url": "https://www.aibase.com/news/32352",
+      "story_id": "story_1b4b20491033",
+      "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+      "url": "https://www.aibase.com/news/32362",
+      "primary_url": "https://www.aibase.com/news/32362",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-          "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
+          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+          "title_zh": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
           "title_en": null,
-          "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "title_original": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32352",
+          "url": "https://www.aibase.com/news/32362",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "source_count": 1,
@@ -1085,48 +919,49 @@
       ],
       "items": [
         {
-          "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-          "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-          "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
+          "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+          "title_zh": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
           "title_en": null,
-          "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+          "title_original": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32352",
+          "url": "https://www.aibase.com/news/32362",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-17T09:14:12.458155Z",
-      "latest_at": "2026-11-17T09:14:12.458155Z",
+      "earliest_at": "2026-11-18T04:15:35.837668Z",
+      "latest_at": "2026-11-18T04:15:35.837668Z",
       "primary_item": {
-        "id": "91e91628a5b0ea3c83a2b4f99e526bddf4ba1055",
-        "title": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
-        "title_zh": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+        "id": "227174257f4dd9e786234cb22662ba3e3e76cfef",
+        "title": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
+        "title_zh": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
         "title_en": null,
-        "title_original": "Anthropic引入10b5-1计划:拟IPO前夕规范员工股票出售机制",
+        "title_original": "代码\"ANT\"锁定纳斯达克：Anthropic 拿到上市通行证，发行价 70至78 美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32352",
+        "url": "https://www.aibase.com/news/32362",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1134,7 +969,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
+      }
+    },
+    {
+      "story_id": "story_308e6b02f235",
+      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8627,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:02:05Z",
+      "latest_at": "2026-11-17T18:02:05Z",
+      "primary_item": {
+        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T04:16:27.390842Z"
+      }
+    },
+    {
+      "story_id": "story_2750a132879a",
+      "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+      "url": "https://www.aibase.com/news/32372",
+      "primary_url": "https://www.aibase.com/news/32372",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
+          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_en": null,
+          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T04:15:35.837668Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
+          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "title_en": null,
+          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T04:15:35.837668Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T04:15:35.837668Z",
+      "latest_at": "2026-11-18T04:15:35.837668Z",
+      "primary_item": {
+        "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
+        "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+        "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+        "title_en": null,
+        "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32372",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -1182,15 +1182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9192,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1217,113 +1217,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
-      "story_id": "story_49384d4c148d",
-      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "title_zh": "利用人工智能加强北约和盟国的网络防御",
-          "title_en": "Strengthening NATO and allied cyber defenses with AI",
-          "title_original": "Strengthening NATO and allied cyber defenses with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "title_zh": "利用人工智能加强北约和盟国的网络防御",
-          "title_en": "Strengthening NATO and allied cyber defenses with AI",
-          "title_original": "Strengthening NATO and allied cyber defenses with AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7085,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-        "title_zh": "利用人工智能加强北约和盟国的网络防御",
-        "title_en": "Strengthening NATO and allied cyber defenses with AI",
-        "title_original": "Strengthening NATO and allied cyber defenses with AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
-      }
-    },
-    {
-      "story_id": "story_5b7e07ae524c",
-      "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-      "url": "https://www.aibase.com/news/32350",
-      "primary_url": "https://www.aibase.com/news/32350",
+      "story_id": "story_99a9ab2a5058",
+      "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+      "url": "https://www.aibase.com/news/32368",
+      "primary_url": "https://www.aibase.com/news/32368",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "id": "2e706587713054bad719dac00d9df6bb12895102",
+          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
           "title_en": null,
-          "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32350",
+          "url": "https://www.aibase.com/news/32368",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "source_count": 1,
@@ -1332,48 +1249,49 @@
       ],
       "items": [
         {
-          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "id": "2e706587713054bad719dac00d9df6bb12895102",
+          "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+          "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
           "title_en": null,
-          "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+          "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32350",
+          "url": "https://www.aibase.com/news/32368",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-17T09:14:12.458155Z",
-      "latest_at": "2026-11-17T09:14:12.458155Z",
+      "earliest_at": "2026-11-18T04:15:35.837668Z",
+      "latest_at": "2026-11-18T04:15:35.837668Z",
       "primary_item": {
-        "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-        "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-        "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+        "id": "2e706587713054bad719dac00d9df6bb12895102",
+        "title": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
+        "title_zh": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
         "title_en": null,
-        "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
+        "title_original": "微软 CEO 纳德拉：我已成为 AGI 信徒，但 AI 绝对没有意识",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32350",
+        "url": "https://www.aibase.com/news/32368",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1381,7 +1299,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -1429,15 +1347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9189,
+        "recency": 0.8624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1464,30 +1382,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
-      "story_id": "story_4725e2347902",
-      "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-      "url": "https://www.aibase.com/news/32357",
-      "primary_url": "https://www.aibase.com/news/32357",
+      "story_id": "story_b82784b6441c",
+      "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+      "url": "https://www.aibase.com/news/32373",
+      "primary_url": "https://www.aibase.com/news/32373",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-          "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
           "title_en": null,
-          "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32357",
+          "url": "https://www.aibase.com/news/32373",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "source_count": 1,
@@ -1496,48 +1414,49 @@
       ],
       "items": [
         {
-          "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-          "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-          "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
           "title_en": null,
-          "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32357",
+          "url": "https://www.aibase.com/news/32373",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-17T09:14:12.458155Z",
-      "latest_at": "2026-11-17T09:14:12.458155Z",
+      "earliest_at": "2026-11-18T04:15:35.837668Z",
+      "latest_at": "2026-11-18T04:15:35.837668Z",
       "primary_item": {
-        "id": "3955da30e4df8834406b87dc0ec94464eed8e089",
-        "title": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
-        "title_zh": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+        "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
+        "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
+        "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
         "title_en": null,
-        "title_original": "亚马逊Audible推出AI音频发现功能与互动式“提问”工具",
+        "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32357",
+        "url": "https://www.aibase.com/news/32373",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1545,7 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
@@ -1593,15 +1512,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.919,
+        "recency": 0.8625,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1628,30 +1547,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     },
     {
-      "story_id": "story_c6beeb50fc2e",
-      "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-      "url": "https://www.aibase.com/news/32353",
-      "primary_url": "https://www.aibase.com/news/32353",
+      "story_id": "story_7929613f9e33",
+      "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+      "url": "https://www.aibase.com/news/32374",
+      "primary_url": "https://www.aibase.com/news/32374",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-          "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-          "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
           "title_en": null,
-          "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32353",
+          "url": "https://www.aibase.com/news/32374",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "source_count": 1,
@@ -1660,48 +1579,49 @@
       ],
       "items": [
         {
-          "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-          "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-          "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
           "title_en": null,
-          "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32353",
+          "url": "https://www.aibase.com/news/32374",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-17T09:14:12.458155Z"
+          "published_at": "2026-11-18T04:15:35.837668Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-17T09:14:12.458155Z",
-      "latest_at": "2026-11-17T09:14:12.458155Z",
+      "earliest_at": "2026-11-18T04:15:35.837668Z",
+      "latest_at": "2026-11-18T04:15:35.837668Z",
       "primary_item": {
-        "id": "c04f7935e5bc77c9b545be0666915a9b6adf4a21",
-        "title": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
-        "title_zh": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+        "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
+        "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+        "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
         "title_en": null,
-        "title_original": "加州起诉OpenAI:指控AI智能体失控超80次并攻击外部平台",
+        "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32353",
+        "url": "https://www.aibase.com/news/32374",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1709,7 +1629,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T23:52:50.377149Z"
+        "scored_at": "2026-11-18T04:16:27.390842Z"
+      }
+    },
+    {
+      "story_id": "story_238adc092859",
+      "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+      "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+      "primary_url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+          "title_en": "Track Copilot code review outcomes in Repository insights",
+          "title_original": "Track Copilot code review outcomes in Repository insights",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+          "title_en": "Track Copilot code review outcomes in Repository insights",
+          "title_original": "Track Copilot code review outcomes in Repository insights",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8624,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:00:35Z",
+      "latest_at": "2026-11-17T18:00:35Z",
+      "primary_item": {
+        "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+        "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+        "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+        "title_en": "Track Copilot code review outcomes in Repository insights",
+        "title_original": "Track Copilot code review outcomes in Repository insights",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T04:16:27.390842Z"
       }
     }
   ]
