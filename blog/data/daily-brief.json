@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:58:51.159951Z",
+  "generated_at": "2026-11-20T17:49:58.925047Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8172,
+        "recency": 0.773,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8172,
+        "recency": 0.773,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
+      }
+    },
+    {
+      "story_id": "story_8bfa75615929",
+      "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+          "title_en": "GitHub Desktop now supports multiple accounts per host",
+          "title_original": "GitHub Desktop now supports multiple accounts per host",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T02:06:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+          "title_en": "GitHub Desktop now supports multiple accounts per host",
+          "title_original": "GitHub Desktop now supports multiple accounts per host",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T02:06:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7968,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T02:06:01Z",
+      "latest_at": "2026-11-20T02:06:01Z",
+      "primary_item": {
+        "id": "4153f14f8744315b507c166df3e939c015d28122",
+        "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+        "title_zh": "GitHub Desktop 现在支持每个主机多个帐户",
+        "title_en": "GitHub Desktop now supports multiple accounts per host",
+        "title_original": "GitHub Desktop now supports multiple accounts per host",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7494,
+        "recency": 0.7088,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8176,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,90 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
-      }
-    },
-    {
-      "story_id": "story_99c3c3718f01",
-      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7586,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
-      "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-        "title_zh": "Azure DevOps 的企业实时迁移全面可用",
-        "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
-        "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,113 +497,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
-      "story_id": "story_c2ba68bd6600",
-      "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
-          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
-          "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7386,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:00:00Z",
-      "latest_at": "2026-11-19T17:00:00Z",
-      "primary_item": {
-        "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-        "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-        "title_zh": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。",
-        "title_en": "Walter Isaacson on curiosity and creativity in the AI age.",
-        "title_original": "Walter Isaacson on curiosity and creativity in the AI age.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
-      }
-    },
-    {
-      "story_id": "story_98815cd1b0b3",
-      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "story_id": "story_99c3c3718f01",
+      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-          "title_en": "Red Hat Enterprise Linux runner images now generally available",
-          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
+          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "source_count": 1,
@@ -612,31 +529,31 @@
       ],
       "items": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-          "title_en": "Red Hat Enterprise Linux runner images now generally available",
-          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "title_zh": "Azure DevOps 的企业实时迁移全面可用",
+          "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+          "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7582,
+        "recency": 0.7176,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,17 +562,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
+      "earliest_at": "2026-11-19T18:50:57Z",
+      "latest_at": "2026-11-19T18:50:57Z",
       "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-        "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
-        "title_en": "Red Hat Enterprise Linux runner images now generally available",
-        "title_original": "Red Hat Enterprise Linux runner images now generally available",
+        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+        "title_zh": "Azure DevOps 的企业实时迁移全面可用",
+        "title_en": "Enterprise Live Migrations from Azure DevOps generally available",
+        "title_original": "Enterprise Live Migrations from Azure DevOps generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -663,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -711,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +662,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
+      }
+    },
+    {
+      "story_id": "story_98815cd1b0b3",
+      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
+          "title_en": "Red Hat Enterprise Linux runner images now generally available",
+          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T18:48:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+          "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
+          "title_en": "Red Hat Enterprise Linux runner images now generally available",
+          "title_original": "Red Hat Enterprise Linux runner images now generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T18:48:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7172,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T18:48:46Z",
+      "latest_at": "2026-11-19T18:48:46Z",
+      "primary_item": {
+        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+        "title_zh": "红帽企业 Linux 运行器镜像现已全面上市",
+        "title_en": "Red Hat Enterprise Linux runner images now generally available",
+        "title_original": "Red Hat Enterprise Linux runner images now generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -793,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -875,21 +875,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T08:35:12.928649Z",
       "latest_at": "2026-11-20T08:35:12.928649Z",
@@ -909,7 +908,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -957,21 +956,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T08:35:12.928649Z",
       "latest_at": "2026-11-20T08:35:12.928649Z",
@@ -991,7 +989,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -1068,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6184,
-      "importance": 0.6184,
-      "importance_score": 0.6184,
+      "score": 0.611,
+      "importance": 0.611,
+      "importance_score": 0.611,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7622,
+        "recency": 0.721,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1101,7 +1099,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -1149,21 +1147,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T08:35:12.928649Z",
       "latest_at": "2026-11-20T08:35:12.928649Z",
@@ -1183,117 +1180,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
-      }
-    },
-    {
-      "story_id": "story_d6102855438b",
-      "title": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "primary_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-          "title": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "title_zh": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33%",
-          "title_en": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "title_original": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T16:59:23Z"
-        },
-        {
-          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
-          "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "title_zh": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33%",
-          "title_en": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "title_original": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-          "title": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "title_zh": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33%",
-          "title_en": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "title_original": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T16:59:23Z"
-        },
-        {
-          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
-          "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "title_zh": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33%",
-          "title_en": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "title_original": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6142,
-      "importance": 0.6142,
-      "importance_score": 0.6142,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7385,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T16:59:23Z",
-      "latest_at": "2026-11-19T16:59:23Z",
-      "primary_item": {
-        "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-        "title": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "title_zh": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33%",
-        "title_en": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "title_original": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -1341,21 +1228,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9251,
+        "recency": 0.875,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-20T08:35:12.928649Z",
       "latest_at": "2026-11-20T08:35:12.928649Z",
@@ -1375,7 +1261,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
+      }
+    },
+    {
+      "story_id": "story_ffa13270a961",
+      "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "primary_url": "https://alpo.ge/remark.pdf",
+      "source": "alpo.ge",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4433c1f9b08e65624f12de0f6779e08cad354d92",
+          "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+          "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+          "title_en": null,
+          "title_original": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://alpo.ge/remark.pdf",
+          "source": "alpo.ge",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T15:04:43.729000Z"
+        },
+        {
+          "id": "ad4add3c37c1a80e53b81d55a7cfb4f2c2ab05c3",
+          "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf] / Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+          "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "title_original": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://alpo.ge/remark.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T14:16:21Z"
+        },
+        {
+          "id": "30c5f515a52b87ed70fb6dbf54e8059b02505df0",
+          "title": "人类雇员声称黎曼猜想的一般证明 [pdf] / Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "title_zh": "人类雇员声称黎曼猜想的一般证明 [pdf]",
+          "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "title_original": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50574968",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T14:16:21Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "alpo.ge",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4433c1f9b08e65624f12de0f6779e08cad354d92",
+          "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+          "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+          "title_en": null,
+          "title_original": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://alpo.ge/remark.pdf",
+          "source": "alpo.ge",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T15:04:43.729000Z"
+        },
+        {
+          "id": "ad4add3c37c1a80e53b81d55a7cfb4f2c2ab05c3",
+          "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf] / Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+          "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "title_original": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://alpo.ge/remark.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T14:16:21Z"
+        },
+        {
+          "id": "30c5f515a52b87ed70fb6dbf54e8059b02505df0",
+          "title": "人类雇员声称黎曼猜想的一般证明 [pdf] / Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "title_zh": "人类雇员声称黎曼猜想的一般证明 [pdf]",
+          "title_en": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "title_original": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50574968",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T14:16:21Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.961,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T14:16:21Z",
+      "latest_at": "2026-11-20T15:04:43.729000Z",
+      "primary_item": {
+        "id": "4433c1f9b08e65624f12de0f6779e08cad354d92",
+        "title": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+        "title_zh": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+        "title_en": null,
+        "title_original": "Anthropic公司一名员工声称找到了黎曼猜想的一般性证明 [pdf]",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://alpo.ge/remark.pdf",
+        "source": "alpo.ge",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -1481,15 +1506,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9664,
+        "recency": 0.9141,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1514,7 +1539,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
@@ -1540,7 +1565,7 @@
           "published_at": "2026-11-20T07:21:53.831000Z"
         },
         {
-          "id": "3a4742158c98f7da6829387156044fd158c09436",
+          "id": "96e355a5b6fff33ab68174a9a418881e0a95d3a1",
           "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
           "title_zh": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
           "title_en": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
@@ -1548,9 +1573,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-19T18:47:16Z"
         },
         {
@@ -1570,7 +1595,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.youtube.com"
       ],
@@ -1590,7 +1615,7 @@
           "published_at": "2026-11-20T07:21:53.831000Z"
         },
         {
-          "id": "3a4742158c98f7da6829387156044fd158c09436",
+          "id": "96e355a5b6fff33ab68174a9a418881e0a95d3a1",
           "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
           "title_zh": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
           "title_en": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
@@ -1598,9 +1623,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-19T18:47:16Z"
         },
         {
@@ -1620,15 +1645,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5544,
-      "importance": 0.5544,
-      "importance_score": 0.5544,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9089,
+        "recency": 0.8597,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1653,228 +1678,226 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     },
     {
-      "story_id": "story_272cbf5ded50",
-      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-      "url": "https://www.aibase.com/news/32441",
-      "primary_url": "https://www.aibase.com/news/32441",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9251,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T08:35:12.928649Z",
-      "latest_at": "2026-11-20T08:35:12.928649Z",
-      "primary_item": {
-        "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "title_en": null,
-        "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32441",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
-      }
-    },
-    {
-      "story_id": "story_93fefdd1d817",
-      "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-      "url": "https://git-aarvin.github.io/mei",
-      "primary_url": "https://git-aarvin.github.io/mei",
-      "source": "git-aarvin.github.io",
+      "story_id": "story_f4a132de0520",
+      "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "primary_url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "www.theguardian.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
           "title_en": null,
-          "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "title_original": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "git-aarvin.github.io",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "www.theguardian.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T02:03:27.774000Z"
+          "published_at": "2026-11-20T16:08:55.353000Z"
         },
         {
-          "id": "6c20ca193029993c4cc4d951347af82856cd933e",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "id": "d2e3e7de6b7ed4f502a7801cbe776e3951bbbf74",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-19T23:35:35Z"
-        },
-        {
-          "id": "b280abcc5f29024c9fde06f1467498c5014e2983",
-          "title": "Gemini 4 Neon 成为模型工程指数新的第一名 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 成为模型工程指数新的第一名",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50568130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T23:35:35Z"
+          "published_at": "2026-11-20T13:29:59Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "git-aarvin.github.io",
-        "hackernews"
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
           "title_en": null,
-          "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+          "title_original": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
-          "source": "git-aarvin.github.io",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "www.theguardian.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T02:03:27.774000Z"
+          "published_at": "2026-11-20T16:08:55.353000Z"
         },
         {
-          "id": "6c20ca193029993c4cc4d951347af82856cd933e",
-          "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+          "id": "d2e3e7de6b7ed4f502a7801cbe776e3951bbbf74",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "title_en": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "title_original": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://git-aarvin.github.io/mei",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-19T23:35:35Z"
-        },
-        {
-          "id": "b280abcc5f29024c9fde06f1467498c5014e2983",
-          "title": "Gemini 4 Neon 成为模型工程指数新的第一名 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_zh": "Gemini 4 Neon 成为模型工程指数新的第一名",
-          "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "title_original": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50568130",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T23:35:35Z"
+          "published_at": "2026-11-20T13:29:59Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8418,
-        "story_heat": 0.5
+        "recency": 0.976,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T23:35:35Z",
-      "latest_at": "2026-11-20T02:03:27.774000Z",
+      "earliest_at": "2026-11-20T13:29:59Z",
+      "latest_at": "2026-11-20T16:08:55.353000Z",
       "primary_item": {
-        "id": "9c34041c569aa30f47dbb48916dede275ebbcdda",
-        "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
-        "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+        "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+        "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+        "title_zh": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
         "title_en": null,
-        "title_original": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
+        "title_original": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://git-aarvin.github.io/mei",
-        "source": "git-aarvin.github.io",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "source": "www.theguardian.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T14:00:07.757391Z"
+        "scored_at": "2026-11-20T17:51:07.855532Z"
+      }
+    },
+    {
+      "story_id": "story_681aef6a9bad",
+      "title": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+      "url": "https://www.v2ex.com/t/1258656",
+      "primary_url": "https://www.v2ex.com/t/1258656",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2a586a83578786f01b17d41c0a9843872ae453eb",
+          "title": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+          "title_zh": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+          "title_en": null,
+          "title_original": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.v2ex.com/t/1258656",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T13:59:19Z"
+        },
+        {
+          "id": "0390e500008b560096693a23a14aba7747c1fcfb",
+          "title": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 code agent 的 PC 和 iOS 客户端",
+          "title_zh": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 code agent 的 PC 和 iOS 客户端",
+          "title_en": null,
+          "title_original": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 code agent 的 PC 和 iOS 客户端",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.v2ex.com/t/1258656",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T13:59:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "2a586a83578786f01b17d41c0a9843872ae453eb",
+          "title": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+          "title_zh": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+          "title_en": null,
+          "title_original": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.v2ex.com/t/1258656",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T13:59:19Z"
+        },
+        {
+          "id": "0390e500008b560096693a23a14aba7747c1fcfb",
+          "title": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 code agent 的 PC 和 iOS 客户端",
+          "title_zh": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 code agent 的 PC 和 iOS 客户端",
+          "title_en": null,
+          "title_original": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 code agent 的 PC 和 iOS 客户端",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.v2ex.com/t/1258656",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T13:59:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.946,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T13:59:19Z",
+      "latest_at": "2026-11-20T13:59:19Z",
+      "primary_item": {
+        "id": "2a586a83578786f01b17d41c0a9843872ae453eb",
+        "title": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+        "title_zh": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+        "title_en": null,
+        "title_original": "[分享创造] 为了反向薅 A/羊毛，我做了个 claude 网页版 agent 的 PC 和 iOS 客户端",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.v2ex.com/t/1258656",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T17:51:07.855532Z"
       }
     }
   ]
