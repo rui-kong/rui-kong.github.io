@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T08:35:12.928649Z",
+  "generated_at": "2026-11-20T13:58:51.159951Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.845,
-      "importance": 0.845,
-      "importance_score": 0.845,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8834,
+        "recency": 0.8172,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
+      }
+    },
+    {
+      "story_id": "story_a7210f7c64d5",
+      "title": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "primary_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "25cde7d66733c018c6413fe35d399536536197d4",
+          "title": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "title_zh": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本",
+          "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "title_original": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "25cde7d66733c018c6413fe35d399536536197d4",
+          "title": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "title_zh": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本",
+          "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "title_original": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8172,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "25cde7d66733c018c6413fe35d399536536197d4",
+        "title": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "title_zh": "推出线束适配器：使您最喜欢的型号适应您的线束，以提高性能和成本",
+        "title_en": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "title_original": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8101,
+        "recency": 0.7494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8839,
+        "recency": 0.8176,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8201,
+        "recency": 0.7586,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +415,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
+      }
+    },
+    {
+      "story_id": "story_c8d48880c933",
+      "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+      "url": "https://www.aibase.com/news/32448",
+      "primary_url": "https://www.aibase.com/news/32448",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "title_en": null,
+          "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:58:51.159951Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+          "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "title_en": null,
+          "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:58:51.159951Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T13:58:51.159951Z",
+      "latest_at": "2026-11-20T13:58:51.159951Z",
+      "primary_item": {
+        "id": "186652b8ef444bf90904e7d322cf7c5daa76d369",
+        "title": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+        "title_zh": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+        "title_en": null,
+        "title_original": "两个月新增 133 款备案，1245 款生成式 AI 服务在册",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32448",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -380,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7984,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,89 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
-      }
-    },
-    {
-      "story_id": "story_15c006960724",
-      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-      "url": "https://www.aibase.com/news/32446",
-      "primary_url": "https://www.aibase.com/news/32446",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "title_en": null,
-          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "title_en": null,
-          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32446",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T08:35:12.928649Z",
-      "latest_at": "2026-11-20T08:35:12.928649Z",
-      "primary_item": {
-        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
-        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-        "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-        "title_en": null,
-        "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32446",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -545,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8196,
+        "recency": 0.7582,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +663,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
+      }
+    },
+    {
+      "story_id": "story_914e6d61b5be",
+      "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+      "url": "https://www.aibase.com/news/32447",
+      "primary_url": "https://www.aibase.com/news/32447",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "title_zh": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "title_en": null,
+          "title_original": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32447",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:58:51.159951Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+          "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "title_zh": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "title_en": null,
+          "title_original": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32447",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:58:51.159951Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T13:58:51.159951Z",
+      "latest_at": "2026-11-20T13:58:51.159951Z",
+      "primary_item": {
+        "id": "8b97cac9214d330329d4f8bb590460453a819ca5",
+        "title": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+        "title_zh": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+        "title_en": null,
+        "title_original": "从“问一次就走”到“接着上次聊”：谷歌搜索挂上 AI 记录侧边栏",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32447",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T14:00:07.757391Z"
+      }
+    },
+    {
+      "story_id": "story_43f4ba3b5ec2",
+      "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+      "url": "https://www.aibase.com/news/32449",
+      "primary_url": "https://www.aibase.com/news/32449",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_en": null,
+          "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32449",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:58:51.159951Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+          "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "title_en": null,
+          "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32449",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T13:58:51.159951Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T13:58:51.159951Z",
+      "latest_at": "2026-11-20T13:58:51.159951Z",
+      "primary_item": {
+        "id": "e8e3aab7c17bec1b60874de8eeaa8315105c0459",
+        "title": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "title_zh": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "title_en": null,
+        "title_original": "蚂蚁 inclusionAI 开源生理信号编码器 LingSante-Pulse-1.0：MIT 协议开放表征能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32449",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T14:00:07.757391Z"
+      }
+    },
+    {
+      "story_id": "story_15c006960724",
+      "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+      "url": "https://www.aibase.com/news/32446",
+      "primary_url": "https://www.aibase.com/news/32446",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_en": null,
+          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T08:35:12.928649Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+          "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "title_en": null,
+          "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32446",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T08:35:12.928649Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9251,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T08:35:12.928649Z",
+      "latest_at": "2026-11-20T08:35:12.928649Z",
+      "primary_item": {
+        "id": "eb5234f8fd028047a083a004a75a4e66d0781022",
+        "title": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "title_zh": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "title_en": null,
+        "title_original": "70B 权重开放前，腾讯先给 Hy4 做了次“安全体检”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32446",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -628,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,253 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
-      }
-    },
-    {
-      "story_id": "story_39707a7d5378",
-      "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-      "url": "https://www.aibase.com/news/32443",
-      "primary_url": "https://www.aibase.com/news/32443",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "title_en": null,
-          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "title_en": null,
-          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T08:35:12.928649Z",
-      "latest_at": "2026-11-20T08:35:12.928649Z",
-      "primary_item": {
-        "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
-        "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-        "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-        "title_en": null,
-        "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32443",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
-      }
-    },
-    {
-      "story_id": "story_7586f7d8647c",
-      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-      "url": "https://www.aibase.com/news/32436",
-      "primary_url": "https://www.aibase.com/news/32436",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_en": null,
-          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "title_en": null,
-          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32436",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T08:35:12.928649Z",
-      "latest_at": "2026-11-20T08:35:12.928649Z",
-      "primary_item": {
-        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
-        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "title_en": null,
-        "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32436",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
-      }
-    },
-    {
-      "story_id": "story_272cbf5ded50",
-      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-      "url": "https://www.aibase.com/news/32441",
-      "primary_url": "https://www.aibase.com/news/32441",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-20T08:35:12.928649Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T08:35:12.928649Z",
-      "latest_at": "2026-11-20T08:35:12.928649Z",
-      "primary_item": {
-        "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
-        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "title_en": null,
-        "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32441",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -985,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6296,
-      "importance": 0.6296,
-      "importance_score": 0.6296,
+      "score": 0.6184,
+      "importance": 0.6184,
+      "importance_score": 0.6184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.824,
+        "recency": 0.7622,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,26 +1101,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
-      "story_id": "story_e2bfaeadfca9",
-      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-      "url": "https://www.aibase.com/news/32439",
-      "primary_url": "https://www.aibase.com/news/32439",
+      "story_id": "story_39707a7d5378",
+      "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+      "url": "https://www.aibase.com/news/32443",
+      "primary_url": "https://www.aibase.com/news/32443",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32439",
+          "url": "https://www.aibase.com/news/32443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1050,14 +1133,14 @@
       ],
       "items": [
         {
-          "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+          "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+          "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "title_en": null,
-          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32439",
+          "url": "https://www.aibase.com/news/32443",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1066,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,14 +1168,14 @@
       "earliest_at": "2026-11-20T08:35:12.928649Z",
       "latest_at": "2026-11-20T08:35:12.928649Z",
       "primary_item": {
-        "id": "8aeaa1f3f79a3d134e9f955dfcd696afde349479",
-        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
-        "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "id": "6ae8786bd12ccf08dd7540cce1fcab273fb3c76d",
+        "title": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
+        "title_zh": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
         "title_en": null,
-        "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "title_original": "ChatGPT 移动端迎界面大改版，Dots 扩大测试并联动健康数据",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32439",
+        "url": "https://www.aibase.com/news/32443",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1100,7 +1183,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -1177,15 +1260,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6249,
-      "importance": 0.6249,
-      "importance_score": 0.6249,
+      "score": 0.6142,
+      "importance": 0.6142,
+      "importance_score": 0.6142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7983,
+        "recency": 0.7385,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1210,26 +1293,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
-      "story_id": "story_60886c657e2f",
-      "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-      "url": "https://www.aibase.com/news/32442",
-      "primary_url": "https://www.aibase.com/news/32442",
+      "story_id": "story_7586f7d8647c",
+      "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+      "url": "https://www.aibase.com/news/32436",
+      "primary_url": "https://www.aibase.com/news/32436",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-          "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "title_en": null,
-          "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32442",
+          "url": "https://www.aibase.com/news/32436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1242,14 +1325,14 @@
       ],
       "items": [
         {
-          "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-          "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-          "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+          "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+          "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "title_en": null,
-          "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+          "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32442",
+          "url": "https://www.aibase.com/news/32436",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1258,15 +1341,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1277,14 +1360,14 @@
       "earliest_at": "2026-11-20T08:35:12.928649Z",
       "latest_at": "2026-11-20T08:35:12.928649Z",
       "primary_item": {
-        "id": "43aceed2ee5f19b28255c66e84bd6a4fc44dcf1b",
-        "title": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
-        "title_zh": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+        "id": "c77001f3899aab3867004a36d6b7f5908427ad88",
+        "title": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
+        "title_zh": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
         "title_en": null,
-        "title_original": "天气 App 抢先开口：三星 One UI 9.5 让提醒赶在你出发之前",
+        "title_original": "从单聊入口走向多模块协同，ChatGPT移动端改版加速AI主动服务落地",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32442",
+        "url": "https://www.aibase.com/news/32436",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1292,116 +1375,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
-      "story_id": "story_2ccb223f037c",
-      "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-      "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-      "primary_url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_9342211ba171",
+      "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "primary_url": "https://architectlabs.com/blog/frostbite",
+      "source": "architectlabs.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e515e6812147526ce34913aa88af16aa313b391d",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "title_zh": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "title_en": null,
+          "title_original": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T13:53:38Z"
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "architectlabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T11:36:41.212000Z"
         },
         {
-          "id": "b6a14fcea64b4669bcf64c009e6444393d209c04",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google’s AI server satellites in 2029",
+          "id": "c22987eeb7620fb2f14403fdd8cc5fb2a97ea84b",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "title_zh": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "title_en": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "title_original": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T13:53:38Z"
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T10:01:41Z"
+        },
+        {
+          "id": "147309841e91e19cc39cfb528e705bf57ff45799",
+          "title": "Frostbite：由 AI 发现、设计和验证的新 CPU 架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "title_zh": "Frostbite：由 AI 发现、设计和验证的新 CPU 架构",
+          "title_en": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "title_original": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50572503",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T10:01:41Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "The Verge"
+        "Hacker News (黑客新闻)",
+        "architectlabs.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e515e6812147526ce34913aa88af16aa313b391d",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+          "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "title_zh": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "title_en": null,
+          "title_original": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T13:53:38Z"
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "architectlabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T11:36:41.212000Z"
         },
         {
-          "id": "b6a14fcea64b4669bcf64c009e6444393d209c04",
-          "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-          "title_en": "Blue Origin will launch Google’s AI server satellites in 2029",
-          "title_original": "Blue Origin will launch Google’s AI server satellites in 2029",
+          "id": "c22987eeb7620fb2f14403fdd8cc5fb2a97ea84b",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "title_zh": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "title_en": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "title_original": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T13:53:38Z"
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T10:01:41Z"
+        },
+        {
+          "id": "147309841e91e19cc39cfb528e705bf57ff45799",
+          "title": "Frostbite：由 AI 发现、设计和验证的新 CPU 架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "title_zh": "Frostbite：由 AI 发现、设计和验证的新 CPU 架构",
+          "title_en": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "title_original": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50572503",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T10:01:41Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5729,
-      "importance": 0.5729,
-      "importance_score": 0.5729,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5647,
+      "importance": 0.5647,
+      "importance_score": 0.5647,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7634,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9664,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T13:53:38Z",
-      "latest_at": "2026-11-19T13:53:38Z",
+      "earliest_at": "2026-11-20T10:01:41Z",
+      "latest_at": "2026-11-20T11:36:41.212000Z",
       "primary_item": {
-        "id": "e515e6812147526ce34913aa88af16aa313b391d",
-        "title": "蓝色起源将于2029年发射谷歌AI服务器卫星 / Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-        "title_zh": "蓝色起源将于2029年发射谷歌AI服务器卫星",
-        "title_en": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-        "title_original": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+        "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+        "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+        "title_zh": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+        "title_en": null,
+        "title_original": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://architectlabs.com/blog/frostbite",
+        "source": "architectlabs.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -1507,15 +1620,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
+      "score": 0.5544,
+      "importance": 0.5544,
+      "importance_score": 0.5544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.9089,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1540,26 +1653,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
-      "story_id": "story_5f36994b06bd",
-      "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-      "url": "https://www.aibase.com/news/32438",
-      "primary_url": "https://www.aibase.com/news/32438",
+      "story_id": "story_272cbf5ded50",
+      "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+      "url": "https://www.aibase.com/news/32441",
+      "primary_url": "https://www.aibase.com/news/32441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
-          "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-          "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "title_en": null,
-          "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32438",
+          "url": "https://www.aibase.com/news/32441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1572,14 +1685,14 @@
       ],
       "items": [
         {
-          "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
-          "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-          "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+          "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+          "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "title_en": null,
-          "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+          "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32438",
+          "url": "https://www.aibase.com/news/32441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1588,15 +1701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1607,14 +1720,14 @@
       "earliest_at": "2026-11-20T08:35:12.928649Z",
       "latest_at": "2026-11-20T08:35:12.928649Z",
       "primary_item": {
-        "id": "7e86a929c1a37aa532fbce60fe56784ae6f58168",
-        "title": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
-        "title_zh": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+        "id": "f6ded9b41c4621971ab0938ab3ffde331000d00c",
+        "title": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
+        "title_zh": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
         "title_en": null,
-        "title_original": "敲钟前夜收到联名信：90 位大奖得主质疑 Anthropic 安全人设",
+        "title_original": "先办学后造车的李书福：AI 时代将诞生一批新型大学",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32438",
+        "url": "https://www.aibase.com/news/32441",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1622,7 +1735,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     },
     {
@@ -1648,7 +1761,7 @@
           "published_at": "2026-11-20T02:03:27.774000Z"
         },
         {
-          "id": "0ba206ee47c83e7611a339da2c9f1fd7208883bb",
+          "id": "6c20ca193029993c4cc4d951347af82856cd933e",
           "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
           "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
           "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
@@ -1656,9 +1769,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://git-aarvin.github.io/mei",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-19T23:35:35Z"
         },
         {
@@ -1678,7 +1791,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "git-aarvin.github.io",
         "hackernews"
       ],
@@ -1698,7 +1811,7 @@
           "published_at": "2026-11-20T02:03:27.774000Z"
         },
         {
-          "id": "0ba206ee47c83e7611a339da2c9f1fd7208883bb",
+          "id": "6c20ca193029993c4cc4d951347af82856cd933e",
           "title": "Gemini 4 Neon 荣登《Models Engineering》指数榜首 / Gemini 4 Neon is the new #1 on the Models Engineering Index",
           "title_zh": "Gemini 4 Neon 荣登《Models Engineering》指数榜首",
           "title_en": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
@@ -1706,9 +1819,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://git-aarvin.github.io/mei",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-19T23:35:35Z"
         },
         {
@@ -1728,15 +1841,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5546,
-      "importance": 0.5546,
-      "importance_score": 0.5546,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.91,
+        "recency": 0.8418,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1761,146 +1874,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
-      }
-    },
-    {
-      "story_id": "story_3cffce6aae15",
-      "title": "Chrome 的 AI 功能消耗了大量带宽",
-      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-      "primary_url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-      "source": "perishablepress.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
-          "title": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_en": null,
-          "title_original": "Chrome 的 AI 功能消耗了大量带宽",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-          "source": "perishablepress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T21:32:06.980000Z"
-        },
-        {
-          "id": "d57781b4e162e49d70882df9c097e81838a7ce3c",
-          "title": "Chrome AI 功能浪费大量带宽 / Chrome AI Features Wasting Much Bandwidth",
-          "title_zh": "Chrome AI 功能浪费大量带宽",
-          "title_en": "Chrome AI Features Wasting Much Bandwidth",
-          "title_original": "Chrome AI Features Wasting Much Bandwidth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562636",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T16:54:25Z"
-        },
-        {
-          "id": "262c1481ef6b67af7e9bce56d0049d5bbdb800ad",
-          "title": "Chrome 的 AI 功能消耗了大量带宽 / Chrome AI features wasting much bandwidth",
-          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_en": "Chrome AI features wasting much bandwidth",
-          "title_original": "Chrome AI features wasting much bandwidth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T16:54:25Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "perishablepress.com"
-      ],
-      "items": [
-        {
-          "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
-          "title": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_en": null,
-          "title_original": "Chrome 的 AI 功能消耗了大量带宽",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-          "source": "perishablepress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T21:32:06.980000Z"
-        },
-        {
-          "id": "d57781b4e162e49d70882df9c097e81838a7ce3c",
-          "title": "Chrome AI 功能浪费大量带宽 / Chrome AI Features Wasting Much Bandwidth",
-          "title_zh": "Chrome AI 功能浪费大量带宽",
-          "title_en": "Chrome AI Features Wasting Much Bandwidth",
-          "title_original": "Chrome AI Features Wasting Much Bandwidth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562636",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T16:54:25Z"
-        },
-        {
-          "id": "262c1481ef6b67af7e9bce56d0049d5bbdb800ad",
-          "title": "Chrome 的 AI 功能消耗了大量带宽 / Chrome AI features wasting much bandwidth",
-          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_en": "Chrome AI features wasting much bandwidth",
-          "title_original": "Chrome AI features wasting much bandwidth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T16:54:25Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8525,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T16:54:25Z",
-      "latest_at": "2026-11-19T21:32:06.980000Z",
-      "primary_item": {
-        "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
-        "title": "Chrome 的 AI 功能消耗了大量带宽",
-        "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-        "title_en": null,
-        "title_original": "Chrome 的 AI 功能消耗了大量带宽",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-        "source": "perishablepress.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-20T08:36:06.896442Z"
+        "scored_at": "2026-11-20T14:00:07.757391Z"
       }
     }
   ]
