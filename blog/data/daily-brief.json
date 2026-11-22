@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T20:42:48.388234Z",
+  "generated_at": "2026-11-22T22:29:17.246719Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 8,
   "items": [
     {
       "story_id": "story_91d25aa0bb33",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7415,
+        "recency": 0.7227,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T20:44:06.855702Z"
+        "scored_at": "2026-11-22T22:30:08.199991Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5565,
+      "importance": 0.5565,
+      "importance_score": 0.5565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9443,
+        "recency": 0.9204,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -252,146 +252,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T20:44:06.855702Z"
-      }
-    },
-    {
-      "story_id": "story_b2d08d09cf5f",
-      "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-      "url": "https://www.pandex.io",
-      "primary_url": "https://www.pandex.io",
-      "source": "www.pandex.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
-          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "title_zh": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "title_en": null,
-          "title_original": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.pandex.io",
-          "source": "www.pandex.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T11:41:51.743000Z"
-        },
-        {
-          "id": "909d7442088e87203136232133bfd76c1ddde102",
-          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "title_zh": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.pandex.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T20:47:41Z"
-        },
-        {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
-          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T20:47:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.pandex.io"
-      ],
-      "items": [
-        {
-          "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
-          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "title_zh": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "title_en": null,
-          "title_original": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.pandex.io",
-          "source": "www.pandex.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T11:41:51.743000Z"
-        },
-        {
-          "id": "909d7442088e87203136232133bfd76c1ddde102",
-          "title": "Pandex——基于MCP的欧洲人工智能代理官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "title_zh": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.pandex.io",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T20:47:41Z"
-        },
-        {
-          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
-          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
-          "title_zh": "Pandex——基于 MCP 的人工智能代理欧洲官方法律",
-          "title_en": "Pandex – Official European Law for AI Agents, over MCP",
-          "title_original": "Pandex – Official European Law for AI Agents, over MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50593481",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T20:47:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8779,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T20:47:41Z",
-      "latest_at": "2026-11-22T11:41:51.743000Z",
-      "primary_item": {
-        "id": "59b149feeab690ac8ac4ccdbe384ed2afacb416b",
-        "title": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-        "title_zh": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-        "title_en": null,
-        "title_original": "Pandex——基于MCP的欧洲人工智能代理官方法律",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.pandex.io",
-        "source": "www.pandex.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-22T20:44:06.855702Z"
+        "scored_at": "2026-11-22T22:30:08.199991Z"
       }
     },
     {
@@ -497,15 +358,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.547,
-      "importance": 0.547,
-      "importance_score": 0.547,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8678,
+        "recency": 0.8459,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -530,7 +391,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T20:44:06.855702Z"
+        "scored_at": "2026-11-22T22:30:08.199991Z"
+      }
+    },
+    {
+      "story_id": "story_cd67deee14c2",
+      "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "primary_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T21:01:16Z"
+        },
+        {
+          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50603845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:01:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T21:01:16Z"
+        },
+        {
+          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50603845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:01:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.979,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T21:01:16Z",
+      "latest_at": "2026-11-22T21:01:16Z",
+      "primary_item": {
+        "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
+        "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
+        "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T22:30:08.199991Z"
       }
     },
     {
@@ -556,7 +527,7 @@
           "published_at": "2026-11-22T14:37:43.104000Z"
         },
         {
-          "id": "546e45e4a6486469baf26202c7d82191cb577e84",
+          "id": "0b266d2668647fd80cffa4e1ff8e46c526d8a919",
           "title": "“有意识的人工智能”的神话 / The Mythology of Conscious AI",
           "title_zh": "“有意识的人工智能”的神话",
           "title_en": "The Mythology of Conscious AI",
@@ -564,15 +535,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-22T02:10:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.noemamag.com"
       ],
       "items": [
@@ -591,7 +562,7 @@
           "published_at": "2026-11-22T14:37:43.104000Z"
         },
         {
-          "id": "546e45e4a6486469baf26202c7d82191cb577e84",
+          "id": "0b266d2668647fd80cffa4e1ff8e46c526d8a919",
           "title": "“有意识的人工智能”的神话 / The Mythology of Conscious AI",
           "title_zh": "“有意识的人工智能”的神话",
           "title_en": "The Mythology of Conscious AI",
@@ -599,23 +570,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-22T02:10:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9159,
+        "recency": 0.8927,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -640,117 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T20:44:06.855702Z"
-      }
-    },
-    {
-      "story_id": "story_1129c6bc014c",
-      "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "url": "https://simonwillison.net/2026/Nov/21/muru",
-      "primary_url": "https://simonwillison.net/2026/Nov/21/muru",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Nov/21/muru",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T09:57:01Z"
-        },
-        {
-          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50597959",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T09:57:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Nov/21/muru",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T09:57:01Z"
-        },
-        {
-          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50597959",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T09:57:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8561,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T09:57:01Z",
-      "latest_at": "2026-11-22T09:57:01Z",
-      "primary_item": {
-        "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-        "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-        "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Nov/21/muru",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-22T20:44:06.855702Z"
+        "scored_at": "2026-11-22T22:30:08.199991Z"
       }
     },
     {
@@ -827,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8259,
+        "recency": 0.805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -860,7 +721,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T20:44:06.855702Z"
+        "scored_at": "2026-11-22T22:30:08.199991Z"
+      }
+    },
+    {
+      "story_id": "story_5b94aae022d4",
+      "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar",
+      "primary_url": "https://boazbk.github.io/mltheoryseminar",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4bff0d45c8a472e1eafcdfa0488ed8812591c48c",
+          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+          "title_zh": "哈佛 CS 2881R 人工智能安全",
+          "title_en": "Harvard CS 2881R AI Safety",
+          "title_original": "Harvard CS 2881R AI Safety",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://boazbk.github.io/mltheoryseminar",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T18:01:54Z"
+        },
+        {
+          "id": "3c11102991823caa91a2d5be985a51c471f19b5a",
+          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+          "title_zh": "哈佛 CS 2881R 人工智能安全",
+          "title_en": "Harvard CS 2881R AI Safety",
+          "title_original": "Harvard CS 2881R AI Safety",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50602153",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T18:01:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4bff0d45c8a472e1eafcdfa0488ed8812591c48c",
+          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+          "title_zh": "哈佛 CS 2881R 人工智能安全",
+          "title_en": "Harvard CS 2881R AI Safety",
+          "title_original": "Harvard CS 2881R AI Safety",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://boazbk.github.io/mltheoryseminar",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T18:01:54Z"
+        },
+        {
+          "id": "3c11102991823caa91a2d5be985a51c471f19b5a",
+          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+          "title_zh": "哈佛 CS 2881R 人工智能安全",
+          "title_en": "Harvard CS 2881R AI Safety",
+          "title_original": "Harvard CS 2881R AI Safety",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50602153",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T18:01:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9377,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T18:01:54Z",
+      "latest_at": "2026-11-22T18:01:54Z",
+      "primary_item": {
+        "id": "4bff0d45c8a472e1eafcdfa0488ed8812591c48c",
+        "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
+        "title_zh": "哈佛 CS 2881R 人工智能安全",
+        "title_en": "Harvard CS 2881R AI Safety",
+        "title_original": "Harvard CS 2881R AI Safety",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://boazbk.github.io/mltheoryseminar",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T22:30:08.199991Z"
+      }
+    },
+    {
+      "story_id": "story_1129c6bc014c",
+      "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "primary_url": "https://simonwillison.net/2026/Nov/21/muru",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T09:57:01Z"
+        },
+        {
+          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50597959",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T09:57:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T09:57:01Z"
+        },
+        {
+          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50597959",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T09:57:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8344,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T09:57:01Z",
+      "latest_at": "2026-11-22T09:57:01Z",
+      "primary_item": {
+        "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
+        "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+        "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Nov/21/muru",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T22:30:08.199991Z"
       }
     }
   ]
