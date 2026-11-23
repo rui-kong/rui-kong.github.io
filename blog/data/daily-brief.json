@@ -1,119 +1,801 @@
 {
-  "generated_at": "2026-11-22T22:29:17.246719Z",
+  "generated_at": "2026-11-23T03:42:23.930485Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_91d25aa0bb33",
-      "title": "Perplexity与智慧 / Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "primary_url": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_228aad7b21a6",
+      "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+      "url": "https://www.aibase.com/news/32459",
+      "primary_url": "https://www.aibase.com/news/32459",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "81f59ef87b5ab16def75e856634cf8a774fa114d",
-          "title": "Perplexity与智慧 / Perplexity and Intelligence",
-          "title_zh": "Perplexity与智慧",
-          "title_en": "Perplexity and Intelligence",
-          "title_original": "Perplexity and Intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-22T00:00:00Z"
-        },
-        {
-          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
-          "title": "困惑与智慧",
-          "title_zh": "困惑与智慧",
+          "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
+          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+          "title_zh": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
           "title_en": null,
-          "title_original": "困惑与智慧",
+          "title_original": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T18:20:52.884000Z"
+          "url": "https://www.aibase.com/news/32459",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "81f59ef87b5ab16def75e856634cf8a774fa114d",
-          "title": "Perplexity与智慧 / Perplexity and Intelligence",
-          "title_zh": "Perplexity与智慧",
-          "title_en": "Perplexity and Intelligence",
-          "title_original": "Perplexity and Intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-22T00:00:00Z"
-        },
-        {
-          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
-          "title": "困惑与智慧",
-          "title_zh": "困惑与智慧",
+          "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
+          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+          "title_zh": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
           "title_en": null,
-          "title_original": "困惑与智慧",
+          "title_original": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T18:20:52.884000Z"
+          "url": "https://www.aibase.com/news/32459",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
-      "importance_label": "官方更新",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7227,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-22T00:00:00Z",
-      "latest_at": "2026-11-22T18:20:52.884000Z",
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
       "primary_item": {
-        "id": "81f59ef87b5ab16def75e856634cf8a774fa114d",
-        "title": "Perplexity与智慧 / Perplexity and Intelligence",
-        "title_zh": "Perplexity与智慧",
-        "title_en": "Perplexity and Intelligence",
-        "title_original": "Perplexity and Intelligence",
+        "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
+        "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+        "title_zh": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+        "title_en": null,
+        "title_original": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/perplexity-and-intelligence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32459",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:30:08.199991Z"
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_ff19657ce2f3",
+      "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+      "url": "https://www.aibase.com/news/32450",
+      "primary_url": "https://www.aibase.com/news/32450",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
+          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "title_zh": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "title_en": null,
+          "title_original": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32450",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
+          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "title_zh": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "title_en": null,
+          "title_original": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32450",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
+      "primary_item": {
+        "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
+        "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+        "title_zh": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+        "title_en": null,
+        "title_original": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32450",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_7c55f9be9655",
+      "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+      "url": "https://www.aibase.com/news/32462",
+      "primary_url": "https://www.aibase.com/news/32462",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
+          "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+          "title_zh": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+          "title_en": null,
+          "title_original": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
+          "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+          "title_zh": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+          "title_en": null,
+          "title_original": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
+      "primary_item": {
+        "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
+        "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+        "title_zh": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+        "title_en": null,
+        "title_original": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32462",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_98f481a607da",
+      "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+      "url": "https://www.aibase.com/news/32456",
+      "primary_url": "https://www.aibase.com/news/32456",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
+          "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+          "title_zh": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+          "title_en": null,
+          "title_original": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32456",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
+          "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+          "title_zh": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+          "title_en": null,
+          "title_original": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32456",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
+      "primary_item": {
+        "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
+        "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+        "title_zh": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+        "title_en": null,
+        "title_original": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32456",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_7cb23de0350f",
+      "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+      "url": "https://www.aibase.com/news/32454",
+      "primary_url": "https://www.aibase.com/news/32454",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b9d7568104fd12fce686137331a89509fbf9df14",
+          "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+          "title_zh": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+          "title_en": null,
+          "title_original": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32454",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b9d7568104fd12fce686137331a89509fbf9df14",
+          "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+          "title_zh": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+          "title_en": null,
+          "title_original": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32454",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
+      "primary_item": {
+        "id": "b9d7568104fd12fce686137331a89509fbf9df14",
+        "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+        "title_zh": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+        "title_en": null,
+        "title_original": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32454",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_070125ded0b3",
+      "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+      "url": "https://www.aibase.com/news/32457",
+      "primary_url": "https://www.aibase.com/news/32457",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "307895355a9369c61fa665bfbac24f8179f3edf4",
+          "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+          "title_zh": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+          "title_en": null,
+          "title_original": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32457",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "307895355a9369c61fa665bfbac24f8179f3edf4",
+          "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+          "title_zh": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+          "title_en": null,
+          "title_original": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32457",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
+      "primary_item": {
+        "id": "307895355a9369c61fa665bfbac24f8179f3edf4",
+        "title": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+        "title_zh": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+        "title_en": null,
+        "title_original": "为 OpenAI 的巨额订单备好钱：甲骨文称融资已就位",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32457",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_3e837f71b5a3",
+      "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+      "url": "https://www.aibase.com/news/32451",
+      "primary_url": "https://www.aibase.com/news/32451",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
+          "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+          "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+          "title_en": null,
+          "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32451",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
+          "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+          "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+          "title_en": null,
+          "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32451",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
+      "primary_item": {
+        "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
+        "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+        "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+        "title_en": null,
+        "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32451",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_cd67deee14c2",
+      "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "primary_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "www.gpupartner.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_en": null,
+          "title_original": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "www.gpupartner.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T23:23:39.823000Z"
+        },
+        {
+          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T21:01:16Z"
+        },
+        {
+          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50603845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:01:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.gpupartner.com"
+      ],
+      "items": [
+        {
+          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_en": null,
+          "title_original": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "www.gpupartner.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T23:23:39.823000Z"
+        },
+        {
+          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T21:01:16Z"
+        },
+        {
+          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
+          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50603845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:01:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5599,
+      "importance": 0.5599,
+      "importance_score": 0.5599,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9396,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T21:01:16Z",
+      "latest_at": "2026-11-22T23:23:39.823000Z",
+      "primary_item": {
+        "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+        "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+        "title_zh": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+        "title_en": null,
+        "title_original": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "source": "www.gpupartner.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_ca8b236ff4c2",
+      "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+      "url": "https://www.aibase.com/news/32463",
+      "primary_url": "https://www.aibase.com/news/32463",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
+          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "title_en": null,
+          "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32463",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
+          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "title_en": null,
+          "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32463",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
+      "primary_item": {
+        "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
+        "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+        "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+        "title_en": null,
+        "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32463",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
       }
     },
     {
@@ -219,15 +901,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5565,
-      "importance": 0.5565,
-      "importance_score": 0.5565,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9204,
+        "recency": 0.8536,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -252,7 +934,447 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:30:08.199991Z"
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_5bed5655c58f",
+      "title": "AI 供应链安全：Canary Tokens 的发现",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "source": "www.dragos.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
+          "title": "AI 供应链安全：Canary Tokens 的发现",
+          "title_zh": "AI 供应链安全：Canary Tokens 的发现",
+          "title_en": null,
+          "title_original": "AI 供应链安全：Canary Tokens 的发现",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "www.dragos.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T01:16:11.338000Z"
+        },
+        {
+          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
+          "title": "AI 供应链安全：Canary Tokens 的发现 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "AI 供应链安全：Canary Tokens 的发现",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T05:11:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.dragos.com"
+      ],
+      "items": [
+        {
+          "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
+          "title": "AI 供应链安全：Canary Tokens 的发现",
+          "title_zh": "AI 供应链安全：Canary Tokens 的发现",
+          "title_en": null,
+          "title_original": "AI 供应链安全：Canary Tokens 的发现",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "www.dragos.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T01:16:11.338000Z"
+        },
+        {
+          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
+          "title": "AI 供应链安全：Canary Tokens 的发现 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "AI 供应链安全：Canary Tokens 的发现",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T05:11:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9654,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T05:11:43Z",
+      "latest_at": "2026-11-23T01:16:11.338000Z",
+      "primary_item": {
+        "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
+        "title": "AI 供应链安全：Canary Tokens 的发现",
+        "title_zh": "AI 供应链安全：Canary Tokens 的发现",
+        "title_en": null,
+        "title_original": "AI 供应链安全：Canary Tokens 的发现",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "source": "www.dragos.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_b1af4012aa12",
+      "title": "人工智能正成为气候的一场灾难",
+      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "primary_url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "source": "www.bloodinthemachine.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
+          "title": "人工智能正成为气候的一场灾难",
+          "title_zh": "人工智能正成为气候的一场灾难",
+          "title_en": null,
+          "title_original": "人工智能正成为气候的一场灾难",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "source": "www.bloodinthemachine.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T01:16:11.341000Z"
+        },
+        {
+          "id": "bb80e73808e1a81e6c20289c1c54675d940b1041",
+          "title": "人工智能正成为气候的一场灾难 / AI is becoming a disaster for the climate",
+          "title_zh": "人工智能正成为气候的一场灾难",
+          "title_en": "AI is becoming a disaster for the climate",
+          "title_original": "AI is becoming a disaster for the climate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T12:19:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.bloodinthemachine.com"
+      ],
+      "items": [
+        {
+          "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
+          "title": "人工智能正成为气候的一场灾难",
+          "title_zh": "人工智能正成为气候的一场灾难",
+          "title_en": null,
+          "title_original": "人工智能正成为气候的一场灾难",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "source": "www.bloodinthemachine.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T01:16:11.341000Z"
+        },
+        {
+          "id": "bb80e73808e1a81e6c20289c1c54675d940b1041",
+          "title": "人工智能正成为气候的一场灾难 / AI is becoming a disaster for the climate",
+          "title_zh": "人工智能正成为气候的一场灾难",
+          "title_en": "AI is becoming a disaster for the climate",
+          "title_original": "AI is becoming a disaster for the climate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T12:19:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9654,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T12:19:46Z",
+      "latest_at": "2026-11-23T01:16:11.341000Z",
+      "primary_item": {
+        "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
+        "title": "人工智能正成为气候的一场灾难",
+        "title_zh": "人工智能正成为气候的一场灾难",
+        "title_en": null,
+        "title_original": "人工智能正成为气候的一场灾难",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+        "source": "www.bloodinthemachine.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_5fc4e008e463",
+      "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "primary_url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "source": "claude.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
+          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "title_zh": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "title_en": null,
+          "title_original": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T00:43:51.380000Z"
+        },
+        {
+          "id": "afb15388aa9f132bee20f71b70ed8654483bccb9",
+          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图 / Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "title_zh": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "title_en": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "title_original": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T23:12:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "claude.ai"
+      ],
+      "items": [
+        {
+          "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
+          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "title_zh": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "title_en": null,
+          "title_original": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T00:43:51.380000Z"
+        },
+        {
+          "id": "afb15388aa9f132bee20f71b70ed8654483bccb9",
+          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图 / Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "title_zh": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "title_en": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "title_original": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T23:12:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9579,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T23:12:10Z",
+      "latest_at": "2026-11-23T00:43:51.380000Z",
+      "primary_item": {
+        "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
+        "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+        "title_zh": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+        "title_en": null,
+        "title_original": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+        "source": "claude.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_b6291363c444",
+      "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com",
+      "primary_url": "https://0rwx.com",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
+          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "title_zh": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型",
+          "title_en": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "title_original": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://0rwx.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T23:53:00Z"
+        },
+        {
+          "id": "336fc0d0f244b7632b96722d1fcec619c5abc3fa",
+          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "title_zh": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型",
+          "title_en": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "title_original": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50605445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T23:53:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
+          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "title_zh": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型",
+          "title_en": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "title_original": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://0rwx.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T23:53:00Z"
+        },
+        {
+          "id": "336fc0d0f244b7632b96722d1fcec619c5abc3fa",
+          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "title_zh": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型",
+          "title_en": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "title_original": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50605445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T23:53:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9463,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T23:53:00Z",
+      "latest_at": "2026-11-22T23:53:00Z",
+      "primary_item": {
+        "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
+        "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "title_zh": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型",
+        "title_en": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "title_original": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://0rwx.com",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
       }
     },
     {
@@ -358,15 +1480,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8459,
+        "recency": 0.7845,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -391,337 +1513,391 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:30:08.199991Z"
+        "scored_at": "2026-11-23T03:43:13.945768Z"
       }
     },
     {
-      "story_id": "story_cd67deee14c2",
-      "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "primary_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_3ad5ae20f0b5",
+      "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+      "url": "https://www.aibase.com/news/32464",
+      "primary_url": "https://www.aibase.com/news/32464",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
-          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
+          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "title_en": null,
+          "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "url": "https://www.aibase.com/news/32464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
+          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "title_en": null,
+          "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32464",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
+      "primary_item": {
+        "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
+        "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+        "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+        "title_en": null,
+        "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32464",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T03:43:13.945768Z"
+      }
+    },
+    {
+      "story_id": "story_91d25aa0bb33",
+      "title": "困惑与智慧",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "primary_url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
+          "title": "困惑与智慧",
+          "title_zh": "困惑与智慧",
+          "title_en": null,
+          "title_original": "困惑与智慧",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T18:20:52.884000Z"
+        },
+        {
+          "id": "dc7bbb29dd751d542e5ab68a8440ed459dbd6230",
+          "title": "Perplexity与智慧 / Perplexity and Intelligence",
+          "title_zh": "Perplexity与智慧",
+          "title_en": "Perplexity and Intelligence",
+          "title_original": "Perplexity and Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/perplexity-and-intelligence",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-22T21:01:16Z"
-        },
-        {
-          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
-          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50603845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T21:01:16Z"
+          "published_at": "2026-11-22T17:06:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews"
+        "openai.com"
       ],
       "items": [
         {
-          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
-          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
+          "title": "困惑与智慧",
+          "title_zh": "困惑与智慧",
+          "title_en": null,
+          "title_original": "困惑与智慧",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T18:20:52.884000Z"
+        },
+        {
+          "id": "dc7bbb29dd751d542e5ab68a8440ed459dbd6230",
+          "title": "Perplexity与智慧 / Perplexity and Intelligence",
+          "title_zh": "Perplexity与智慧",
+          "title_en": "Perplexity and Intelligence",
+          "title_original": "Perplexity and Intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/perplexity-and-intelligence",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-22T21:01:16Z"
-        },
-        {
-          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
-          "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50603845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T21:01:16Z"
+          "published_at": "2026-11-22T17:06:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.979,
+        "recency": 0.8736,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T21:01:16Z",
-      "latest_at": "2026-11-22T21:01:16Z",
+      "earliest_at": "2026-11-22T17:06:27Z",
+      "latest_at": "2026-11-22T18:20:52.884000Z",
       "primary_item": {
-        "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
-        "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "title_zh": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南",
-        "title_en": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "title_original": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+        "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
+        "title": "困惑与智慧",
+        "title_zh": "困惑与智慧",
+        "title_en": null,
+        "title_original": "困惑与智慧",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "source": "openai.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:30:08.199991Z"
+        "scored_at": "2026-11-23T03:43:13.945768Z"
       }
     },
     {
-      "story_id": "story_d02cf12f1f20",
-      "title": "“有意识的人工智能”的神话",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-      "primary_url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-      "source": "www.noemamag.com",
-      "source_name": "Buzzing",
+      "story_id": "story_8661d139d3e3",
+      "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+      "url": "https://news.ycombinator.com/item?id=50597959",
+      "primary_url": "https://news.ycombinator.com/item?id=50597959",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
-          "title": "“有意识的人工智能”的神话",
-          "title_zh": "“有意识的人工智能”的神话",
-          "title_en": null,
-          "title_original": "“有意识的人工智能”的神话",
+          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-          "source": "www.noemamag.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T14:37:43.104000Z"
+          "url": "https://news.ycombinator.com/item?id=50597959",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T09:57:01Z"
         },
         {
-          "id": "0b266d2668647fd80cffa4e1ff8e46c526d8a919",
-          "title": "“有意识的人工智能”的神话 / The Mythology of Conscious AI",
-          "title_zh": "“有意识的人工智能”的神话",
-          "title_en": "The Mythology of Conscious AI",
-          "title_original": "The Mythology of Conscious AI",
+          "id": "404e91cd39915f51d0fc1c6987f819e1c9b490ca",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-22T02:10:02Z"
+          "published_at": "2026-11-22T09:57:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "www.noemamag.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
-          "title": "“有意识的人工智能”的神话",
-          "title_zh": "“有意识的人工智能”的神话",
-          "title_en": null,
-          "title_original": "“有意识的人工智能”的神话",
+          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-          "source": "www.noemamag.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T14:37:43.104000Z"
+          "url": "https://news.ycombinator.com/item?id=50597959",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T09:57:01Z"
         },
         {
-          "id": "0b266d2668647fd80cffa4e1ff8e46c526d8a919",
-          "title": "“有意识的人工智能”的神话 / The Mythology of Conscious AI",
-          "title_zh": "“有意识的人工智能”的神话",
-          "title_en": "The Mythology of Conscious AI",
-          "title_original": "The Mythology of Conscious AI",
+          "id": "404e91cd39915f51d0fc1c6987f819e1c9b490ca",
+          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-22T02:10:02Z"
+          "published_at": "2026-11-22T09:57:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8927,
+        "recency": 0.7738,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T02:10:02Z",
-      "latest_at": "2026-11-22T14:37:43.104000Z",
+      "earliest_at": "2026-11-22T09:57:01Z",
+      "latest_at": "2026-11-22T09:57:01Z",
       "primary_item": {
-        "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
-        "title": "“有意识的人工智能”的神话",
-        "title_zh": "“有意识的人工智能”的神话",
-        "title_en": null,
-        "title_original": "“有意识的人工智能”的神话",
+        "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
+        "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
+        "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+        "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-        "source": "www.noemamag.com",
-        "source_name": "Buzzing"
+        "url": "https://news.ycombinator.com/item?id=50597959",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:30:08.199991Z"
+        "scored_at": "2026-11-23T03:43:13.945768Z"
       }
     },
     {
-      "story_id": "story_2f30e9bb3992",
-      "title": "推理提供商上的数据处理事件",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-      "primary_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-      "source": "openrouter.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_090df2968dcb",
+      "title": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+      "url": "https://www.aibase.com/news/32453",
+      "primary_url": "https://www.aibase.com/news/32453",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
-          "title": "推理提供商上的数据处理事件",
-          "title_zh": "推理提供商上的数据处理事件",
+          "id": "17d3e3fef379f19a4ac1b7f0fceed04dc7e5cfeb",
+          "title": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+          "title_zh": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
           "title_en": null,
-          "title_original": "推理提供商上的数据处理事件",
+          "title_original": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T07:28:01.316000Z"
-        },
-        {
-          "id": "fb229b787007403cac77c695759b6a0776a478f5",
-          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
-          "title_zh": "推理提供商上的数据处理事件",
-          "title_en": "Data Processing Incidents on Inference Providers",
-          "title_original": "Data Processing Incidents on Inference Providers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T02:14:14Z"
+          "url": "https://www.aibase.com/news/32453",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "openrouter.ai"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
-          "title": "推理提供商上的数据处理事件",
-          "title_zh": "推理提供商上的数据处理事件",
+          "id": "17d3e3fef379f19a4ac1b7f0fceed04dc7e5cfeb",
+          "title": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+          "title_zh": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
           "title_en": null,
-          "title_original": "推理提供商上的数据处理事件",
+          "title_original": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T07:28:01.316000Z"
-        },
-        {
-          "id": "fb229b787007403cac77c695759b6a0776a478f5",
-          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
-          "title_zh": "推理提供商上的数据处理事件",
-          "title_en": "Data Processing Incidents on Inference Providers",
-          "title_original": "Data Processing Incidents on Inference Providers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T02:14:14Z"
+          "url": "https://www.aibase.com/news/32453",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:42:23.930485Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.805,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-22T02:14:14Z",
-      "latest_at": "2026-11-22T07:28:01.316000Z",
+      "earliest_at": "2026-11-23T03:42:23.930485Z",
+      "latest_at": "2026-11-23T03:42:23.930485Z",
       "primary_item": {
-        "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
-        "title": "推理提供商上的数据处理事件",
-        "title_zh": "推理提供商上的数据处理事件",
+        "id": "17d3e3fef379f19a4ac1b7f0fceed04dc7e5cfeb",
+        "title": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+        "title_zh": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
         "title_en": null,
-        "title_original": "推理提供商上的数据处理事件",
+        "title_original": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-        "source": "openrouter.ai",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/32453",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:30:08.199991Z"
+        "scored_at": "2026-11-23T03:43:13.945768Z"
       }
     },
     {
@@ -798,15 +1974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9377,
+        "recency": 0.8696,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -831,117 +2007,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:30:08.199991Z"
-      }
-    },
-    {
-      "story_id": "story_1129c6bc014c",
-      "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "url": "https://simonwillison.net/2026/Nov/21/muru",
-      "primary_url": "https://simonwillison.net/2026/Nov/21/muru",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Nov/21/muru",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T09:57:01Z"
-        },
-        {
-          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50597959",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T09:57:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Nov/21/muru",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T09:57:01Z"
-        },
-        {
-          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-          "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50597959",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T09:57:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8344,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T09:57:01Z",
-      "latest_at": "2026-11-22T09:57:01Z",
-      "primary_item": {
-        "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-        "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "title_zh": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器",
-        "title_en": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "title_original": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Nov/21/muru",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-22T22:30:08.199991Z"
+        "scored_at": "2026-11-23T03:43:13.945768Z"
       }
     }
   ]
