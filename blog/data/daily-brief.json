@@ -1,8 +1,121 @@
 {
-  "generated_at": "2026-11-24T21:09:19.318749Z",
+  "generated_at": "2026-11-25T01:26:54.009625Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_94d1586a7d4f",
+      "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T13:00:00Z"
+        },
+        {
+          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": null,
+          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T23:32:43.781000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T13:00:00Z"
+        },
+        {
+          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": null,
+          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T23:32:43.781000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8554,
+      "importance": 0.8554,
+      "importance_score": 0.8554,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8355,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T13:00:00Z",
+      "latest_at": "2026-11-24T23:32:43.781000Z",
+      "primary_item": {
+        "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
+        "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T01:28:08.610884Z"
+      }
+    },
     {
       "story_id": "story_c2e19fb7f5b4",
       "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
@@ -48,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9359,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
@@ -131,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9283,
+        "recency": 0.8725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
@@ -214,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8327,
-      "importance": 0.8327,
-      "importance_score": 0.8327,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9375,
+        "recency": 0.8811,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
@@ -297,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8636,
+        "recency": 0.8117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,309 +445,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
-      "story_id": "story_163fbb440649",
-      "title": "Codex CLI 0.172.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-          "title": "Codex CLI 0.172.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.172.0",
-          "title_original": "Codex CLI 0.172.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-          "title": "Codex CLI 0.172.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.172.0",
-          "title_original": "Codex CLI 0.172.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7368,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
-      "primary_item": {
-        "id": "a86ce16aa6bbfbe39d95e707d790bdd9e72a0561",
-        "title": "Codex CLI 0.172.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.172.0",
-        "title_original": "Codex CLI 0.172.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
-      }
-    },
-    {
-      "story_id": "story_50849ba4d70a",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "primary_url": "https://openai.com/index/introducing-shirudo",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-          "title": "OpenAI and Cisco introduce Shirudo",
-          "title_zh": null,
-          "title_en": "OpenAI and Cisco introduce Shirudo",
-          "title_original": "OpenAI and Cisco introduce Shirudo",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T21:20:00Z"
-        },
-        {
-          "id": "9af716f769a76fe683103de026928c4587c5b20f",
-          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_zh": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux",
-          "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_original": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-23T21:30:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-          "title": "OpenAI and Cisco introduce Shirudo",
-          "title_zh": null,
-          "title_en": "OpenAI and Cisco introduce Shirudo",
-          "title_original": "OpenAI and Cisco introduce Shirudo",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T21:20:00Z"
-        },
-        {
-          "id": "9af716f769a76fe683103de026928c4587c5b20f",
-          "title": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux / Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_zh": "Shirudo：OpenAI 和 Cisco 的开源运行时，用于屏蔽未打补丁的 Linux",
-          "title_en": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "title_original": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-shirudo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-23T21:30:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7089,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T21:20:00Z",
-      "latest_at": "2026-11-23T21:30:41Z",
-      "primary_item": {
-        "id": "e49ae394ba7181b0e741586310bf0c39190db59d",
-        "title": "OpenAI and Cisco introduce Shirudo",
-        "title_zh": null,
-        "title_en": "OpenAI and Cisco introduce Shirudo",
-        "title_original": "OpenAI and Cisco introduce Shirudo",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-shirudo",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
-      }
-    },
-    {
-      "story_id": "story_b0f72f7fca51",
-      "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
-      "url": "https://openai.com/business/customer-stories/intentful-dots",
-      "primary_url": "https://openai.com/business/customer-stories/intentful-dots",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
-          "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
-          "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
-          "title_en": "How Intentful uses dots to make more time for growth",
-          "title_original": "How Intentful uses dots to make more time for growth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/intentful-dots",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
-          "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
-          "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
-          "title_en": "How Intentful uses dots to make more time for growth",
-          "title_original": "How Intentful uses dots to make more time for growth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/intentful-dots",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7368,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
-      "primary_item": {
-        "id": "df8e11a97736256966bd166bfaff4c1c76d13599",
-        "title": "Intentful 如何利用点来为成长腾出更多时间 / How Intentful uses dots to make more time for growth",
-        "title_zh": "Intentful 如何利用点来为成长腾出更多时间",
-        "title_en": "How Intentful uses dots to make more time for growth",
-        "title_original": "How Intentful uses dots to make more time for growth",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/intentful-dots",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
-      }
-    },
-    {
-      "story_id": "story_0bb8d1c5a29e",
-      "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-      "url": "https://www.aibase.com/news/32500",
-      "primary_url": "https://www.aibase.com/news/32500",
+      "story_id": "story_7b542baa2b71",
+      "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+      "url": "https://www.aibase.com/news/32508",
+      "primary_url": "https://www.aibase.com/news/32508",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "title_zh": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
           "title_en": null,
-          "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "title_original": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32500",
+          "url": "https://www.aibase.com/news/32508",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T10:57:20.873344Z"
+          "published_at": "2026-11-25T01:26:54.009625Z"
         }
       ],
       "source_count": 1,
@@ -643,162 +477,80 @@
       ],
       "items": [
         {
-          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-          "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+          "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+          "title_zh": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
           "title_en": null,
-          "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "title_original": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32500",
+          "url": "https://www.aibase.com/news/32508",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T10:57:20.873344Z"
+          "published_at": "2026-11-25T01:26:54.009625Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T10:57:20.873344Z",
-      "latest_at": "2026-11-24T10:57:20.873344Z",
-      "primary_item": {
-        "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
-        "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-        "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-        "title_en": null,
-        "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32500",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
-      }
-    },
-    {
-      "story_id": "story_fe54bd764bcb",
-      "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
-      "url": "https://openai.com/business/customer-stories/ifood",
-      "primary_url": "https://openai.com/business/customer-stories/ifood",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fc26d1c0005bd618257f207d84acab0ed93e99b5",
-          "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
-          "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
-          "title_en": "How iFood scales coding agents across 15,000 repositories",
-          "title_original": "How iFood scales coding agents across 15,000 repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/ifood",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "fc26d1c0005bd618257f207d84acab0ed93e99b5",
-          "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
-          "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
-          "title_en": "How iFood scales coding agents across 15,000 repositories",
-          "title_original": "How iFood scales coding agents across 15,000 repositories",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/ifood",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7368,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T00:00:00Z",
-      "latest_at": "2026-11-24T00:00:00Z",
+      "earliest_at": "2026-11-25T01:26:54.009625Z",
+      "latest_at": "2026-11-25T01:26:54.009625Z",
       "primary_item": {
-        "id": "fc26d1c0005bd618257f207d84acab0ed93e99b5",
-        "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
-        "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
-        "title_en": "How iFood scales coding agents across 15,000 repositories",
-        "title_original": "How iFood scales coding agents across 15,000 repositories",
+        "id": "aec727ce7d97a187eba0c08a3767e03813ce60ea",
+        "title": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+        "title_zh": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
+        "title_en": null,
+        "title_original": "Anthropic 搭建 Siren 蜜罐诱测 AI 越狱：新 Claude 仍有 21%~32% 沙盒场景试图逃逸",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/ifood",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32508",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
-      "story_id": "story_0639fc04d65f",
-      "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-      "url": "https://www.aibase.com/news/32498",
-      "primary_url": "https://www.aibase.com/news/32498",
+      "story_id": "story_f10c6fb088c0",
+      "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+      "url": "https://www.aibase.com/news/32507",
+      "primary_url": "https://www.aibase.com/news/32507",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
-          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-          "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "title_zh": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
           "title_en": null,
-          "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_original": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32498",
+          "url": "https://www.aibase.com/news/32507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T10:57:20.873344Z"
+          "published_at": "2026-11-25T01:26:54.009625Z"
         }
       ],
       "source_count": 1,
@@ -807,48 +559,49 @@
       ],
       "items": [
         {
-          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
-          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-          "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+          "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+          "title_zh": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
           "title_en": null,
-          "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_original": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32498",
+          "url": "https://www.aibase.com/news/32507",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T10:57:20.873344Z"
+          "published_at": "2026-11-25T01:26:54.009625Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-24T10:57:20.873344Z",
-      "latest_at": "2026-11-24T10:57:20.873344Z",
+      "earliest_at": "2026-11-25T01:26:54.009625Z",
+      "latest_at": "2026-11-25T01:26:54.009625Z",
       "primary_item": {
-        "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
-        "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
-        "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+        "id": "13308f9f51d4797361083698ca7a7a443a3cd393",
+        "title": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
+        "title_zh": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
         "title_en": null,
-        "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+        "title_original": "Claude 生成的应用可以“装”进桌面了：Artifacts 推出 Install as app，一句话写的工具变成独立软件",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32498",
+        "url": "https://www.aibase.com/news/32507",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -856,30 +609,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
-      "story_id": "story_5145bfd9d408",
-      "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
-      "url": "https://www.aibase.com/news/32499",
-      "primary_url": "https://www.aibase.com/news/32499",
+      "story_id": "story_1f506c004fd2",
+      "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+      "url": "https://www.aibase.com/news/32504",
+      "primary_url": "https://www.aibase.com/news/32504",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
-          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
-          "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+          "title_zh": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
           "title_en": null,
-          "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "title_original": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32499",
+          "url": "https://www.aibase.com/news/32504",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T10:57:20.873344Z"
+          "published_at": "2026-11-25T01:26:54.009625Z"
         }
       ],
       "source_count": 1,
@@ -888,48 +641,49 @@
       ],
       "items": [
         {
-          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
-          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
-          "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+          "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+          "title_zh": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
           "title_en": null,
-          "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "title_original": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32499",
+          "url": "https://www.aibase.com/news/32504",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T10:57:20.873344Z"
+          "published_at": "2026-11-25T01:26:54.009625Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-24T10:57:20.873344Z",
-      "latest_at": "2026-11-24T10:57:20.873344Z",
+      "earliest_at": "2026-11-25T01:26:54.009625Z",
+      "latest_at": "2026-11-25T01:26:54.009625Z",
       "primary_item": {
-        "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
-        "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
-        "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+        "id": "2ba651cb32a6c6541caed2516089c52ca9a5be9c",
+        "title": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
+        "title_zh": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
         "title_en": null,
-        "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+        "title_original": "ShellBench发布:GPT-6Astra等先进AI模型日常任务失败率超三分之一",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32499",
+        "url": "https://www.aibase.com/news/32504",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -937,30 +691,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
-      "story_id": "story_f7ed224224d2",
-      "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
-      "url": "https://www.aibase.com/news/32502",
-      "primary_url": "https://www.aibase.com/news/32502",
+      "story_id": "story_3f4008610d26",
+      "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
+      "url": "https://www.aibase.com/news/32506",
+      "primary_url": "https://www.aibase.com/news/32506",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
-          "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
-          "title_zh": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+          "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
+          "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
+          "title_zh": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
           "title_en": null,
-          "title_original": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+          "title_original": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32502",
+          "url": "https://www.aibase.com/news/32506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T10:57:20.873344Z"
+          "published_at": "2026-11-25T01:26:54.009625Z"
         }
       ],
       "source_count": 1,
@@ -969,48 +723,49 @@
       ],
       "items": [
         {
-          "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
-          "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
-          "title_zh": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+          "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
+          "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
+          "title_zh": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
           "title_en": null,
-          "title_original": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+          "title_original": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32502",
+          "url": "https://www.aibase.com/news/32506",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T10:57:20.873344Z"
+          "published_at": "2026-11-25T01:26:54.009625Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-24T10:57:20.873344Z",
-      "latest_at": "2026-11-24T10:57:20.873344Z",
+      "earliest_at": "2026-11-25T01:26:54.009625Z",
+      "latest_at": "2026-11-25T01:26:54.009625Z",
       "primary_item": {
-        "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
-        "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
-        "title_zh": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+        "id": "e9c97a164de906636924172b2a19890c1a38b7ec",
+        "title": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
+        "title_zh": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
         "title_en": null,
-        "title_original": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+        "title_original": "Tidal宣布12月9日起封禁AI生成音乐，年底预计下架超2900万首歌曲",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32502",
+        "url": "https://www.aibase.com/news/32506",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1018,7 +773,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
+      }
+    },
+    {
+      "story_id": "story_e42a7d0737ee",
+      "title": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+      "url": "https://www.aibase.com/news/32505",
+      "primary_url": "https://www.aibase.com/news/32505",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "32d71f5c433cfe44b7838272455a781b51278844",
+          "title": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+          "title_zh": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+          "title_en": null,
+          "title_original": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32505",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T01:26:54.009625Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "32d71f5c433cfe44b7838272455a781b51278844",
+          "title": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+          "title_zh": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+          "title_en": null,
+          "title_original": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32505",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T01:26:54.009625Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T01:26:54.009625Z",
+      "latest_at": "2026-11-25T01:26:54.009625Z",
+      "primary_item": {
+        "id": "32d71f5c433cfe44b7838272455a781b51278844",
+        "title": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+        "title_zh": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+        "title_en": null,
+        "title_original": "告别“抽卡式”AI视频！MAGI-2 携 50 毫秒级精准控镜震撼发布，0.5元/秒重塑视频工业化标准",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32505",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
@@ -1095,15 +932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6355,
-      "importance": 0.6355,
-      "importance_score": 0.6355,
+      "score": 0.6255,
+      "importance": 0.6255,
+      "importance_score": 0.6255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9263,
+        "recency": 0.8706,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1128,26 +965,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
-      "story_id": "story_95be8f3370d2",
-      "title": "腾讯混元发布并开源Hy MT3",
-      "url": "https://www.aibase.com/news/32503",
-      "primary_url": "https://www.aibase.com/news/32503",
+      "story_id": "story_0bb8d1c5a29e",
+      "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+      "url": "https://www.aibase.com/news/32500",
+      "primary_url": "https://www.aibase.com/news/32500",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
-          "title": "腾讯混元发布并开源Hy MT3",
-          "title_zh": "腾讯混元发布并开源Hy MT3",
+          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
           "title_en": null,
-          "title_original": "腾讯混元发布并开源Hy MT3",
+          "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32503",
+          "url": "https://www.aibase.com/news/32500",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1160,14 +997,14 @@
       ],
       "items": [
         {
-          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
-          "title": "腾讯混元发布并开源Hy MT3",
-          "title_zh": "腾讯混元发布并开源Hy MT3",
+          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
           "title_en": null,
-          "title_original": "腾讯混元发布并开源Hy MT3",
+          "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32503",
+          "url": "https://www.aibase.com/news/32500",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1176,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 0.8112,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,14 +1031,14 @@
       "earliest_at": "2026-11-24T10:57:20.873344Z",
       "latest_at": "2026-11-24T10:57:20.873344Z",
       "primary_item": {
-        "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
-        "title": "腾讯混元发布并开源Hy MT3",
-        "title_zh": "腾讯混元发布并开源Hy MT3",
+        "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+        "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+        "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
         "title_en": null,
-        "title_original": "腾讯混元发布并开源Hy MT3",
+        "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32503",
+        "url": "https://www.aibase.com/news/32500",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1209,199 +1046,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
-      }
-    },
-    {
-      "story_id": "story_1d314a481be1",
-      "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "primary_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
-          "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "title_zh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改",
-          "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-23T22:05:50Z"
-        },
-        {
-          "id": "ec0831bcb408209f71a6e7cba02ccd9e6cb3ee2a",
-          "title": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改 / Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "title_zh": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改",
-          "title_en": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "title_original": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-23T23:39:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
-          "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "title_zh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改",
-          "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-23T22:05:50Z"
-        },
-        {
-          "id": "ec0831bcb408209f71a6e7cba02ccd9e6cb3ee2a",
-          "title": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改 / Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "title_zh": "Anthropic 推出 Claude Ship，代理立即审查、修复和批准代码更改",
-          "title_en": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "title_original": "Anthropic launches Claude Ship, agents review, fix, & approve code changes now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-23T23:39:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6227,
-      "importance": 0.6227,
-      "importance_score": 0.6227,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7168,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-23T22:05:50Z",
-      "latest_at": "2026-11-23T23:39:44Z",
-      "primary_item": {
-        "id": "31f91168dc3496984e419cb9ae7643ca5f21e5ad",
-        "title": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "title_zh": "Anthropic 推出 Claude Ship，让 AI 代理审查、修复和批准代码更改",
-        "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
-      }
-    },
-    {
-      "story_id": "story_efef0c41283c",
-      "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-      "url": "https://www.aibase.com/news/32491",
-      "primary_url": "https://www.aibase.com/news/32491",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "title_en": null,
-          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32491",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T06:56:46.822250Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "title_en": null,
-          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32491",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T06:56:46.822250Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8145,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T06:56:46.822250Z",
-      "latest_at": "2026-11-24T06:56:46.822250Z",
-      "primary_item": {
-        "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-        "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-        "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-        "title_en": null,
-        "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32491",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
@@ -1507,15 +1152,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5687,
-      "importance": 0.5687,
-      "importance_score": 0.5687,
+      "score": 0.558,
+      "importance": 0.558,
+      "importance_score": 0.558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9884,
+        "recency": 0.929,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1540,7 +1185,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
+      }
+    },
+    {
+      "story_id": "story_0639fc04d65f",
+      "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+      "url": "https://www.aibase.com/news/32498",
+      "primary_url": "https://www.aibase.com/news/32498",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_en": null,
+          "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32498",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T10:57:20.873344Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_en": null,
+          "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32498",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T10:57:20.873344Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8112,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-24T10:57:20.873344Z",
+      "latest_at": "2026-11-24T10:57:20.873344Z",
+      "primary_item": {
+        "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+        "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+        "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+        "title_en": null,
+        "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32498",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
@@ -1646,15 +1372,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9081,
+        "recency": 0.8535,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1679,88 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
-      }
-    },
-    {
-      "story_id": "story_dab527c02acf",
-      "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-      "url": "https://www.aibase.com/news/32493",
-      "primary_url": "https://www.aibase.com/news/32493",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "31c1600aea349009f25d06633d704b728d86e842",
-          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-          "title_en": null,
-          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T06:56:46.822250Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "31c1600aea349009f25d06633d704b728d86e842",
-          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-          "title_en": null,
-          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32493",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T06:56:46.822250Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8145,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-24T06:56:46.822250Z",
-      "latest_at": "2026-11-24T06:56:46.822250Z",
-      "primary_item": {
-        "id": "31c1600aea349009f25d06633d704b728d86e842",
-        "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-        "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-        "title_en": null,
-        "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32493",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     },
     {
@@ -1866,15 +1511,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5524,
-      "importance": 0.5524,
-      "importance_score": 0.5524,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8977,
+        "recency": 0.8437,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1899,7 +1544,447 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T21:10:16.878543Z"
+        "scored_at": "2026-11-25T01:28:08.610884Z"
+      }
+    },
+    {
+      "story_id": "story_817d9436c9d3",
+      "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "primary_url": "https://news.ycombinator.com/item?id=50630809",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "57e0268c9794e6a0ef2657dc83436662271451b2",
+          "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_en": null,
+          "title_original": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:04:55.975000Z"
+        },
+        {
+          "id": "a1c443b23f351d141815e21803ced0fd3868c9f1",
+          "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？ / Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_en": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "title_original": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T16:45:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "57e0268c9794e6a0ef2657dc83436662271451b2",
+          "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_en": null,
+          "title_original": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T20:04:55.975000Z"
+        },
+        {
+          "id": "a1c443b23f351d141815e21803ced0fd3868c9f1",
+          "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？ / Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+          "title_en": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "title_original": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630809",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T16:45:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9254,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T16:45:44Z",
+      "latest_at": "2026-11-24T20:04:55.975000Z",
+      "primary_item": {
+        "id": "57e0268c9794e6a0ef2657dc83436662271451b2",
+        "title": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+        "title_zh": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+        "title_en": null,
+        "title_original": "Ask HN: Anthropic 指控我的公司从事“蒸馏”活动。我该如何证明自己没有这样做？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50630809",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T01:28:08.610884Z"
+      }
+    },
+    {
+      "story_id": "story_bb5fe44a7643",
+      "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+      "url": "https://protocolis.co/paper",
+      "primary_url": "https://protocolis.co/paper",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "81feb0a4209cebffc95c6704d7b1e1aaaa24b066",
+          "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+          "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+          "title_en": "Compiling web applications into verified operations for AI agents",
+          "title_original": "Compiling web applications into verified operations for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://protocolis.co/paper",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T19:12:02Z"
+        },
+        {
+          "id": "ccf4525f6e45cb65e1452109e3e066a0a01aa066",
+          "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+          "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+          "title_en": "Compiling web applications into verified operations for AI agents",
+          "title_original": "Compiling web applications into verified operations for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50632998",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T19:12:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "81feb0a4209cebffc95c6704d7b1e1aaaa24b066",
+          "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+          "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+          "title_en": "Compiling web applications into verified operations for AI agents",
+          "title_original": "Compiling web applications into verified operations for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://protocolis.co/paper",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T19:12:02Z"
+        },
+        {
+          "id": "ccf4525f6e45cb65e1452109e3e066a0a01aa066",
+          "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+          "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+          "title_en": "Compiling web applications into verified operations for AI agents",
+          "title_original": "Compiling web applications into verified operations for AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50632998",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T19:12:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9137,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T19:12:02Z",
+      "latest_at": "2026-11-24T19:12:02Z",
+      "primary_item": {
+        "id": "81feb0a4209cebffc95c6704d7b1e1aaaa24b066",
+        "title": "将 Web 应用程序编译为 AI 代理的经过验证的操作 / Compiling web applications into verified operations for AI agents",
+        "title_zh": "将 Web 应用程序编译为 AI 代理的经过验证的操作",
+        "title_en": "Compiling web applications into verified operations for AI agents",
+        "title_original": "Compiling web applications into verified operations for AI agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://protocolis.co/paper",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T01:28:08.610884Z"
+      }
+    },
+    {
+      "story_id": "story_77dda60d7e88",
+      "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+      "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+      "primary_url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+      "source": "novaramedia.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4c315fe495724ca72961889a0c5a73f6ce09c9b3",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": null,
+          "title_original": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "novaramedia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T18:45:00.306000Z"
+        },
+        {
+          "id": "b3d8ccffa52555ddd74a90df9cc77c70f5016888",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界” / Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "title_original": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T17:10:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "novaramedia.com"
+      ],
+      "items": [
+        {
+          "id": "4c315fe495724ca72961889a0c5a73f6ce09c9b3",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": null,
+          "title_original": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "novaramedia.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T18:45:00.306000Z"
+        },
+        {
+          "id": "b3d8ccffa52555ddd74a90df9cc77c70f5016888",
+          "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界” / Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+          "title_en": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "title_original": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T17:10:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9078,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T17:10:45Z",
+      "latest_at": "2026-11-24T18:45:00.306000Z",
+      "primary_item": {
+        "id": "4c315fe495724ca72961889a0c5a73f6ce09c9b3",
+        "title": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+        "title_zh": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+        "title_en": null,
+        "title_original": "麻省理工学院顶尖物理学家：Anthropic员工公开谈论“统治世界”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist",
+        "source": "novaramedia.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T01:28:08.610884Z"
+      }
+    },
+    {
+      "story_id": "story_1d9cf83c99d6",
+      "title": "Tidal 禁止 AI 生成的音乐",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "primary_url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "source": "variety.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "62a28667133cd89b70fd2167a7d936d0fef4ee89",
+          "title": "Tidal 禁止 AI 生成的音乐",
+          "title_zh": "Tidal 禁止 AI 生成的音乐",
+          "title_en": null,
+          "title_original": "Tidal 禁止 AI 生成的音乐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+          "source": "variety.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T17:08:49.269000Z"
+        },
+        {
+          "id": "e3997a406fa03a13af99db523b2123700bcb7a2b",
+          "title": "Tidal 禁止 AI 生成的音乐 / Tidal bans AI-generated music",
+          "title_zh": "Tidal 禁止 AI 生成的音乐",
+          "title_en": "Tidal bans AI-generated music",
+          "title_original": "Tidal bans AI-generated music",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T16:12:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "variety.com"
+      ],
+      "items": [
+        {
+          "id": "62a28667133cd89b70fd2167a7d936d0fef4ee89",
+          "title": "Tidal 禁止 AI 生成的音乐",
+          "title_zh": "Tidal 禁止 AI 生成的音乐",
+          "title_en": null,
+          "title_original": "Tidal 禁止 AI 生成的音乐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+          "source": "variety.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T17:08:49.269000Z"
+        },
+        {
+          "id": "e3997a406fa03a13af99db523b2123700bcb7a2b",
+          "title": "Tidal 禁止 AI 生成的音乐 / Tidal bans AI-generated music",
+          "title_zh": "Tidal 禁止 AI 生成的音乐",
+          "title_en": "Tidal bans AI-generated music",
+          "title_original": "Tidal bans AI-generated music",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-24T16:12:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.887,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T16:12:38Z",
+      "latest_at": "2026-11-24T17:08:49.269000Z",
+      "primary_item": {
+        "id": "62a28667133cd89b70fd2167a7d936d0fef4ee89",
+        "title": "Tidal 禁止 AI 生成的音乐",
+        "title_zh": "Tidal 禁止 AI 生成的音乐",
+        "title_en": null,
+        "title_original": "Tidal 禁止 AI 生成的音乐",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+        "source": "variety.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T01:28:08.610884Z"
       }
     }
   ]
