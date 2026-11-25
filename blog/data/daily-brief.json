@@ -1,142 +1,29 @@
 {
-  "generated_at": "2026-11-25T09:52:22.959681Z",
+  "generated_at": "2026-11-25T20:27:35.332685Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_94d1586a7d4f",
-      "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T13:00:00Z"
-        },
-        {
-          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": null,
-          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T23:32:43.781000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T13:00:00Z"
-        },
-        {
-          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": null,
-          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T23:32:43.781000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7398,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T13:00:00Z",
-      "latest_at": "2026-11-24T23:32:43.781000Z",
-      "primary_item": {
-        "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-        "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-        "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
-      }
-    },
-    {
-      "story_id": "story_c2e19fb7f5b4",
-      "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "primary_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "story_id": "story_9ef31414a556",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f38e9dd8e843c459a13862777d8e559648285636",
-          "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
-          "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "Where scientists draw the line on AI agents",
+          "title_zh": null,
+          "title_en": "Where scientists draw the line on AI agents",
+          "title_original": "Where scientists draw the line on AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-24T16:34:13Z"
+          "published_at": "2026-11-25T18:52:55Z"
         }
       ],
       "source_count": 1,
@@ -145,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "f38e9dd8e843c459a13862777d8e559648285636",
-          "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
-          "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "Where scientists draw the line on AI agents",
+          "title_zh": null,
+          "title_en": "Where scientists draw the line on AI agents",
+          "title_original": "Where scientists draw the line on AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-24T16:34:13Z"
+          "published_at": "2026-11-25T18:52:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8559,
+      "importance": 0.8559,
+      "importance_score": 0.8559,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7789,
+        "recency": 0.9775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -178,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T16:34:13Z",
-      "latest_at": "2026-11-24T16:34:13Z",
+      "earliest_at": "2026-11-25T18:52:55Z",
+      "latest_at": "2026-11-25T18:52:55Z",
       "primary_item": {
-        "id": "f38e9dd8e843c459a13862777d8e559648285636",
-        "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
-        "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+        "title": "Where scientists draw the line on AI agents",
+        "title_zh": null,
+        "title_en": "Where scientists draw the line on AI agents",
+        "title_original": "Where scientists draw the line on AI agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -196,146 +83,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
-      "story_id": "story_8c2aab0e28f2",
-      "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-      "primary_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-      "source": "Google AI Blog",
+      "story_id": "story_99c27e1d7e6a",
+      "title": "How to choose the next safe step in application modernization",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
-          "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
-          "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
-          "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
-          "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+          "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+          "title": "How to choose the next safe step in application modernization",
+          "title_zh": null,
+          "title_en": "How to choose the next safe step in application modernization",
+          "title_original": "How to choose the next safe step in application modernization",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-          "source": "Google AI Blog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-24T16:00:00Z"
+          "published_at": "2026-11-25T15:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
-          "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
-          "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
-          "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
-          "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+          "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+          "title": "How to choose the next safe step in application modernization",
+          "title_zh": null,
+          "title_en": "How to choose the next safe step in application modernization",
+          "title_original": "How to choose the next safe step in application modernization",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-          "source": "Google AI Blog",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-24T16:00:00Z"
+          "published_at": "2026-11-25T15:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7725,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T16:00:00Z",
-      "latest_at": "2026-11-24T16:00:00Z",
-      "primary_item": {
-        "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
-        "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
-        "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
-        "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
-        "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
-      }
-    },
-    {
-      "story_id": "story_4cba4be76f8f",
-      "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
-      "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
-      "primary_url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c4f740cb2a4db423f2d61779bde5801181638687",
-          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
-          "title_zh": "GitHub.com 上的通知更可预测",
-          "title_en": "More predictable notifications on GitHub.com",
-          "title_original": "More predictable notifications on GitHub.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T16:40:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c4f740cb2a4db423f2d61779bde5801181638687",
-          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
-          "title_zh": "GitHub.com 上的通知更可预测",
-          "title_en": "More predictable notifications on GitHub.com",
-          "title_original": "More predictable notifications on GitHub.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T16:40:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7802,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,81 +148,81 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T16:40:59Z",
-      "latest_at": "2026-11-24T16:40:59Z",
+      "earliest_at": "2026-11-25T15:00:00Z",
+      "latest_at": "2026-11-25T15:00:00Z",
       "primary_item": {
-        "id": "c4f740cb2a4db423f2d61779bde5801181638687",
-        "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
-        "title_zh": "GitHub.com 上的通知更可预测",
-        "title_en": "More predictable notifications on GitHub.com",
-        "title_original": "More predictable notifications on GitHub.com",
+        "id": "648261ca54736e69a5cbb5367a1700ad7f6cdd49",
+        "title": "How to choose the next safe step in application modernization",
+        "title_zh": null,
+        "title_en": "How to choose the next safe step in application modernization",
+        "title_original": "How to choose the next safe step in application modernization",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
-        "source": "GitHub Changelog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
-      "story_id": "story_8c7ce3fbf64d",
-      "title": "与 Astra 一起寻找遥远的行星 / Searching for distant planets with Astra",
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "primary_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-      "source": "OpenAI News",
+      "story_id": "story_34d415b543f1",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "primary_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a199fd5e20bd2b13b5e740bb7bf4e90941e27c4c",
-          "title": "与 Astra 一起寻找遥远的行星 / Searching for distant planets with Astra",
-          "title_zh": "与 Astra 一起寻找遥远的行星",
-          "title_en": "Searching for distant planets with Astra",
-          "title_original": "Searching for distant planets with Astra",
+          "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+          "title": "An Indic Voice Agent with CUGA",
+          "title_zh": null,
+          "title_en": "An Indic Voice Agent with CUGA",
+          "title_original": "An Indic Voice Agent with CUGA",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-          "source": "OpenAI News",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-24T11:00:00Z"
+          "published_at": "2026-11-25T10:22:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "a199fd5e20bd2b13b5e740bb7bf4e90941e27c4c",
-          "title": "与 Astra 一起寻找遥远的行星 / Searching for distant planets with Astra",
-          "title_zh": "与 Astra 一起寻找遥远的行星",
-          "title_en": "Searching for distant planets with Astra",
-          "title_original": "Searching for distant planets with Astra",
+          "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+          "title": "An Indic Voice Agent with CUGA",
+          "title_zh": null,
+          "title_en": "An Indic Voice Agent with CUGA",
+          "title_original": "An Indic Voice Agent with CUGA",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-          "source": "OpenAI News",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-24T11:00:00Z"
+          "published_at": "2026-11-25T10:22:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7187,
+        "ai_relevance": 0.95,
+        "recency": 0.8644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,25 +231,190 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T11:00:00Z",
-      "latest_at": "2026-11-24T11:00:00Z",
+      "earliest_at": "2026-11-25T10:22:09Z",
+      "latest_at": "2026-11-25T10:22:09Z",
       "primary_item": {
-        "id": "a199fd5e20bd2b13b5e740bb7bf4e90941e27c4c",
-        "title": "与 Astra 一起寻找遥远的行星 / Searching for distant planets with Astra",
-        "title_zh": "与 Astra 一起寻找遥远的行星",
-        "title_en": "Searching for distant planets with Astra",
-        "title_original": "Searching for distant planets with Astra",
+        "id": "d44168757bf6ce7aa674dce2085e4aab981cacfb",
+        "title": "An Indic Voice Agent with CUGA",
+        "title_zh": null,
+        "title_en": "An Indic Voice Agent with CUGA",
+        "title_original": "An Indic Voice Agent with CUGA",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-        "source": "OpenAI News",
+        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
+      }
+    },
+    {
+      "story_id": "story_829bcd36b389",
+      "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+      "url": "https://www.aibase.com/news/32532",
+      "primary_url": "https://www.aibase.com/news/32532",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
+          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "title_zh": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "title_en": null,
+          "title_original": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T18:27:35.332685Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
+          "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "title_zh": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "title_en": null,
+          "title_original": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T18:27:35.332685Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T18:27:35.332685Z",
+      "latest_at": "2026-11-25T18:27:35.332685Z",
+      "primary_item": {
+        "id": "89349c78bb0ac9dc7b4f9be8177b4426a61701c3",
+        "title": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+        "title_zh": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+        "title_en": null,
+        "title_original": "谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32532",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T20:49:07.395113Z"
+      }
+    },
+    {
+      "story_id": "story_66c207de1851",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "primary_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5b481ad9d0a5242ed0942f229f8e23c61f8dacf1",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "title_zh": null,
+          "title_en": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "title_original": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5b481ad9d0a5242ed0942f229f8e23c61f8dacf1",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "title_zh": null,
+          "title_en": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "title_original": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7442,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T00:00:00Z",
+      "latest_at": "2026-11-25T00:00:00Z",
+      "primary_item": {
+        "id": "5b481ad9d0a5242ed0942f229f8e23c61f8dacf1",
+        "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+        "title_zh": null,
+        "title_en": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+        "title_original": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -493,21 +462,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-25T09:52:22.959681Z",
       "latest_at": "2026-11-25T09:52:22.959681Z",
@@ -527,7 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -575,21 +543,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-25T09:52:22.959681Z",
       "latest_at": "2026-11-25T09:52:22.959681Z",
@@ -609,7 +576,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -657,21 +624,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-25T09:52:22.959681Z",
       "latest_at": "2026-11-25T09:52:22.959681Z",
@@ -691,7 +657,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
+      }
+    },
+    {
+      "story_id": "story_9aa3d4029e99",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "primary_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "919f9540e8afc175085ef51fed920d072ff1a375",
+          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "title_zh": null,
+          "title_en": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "title_original": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-25T17:35:58Z"
+        },
+        {
+          "id": "4a994ab8782652ca85abc9a1cc8ef4a8bee600ff",
+          "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+          "title_zh": null,
+          "title_en": "State AGs fight Character AI’s plan to auction off users’ private chats",
+          "title_original": "State AGs fight Character AI’s plan to auction off users’ private chats",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-25T17:35:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "919f9540e8afc175085ef51fed920d072ff1a375",
+          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "title_zh": null,
+          "title_en": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "title_original": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-25T17:35:58Z"
+        },
+        {
+          "id": "4a994ab8782652ca85abc9a1cc8ef4a8bee600ff",
+          "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
+          "title_zh": null,
+          "title_en": "State AGs fight Character AI’s plan to auction off users’ private chats",
+          "title_original": "State AGs fight Character AI’s plan to auction off users’ private chats",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-25T17:35:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6415,
+      "importance": 0.6415,
+      "importance_score": 0.6415,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9595,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T17:35:58Z",
+      "latest_at": "2026-11-25T17:35:58Z",
+      "primary_item": {
+        "id": "919f9540e8afc175085ef51fed920d072ff1a375",
+        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "title_zh": null,
+        "title_en": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "title_original": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -739,21 +815,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-25T09:52:22.959681Z",
       "latest_at": "2026-11-25T09:52:22.959681Z",
@@ -773,7 +848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -821,21 +896,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-25T09:52:22.959681Z",
       "latest_at": "2026-11-25T09:52:22.959681Z",
@@ -855,7 +929,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -903,21 +977,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-25T09:52:22.959681Z",
       "latest_at": "2026-11-25T09:52:22.959681Z",
@@ -937,199 +1010,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
-      }
-    },
-    {
-      "story_id": "story_14cf209942e1",
-      "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-      "primary_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f2faa91c775016217055a7bcd2f93977c71e0f08",
-          "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-          "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距",
-          "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-          "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T15:51:07Z"
-        },
-        {
-          "id": "d8eee871e290e2d5a78dc8a6fdbb5358a5e9a428",
-          "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 在 AI 芯片竞赛中的差距 / Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-          "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 在 AI 芯片竞赛中的差距",
-          "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-          "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-24T15:51:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "f2faa91c775016217055a7bcd2f93977c71e0f08",
-          "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-          "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距",
-          "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-          "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-24T15:51:07Z"
-        },
-        {
-          "id": "d8eee871e290e2d5a78dc8a6fdbb5358a5e9a428",
-          "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 在 AI 芯片竞赛中的差距 / Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-          "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 在 AI 芯片竞赛中的差距",
-          "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-          "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-24T15:51:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6075,
-      "importance": 0.6075,
-      "importance_score": 0.6075,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7709,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T15:51:07Z",
-      "latest_at": "2026-11-24T15:51:07Z",
-      "primary_item": {
-        "id": "f2faa91c775016217055a7bcd2f93977c71e0f08",
-        "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-        "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距",
-        "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-        "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
-      }
-    },
-    {
-      "story_id": "story_f5ca495d8da2",
-      "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-      "url": "https://www.aibase.com/news/32527",
-      "primary_url": "https://www.aibase.com/news/32527",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
-          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "title_zh": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "title_en": null,
-          "title_original": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T09:52:22.959681Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
-          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "title_zh": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "title_en": null,
-          "title_original": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32527",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T09:52:22.959681Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T09:52:22.959681Z",
-      "latest_at": "2026-11-25T09:52:22.959681Z",
-      "primary_item": {
-        "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
-        "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-        "title_zh": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-        "title_en": null,
-        "title_original": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32527",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -1235,15 +1116,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.8522,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1268,7 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -1294,7 +1175,7 @@
           "published_at": "2026-11-25T06:27:43.563000Z"
         },
         {
-          "id": "fbe7851faa7e28f692d95cedf7e9fd1aa2e34791",
+          "id": "21e07060eae043583c75213c810677c56859c8f8",
           "title": "Gemini 拒绝把《一闪一闪小星星》的歌词给我 / Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
           "title_zh": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
           "title_en": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
@@ -1302,9 +1183,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-25T04:03:33Z"
         },
         {
@@ -1324,7 +1205,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.comentr.com"
       ],
@@ -1344,7 +1225,7 @@
           "published_at": "2026-11-25T06:27:43.563000Z"
         },
         {
-          "id": "fbe7851faa7e28f692d95cedf7e9fd1aa2e34791",
+          "id": "21e07060eae043583c75213c810677c56859c8f8",
           "title": "Gemini 拒绝把《一闪一闪小星星》的歌词给我 / Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
           "title_zh": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
           "title_en": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
@@ -1352,9 +1233,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-25T04:03:33Z"
         },
         {
@@ -1374,15 +1255,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5621,
-      "importance": 0.5621,
-      "importance_score": 0.5621,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9519,
+        "recency": 0.817,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1407,89 +1288,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
-      }
-    },
-    {
-      "story_id": "story_e4c3cd97098f",
-      "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-      "url": "https://www.aibase.com/news/32523",
-      "primary_url": "https://www.aibase.com/news/32523",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a610444a5f520382382e0ed5724206f3811ca184",
-          "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-          "title_zh": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-          "title_en": null,
-          "title_original": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32523",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T09:52:22.959681Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a610444a5f520382382e0ed5724206f3811ca184",
-          "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-          "title_zh": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-          "title_en": null,
-          "title_original": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32523",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-25T09:52:22.959681Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T09:52:22.959681Z",
-      "latest_at": "2026-11-25T09:52:22.959681Z",
-      "primary_item": {
-        "id": "a610444a5f520382382e0ed5724206f3811ca184",
-        "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-        "title_zh": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-        "title_en": null,
-        "title_original": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32523",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -1595,15 +1394,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5557,
-      "importance": 0.5557,
-      "importance_score": 0.5557,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9162,
+        "recency": 0.7863,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1628,7 +1427,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
+      }
+    },
+    {
+      "story_id": "story_f5ca495d8da2",
+      "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+      "url": "https://www.aibase.com/news/32527",
+      "primary_url": "https://www.aibase.com/news/32527",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
+          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "title_zh": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "title_en": null,
+          "title_original": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32527",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T09:52:22.959681Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
+          "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "title_zh": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "title_en": null,
+          "title_original": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32527",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T09:52:22.959681Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8582,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T09:52:22.959681Z",
+      "latest_at": "2026-11-25T09:52:22.959681Z",
+      "primary_item": {
+        "id": "7f0067bb2b612d7023ac445b428c6a3c68296fb3",
+        "title": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+        "title_zh": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+        "title_en": null,
+        "title_original": "腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32527",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T20:49:07.395113Z"
+      }
+    },
+    {
+      "story_id": "story_94d1586a7d4f",
+      "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": null,
+          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T23:32:43.781000Z"
+        },
+        {
+          "id": "79c91e28f7082cbf3df1329502fb8fc3d6361b85",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T21:02:22Z"
+        },
+        {
+          "id": "6382c28d435863f7b3493e9f7f114283e62872f0",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50634658",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T21:02:22Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": null,
+          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T23:32:43.781000Z"
+        },
+        {
+          "id": "79c91e28f7082cbf3df1329502fb8fc3d6361b85",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T21:02:22Z"
+        },
+        {
+          "id": "6382c28d435863f7b3493e9f7f114283e62872f0",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50634658",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T21:02:22Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7393,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T21:02:22Z",
+      "latest_at": "2026-11-24T23:32:43.781000Z",
+      "primary_item": {
+        "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+        "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "title_en": null,
+        "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -1705,15 +1724,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5057,
+      "importance": 0.5057,
+      "importance_score": 0.5057,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9059,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,7 +1757,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
+      }
+    },
+    {
+      "story_id": "story_e4c3cd97098f",
+      "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+      "url": "https://www.aibase.com/news/32523",
+      "primary_url": "https://www.aibase.com/news/32523",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a610444a5f520382382e0ed5724206f3811ca184",
+          "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+          "title_zh": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+          "title_en": null,
+          "title_original": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32523",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T09:52:22.959681Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a610444a5f520382382e0ed5724206f3811ca184",
+          "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+          "title_zh": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+          "title_en": null,
+          "title_original": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32523",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-25T09:52:22.959681Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8582,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-25T09:52:22.959681Z",
+      "latest_at": "2026-11-25T09:52:22.959681Z",
+      "primary_item": {
+        "id": "a610444a5f520382382e0ed5724206f3811ca184",
+        "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+        "title_zh": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+        "title_en": null,
+        "title_original": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32523",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     },
     {
@@ -1786,21 +1886,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8582,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-25T09:52:22.959681Z",
       "latest_at": "2026-11-25T09:52:22.959681Z",
@@ -1820,146 +1919,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
-      }
-    },
-    {
-      "story_id": "story_073143c4dc0f",
-      "title": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bc0c5f4b0c247c8c13cf829a32b0d4080a10e75f",
-          "title": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-          "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-          "title_en": null,
-          "title_original": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T14:28:51.859000Z"
-        },
-        {
-          "id": "618a8839949bc97c466441be2169cfb28f98ab39",
-          "title": "Anthropic在盘前交易中跌破83美元的IPO发行价 / Anthropic breaks below $83 IPO price",
-          "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-          "title_en": "Anthropic breaks below $83 IPO price",
-          "title_original": "Anthropic breaks below $83 IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-24T13:23:47Z"
-        },
-        {
-          "id": "7b048212c2bc952683a7cc50504f3d0c0b2cd699",
-          "title": "Anthropic 跌破 83 美元 IPO 价格 / Anthropic breaks below $83 IPO price",
-          "title_zh": "Anthropic 跌破 83 美元 IPO 价格",
-          "title_en": "Anthropic breaks below $83 IPO price",
-          "title_original": "Anthropic breaks below $83 IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50627836",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T13:23:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "bc0c5f4b0c247c8c13cf829a32b0d4080a10e75f",
-          "title": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-          "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-          "title_en": null,
-          "title_original": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T14:28:51.859000Z"
-        },
-        {
-          "id": "618a8839949bc97c466441be2169cfb28f98ab39",
-          "title": "Anthropic在盘前交易中跌破83美元的IPO发行价 / Anthropic breaks below $83 IPO price",
-          "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-          "title_en": "Anthropic breaks below $83 IPO price",
-          "title_original": "Anthropic breaks below $83 IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-24T13:23:47Z"
-        },
-        {
-          "id": "7b048212c2bc952683a7cc50504f3d0c0b2cd699",
-          "title": "Anthropic 跌破 83 美元 IPO 价格 / Anthropic breaks below $83 IPO price",
-          "title_zh": "Anthropic 跌破 83 美元 IPO 价格",
-          "title_en": "Anthropic breaks below $83 IPO price",
-          "title_original": "Anthropic breaks below $83 IPO price",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50627836",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T13:23:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7558,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T13:23:47Z",
-      "latest_at": "2026-11-24T14:28:51.859000Z",
-      "primary_item": {
-        "id": "bc0c5f4b0c247c8c13cf829a32b0d4080a10e75f",
-        "title": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-        "title_zh": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-        "title_en": null,
-        "title_original": "Anthropic在盘前交易中跌破83美元的IPO发行价",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-25T09:53:28.363634Z"
+        "scored_at": "2026-11-25T20:49:07.395113Z"
       }
     }
   ]
